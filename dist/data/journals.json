@@ -1,0 +1,17 @@
+[
+  {"id":"bolema","name":"Bolema: Boletim de Educação Matemática","publisher":"UNESP","scope":"Educação Matemática","url":"https://www.scielo.br/j/bolema/","oai":"","enabled":false},
+  {"id":"zetetike","name":"Zetetiké","publisher":"Unicamp","scope":"Educação Matemática","url":"https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike","oai":"https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai","enabled":true},
+  {"id":"emp","name":"Educação Matemática Pesquisa","publisher":"PUC-SP","scope":"Educação Matemática","url":"https://revistas.pucsp.br/emp","oai":"https://revistas.pucsp.br/emp/oai","enabled":true},
+  {"id":"revemat","name":"Revista Eletrônica de Educação Matemática — REVEMAT","publisher":"UFSC","scope":"Educação Matemática","url":"https://periodicos.ufsc.br/index.php/revemat","oai":"https://periodicos.ufsc.br/index.php/revemat/oai","enabled":true},
+  {"id":"ripem","name":"Revista Internacional de Pesquisa em Educação Matemática","publisher":"SBEM","scope":"Educação Matemática","url":"https://www.sbembrasil.org.br/periodicos/index.php/ripem","oai":"","enabled":false},
+  {"id":"emr","name":"Educação Matemática em Revista","publisher":"SBEM","scope":"Educação Matemática","url":"https://www.sbembrasil.org.br/periodicos/index.php/emr","oai":"","enabled":false},
+  {"id":"remat","name":"Revista de Educação Matemática","publisher":"SBEM-SP","scope":"Educação Matemática","url":"https://www.revistasbemsp.com.br/index.php/REMat-SP","oai":"","enabled":false},
+  {"id":"pem","name":"Perspectivas da Educação Matemática","publisher":"UFMS","scope":"Educação Matemática","url":"https://periodicos.ufms.br/index.php/pedmat","oai":"","enabled":false},
+  {"id":"rpem","name":"Revista Paranaense de Educação Matemática","publisher":"Unespar","scope":"Educação Matemática","url":"https://periodicos.unespar.edu.br/index.php/rpem","oai":"","enabled":false},
+  {"id":"boem","name":"Boletim Online de Educação Matemática","publisher":"UDESC","scope":"Educação Matemática","url":"https://www.revistas.udesc.br/index.php/boem","oai":"","enabled":false},
+  {"id":"emteia","name":"EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana","publisher":"UFPE","scope":"Educação Matemática e tecnologia","url":"https://periodicos.ufpe.br/revistas/index.php/emteia","oai":"","enabled":false},
+  {"id":"jieem","name":"Jornal Internacional de Estudos em Educação Matemática","publisher":"UNIAN / UNOPAR","scope":"Educação Matemática","url":"https://jieem.pgsskroton.com.br/","oai":"","enabled":false},
+  {"id":"rematec","name":"Revista de Matemática, Ensino e Cultura","publisher":"REMATEC","scope":"Educação Matemática","url":"https://www.rematec.net.br/","oai":"","enabled":false},
+  {"id":"tangram","name":"Tangram — Revista de Educação Matemática","publisher":"UFGD","scope":"Educação Matemática","url":"https://ojs.ufgd.edu.br/tangram","oai":"","enabled":false},
+  {"id":"histemat","name":"HISTEMAT — Revista de História da Educação Matemática","publisher":"SBHMat","scope":"História da Educação Matemática","url":"https://histemat.com.br/index.php/HISTEMAT","oai":"","enabled":false}
+]

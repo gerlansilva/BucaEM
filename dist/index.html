@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BuscaEM — Pesquisa em Educação Matemática</title>
+  <meta name="description" content="Busca integrada em periódicos brasileiros de Educação Matemática. Consulte títulos, autores, resumos e palavras-chave em um único lugar.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" type="module"></script>
+</head>
+<body>
+<a class="skip" href="#main">Pular para o conteúdo</a>
+<header class="header"><div class="header-inner">
+  <a class="brand" href="#inicio" aria-label="BuscaEM, início">Busca<span>EM</span></a>
+  <nav aria-label="Navegação principal">
+    <a href="#inicio">Início</a><a href="#buscar">Buscar</a><a href="#revistas">Revistas</a><a href="#temas">Temas</a><a href="#dados">Dados do acervo</a><a href="#sobre">Sobre</a>
+  </nav>
+</div></header>
+<main id="main" tabindex="-1"><div class="loading" role="status">Carregando o acervo…</div></main>
+<footer><span class="footer-brand">BuscaEM</span><span>Agregador de periódicos em Educação Matemática</span><a href="#sobre">Fontes e transparência</a></footer>
+<dialog id="record-dialog" aria-labelledby="record-title"><button class="close" aria-label="Fechar registro">×</button><div id="record-content"></div></dialog>
+<div class="toast" role="status" aria-live="polite" hidden></div>
+</body></html>

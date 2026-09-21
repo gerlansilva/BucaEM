@@ -1,0 +1,26 @@
+{
+  "updated": "2026-09-21T17:53:04.645200+00:00",
+  "journals": [
+    {
+      "id": "zetetike",
+      "attemptedAt": "2026-09-21T17:53:04.645200+00:00",
+      "status": "partial",
+      "processed": 100,
+      "completedAt": "2026-09-21T17:53:04.645200+00:00"
+    },
+    {
+      "id": "emp",
+      "attemptedAt": "2026-09-21T17:53:04.645200+00:00",
+      "status": "partial",
+      "processed": 100,
+      "completedAt": "2026-09-21T17:53:04.645200+00:00"
+    },
+    {
+      "id": "revemat",
+      "attemptedAt": "2026-09-21T17:53:04.645200+00:00",
+      "status": "partial",
+      "processed": 100,
+      "completedAt": "2026-09-21T17:53:04.645200+00:00"
+    }
+  ]
+}
