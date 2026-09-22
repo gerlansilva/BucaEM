@@ -1,14 +1,47 @@
 {
   "zetetike": {
-    "cursor": "2a0b0a75c9c50c7fb3158d327036a1ee",
-    "started": "2026-09-21"
+    "since": "2026-09-21"
   },
   "emp": {
-    "cursor": "b7bb432cfd73c0279733ab7ddd2f7334",
-    "started": "2026-09-21"
+    "since": "2026-09-21"
   },
   "revemat": {
-    "cursor": "d01d0b889d87be4a6696ce173351c629",
-    "started": "2026-09-21"
+    "since": "2026-09-21"
+  },
+  "ripem": {
+    "since": "2026-09-21"
+  },
+  "emr": {
+    "since": "2026-09-21"
+  },
+  "remat": {
+    "since": "2026-09-21"
+  },
+  "pem": {
+    "since": "2026-09-21"
+  },
+  "boem": {
+    "since": "2026-09-21"
+  },
+  "emteia": {
+    "since": "2026-09-21"
+  },
+  "tangram": {
+    "since": "2026-09-21"
+  },
+  "histemat": {
+    "since": "2026-09-21"
+  },
+  "rpem": {
+    "since": "2026-09-21"
+  },
+  "bolema": {
+    "since": "2026-09-21"
+  },
+  "jieem": {
+    "since": "2026-09-21"
+  },
+  "rematec": {
+    "since": "2026-09-21"
   }
 }
