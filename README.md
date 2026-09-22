@@ -1,8 +1,12 @@
-# BuscaEM · versão 2
+# BuscaEM · versão 3 — interface em cards
 
 Busca integrada em periódicos brasileiros de Educação Matemática. Site estático para GitHub + Cloudflare Pages, sem contas ou recursos de rede social.
 
-## Atualizar o site que já está publicado
+## Atualizar apenas o visual, preservando seus dados atuais
+
+Se você já publicou a versão 2, substitua somente estes cinco arquivos da pasta `dist`: `index.html`, `styles.css`, `app.js`, `icons.svg` e `LUCIDE-LICENSE.txt`. Os dois últimos são novos. Não precisa substituir `dist/data` nem executar a coleta para aplicar o redesign. A configuração do Cloudflare permanece igual.
+
+## Instalação completa / atualização da versão inicial
 
 1. Extraia o ZIP e substitua os arquivos do projeto no seu repositório pelos arquivos desta pasta.
 2. **Apague o antigo `dist/data/articles.json`**, caso ainda exista no GitHub. A versão 2 usa `catalog.json` e arquivos `records-*.json`; o arquivo antigo deixa de ser necessário e pode exceder o limite de tamanho do Cloudflare.
@@ -14,6 +18,18 @@ Configuração do Pages: framework **None**, comando de build **vazio**, saída 
 ## Dados desta entrega
 
 **10.367 registros reais de 15 revistas**, em lugar dos 300 registros iniciais. A paginação dos 15 endpoints foi percorrida até o fim. Bolema tem cobertura histórica até 2016; os registros posteriores da SciELO ainda não estão incluídos. Consulte `COBERTURA.md`.
+
+## Redesign desta versão
+
+- Área de conteúdo ampliada até 1.680 px, com busca compacta e filtros laterais.
+- Cards arredondados em duas colunas nas telas largas; opção de uma coluna.
+- Trecho do resumo já visível, com expansão para leitura completa.
+- Identidade de cor fixa para cada uma das 15 revistas, com nome/sigla nas etiquetas.
+- Ícones Lucide em SVG, incluídos localmente com a licença do projeto.
+- Palavras-chave em pequenas etiquetas, com acesso ao registro completo.
+- Adaptação para celular com filtros recolhíveis e cards em uma coluna.
+
+O acervo e o coletor desta entrega são os mesmos da versão 2. Os testes DOM incluem a troca entre uma e duas colunas. A prévia no navegador remoto foi bloqueada pela política de acesso a arquivos locais; por isso não se afirma validação visual concluída. `BuscaEM_previa.html`, na raiz do pacote, é uma captura HTML estática da primeira página para visualizar o layout; os controles de busca dessa prévia não são interativos. O site funcional fica em `dist`.
 
 ## Interface
 
