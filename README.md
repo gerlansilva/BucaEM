@@ -1,113 +1,98 @@
-# BuscaEM
+# BuscaEM · versão 2
 
-Agregador de periódicos brasileiros de Educação Matemática. Código sem frameworks ou dependências de execução no navegador. GitHub + Cloudflare Pages.
+Busca integrada em periódicos brasileiros de Educação Matemática. Site estático para GitHub + Cloudflare Pages, sem contas ou recursos de rede social.
 
-## O que está pronto
+## Atualizar o site que já está publicado
 
-- Layout responsivo em Open Sans, marca tipográfica e títulos/resumos justificados (inclusive no registro).
-- Busca sem distinção de acentos em título, autoria, resumo, palavras-chave, DOI e revista.
-- Filtros combinados, ordenação, paginação, catálogo de revistas, temas e contagens do acervo.
-- Registro individual em janela acessível, com endereço compartilhável `#artigo/ID`.
-- Referência simples, exportação RIS, BibTeX e CSV por registro.
-- Coletor OAI-PMH Python, paginação com retomada, atualização incremental, tratamento de exclusões informadas pela fonte, XML original e relatório de falhas.
-- Rotina semanal no GitHub Actions. Não há contas, curtidas ou rede social.
+1. Extraia o ZIP e substitua os arquivos do projeto no seu repositório pelos arquivos desta pasta.
+2. **Apague o antigo `dist/data/articles.json`**, caso ainda exista no GitHub. A versão 2 usa `catalog.json` e arquivos `records-*.json`; o arquivo antigo deixa de ser necessário e pode exceder o limite de tamanho do Cloudflare.
+3. Inclua também `scripts`, `harvest` e `.github/workflows/collect.yml` para manter a atualização automática.
+4. Faça o commit. O Cloudflare Pages conectado ao GitHub deve iniciar uma nova publicação.
 
-## Acervo incluído nesta entrega
+Configuração do Pages: framework **None**, comando de build **vazio**, saída **dist**. Raiz vazia se `dist` está na raiz do repositório; use `buscaem` se a pasta externa foi enviada inteira. Não precisa de D1, R2 ou senhas no código.
 
-O pacote abre com **300 registros reais coletados via OAI-PMH em 21/09/2026**: 100 da Zetetiké, 100 da Educação Matemática Pesquisa e 100 da REVEMAT. É UMA AMOSTRA PARCIAL, não o acervo integral nem necessariamente as publicações mais recentes das revistas. Os exemplos fictícios do mockup foram removidos. As contagens são calculadas a partir dos dados.
+## Dados desta entrega
 
-O cadastro possui 15 periódicos candidatos. Os três endpoints preenchidos (Zetetiké, EMP e REVEMAT) responderam a Identify, ListMetadataFormats e ListRecords nesta execução. Os outros 12 estão desativados até conferir seus endereços OAI-PMH e condições de coleta. Campos de cadastro desses periódicos precisam de validação editorial antes de lançar o catálogo como definitivo.
+**10.367 registros reais de 15 revistas**, em lugar dos 300 registros iniciais. A paginação dos 15 endpoints foi percorrida até o fim. Bolema tem cobertura histórica até 2016; os registros posteriores da SciELO ainda não estão incluídos. Consulte `COBERTURA.md`.
 
-Se TODAS as fontes falharem, os dados anteriores permanecem intactos, o relatório é atualizado e o comando retorna erro. Consulte `dist/data/status.json` para saber se a coleta está parcial ou concluída. Os nomes de autores repetidos de forma idêntica foram deduplicados; as variantes não foram fundidas.
+## Interface
 
-## Abrir no computador
+- Marca tipográfica BuscaEM, fundo branco, Open Sans, títulos e resumos justificados.
+- Busca por título, autor, resumo em português, assunto, DOI e nome da revista. Ignora acentos e exige todos os termos digitados.
+- Apenas filtros **Revista** e **Ano**. Os valores da mesma categoria são alternativos; categorias diferentes se combinam.
+- Ordenação por ano ou título, paginação e resumos expansíveis.
+- Registro com endereço compartilhável, referência e exportação RIS, BibTeX e CSV.
+- Links para leitura na revista e PDF quando fornecido pela fonte.
+- Páginas Revistas, Acervo e Sobre; nenhum filtro de idioma ou palavras-chave.
 
-Instale Python 3.11 ou superior. Dentro da pasta `buscaem`, execute:
+## Resumos e palavras-chave em português
+
+O coletor seleciona campos identificados por `xml:lang` como português. Campos marcados em inglês, espanhol ou outros idiomas não são usados como alternativa. Campos sem idioma só entram quando o detector local Lingua identifica português. A mesma identificação linguística rejeita casos de textos estrangeiros marcados incorretamente pela fonte e separa traduções concatenadas com marcadores como `Abstract:`.
+
+A identificação compara português, inglês, espanhol e francês; siglas e nomes de ferramentas conhecidos são preservados em campos portugueses. Essa verificação é conservadora, não uma tradução nem uma garantia linguística absoluta para metadados incorretos. Termos curtos sem identificação podem ser omitidos. Quando não há resumo em português identificado, o site informa a ausência. As variantes originais permanecem no catálogo de coleta e nos XMLs, fora dos lotes públicos usados pela interface. Títulos originais em outros idiomas são preservados quando não há título em português.
+
+## Coleta integral e atualização
+
+Requer **Python 3.11+ e curl**. Instale o detector local de idioma com `python3 -m pip install -r requirements.txt`. O GitHub Actions em Ubuntu já fornece curl.
+
+```sh
+python3 scripts/harvest.py
+```
+
+O padrão percorre a paginação até a revista deixar de retornar `resumptionToken`, sem limite de 100 registros nem de páginas. Fontes distintas são consultadas em paralelo, com intervalo entre páginas da mesma fonte. Cada lote salva dados e cursor; interrupções permitem retomar a coleta. Registros já coletados não são apagados por erro de conexão. Exclusões explícitas da fonte são respeitadas.
+
+```sh
+# Uma fonte
+python3 scripts/harvest.py --journal revemat
+# Releitura desde o início de uma fonte
+python3 scripts/harvest.py --journal revemat --full
+# Lotes limitados somente para diagnóstico, com retomada
+python3 scripts/harvest.py --journal revemat --max-pages 2
+```
+
+`--full` não apaga automaticamente registros antigos que a fonte deixou de listar sem sinalizar exclusão. Token expirado é registrado como erro e limpo para recomeçar na execução seguinte. A execução retorna erro se qualquer fonte selecionada falhar, mesmo que as outras tenham sido atualizadas.
+
+**“Paginação OAI concluída” significa que todos os lotes retornados pelo endpoint foram percorridos. Não comprova que a editora expôs todas as edições de sua história.** Migrações entre portais, como OJS e SciELO, podem produzir diferenças. O catálogo inclui os tipos disponibilizados pela revista; Dublin Core frequentemente não distingue artigos, resenhas e editoriais. Não se faz exclusão especulativa desses registros.
+
+O workflow executa diariamente e pode ser acionado em **Actions → Atualizar metadados → Run workflow**. Precisa de permissão `contents: write`; proteções da branch continuam valendo. Ele salva o catálogo e a retomada no GitHub, gera os lotes públicos e registra falhas. O agendamento depende da disponibilidade e das regras do GitHub Actions.
+
+## Conferir a cobertura
+
+A página **Acervo** mostra contagens e situação de cada revista. `dist/data/status.json` contém o diagnóstico, datas e falhas. As contagens de registros disponíveis podem diferir do número processado porque a fonte também devolve exclusões. Consulte `COBERTURA.md` para o retrato desta entrega.
+
+## Abrir e testar localmente
 
 ```sh
 python3 -m http.server 8000 --directory dist
 ```
 
-No Windows, use `python` no lugar de `python3`. Abra http://localhost:8000 no navegador. Não abra index.html por duplo clique: o navegador pode bloquear o carregamento dos JSONs por `file://`.
-
-Open Sans é carregada pelo Google Fonts; se a rede bloquear, Arial será usada. Para uma instalação sem requisições externas de fontes, hospede os arquivos WOFF2 licenciados e troque o link por `@font-face`.
-
-## Subir no GitHub
-
-1. Crie um repositório, por exemplo `buscaem`.
-2. Envie TODO o conteúdo desta pasta, incluindo `.github/workflows/collect.yml` e `.gitignore`, não apenas `dist`.
-3. Confirme que `dist/index.html`, `scripts/harvest.py` e `.github/workflows/collect.yml` aparecem no repositório. Arquivos iniciados por ponto podem ficar ocultos no gerenciador de arquivos.
-4. Em Settings → Actions → General, permita escrita do workflow apenas se deseja que o robô atualize a branch. Branch protegida pode exigir um fluxo com pull request; este pacote não contorna essa proteção.
-
-## Publicar no Cloudflare Pages
-
-1. No Cloudflare, crie um projeto **Pages** conectado ao repositório GitHub.
-2. Escolha a branch `main` (ou a branch que você utiliza).
-3. Framework: **None / Nenhum**.
-4. Comando de build: deixe vazio. Se o formulário exigir comando, use `exit 0`.
-5. Diretório de saída: **dist**.
-6. Diretório raiz: a raiz do repositório; se você enviou a pasta externa inteira, configure `buscaem` como raiz.
-7. Publique. Não precisa de D1, R2, Node, senha administrativa ou token no código.
-
-O projeto é destinado a **Pages**, não ao assistente de criação de Workers que exige comando de deploy. Após conectar o GitHub, novos commits atualizam a publicação conforme a configuração da integração.
-
-## Coletar dados
-
-```sh
-python3 scripts/harvest.py --journal revemat --max-pages 2
-python3 scripts/harvest.py --max-pages 20
-```
-
-Ou no GitHub: Actions → Atualizar metadados → Run workflow. O agendamento semanal começa após o workflow estar na branch padrão, sujeito às condições do GitHub Actions. O cron usa UTC. Não há credenciais de revistas armazenadas.
-
-### Adicionar uma revista
-
-Edite `dist/data/journals.json`. Cada objeto tem `id`, `name`, `publisher`, `scope`, `url`, `oai`, `enabled`. IDs precisam ser únicos e estáveis. Obtenha a URL OAI-PMH oficial com o portal/editor e defina `enabled: true`. Não use a página comum da revista como endpoint. Endpoints já contendo parâmetros não são recomendados.
-
-O limite de páginas não limita o acervo definitivamente: o `resumptionToken` fica em `harvest/state.json` e a próxima execução continua. Se expirar, o coletor reporta e limpa o cursor; execute outra vez. Não remova `harvest/state.json` para uma coleta normal. `--full` recomeça a leitura sem excluir registros antigos; fontes que não informam exclusões exigem reconciliação editorial separada.
-
-Se houver erro, leia `dist/data/status.json`. Nunca desative a validação TLS ou tente contornar bloqueios dos portais. O endpoint pode estar errado, indisponível ou exigir contato com o editor.
-
-### Procedência, duplicidades e limites
-
-- XMLs ficam em `harvest/raw/` no computador. No Actions, são artefatos com retenção de 30 dias, NÃO preservação permanente. Baixe/arquive-os para auditoria de longo prazo. Eles não são publicados no site.
-- IDs estáveis por revista + identificador OAI evitam duplicar o mesmo registro em coletas repetidas.
-- Mesmo DOI em fontes distintas não é fundido automaticamente: verifique `harvest/duplicates.json`.
-- Resumos multilíngues são preservados em `abstracts`; português é preferido na exibição quando `xml:lang` está presente.
-- O coletor não inventa ORCID, instituições, métodos, tipos, resumos, acesso aberto ou DOI. OAI Dublin Core pode não oferecer vários desses campos.
-- Tipos documentais vêm da fonte. Um valor genérico `Text` não permite separar artigos e editoriais com segurança. A curadoria dessa distinção ainda é necessária.
-- PDFs só são apontados se a fonte fornecer um link identificável. Não são baixados ou hospedados.
-- Dados externos são escapados antes de renderizar. URLs são restritas a HTTP(S).
-- Esta versão carrega o catálogo JSON no navegador. É adequada ao piloto, não uma promessa de desempenho para centenas de milhares de registros. A migração para D1/índice de busca deve ocorrer com medição do volume real.
-- Não inclui busca dentro dos PDFs, leitor incorporado, servidor OAI-PMH de saída, API de produção, páginas HTML individuais indexáveis ou garantia de indexação no Google Scholar. Registros são rotas de fragmento no navegador. Essas capacidades exigem uma segunda etapa de implementação.
-- Esta entrega não cria repositório, recursos Cloudflare, assinaturas ou publicação em seu nome.
-
-## Testes
+Abra http://localhost:8000. No Windows use `python` no lugar de `python3`. Não abra o HTML por duplo clique.
 
 ```sh
 python3 -m unittest discover -s scripts -p 'test_*.py'
-node --input-type=module --check < dist/app.js
+python3 scripts/validate.py
+npm install
+npm test
 ```
 
-## Estrutura
+Node/jsdom são usados **apenas para os testes**; não são necessários para publicar o site. Os testes de DOM verificam busca, filtros, ordenação, paginação, registro, exportações e navegação. Eles não substituem inspeção visual em navegador. A prévia remota não ficou acessível neste ambiente, portanto não foi concluída validação visual em desktop/celular.
 
-```text
-dist/                    site publicável
-  index.html
-  styles.css
-  app.js
-  favicon.svg
-  _headers
-  data/
-    articles.json        catálogo / demonstração identificada
-    journals.json        cadastro das fontes
-    status.json          diagnóstico da coleta
-scripts/
-  harvest.py             coletor OAI-PMH
-  test_harvest.py         testes do parser
-harvest/
-  state.json             retomada e datas incrementais
-  duplicates.json        possíveis duplicidades entre fontes
-.github/workflows/
-  collect.yml            atualização semanal
-```
+## Arquivos e procedência
+
+- `dist/`: arquivos publicáveis; os lotes têm 500 registros para manter cada arquivo pequeno.
+- `dist/data/catalog.json`: manifesto do catálogo público.
+- `dist/data/records-*.json`: dados em português utilizados pela interface.
+- `dist/data/journals.json`: cadastro e endpoints.
+- `dist/data/status.json`: estado da coleta.
+- `harvest/catalog.json.gz`: catálogo completo com variantes originais, não publicado no site.
+- `harvest/state.json`: cursores e datas incrementais; não apague em atualizações normais.
+- `harvest/raw/`: XMLs originais; no Actions, artefatos com retenção de 30 dias. Arquive-os separadamente para preservação permanente.
+- `harvest/duplicates.json`: mesmo DOI em fontes distintas para revisão; não há fusão automática.
+- `scripts/reprocess.py`: reprocessa os XMLs locais sem rede e gera os lotes públicos.
+- `scripts/publish.py`: gera os lotes públicos a partir do catálogo coletado.
+
+Os XMLs com caracteres de controle inválidos são mantidos intactos; apenas a cópia usada pelo parser substitui esses caracteres por espaços. O site escapa textos externos e restringe links a HTTP(S). Open Sans usa Google Fonts, com Arial de reserva.
+
+A busca é nos metadados, não dentro de PDFs. PDFs não são copiados. Não inclui servidor OAI-PMH de saída, API externa ou garantia de indexação pelo Google Scholar. O navegador carrega os lotes do catálogo para pesquisar; volumes muito maiores exigem medir desempenho e avaliar um índice no servidor.
+
+Esta entrega contém código e dados: não altera automaticamente seu repositório nem a publicação existente.

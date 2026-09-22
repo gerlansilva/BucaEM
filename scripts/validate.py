@@ -13,7 +13,11 @@ class Links(HTMLParser):
             if value and not value.startswith(('http:', 'https:', 'data:', '#')):
                 assert (public / value).exists(), value
 Links().feed((public / 'index.html').read_text())
-data = json.loads((public / 'data/articles.json').read_text())
+data = json.loads((public / 'data/catalog.json').read_text())
+data['articles'] = [a for chunk in data['chunks'] for a in json.loads((public / 'data' / chunk).read_text())]
+assert len(data['articles']) == data['count']
+for asset in public.rglob('*'):
+    if asset.is_file(): assert asset.stat().st_size < 25 * 1024 * 1024, str(asset)
 journals = json.loads((public / 'data/journals.json').read_text())
 ids = [j['id'] for j in journals]
 assert len(ids) == len(set(ids)), 'Duplicate journal IDs'

@@ -1,15 +1,18 @@
 """Reprocessa XMLs locais sem rede; preserva cursor de coleta e IDs."""
 import json
 import xml.etree.ElementTree as ET
-from harvest import ROOT, NS, parse_record, save_json
+from harvest import ROOT, NS, parse_record, save_json, parse_xml, load_json
 
 directory = ROOT / 'dist/data'
-catalog = json.loads((directory / 'articles.json').read_text())
+catalog_file = ROOT / 'harvest/catalog.json.gz'
+if not catalog_file.exists():
+    catalog_file = directory / 'articles.json'
+catalog = load_json(catalog_file)
 journals = json.loads((directory / 'journals.json').read_text())
 rows = {a['id']: a for a in catalog['articles']} if not catalog.get('demo') else {}
 for journal in journals:
     for source in sorted((ROOT / 'harvest/raw' / journal['id']).glob('*.xml'), key=lambda p:p.stat().st_mtime):
-        xml = ET.fromstring(source.read_bytes())
+        xml = parse_xml(source.read_bytes())
         for node in xml.findall('o:ListRecords/o:record', NS):
             row = parse_record(node, journal, catalog.get('updated') or '')
             if row and row.get('deleted'):
@@ -18,5 +21,7 @@ for journal in journals:
                 rows[row['id']] = row
 catalog['articles'] = sorted(rows.values(), key=lambda a:(a['year'],a['id']), reverse=True)
 catalog['partial'] = any(s['status'] != 'ok' for s in json.loads((directory/'status.json').read_text()).get('journals',[]))
-save_json(directory / 'articles.json', catalog)
+save_json(catalog_file, catalog)
+from publish import publish
+publish(ROOT)
 print(f'{len(rows)} registros reprocessados.')

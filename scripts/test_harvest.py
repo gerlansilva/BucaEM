@@ -53,10 +53,63 @@ class HarvestTests(unittest.TestCase):
             responses=[(forms,b'formats'),(forms,b'formats'),(records,ET.tostring(records))]
             with patch.object(harvest,'ROOT',root),patch('sys.argv',['harvest.py']),patch.object(harvest,'get_xml',side_effect=responses):
                 harvest.main()
-            catalog=json.loads((root/'dist/data/articles.json').read_text())
+            catalog=harvest.load_json(root/'harvest/catalog.json.gz')
             self.assertFalse(catalog['demo'])
             self.assertEqual(len(catalog['articles']),1)
             self.assertEqual(catalog['articles'][0]['title'],'Teste real')
 
-if __name__ == '__main__':
-    unittest.main()
+
+
+class LanguageTests(unittest.TestCase):
+    def row(self, fields):
+        xml='<record xmlns="http://www.openarchives.org/OAI/2.0/"><header><identifier>lang:1</identifier></header><metadata><dc xmlns:d="http://purl.org/dc/elements/1.1/"><d:title>Teste</d:title>'+fields+'</dc></metadata></record>'
+        return parse_record(ET.fromstring(xml),{'id':'test','oai':'https://example.org/oai'},'')
+
+    def test_no_foreign_fallback(self):
+        a=self.row('<d:description xml:lang="en">This study investigates teaching.</d:description><d:subject xml:lang="en">Mathematics Education</d:subject>')
+        self.assertEqual(a['abstract'],'')
+        self.assertEqual(a['keywords'],[])
+
+    def test_separate_languages(self):
+        a=self.row('<d:description xml:lang="pt-BR">Esta pesquisa analisa o ensino.</d:description><d:description xml:lang="en">This study analyzes teaching.</d:description><d:subject xml:lang="pt-BR">Educação Matemática; Formação</d:subject><d:subject xml:lang="en">Mathematics Education; Training</d:subject>')
+        self.assertEqual(a['abstract'],'Esta pesquisa analisa o ensino.')
+        self.assertEqual(a['keywords'],['Educação Matemática','Formação'])
+
+    def test_translation_without_colon(self):
+        a=self.row('<d:description xml:lang="pt-BR">Esta pesquisa analisa o ensino. Abstract This study analyzes teaching.</d:description>')
+        self.assertEqual(a['abstract'],'Esta pesquisa analisa o ensino.')
+
+    def test_mixed_keyword_element(self):
+        a=self.row('<d:subject xml:lang="pt-BR">Mathematics Education. Limit and Continuity. -------Educação Matemática. Formação de professores.</d:subject>')
+        self.assertTrue(a['keywords'])
+        self.assertFalse(any('Mathematics' in k or 'Continuity' in k for k in a['keywords']))
+
+    def test_mislabeled_spanish(self):
+        a=self.row('<d:description xml:lang="pt-BR">En este estudio se presentan los resultados de una investigación con los profesores en la enseñanza de las matemáticas.</d:description>')
+        self.assertEqual(a['abstract'],'')
+
+    def test_concatenated_translation(self):
+        a=self.row('<d:description xml:lang="pt-BR">Esta pesquisa analisa o ensino. Abstract: This study analyzes teaching.</d:description>')
+        self.assertEqual(a['abstract'],'Esta pesquisa analisa o ensino.')
+
+class PaginationTests(unittest.TestCase):
+    def test_checkpoint_after_failed_second_page(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root=Path(temp); (root/'dist/data').mkdir(parents=True)
+            (root/'dist/data/articles.json').write_text('{"demo":false,"articles":[]}')
+            (root/'dist/data/journals.json').write_text('[{"id":"test","oai":"https://example.org/oai","enabled":true}]')
+            (root/'dist/data/status.json').write_text('{"journals":[]}')
+            forms=ET.fromstring('<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"><ListMetadataFormats><metadataFormat><metadataPrefix>oai_dc</metadataPrefix></metadataFormat></ListMetadataFormats></OAI-PMH>')
+            xml=ET.fromstring('<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"><ListRecords><record><header><identifier>r1</identifier></header><metadata><dc xmlns:d="http://purl.org/dc/elements/1.1/"><d:title>Teste</d:title></dc></metadata></record><resumptionToken>next-page</resumptionToken></ListRecords></OAI-PMH>')
+            responses=[(forms,b''),(forms,b''),(xml,ET.tostring(xml)),RuntimeError('servidor indisponível')]
+            with patch.object(harvest,'ROOT',root),patch('sys.argv',['harvest.py']),patch.object(harvest,'get_xml',side_effect=responses),patch.object(harvest.time,'sleep'):
+                with self.assertRaises(SystemExit):harvest.main()
+            self.assertEqual(len(harvest.load_json(root/'harvest/catalog.json.gz')['articles']),1)
+            self.assertEqual(json.loads((root/'harvest/state.json').read_text())['test']['cursor'],'next-page')
+            self.assertEqual(json.loads((root/'dist/data/status.json').read_text())['journals'][0]['status'],'error')
+            self.assertEqual(json.loads((root/'dist/data/catalog.json').read_text())['count'],1)
+
+    def test_invalid_control_character(self):
+        self.assertEqual(harvest.parse_xml(b'<text>professor\x02saber</text>').text,'professor saber')
+
+if __name__=='__main__':unittest.main()

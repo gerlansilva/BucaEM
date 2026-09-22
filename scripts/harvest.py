@@ -1,12 +1,18 @@
-"""OAI-PMH -> catálogo estático. Python 3.11+, sem dependências externas."""
+"""OAI-PMH -> catálogo estático. Python 3.11+ e curl."""
 import argparse
 import hashlib
 import html
 import json
+import gzip
 import re
 import time
+import itertools
+import threading
+import subprocess
+from functools import lru_cache
+from lingua import Language, LanguageDetectorBuilder
+from concurrent.futures import ThreadPoolExecutor
 import urllib.parse
-import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
@@ -14,8 +20,38 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 NS = {'o': 'http://www.openarchives.org/OAI/2.0/', 'dc': 'http://purl.org/dc/elements/1.1/'}
 
+DETECTOR = LanguageDetectorBuilder.from_languages(Language.PORTUGUESE, Language.ENGLISH, Language.SPANISH, Language.FRENCH).with_minimum_relative_distance(0.1).build()
+
+@lru_cache(maxsize=50000)
+def portuguese_text(value, declared=''):
+    """Display only Portuguese; the detector catches mislabeled publisher data."""
+    lang = declared.lower().replace('_', '-')
+    if lang and not (lang.startswith('pt') or lang == 'por'):
+        return False
+    if lang and (value in {'BNCC','EJA','TDIC','TIC','STEM','STEAM','PNAIC','PCN','PIBID','ENEM','ENADE','PNLD','MTSK','TPACK'} or value.lower() in {'geogebra', 'scratch', 'tinkercad', 'minecraft', 'minecraft education', 'álgebra', 'geometria'}):
+        return True
+    return DETECTOR.detect_language_of(value) == Language.PORTUGUESE
+
+def portuguese_fields(dc, name):
+    result = []
+    for e in dc.findall('.//dc:' + name, NS):
+        text = clean(''.join(e.itertext()))
+        text = re.split(r'\b(?:Abstract|Keywords|Key words|Resumen|Palabras clave|Résumé)\b\s*[:：]?', text, flags=re.I)[0].strip()
+        declared = e.attrib.get('{http://www.w3.org/XML/1998/namespace}lang', '')
+        # Classify each keyword separately, even in a mixed-language subject.
+        for value in (re.split(r';|[-–—]{3,}|\.\s+(?=[A-ZÁÉÍÓÚÇ])', text) if name == 'subject' else [text]):
+            value = value.strip()
+            if value and portuguese_text(value, declared):
+                result.append(value)
+    return list(dict.fromkeys(result))
+
 def clean(value):
     return re.sub(r'\s+', ' ', re.sub(r'<[^>]*>', '', html.unescape(value or ''))).strip()
+
+def parse_xml(raw):
+    # OJS occasionally emits XML 1.0 forbidden control characters from Word.
+    # Keep the raw file unchanged; replace only these invalid bytes for parsing.
+    return ET.fromstring(re.sub(rb'[\x00-\x08\x0b\x0c\x0e-\x1f]', b' ', raw))
 
 def get_xml(endpoint, params):
     parsed = urllib.parse.urlparse(endpoint)
@@ -25,22 +61,25 @@ def get_xml(endpoint, params):
     last = None
     for attempt in range(3):
         try:
-            request = urllib.request.Request(url, headers={'User-Agent': 'BuscaEM/1.0 (OAI-PMH metadata harvester)', 'Accept': 'application/xml,text/xml'})
-            with urllib.request.urlopen(request, timeout=40) as response:
-                raw = response.read(20_000_001)
+            response = subprocess.run(['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '60', '--connect-timeout', '15', '--max-filesize', '20000000', '--proto', '=https,http', '--proto-redir', '=https,http', '--user-agent', 'BuscaEM/2.0 (OAI-PMH metadata harvester)', '--header', 'Accept: application/xml,text/xml', url], capture_output=True, timeout=65)
+            if response.returncode:
+                raise OSError(response.stderr.decode(errors='replace').strip())
+            raw = response.stdout
             if len(raw) > 20_000_000:
                 raise ValueError('Resposta excede 20 MB; ajustar lote na fonte')
             if b'<!DOCTYPE' in raw.upper() or b'<!ENTITY' in raw.upper():
                 raise ValueError('DTD e entidades XML não permitidas')
-            xml = ET.fromstring(raw)
+            xml = parse_xml(raw)
             if xml.tag != '{http://www.openarchives.org/OAI/2.0/}OAI-PMH':
                 raise ValueError('A resposta não é OAI-PMH válido')
             errors = xml.findall('o:error', NS)
             for error in errors:
                 if error.attrib.get('code') != 'noRecordsMatch':
                     raise ValueError(f"OAI-PMH {error.attrib.get('code')}: {error.text}")
+            if not errors and xml.find('o:' + params['verb'], NS) is None:
+                raise ValueError('Resposta OAI-PMH sem o resultado solicitado')
             return xml, raw
-        except (OSError, ValueError, ET.ParseError) as exc:
+        except (OSError, ValueError, ET.ParseError, subprocess.TimeoutExpired) as exc:
             last = exc
             if attempt < 2:
                 time.sleep(2 ** (attempt + 1))
@@ -78,42 +117,60 @@ def parse_record(node, journal, now):
     languages = fields('language')
     language = languages[0] if languages else ''
     lang_map = {'pt': 'Português', 'por': 'Português', 'pt-br': 'Português', 'en': 'Inglês', 'eng': 'Inglês', 'es': 'Espanhol', 'spa': 'Espanhol'}
-    keywords = list(dict.fromkeys(k.strip() for subject in fields('subject') for k in subject.split(';') if k.strip()))
+    keywords = list(dict.fromkeys(k.strip() for subject in portuguese_fields(dc, 'subject') for k in subject.split(';') if k.strip()))
+    pt_abstracts = portuguese_fields(dc, 'description')
     types = fields('type')
     rights = fields('rights')
-    return {'id': item_id, 'journal': journal['id'], 'title': title, 'titles': fields('title'), 'authors': fields('creator'), 'abstract': preferred('description'), 'abstracts': fields('description'), 'keywords': keywords, 'year': int(years[0]) if years else 0, 'dates': fields('date'), 'language': lang_map.get(language.lower(), language), 'languages': languages, 'type': types[0] if types else 'Não informado', 'types': types, 'doi': doi, 'url': landing or ('https://doi.org/' + doi if doi else ''), 'pdf': pdf, 'rights': rights, 'openAccess': True if any('creativecommons.org/licenses/' in r or 'creativecommons.org/publicdomain/' in r for r in rights) else None, 'source': journal['oai'], 'oaiIdentifier': identifier, 'oaiDatestamp': header.findtext('o:datestamp', '', NS), 'harvestedAt': now}
+    return {'id': item_id, 'journal': journal['id'], 'title': title, 'titles': fields('title'), 'authors': fields('creator'), 'abstract': pt_abstracts[0] if pt_abstracts else '', 'abstracts': fields('description'), 'keywords': keywords, 'year': int(years[0]) if years else 0, 'dates': fields('date'), 'language': lang_map.get(language.lower(), language), 'languages': languages, 'type': types[0] if types else 'Não informado', 'types': types, 'doi': doi, 'url': landing or ('https://doi.org/' + doi if doi else ''), 'pdf': pdf, 'rights': rights, 'openAccess': True if any('creativecommons.org/licenses/' in r or 'creativecommons.org/publicdomain/' in r for r in rights) else None, 'source': journal['oai'], 'oaiIdentifier': identifier, 'oaiDatestamp': header.findtext('o:datestamp', '', NS), 'harvestedAt': now}
+
+def load_json(path):
+    if path.suffix == '.gz':
+        with gzip.open(path, 'rt', encoding='utf-8') as stream:
+            return json.load(stream)
+    return json.loads(path.read_text(encoding='utf-8'))
 
 def save_json(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
     temp = path.with_suffix('.tmp')
-    temp.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    content = json.dumps(value, ensure_ascii=False, indent=2) + '\n'
+    if path.suffix == '.gz':
+        with gzip.open(temp, 'wt', encoding='utf-8', compresslevel=6) as stream:
+            stream.write(content)
+    else:
+        temp.write_text(content, encoding='utf-8')
     temp.replace(path)
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--journal', help='ID de uma revista; padrão: todas as habilitadas')
-    parser.add_argument('--max-pages', type=int, default=20, help='Limite por revista nesta execução; retomada na próxima')
+    parser.add_argument('--max-pages', type=int, default=0, help='0: até o último lote; valores positivos limitam a execução com retomada')
+    parser.add_argument('--workers', type=int, default=3, help='Fontes consultadas em paralelo (1 a 4)')
     parser.add_argument('--full', action='store_true', help='Ignorar cursor anterior e recomeçar a coleta')
     args = parser.parse_args()
-    if args.max_pages < 1:
-        parser.error('--max-pages deve ser positivo')
+    if args.max_pages < 0:
+        parser.error('--max-pages deve ser zero ou positivo')
     now = datetime.now(timezone.utc).isoformat()
     directory = ROOT / 'dist/data'
     journals = json.loads((directory / 'journals.json').read_text())
-    selected = [j for j in journals if j.get('enabled') and (not args.journal or j['id'] == args.journal)]
+    selected = [j for j in journals if j.get('enabled') and (not args.journal or j['id'] in args.journal.split(','))]
     if not selected:
         parser.error('Nenhuma revista habilitada corresponde à seleção')
-    old = json.loads((directory / 'articles.json').read_text())
+    catalog_file = ROOT / 'harvest/catalog.json.gz'
+    input_file = catalog_file if catalog_file.exists() else directory / 'articles.json'
+    old = load_json(input_file)
     records = {a['id']: a for a in old['articles']} if not old.get('demo') else {}
     state_file = ROOT / 'harvest/state.json'
     state = json.loads(state_file.read_text()) if state_file.exists() else {}
     old_status = json.loads((directory / 'status.json').read_text())
     statuses = {s['id']: s for s in old_status.get('journals', [])}
     any_success = False
-    for journal in selected:
+    lock = threading.RLock()
+    def collect(journal):
+        nonlocal any_success
         jid = journal['id']
         prior = state.get(jid, {}) if not args.full else {}
-        report = {'id': jid, 'attemptedAt': now, 'status': 'error', 'processed': 0}
+        report = {**statuses.get(jid, {}), 'id': jid, 'attemptedAt': now, 'status': 'error', 'processed': 0}
+        report.pop('error', None)
         try:
             get_xml(journal['oai'], {'verb': 'Identify'})
             formats, _ = get_xml(journal['oai'], {'verb': 'ListMetadataFormats'})
@@ -127,7 +184,7 @@ def main():
             batch = {}
             cursor = ''
             seen_tokens = set()
-            for page_number in range(args.max_pages):
+            for page_number in (range(args.max_pages) if args.max_pages else itertools.count()):
                 xml, raw = get_xml(journal['oai'], params)
                 archive = ROOT / 'harvest/raw' / jid
                 archive.mkdir(parents=True, exist_ok=True)
@@ -137,6 +194,27 @@ def main():
                     if row:
                         batch[row['id']] = row
                 cursor = xml.findtext('o:ListRecords/o:resumptionToken', '', NS).strip()
+                token = xml.find('o:ListRecords/o:resumptionToken', NS)
+                if token is not None and token.get('completeListSize'):
+                    report['responseTotal'] = int(token.get('completeListSize'))
+                with lock:
+                    for key, value in batch.items():
+                        if value.get('deleted'):
+                            records.pop(key, None)
+                        else:
+                            records[key] = value
+                    started = prior.get('started', now[:10])
+                    state[jid] = {'cursor': cursor, 'started': started} if cursor else {'since': started}
+                    report.update(status='partial' if cursor else 'ok', processed=len(batch), pages=page_number+1, completedAt=datetime.now(timezone.utc).isoformat())
+                    report['recordsAvailable'] = sum(a['journal'] == jid for a in records.values())
+                    if not cursor and not prior.get('since'):
+                        report['fullHarvestCompletedAt'] = report['completedAt']
+                    statuses[jid] = report.copy()
+                    save_json(catalog_file, {'demo': False, 'partial': any(statuses.get(j['id'], {}).get('status') != 'ok' for j in journals if j.get('enabled')), 'updated': now, 'articles': sorted(records.values(), key=lambda a: (a['year'], a['id']), reverse=True)})
+                    save_json(directory / 'status.json', {'updated': now, 'journals': list(statuses.values())})
+                    save_json(state_file, state)
+                    any_success = True
+                print(f'{jid}: página {page_number+1}, {len(batch)} registros processados; ' + ('continua' if cursor else 'fim da paginação'), flush=True)
                 if not cursor:
                     break
                 if cursor in seen_tokens:
@@ -144,26 +222,31 @@ def main():
                 seen_tokens.add(cursor)
                 params = {'verb': 'ListRecords', 'resumptionToken': cursor}
                 time.sleep(1)
-            for key, value in batch.items():
-                if value.get('deleted'):
-                    records.pop(key, None)
-                else:
-                    records[key] = value
-            # The incremental watermark is the start of the initial batch, not
-            # the completion date, so updates during a multi-run harvest survive.
-            started = prior.get('started', now[:10])
-            state[jid] = {'cursor': cursor, 'started': started} if cursor else {'since': started}
-            report.update(status='partial' if cursor else 'ok', processed=len(batch), completedAt=datetime.now(timezone.utc).isoformat())
-            any_success = True
+            with lock:
+                for key, value in batch.items():
+                    if value.get('deleted'):
+                        records.pop(key, None)
+                    else:
+                        records[key] = value
+                # The incremental watermark is the start of the initial batch, not
+                # the completion date, so updates during a multi-run harvest survive.
+                started = prior.get('started', now[:10])
+                state[jid] = {'cursor': cursor, 'started': started} if cursor else {'since': started}
+                report.update(status='partial' if cursor else 'ok', processed=len(batch), completedAt=datetime.now(timezone.utc).isoformat())
+                any_success = True
         except Exception as exc:
+            report['status'] = 'error'
             report['error'] = str(exc)
             # Expired tokens restart at the previous watermark, with stable IDs.
             if 'badResumptionToken' in str(exc):
                 state[jid] = {'since': prior['since']} if prior.get('since') else {}
             print(f'{jid}: {exc}')
-        statuses[jid] = report
+        with lock:
+            statuses[jid] = report
+    with ThreadPoolExecutor(max_workers=max(1,min(4,args.workers))) as pool:
+        list(pool.map(collect, selected))
     if any_success:
-        save_json(directory / 'articles.json', {'demo': False, 'partial': any(s['status'] != 'ok' for s in statuses.values()), 'updated': now, 'articles': sorted(records.values(), key=lambda a: (a['year'], a['id']), reverse=True)})
+        save_json(catalog_file, {'demo': False, 'partial': any(statuses.get(j['id'], {}).get('status') != 'ok' for j in journals if j.get('enabled')), 'updated': now, 'articles': sorted(records.values(), key=lambda a: (a['year'], a['id']), reverse=True)})
     save_json(directory / 'status.json', {'updated': now, 'journals': list(statuses.values())})
     save_json(state_file, state)
     # Same DOI across sources is retained, not silently merged. Stable OAI IDs
@@ -173,8 +256,10 @@ def main():
         if a.get('doi'):
             dois.setdefault(a['doi'].lower(), []).append(a['id'])
     save_json(ROOT / 'harvest/duplicates.json', {k:v for k,v in dois.items() if len(v)>1})
+    from publish import publish
+    publish(ROOT)
     print(f'{len(records)} registros reais. Relatório: dist/data/status.json')
-    if not any_success:
+    if not any_success or any(statuses[j['id']]['status'] == 'error' for j in selected):
         raise SystemExit(1)
 
 if __name__ == '__main__':
