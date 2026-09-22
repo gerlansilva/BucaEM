@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.udesc.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:19:28Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">https://www.revistas.udesc.br/index.php/boem/pt_BR/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24860</identifier>
+				<datestamp>2024-03-09T21:17:11Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Síndrome de Irlen, pode ser a causa das dificuldades de leitura?</dc:title>
+	<dc:creator xml:lang="pt-BR">Alda, Erica Jamal da Silva</dc:creator>
+	<dc:creator xml:lang="pt-BR"> Hummel, Eromi Izabel</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silva, Eliane Paganini da</dc:creator>
+	<dc:subject xml:lang="pt-BR">estresse visual</dc:subject>
+	<dc:subject xml:lang="pt-BR">leitura</dc:subject>
+	<dc:subject xml:lang="pt-BR">distúrbios da visão</dc:subject>
+	<dc:description xml:lang="pt-BR">Uma boa visão é, sem dúvida, um dos requisitos básicos para uma aprendizagem adequada no ambiente escolar. No entanto, é importante observar que não basta verificar isoladamente a acuidade visual, pois esta é apenas um dos elementos da visão. A acuidade de visão é normalmente avaliada por meio da Tabela de Snellen, sendo indicativo de normalidade um resultado melhor ou igual a 20/20. Deve-se considerar também a qualidade da visão, com as análises de processamento temporal, campos visuais periféricos, sensibilidade ao contraste, motilidade ocular, visão de cores, entre outras verificações. O estresse visual é caracterizado como uma condição neurovisual que provoca distorções e desconfortos durante a leitura, ou seja, é uma dificuldade no processamento do que se vê, levando a dificuldades na leitura de letras que se mexem, balançam, embaçam, com a presença de sombras, halos e padrões ao redor das letras, espaçamentos irregulares ao longo do texto e percepção de movimento, como letras se destacando do papel ou vibrando. Entre as habilidades desenvolvidas pelo homem, uma das mais importantes no aprendizado é, sem dúvida, a leitura. Dessa forma, a presente pesquisa visa apresentar o processo investigativo desenvolvido com professores especialistas que atuam nas salas de recursos multifuncionais, da rede municipal de educação do município de Londrina-PR, resultando na produção do material de apoio em formato de Ebook interativo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24860</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0114</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0114</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24860/16470</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24861</identifier>
+				<datestamp>2024-03-09T21:17:10Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">MAP-TEA: material de apoio para pessoas com Transtorno do Espectro Autista</dc:title>
+	<dc:creator xml:lang="pt-BR">Mantovi, Patricia Karla da Silva</dc:creator>
+	<dc:creator xml:lang="pt-BR">Hummel, Eromi Izabel</dc:creator>
+	<dc:subject xml:lang="pt-BR">transtorno do espectro autista</dc:subject>
+	<dc:subject xml:lang="pt-BR">comunicação suplementar e alternativa</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino</dc:subject>
+	<dc:subject xml:lang="pt-BR">aprendizagem</dc:subject>
+	<dc:description xml:lang="pt-BR">A restrição na comunicação é uma das características de pessoas com Transtorno do Espectro Autista (TEA), fator que pode dificultar seu desenvolvimento no processo de aprendizagem. A Comunicação Suplementar e Alternativa é um recurso que propicia o desenvolvimento comunicacional de crianças com TEA durante sua fase escolar. Dessa forma, a presente pesquisa visa apresentar o processo investigativo desenvolvido com professores especialistas que atuam nas salas de recursos multifuncionais no atendimento de crianças com TEA da rede municipal de educação do município de Umuarama-PR, resultando na produção do material de apoio  em formato de Ebook interativo. Esse material contempla métodos de Comunicação Suplementar e Alternativa utilizados no processo de aprendizagem de alunos com Transtorno do Espectro Autista, com sugestões de atividades pedagógicas para os professores das salas de recursos multifuncionais, com o intuito de propiciar diferentes estratégias de comunicação não verbal para essas crianças, possibilitando assim sua interação com a comunidade escolar em geral, bem como no favorecimento do processo de alfabetização desses alunos a ser utilizado nas Salas de Recursos Multifuncionais da rede municipal de Ensino de Umuarama – Paraná.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24861</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0113</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0113</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24861/16469</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24862</identifier>
+				<datestamp>2024-03-09T21:17:09Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Construção de roteiro cinematográficos: uma sequência didática privilegiando a visualidade e a cultura surda</dc:title>
+	<dc:creator xml:lang="pt-BR">Júnior, Oscar Raimundo dos Santos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Blanco, Soeli Francisca Mazzini Monte</dc:creator>
+	<dc:creator xml:lang="pt-BR">Sell, Fabíola Sucupira Ferreira</dc:creator>
+	<dc:subject xml:lang="pt-BR">educação de surdos</dc:subject>
+	<dc:subject xml:lang="pt-BR">Libras</dc:subject>
+	<dc:subject xml:lang="pt-BR">roteiro cinematográfico</dc:subject>
+	<dc:description xml:lang="pt-BR">Tendo como pressupostos teóricos as propostas de educação bilíngue para estudantes surdos, o uso da Libras como primeira língua de instrução e os correlacionando com os estudos de cinema na área da escrita de roteiro cinematográfico, este artigo relata o caminho percorrido por pesquisa de mestrado profissional que, utilizando um grupo focal formado por professores surdos e intérpretes de língua de sinais, pode analisar questões relativas ao formato e acessibilidade de roteiros cinematográficos visando a sua apropriação por estudantes falantes de Libras como primeira língua. O produto educacional resultante da pesquisa contém uma sequência didática com explicações sobre o tema e a proposição de um formato de roteiro cinematográfico que privilegie a visualidade e a cultura surdas.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24862</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0109</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0109</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24862/16465</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24863</identifier>
+				<datestamp>2024-03-09T21:17:10Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Miniguia de contação de história para professores de primeira viagem: uma análise prévia explorando as suas potencialidades</dc:title>
+	<dc:creator xml:lang="pt-BR">Oliveira, Murilo Campigotto de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Sell, Fabíola Sucupira Ferreira</dc:creator>
+	<dc:subject xml:lang="pt-BR">contação de história</dc:subject>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino e aprendizagem</dc:subject>
+	<dc:subject xml:lang="pt-BR">material auxiliar</dc:subject>
+	<dc:subject xml:lang="pt-BR">práticas pedagógicas</dc:subject>
+	<dc:description xml:lang="pt-BR">O presente trabalho busca apresentar as motivações, características e potencialidades do Produto Educacional Miniguia de contação de histórias para professores de primeira viagem, explorando a relevância das contações de histórias na área da educação, em particular na disciplina de matemática, e a sua influência no processo de ensino e aprendizagem. Nesta perspectiva, o Produto Educacional desenvolvido se apresenta como um recurso complementar para apoiar educadores que se sintam desafiados a empregar a narração de histórias em suas aulas, com sugestões e exemplificações de histórias com teor matemático adaptadas para variados grupos etários de estudantes, além de planos de aula envolvendo as narrativas apresentadas, com o intuito de fornecer um possível ponto de partida para o docente que considere utilizá-los. Por meio de uma investigação de natureza exploratória e com abordagem mista, procurou-se realizar um levantamento de informações junto a professores de matemática em exercício, com o objetivo de compreender as perspectivas desses profissionais em relação ao recurso apresentado, a fim de identificar os ganhos e os obstáculos associados ao uso desse material didático na sala de aula. Na análise dos dados, notou-se as barreiras na implementação desse método, contrastadas com as vantagens que uma contação de histórias bem feita pode proporcionar no processo de aprendizado. O recurso educacional fornecido aos professores de matemática participantes trouxe uma abordagem inovadora para muitos deles, e espera-se que ele sirva de suporte e estímulo para que essa prática seja mais disseminada e aplicável nas aulas de matemática em diferentes níveis de ensino.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24863</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0110</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0110</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24863/16466</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24865</identifier>
+				<datestamp>2024-03-09T21:17:09Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensino de função exponencial com a metodologia de resolução de problemas: relato de uma prática</dc:title>
+	<dc:creator xml:lang="pt-BR">Macalós, Larissa Vieira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Aguiar, Rogério de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Henning, Elisa</dc:creator>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">metodologia de resolução de problemas</dc:subject>
+	<dc:subject xml:lang="pt-BR">prática docente</dc:subject>
+	<dc:description xml:lang="pt-BR">O presente artigo apresenta o produto educacional gerado a partir da pesquisa intitulada “Ensino de Função Exponencial com a Metodologia de Resolução de Problemas: Relato de uma Prática”, desenvolvida no âmbito do Mestrado Profissional em Ensino de Ciências, Matemática e Tecnologias da Universidade Estadual de Santa Catarina (UDESC). O produto educacional é uma página no Facebook composta pelas atividades aplicadas, sugestões de atividades, relatos das atividades, vídeos das resoluções das atividades relatos das práticas da aplicação das situações-problemas sobre função exponencial através da resolução de problemas, resoluções das atividades, vídeos e sugestões de problemas para aplicações e sugestões de vídeos, cujo objetivo é compartilhar experiências e trocar informações, motivar e incentivar educadores em suas práticas. A concepção do produto educacional teve por objetivo contribuir com a prática docente do professor em serviço, tanto nas aulas de matemática quanto na sua vida profissional. Na página “Facebook”, são descritas as atividades que foram aplicadas em sala de aula por meio da metodologia Metodologia de Resolução de Problemas, baseada nos estudos das pesquisadoras Lourdes de la Rosa e Norma Suely Gomes Allevato, que foram aplicadas em sala de aula juntamente com os objetos do Geogebra.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24865</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0108</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0108</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24865/16464</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24867</identifier>
+				<datestamp>2024-03-09T21:17:10Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Hackathons educacionais como processo para  concepção de projetos integradores no Ensino Médio Profissionalizante</dc:title>
+	<dc:creator xml:lang="pt-BR">Carvalho, Karen Andressa de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gasparini, Isabela</dc:creator>
+	<dc:subject xml:lang="pt-BR">Hackathon</dc:subject>
+	<dc:subject xml:lang="pt-BR">design thinking</dc:subject>
+	<dc:subject xml:lang="pt-BR">projeto integrador</dc:subject>
+	<dc:description xml:lang="pt-BR">Hackathons educacionais são eventos intensos de curta duração que estimulam o desenvolvimento de diversas habilidades essenciais para o sucesso no mercado de trabalho. Exemplo dessas habilidades incluem o trabalho em equipe, criatividade, resolução de problemas reais e autorregulação. O objetivo desses eventos encontrar soluções para problemas postos por algum stakeholder. Quando aliados à abordagem de Design Thinking, têm o potencial de promover a interdisciplinaridade e criação de soluções centradas no usuário. Este trabalho apresenta um processo e a realização de um hackathon educacional para concepção de projetos integradores no Ensino Médio Profissionalizante com foco em problemas reais vivenciados pelos estudantes no cotidiano escolar. Como resultado, as equipes compostas por estudantes apresentaram nove projetos sobre inclusão de pessoas com deficiência que foram desenvolvidos durante o semestre seguinte.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24867</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0142</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0142</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24867/16500</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24868</identifier>
+				<datestamp>2024-03-09T21:18:44Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Aprendizagem Baseada em Problemas: uma sequência didática para Cálculo Diferencial e Integral I</dc:title>
+	<dc:creator xml:lang="pt-BR">Silva, Marcos Manoel da</dc:creator>
+	<dc:creator xml:lang="pt-BR">Kemczinski, Avanilde</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Guilherme Mendes Tomaz dos</dc:creator>
+	<dc:subject xml:lang="pt-BR">cálculo diferencial e integral I</dc:subject>
+	<dc:subject xml:lang="pt-BR">sequência didática</dc:subject>
+	<dc:subject xml:lang="pt-BR">aprendizagem baseada em problemas</dc:subject>
+	<dc:subject xml:lang="pt-BR">avaliação formativa</dc:subject>
+	<dc:subject xml:lang="pt-BR">engagement</dc:subject>
+	<dc:description xml:lang="pt-BR">O conteúdo de Cálculo Diferencial e Integral I está vinculado há diversas disciplinas do Ensino Superior, principalmente à área de Ciências Exatas e da Terra e na literatura é possível observar diversos pesquisadores e professores que buscam caminhos para a solução da problemática relacionada ao insucesso dos estudantes nessa disciplina. Nesta direção, o presente artigo tem por objetivo apresentar o desenvolvimento de uma prática educativa - Sequência Didática (SD) mediada pela Aprendizagem Baseada em Problemas para o conteúdo de Aplicação da Teoria de Máximos e Mínimos da disciplina de Cálculo Diferencial e Integral I. A SD, foi dividida em cinco partes – Pré Sala de aula (Planejamento), Sala de Aula - Primeira Parte, Atividades Remotas, Sala de Aula - Segunda Parte e Pós Sala de Aula.  A SD integra as etapas da Aprendizagem Baseada em Problemas, bem como, o processo de aplicação e a sugestão de instrumentos para análise do engagement dos estudantes na disciplina conforme interesse do professor. A SD proposta já foi avaliada na disciplina de Prática Docente Supervisionada por meio dos instrumentos que compõem a avaliação formativa - Autoavaliação e Avaliação por Pares, e que também serviram de base para a coleta de dados para a investigação do engagement dos estudantes. O processo de validação apontou que os instrumentos estão adequados a uma proposição de prática educativa mediada por uma metodologia ativa, neste estudo, a Aprendizagem Baseada em Problemas, para a disciplina de Cálculo Diferencial e Integral I.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24868</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0111</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0111</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24868/16467</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24869</identifier>
+				<datestamp>2024-03-09T21:17:09Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Educação profissional e tecnológica e mulheres na gestão: uma perspectiva histórica do Instituto Federal Goiano Campus Urutaí</dc:title>
+	<dc:creator xml:lang="pt-BR">Mendes, Mariana Lucas</dc:creator>
+	<dc:creator xml:lang="pt-BR"> Ribeiro, Cristiane Maria</dc:creator>
+	<dc:subject xml:lang="pt-BR">educação profissional e tecnológica</dc:subject>
+	<dc:subject xml:lang="pt-BR">gênero</dc:subject>
+	<dc:subject xml:lang="pt-BR">mulheres</dc:subject>
+	<dc:subject xml:lang="pt-BR">documentário</dc:subject>
+	<dc:subject xml:lang="pt-BR">produto educacional</dc:subject>
+	<dc:description xml:lang="pt-BR">O produto educacional apresentado nesse artigo trata-se de um documentário de aproximadamente 18 minutos, que aborda o conceito e origem da Educação Profissional e Tecnológica (EPT) no Brasil e discorre sobre a história de uma instituição em específico situada no interior de Goiás, trazendo a participação das mulheres na gestão nos mais de 70 anos do campus como narrativa principal. O documentário tem por base a pesquisa documental desenvolvida durante o mestrado e utiliza de fotografias, documentos e vídeos curtos para sua construção. Este produto educacional foi elaborado pensando num público bastante diverso. Como trata-se de uma pesquisa voltada para um tema transversal, as relações de gênero, pode ser discutido em diversos contextos. O trabalho aqui apresentado foi construído no formato de um relato de experiência descrevendo o processo de discussão, formulação, aplicação e validação do produto educacional. A aplicação do produto ocorreu em ambiente virtual, atrelado a um curso curta duração ofertado via AVA Moodle par uma turma de alunos do curso de Pedagogia da UAB. Acredita-se após a validação do produto educacional que ele cumpre com seu propósito, ao trabalhar os conceitos de EPT e discutir as relações de gênero a partir da história do IF Goiano Campus Urutaí.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24869</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0107</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0107</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24869/16489</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24870</identifier>
+				<datestamp>2024-03-09T21:17:09Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Contribuições de um estudo exploratório como subsídio à construção de uma proposta pedagógica de educação sexual com adolescentes</dc:title>
+	<dc:creator xml:lang="pt-BR">Caust, Carla May</dc:creator>
+	<dc:creator xml:lang="pt-BR">Sell, Fabíola Sucupira Ferreira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Mendes, Patrícia de Oliveira e Silva Pereira</dc:creator>
+	<dc:subject xml:lang="pt-BR">sexualidade</dc:subject>
+	<dc:subject xml:lang="pt-BR">educação sexual</dc:subject>
+	<dc:subject xml:lang="pt-BR">adolescência</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo busca apresentar as etapas de desenvolvimento de um produto educacional gerado a partir de uma pesquisa de mestrado cujo foco foi auxiliar professores no diálogo sobre sexualidade em diferentes espaços educativos. Como aporte teórico, parte-se de uma Educação Sexual Intencional. Como procedimentos metodológicos, esta pesquisa caracteriza-se como qualitativa de cunho exploratório. Partiu-se da aplicação de um questionário com adolescentes a fim de verificar seus conhecimentos prévios sobre sexualidade bem como explorar quais temáticas seriam de interesse dos participantes. Em sequência, foram realizadas rodas de conversa com os adolescentes em que os temas selecionados por eles foram discutidos. Com base nos dados coletados e analisados a partir da realização das rodas de conversa, desenvolveu-se um caderno de orientações para docentes com o título “Contribuições de um estudo exploratório como subsídio à construção de uma proposta pedagógica de educação sexual com adolescentes”. Como resultados, destaca-se que todo o processo de pesquisa foi desenvolvido com os adolescentes, tornando-se possível propor rodas de conversa como ações de educação sexual em diferentes espaços educacionais com temáticas afetas à sexualidade.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24870</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0106</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0106</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24870/16463</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24871</identifier>
+				<datestamp>2024-03-09T21:17:11Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Representatividade de mulheres negras na política: um jogo didático elaborado para as aulas de sociologia</dc:title>
+	<dc:creator xml:lang="pt-BR">Barbosa, Franciele Brito</dc:creator>
+	<dc:creator xml:lang="pt-BR"> Fiamengue, Elis Cristina</dc:creator>
+	<dc:subject xml:lang="pt-BR">jogo didático</dc:subject>
+	<dc:subject xml:lang="pt-BR">mulheres na política</dc:subject>
+	<dc:subject xml:lang="pt-BR">Lei 10.639/2003</dc:subject>
+	<dc:subject xml:lang="pt-BR">sociologia</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo tem por objetivo apresentar o produto educacional Representatividade na Política originado do produto educacional de um mestrado profissional em educação. Trata-se de um jogo didático, de cartas e de tabuleiro, que se desenrola em uma Comissão Parlamentar da Câmara das/os Deputadas/os e tem por objetivo conseguir votos nas audiências públicas para aprovações de Projetos de Lei (PL) com temáticas de combate ao racismo. A temática abordada no jogo didático se justifica pelo contexto de desigualdade de gênero e raça, presente no Brasil, que se apresenta como um processo histórico, econômico e social. Essa desigualdade se materializa, entre outros espaços, na política institucional, onde mulheres negras encontram-se historicamente sendo sub-representadas em diversos cargos políticos. O jogo foi elaborado com o intuito de ser aplicado nas aulas de sociologia com estudantes do ensino médio e encontra-se apoiado na educação orientada pelas leis n° 10.639/2003 e 11.645/2008. A ideia inicial de construção do jogo, entre outros motivos, foi de produzir um material didático com a discussão das relações étnico-raciais e o ensino de sociologia. Por meio dele, busca-se oferecer ferramentas que possam ser utilizadas como brechas para atuar no contexto da atual Reforma do Ensino Médio, regulada pela lei federal n° 13.415/2017, em que as áreas do conhecimento vêm perdendo o seu teor científico e crítico.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24871</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0101</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0101</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24871/16513</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24878</identifier>
+				<datestamp>2024-03-09T21:18:44Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">AnimAção – guia para produção de vídeo com técnicas de animação</dc:title>
+	<dc:creator xml:lang="pt-BR">Vasconcelos dos Santos, Maria Eliane</dc:creator>
+	<dc:creator xml:lang="pt-BR">Pereira, Kariston</dc:creator>
+	<dc:subject xml:lang="pt-BR">produção de vídeo</dc:subject>
+	<dc:subject xml:lang="pt-BR">estudantes</dc:subject>
+	<dc:subject xml:lang="pt-BR">animação</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo aborda a elaboração e aplicação do produto educacional, que se constitui em um guia intitulado “Animação - guia para produção de vídeo com técnicas de animação”, sendo material de apoio didático para produção de animação em vídeo. O objetivo é favorecer a utilização das Tecnologias Digitais de Comunicação e Informação e proporcionar uma atuação protagonista dos discentes. Para tanto, o guia se apresenta em formato digital e interativo, considerando um público adolescente. Elaborado com base na teoria da Aprendizagem Criativa, proposta por Seymor Papert e Michel Resnick. Foi aplicado em contexto real de sala de aula, em uma escola pública em Joinville, SC, com estudantes do 2º ano do ensino médio, inserido como recurso para realização de atividade de produção de vídeo por estudantes como proposta de atividade de Metodologia Ativa Sala de Aula Invertida. A validação se deu através de um questionário anônimo aplicado aos estudantes que tiveram contato com o e-book. Os resultados indicam que os alunos ficaram satisfeitos com o conteúdo e a apresentação do material, tendo destacado como aspectos positivos: a facilidade de entendimento dos textos, a diversão e o caráter informativo do material.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-03-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24878</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0102</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0102</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24878/16677</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24879</identifier>
+				<datestamp>2024-03-09T21:17:10Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Oficina usos possíveis do soroban em uma proposta de educação libertadora</dc:title>
+	<dc:creator xml:lang="pt-BR">Makowiecki, Cristina Aparecida Mendes</dc:creator>
+	<dc:creator xml:lang="pt-BR">Melim, Juliana</dc:creator>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">inclusão</dc:subject>
+	<dc:subject xml:lang="pt-BR">soroban</dc:subject>
+	<dc:description xml:lang="pt-BR">O presente texto é resultado do produto educacional: Oficina usos possíveis do soroban em uma proposta de educação libertadora, desenvolvido em uma escola municipal de Florianópolis, com o objetivo de promover a consolidação dos saberes matemáticos adição, subtração e valor posicional junto aos estudantes do 3º ano do ensino fundamental, alinhado a uma proposta de educação libertadora. Foram realizados ciclos de oficinas matemáticas utilizando o instrumento de cálculo milenar, tradicionalmente oriental, ajustado para acessibilidade de pessoas com deficiência visual. Durante o período de um semestre, foram realizadas oficinas semanais, nas quais os estudantes tiveram a oportunidade e o desafio de construir novas possibilidades de compreender os conceitos matemáticos citados de maneira colaborativa, considerando o aporte teórico freiriano que consiste em rigor metodológico, produção de conhecimento novo e reconhecimento dos saberes existentes, como fundamentos da prática para a liberdade. Na fase metodológica, adotou-se uma abordagem qualitativa, explorando as interações durante as oficinas por meio de observações sistematizadas e registros em diário de campo. Os resultados indicam um aumento significativo na compreensão dos conceitos matemáticos e maior engajamento de todos. Estes achados sugerem que o Soroban, além de ser um instrumento inclusivo, promove equidade no processo de aprendizagem matemática, corroborando com a premissa freiriana de que a educação deve ser conduzida como prática da liberdade.&amp;nbsp;</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24879</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0103</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0103</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24879/16510</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24880</identifier>
+				<datestamp>2024-03-09T21:17:09Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Educação Ambiental Crítica para a abordagem da crise ambiental e da problemática da poluição plástica no Ensino Médio</dc:title>
+	<dc:creator xml:lang="pt-BR">Flores, Brenda</dc:creator>
+	<dc:creator xml:lang="pt-BR">Falavigna, Gladis</dc:creator>
+	<dc:subject xml:lang="pt-BR">educação ambiental crítica</dc:subject>
+	<dc:subject xml:lang="pt-BR">consciência ambiental</dc:subject>
+	<dc:subject xml:lang="pt-BR">produto educacional</dc:subject>
+	<dc:subject xml:lang="pt-BR">roteiros de aprendizagem</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino médio</dc:subject>
+	<dc:description xml:lang="pt-BR">
+A crise ambiental, resultante da dinâmica de exploração da natureza que se instaurou na sociedade industrial graças à incessante busca pela expansão do ciclo de produção e consumo, tem a geração e o descarte de resíduos como alguns de seus aspectos mais problemáticos. Nesse contexto, a poluição plástica assume papel de destaque, associado à quantidade exorbitante e crescente de resíduos plásticos despejada nos ecossistemas e à alta resistência apresentada pelo material. Portanto, em virtude da gravidade da situação e da demanda por propostas que favoreçam o desenvolvimento da consciência ambiental e a mudança de atitude dos estudantes, o produto educacional elaborado apresenta uma proposta de Educação Ambiental a partir de uma abordagem crítica, reflexiva e dialógica. O material didático-instrucional, composto por quatro roteiros de aprendizagem, foi aplicado com alunos de uma turma de segundo ano do Novo Ensino Médio de uma escola pública. A efetividade da proposta foi atestada a partir da observação da participação e do desempenho dos estudantes durante a realização das atividades e da comparação e Análise Textual Discursiva das respostas coletadas nos questionários aplicados antes e depois da implementação do produto educacional. Os resultados obtidos demonstraram o desenvolvimento da consciência ambiental possibilitado pelo aprofundamento da compreensão dos alunos acerca das questões sociais, políticas, econômicas e culturais envolvidas na crise ambiental e na problemática da poluição plástica.
+</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24880</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0104</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0104</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24880/16501</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/24881</identifier>
+				<datestamp>2024-03-09T21:17:10Z</datestamp>
+				<setSpec>boem:MPE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Potencialidades e limitações da Cultura Pop no ensino de química</dc:title>
+	<dc:creator xml:lang="pt-BR">Dias, Augusto José Oliveira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Viggiano, Esdras</dc:creator>
+	<dc:creator xml:lang="pt-BR">García, Iriane Luciene</dc:creator>
+	<dc:subject xml:lang="pt-BR">contextualização</dc:subject>
+	<dc:subject xml:lang="pt-BR">cultura pop</dc:subject>
+	<dc:subject xml:lang="pt-BR">três momentos pedagógicos</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino de química</dc:subject>
+	<dc:description xml:lang="pt-BR">Este trabalho teve por objetivo discutir um produto educacional, seus conhecimentos científicos e sobre Ciência utilizando obras de Cultura Pop. Espera-se contribuir com a área sobre as possibilidades e limitações de elementos da cultura pop no aprendizado de conhecimentos científicos. Foi elaborada uma sequência didática utilizando os Três Momentos Pedagógicos e o modelo OHERIC (observação, hipótese, experiência, resultados, interpretação e conclusão). Buscou-se, a partir da cultura vivenciada pelos estudantes, problematizar conhecimentos químicos, provocar engajamento e inspirar o envolvimento dos estudantes nas atividades propostas.A atividade foi realizada com estudantes do primeiro ano do ensino médio de uma escola pública, no âmbito do Programa Residência Pedagógica, em uma cidade de médio porte do interior de Minas Gerais. No geral, os resultados foram positivos, indicando que a utilização de obras artísticas da cultura pop pode provocar o envolvimento dos alunos na aprendizagem de conhecimento de química. Ademais, o produto educacional se mostra versátil para adaptação a outros contextos sociais, inclusive, com a introdução de obras regionais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2023-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo aceito no VI COLBEDUCA</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/24881</dc:identifier>
+	<dc:identifier>10.5965/2357724X112023e0105</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 11 (2023): Dossiê temático: Mostra de Produtos Educacionais sobre Ensino de Ciências, Matemática e Tecnologias; e0105</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/24881/16511</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2023 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26373</identifier>
+				<datestamp>2025-11-18T09:23:38Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Educational Technology and Digital Video in the Age of Pandemic: exploring new frontiers with Financial Education</dc:title>
+	<dc:title xml:lang="es">Tecnología educativa y vídeo digital en la era de la pandemia: explorar nuevas fronteras con la Educación Financiera</dc:title>
+	<dc:title xml:lang="pt-BR">Tecnologia Educacional e Vídeo Digital na Era da Pandemia: explorando novas fronteiras com Educação Financeira</dc:title>
+	<dc:creator xml:lang="pt-BR">Toledo, Adriana de Oliveira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Kistemann Junior, Marco Aurélio</dc:creator>
+	<dc:creator xml:lang="pt-BR">Giordano, Cássio Cristiano</dc:creator>
+	<dc:creator xml:lang="pt-BR">Canedo Junior, Neil da Rocha</dc:creator>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">educação financeira</dc:subject>
+	<dc:subject xml:lang="pt-BR">vídeos</dc:subject>
+	<dc:subject xml:lang="pt-BR">memes</dc:subject>
+	<dc:subject xml:lang="es">educación matemática</dc:subject>
+	<dc:subject xml:lang="es">educación financeira</dc:subject>
+	<dc:subject xml:lang="es">vídeos</dc:subject>
+	<dc:subject xml:lang="es">memes</dc:subject>
+	<dc:subject xml:lang="en">mathematics education</dc:subject>
+	<dc:subject xml:lang="en">inancial education</dc:subject>
+	<dc:subject xml:lang="en">vídeos</dc:subject>
+	<dc:subject xml:lang="en">memes</dc:subject>
+	<dc:description xml:lang="en">During the Covid-19 pandemic period, education faced multiple challenges, but also presented the opportunity to explore new forms of teaching, especially through digital resources. In this context, an educational product stemming from a master&#039;s research, titled “Financial Literacy in School Education: digital video as a resource for Critical Mathematical Education, emerged with the purpose of offering pedagogical approaches centered on Financial Education (FE), using videos and memes as facilitating tools. Based on social, political, ethical, and environmental concerns, the conception of FE was enriched by the perspective of Critical Mathematical Education, as advocated by Ole Skovsmose. Through a virtual course on the platform Sympla.com.br, teachers and studentsshared experiences and understandings about FE, producing videos and memes.The pedagogical practices adopted explored the diverse languages of digital media, benefiting both mathematical and non-mathematical learning. The integration of digital resources,such as videos and memes, proved promising in making the teaching of Financial Education more engaging and accessible, promoting critical understanding and opportunities for skill development as outlined in the BNCC.</dc:description>
+	<dc:description xml:lang="es">Durante el período de la pandemia de Covid-19, la educación enfrentó múltiples dificultades, pero también surgió la oportunidad de explorar nuevas formas de enseñanza, especialmente a través de recursos digitales. En este contexto, un producto educativo derivado de una investigación de maestría, titulado “Literacia en la Educación Financiera Escolar: vídeo digital como recurso para una Educación Matemática Crítica”, surgió con el propósito de ofrecer enfoques pedagógicos centrados en la Educación Financiera (EF), utilizando videos y memes como herramientas facilitadoras.Basada en preocupaciones sociales, políticas, éticas y ambientales, la concepción de la EF fue enriquecida por la perspectiva de la Educación Matemática Crítica, según lo defendido por Ole Skovsmose. A través de un curso virtual en la plataforma Sympla.com.br, profesores y estudiantes compartieron experiencias y comprensiones sobre la EF, produciendo videos y memes.Las prácticas pedagógicas adoptadas exploraron los diversos lenguajes de los medios digitales, beneficiando tanto el aprendizaje matemático como no matemático. La integración de recursos digitales, como videos y memes, resultó prometedora para hacer que la enseñanza de la Educación Financiera sea más atractiva y accesible, promoviendo una comprensión crítica y oportunidades de desarrollo de habilidades previstas en la BNCC.</dc:description>
+	<dc:description xml:lang="pt-BR">Durante o período da pandemia de Covid-19, a educação enfrentou múltiplas dificuldades, mas também surgiu a oportunidade de explorar novas formas de ensino, especialmente por meio de recursos digitais. Nesse contexto, um produto educacional oriundo de uma pesquisa de mestrado, intitulado “Literacia na Educação Financeira Escolar: vídeo digital como recurso para uma Educação Matemática Crítica”, emergiu com o propósito de oferecer abordagens pedagógicas centradas na Educação Financeira (EF), utilizando vídeos e memes como ferramentas facilitadoras. Baseada em preocupações sociais, políticas, éticas e ambientais, a concepção da EF foi enriquecida pela perspectiva da Educação Matemática Crítica, conforme defendida por Ole Skovsmose. Através de um curso virtual na plataforma Sympla.com.br, professores e estudantes compartilharam experiências e compreensões sobre a EF, produzindo vídeos e memes. As práticas pedagógicas adotadas exploraram as diversas linguagens das mídias digitais, beneficiando tanto a aprendizagem matemática quanto não-matemática. A integração de recursos digitais, como vídeos e memes, mostrou-se promissora para tornar o ensino da Educação Financeira mais atrativa e acessível, promovendo uma compreensão crítica e oportunidades de desenvolvimento de habilidades previstas na Base Nacional Comum Curricular (BNCC).</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0101</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0101</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0101</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0101/17680</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26374</identifier>
+				<datestamp>2025-11-18T09:23:38Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Digital video production in Mathematics Education: a proposal for teaching Probability</dc:title>
+	<dc:title xml:lang="es">Producción de videos digitales en Educatión Matemática: una propuesta para la enseñanza de la Probabilidad</dc:title>
+	<dc:title xml:lang="pt-BR">Produção de vídeos digitais na Educação Matemática: uma proposta para o ensino de Probabilidade</dc:title>
+	<dc:creator xml:lang="pt-BR">Meireles, Sílvia Mourão</dc:creator>
+	<dc:creator xml:lang="pt-BR">Schimiguel, Juliano</dc:creator>
+	<dc:subject xml:lang="pt-BR">produção de vídeos</dc:subject>
+	<dc:subject xml:lang="pt-BR">tecnologias digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">probabilidade</dc:subject>
+	<dc:subject xml:lang="es">producción de videos</dc:subject>
+	<dc:subject xml:lang="es">tecnologías digitales</dc:subject>
+	<dc:subject xml:lang="es">educación matemática</dc:subject>
+	<dc:subject xml:lang="es">probabilidad</dc:subject>
+	<dc:subject xml:lang="en">video production</dc:subject>
+	<dc:subject xml:lang="en">digital technologies</dc:subject>
+	<dc:subject xml:lang="en">mathematics education</dc:subject>
+	<dc:subject xml:lang="en">probability</dc:subject>
+	<dc:description xml:lang="en">Digital media are gradually making their presence felt in people’s lives, with text messages, images, audio and videos being used frequently. In this scenario, digital videos have a unique place, as they present audiovisual stimuli that foster communication and encourage greater interest among those who watch them. The aim of this study is to analyze the aspects of video production by Vocational and Technological Education students that contribute to the teaching and learning process in the subject of Probability. This is a qualitative study of na applied nature and its procedures are based on the theoretical assumptions of Thiollent (2022). The research was carried out by students from a third-year secondary school integrated into the technical área of a technical located in the city of São Paulo. Ten videos were produced, and, after analysis, the results indicate that, in addition to the skills required to make appropriate use of digital technologies, the production of digital videos demands authorship on the part of the students, requires research and participatory action in their teaching and learning process</dc:description>
+	<dc:description xml:lang="es">Los medios de comunicación digitales se están imponiendo poco a poco en la vida de las personas, que utilizan com frecuencia mensajes de texto, imágenes, áudio y vídeos. En este escenario, los videos digitales ocupan un lugar singular, ya que presentan estímulos audiovisuales que fomentan la comunicación y favorecen un mayor interés em quienes los vem. El objetivo de este estudio es analizar los aspectos de la producción de videos por estudiantes de Formación Profesional y tecnológica que contribuyen al processo de enseñanza y aprendizaje de la asignatura de Probabilidad. Se trata de una investigación cualitativa de carácter aplicado y sus procedimientos se basan em los supuestos teóricos de Thiollent (2022). La insvestigación fue realizada por alumnos de tercer año de la enseñanza média integrada al programa técnico de una escuela técnica localizada em la ciudad de São Paulo. Se produjeron diez videos y, traz el análisis, los resultados indican que, además de las competencias necesarias para hacer de los alumnos, requiere investigación y acción participativa em su proceso de enseñanza y aprendizaje.</dc:description>
+	<dc:description xml:lang="pt-BR">As mídias digitais estão presentes de forma gradativa na vida das pessoas, as mensagens de texto, as imagens, áudios e vídeos são utilizados com frequência. Nesse cenário, os vídeos digitais têm um lugar singular, por apresentarem estímulos audiovisuais que fomentam a comunicação e favorecem maior interesse daqueles que os assistem. O objetivo do presente estudo consiste em analisar os aspectos da produção de vídeos por estudantes da Educação Profissional e Tecnológica, que oferecem contribuições ao processo de ensino e aprendizagem sobre a temática de Probabilidade. Trata-se de uma pesquisa qualitativa de natureza aplicada e quanto aos procedimentos apresenta os pressupostos teóricos de uma pesquisa-ação. A investigação foi desenvolvida por estudantes de uma turma do terceiro ano do Ensino Médio integrado ao técnico de uma escola técnica localizada na cidade de São Paulo. Foram produzidos dez vídeos, após análise, os resultados indicam que para além das habilidades em fazer uso adequado das tecnologias digitais, a produção de vídeos digitais exige a autoria dos alunos, requer pesquisa e ação participativa em seu processo de ensino e aprendizagem.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0102</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0102</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0102</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0102/17681</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26375</identifier>
+				<datestamp>2024-10-21T11:08:46Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Mathematics with the Flipped Classroom: an experience with edpuzzle</dc:title>
+	<dc:title xml:lang="es">Matemáticas con el Aula Invertida: una experiencia con edpuzzle</dc:title>
+	<dc:title xml:lang="pt-BR">Matemática com a Sala de Aula Invertida: uma experiência com edpuzzle</dc:title>
+	<dc:creator xml:lang="pt-BR">Nascimento, Rafaela Silva Bezerra do</dc:creator>
+	<dc:subject xml:lang="pt-BR">metodologias ativas</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino de matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">vídeos</dc:subject>
+	<dc:subject xml:lang="pt-BR">sala de aula invertida</dc:subject>
+	<dc:subject xml:lang="pt-BR">edpuzzle</dc:subject>
+	<dc:subject xml:lang="es">metodologías  activas</dc:subject>
+	<dc:subject xml:lang="es">enseñanza  de  matemáticas;</dc:subject>
+	<dc:subject xml:lang="es">vídeos</dc:subject>
+	<dc:subject xml:lang="es">aula invertida</dc:subject>
+	<dc:subject xml:lang="es">edpuzzle</dc:subject>
+	<dc:description xml:lang="en">This article is presented as part of a research that focuses on the influence of active methodologies, namely the flipped classroom, on mathematics teaching and learning. Thus, this reports an experience with the use of video on the edpuzzle platform, in the aforementioned curricular component, with the objective of verifying the efficiency resulting from the use of active methodologies applied in the delivery of mathematical content. Regarding methodological aspects, descriptive and comparative longitudinal research was adopted, with a mixed approach, carried out in the form of action research, which made it possible to study a social situation with the objective of improving the quality of the action developed within it. As research participants, we had 35(thirty-five) students and 4 (four) mathematics teachers from Erem Fábio da Silveira Barros. In order to obtain answers to the questions addressed, we used the questionnaire for students, interviews for teachers, participant observation and document analysis as instruments for data collection. Thus, it was noticed that the results of this investigation showed significant contributions of this methodology to the teaching of mathematics. In this way, the research allowed students to take a different look at mathematical learning, providing interaction between content and reality and being the protagonist of meaningful learning.</dc:description>
+	<dc:description xml:lang="es">Este artículo se presenta como parte de una investigación que se centra en la influencia de las metodologías activas, concretamente el aula invertida, en la enseñanza y el aprendizaje de las matemáticas. Así, se reporta una experiencia con el uso de video en la plataforma edpuzzle, en el componente curricular antes mencionado, con el objetivo de verificar la eficiencia resultante del uso de metodologías activas aplicadas en la entrega de contenidos matemáticos. En cuanto a los aspectos metodológicos, se adoptó una investigación longitudinal descriptiva y comparativa, con enfoque mixto, realizada en la modalidad de investigación acción, que permitió estudiar una situación social con el objetivo de mejorar la calidad de la acción desarrollada en ella. Como participantes de la investigación tuvimos 35 (treinta y cinco) estudiantes y 4 (cuatro) profesores de matemáticas de Erem Fábio da Silveira Barros. Para obtener respuestas a las preguntas planteadas se utilizó como instrumentos de recolección de datos el cuestionario a estudiantes, entrevistas a docentes, la observación participante y el análisis de documentos. Así, se constató que los resultados de esta investigación mostraron aportes significativos de esta metodología a la enseñanza de las matemáticas. De esta manera, la investigación permitió a los estudiantes dar una mirada diferente al aprendizaje matemático, brindandointeracción entre el contenido y la realidad y siendo protagonistas de un aprendizaje significativo.</dc:description>
+	<dc:description xml:lang="pt-BR">Esse artigo se apresenta como parte de uma pesquisa que versa sobre a influência das metodologias ativas, a saber a sala de aula invertida, no ensino aprendizagem da matemática. Assim, este relata uma experiência com o uso de vídeo na plataforma edpuzzle, no referido componente curricular, tendo como objetivo verificar a eficiência resultante do uso das metodologias ativas aplicadas na ministração de conteúdos matemáticos. No tocante aos aspectos metodológicos adotou-se a pesquisa descritiva e comparativa de corte longitudinal, com enfoque misto, realizada em forma de pesquisa ação onde possibilitou um estudo de uma situação social com o objetivo de melhorar a qualidade da ação desenvolvida em seu interior. Como participantes da pesquisa, tivemos 35 (trinta e cinco) estudantes e 4 (quatro) professores de matemática da Erem Fábio da Silveira Barros. Com a finalidade de obter às respostas acerca dos questionamentos abordados, utilizamos como instrumentos para coleta de dados o questionário para os estudantes, entrevista para os professores, observação participante e análise documental. Assim, percebeu-se que os resultados dessa investigação mostraram contribuições significativas dessa metodologia para o ensino da matemática. Dessa forma a pesquisa permitiu aos estudantes um olhar diferenciado para a aprendizagem matemática, proporcionando a interação do conteúdo com a realidade e ser protagonista de uma aprendizagem significativa.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0103</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0103</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0103</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0103/17682</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26376</identifier>
+				<datestamp>2024-10-21T11:08:44Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Digital Videos for the development of Computational Thinking in Basic Education</dc:title>
+	<dc:title xml:lang="es">Videos Digitales para el desarrollo del Pensamiento Computacional en la Educación Básica</dc:title>
+	<dc:title xml:lang="pt-BR">Vídeos Digitais para o desenvolvimento do Pensamento Computacional na Educação Básica</dc:title>
+	<dc:creator xml:lang="pt-BR">Araújo, Talita Amaral Cunha</dc:creator>
+	<dc:creator xml:lang="pt-BR">Scortegagna, Liamara</dc:creator>
+	<dc:creator xml:lang="pt-BR">Barreré, Eduardo</dc:creator>
+	<dc:subject xml:lang="pt-BR">pensamento computacional</dc:subject>
+	<dc:subject xml:lang="pt-BR">função polinomial do primeiro grau</dc:subject>
+	<dc:subject xml:lang="pt-BR">educação básica</dc:subject>
+	<dc:subject xml:lang="pt-BR">software scratch</dc:subject>
+	<dc:subject xml:lang="pt-BR">BNCC</dc:subject>
+	<dc:description xml:lang="en">The National Common Curricular Base (BNCC) highlights that it is essential to use more digital languages at school, more specifically in the teaching and learning of Mathematics. Among the possibilities, BNCC brings Computational Thinking (PC), a skill that is associated with the development of critical thinking and oriented towards solving problems that start from decomposition, pattern recognition, abstraction and creation of algorithms to solve these problems. This article aims to present the planning and development process of a set of Digital Educational Resources (RED) in the format of digital videos, which form the “PC-cratch” course, aiming to develop students&#039; PCs by solving problems that involve First Degree Polynomial Function solved using Scratchsoftware. Furthermore, it seeks to present the results obtained in the application of the first RED to a 1st year high school class of the Technical Course Integrated to High School in Logistics at Escola Estadual Senador Levindo Coelho, located in the municipality of Ubá –MG. As a result of applying the first RED, a change was observed in the students&#039; language about PC skills before and after using the RED. Regarding the RED planning and development process, we follow the Learning Object Methodology (MOA), where each production went through the five phases: analysis, design, implementation, review, submission/publication. Therefore, it is hoped that this article will serve as support for future researchers seeking work related to this topic, mainly in the development of RED.</dc:description>
+	<dc:description xml:lang="es">LaBase Curricular Común Nacional (BNCC) destaca que es fundamental utilizar más lenguajes digitales en la escuela, más específicamente en la enseñanza y el aprendizaje de Matemáticas. Entre las posibilidades, BNCC trae el Pensamiento Computacional (PC), habilidad que está asociada al desarrollo del pensamiento crítico y orientada a la resolución de problemas que parten de la descomposición, el reconocimiento de patrones, la abstracción y la creación de algoritmos para resolver estos problemas. Este artículo tiene como objetivo presentar el proceso de planificación y desarrollo de un conjunto de Recursos Educativos Digitales (RED) en formato de videos digitales, que conforman el curso “PC-cratch”, con el objetivo de desarrollar las PC de los estudiantes mediante la resolución de problemas que involucran el Primer Grado. Función polinómica resuelta mediante el softwareScratch. Además, busca presentar los resultados obtenidos en la aplicación de la primera RED a una promoción de 1º año de secundaria del Curso Técnico Integrado a la Enseñanza Media en Logística de la Escuela Estadual Senador Levindo Coelho, ubicada en el municipio de Ubá –MG. Como resultado de la aplicación del primer RED, se observó un cambio en el lenguaje de los estudiantes sobre las habilidades de PC antes y después de usar el RED. En cuanto al proceso de planificación y desarrollo de RED, seguimos la Metodología de Objetos de Aprendizaje (MOA), donde cada producción pasó por las cinco fases: análisis, diseño, implementación, revisión, envío/publicación. Por lo tanto, se espera que este artículo sirva de apoyo para futuros investigadores que busquen trabajos relacionados con este tema, principalmente en el desarrollo de RED.Palabras clave: Pensamiento Computacional, Función Polinómica de Primer Grado, Educación Básica, SoftwareScratch, BNCC.</dc:description>
+	<dc:description xml:lang="pt-BR">A Base Nacional Comum Curricular (BNCC) ressalta que é imprescindível o uso de mais linguagens digitais na escola, mais especificamente no ensino e aprendizagem de Matemática. Dentre as possibilidades, a BNCC traz o Pensamento Computacional (PC), habilidade que está associada ao desenvolvimento de um pensamento crítico e orientado para a resolução de problemas que partem da decomposição, reconhecimento de padrões, abstração e criação de algoritmos para a solução destes. Este artigo objetiva apresentar o processo de planejamento e de desenvolvimento de um conjunto de Recursos Educacionais Digitais (RED) no formato de vídeos digitais, que formam o curso “PC-cratch”, visando a desenvolver o PC dos alunos mediante a resolução de problemas que envolvam Função Polinomial do Primeiro Grau solucionados através do software Scratch. Ademais, busca apresentar os resultados obtidos na aplicação do primeiro RED a uma turma do 1° ano do Ensino Médio do Curso Técnico Integrado ao Ensino Médio em Logística da Escola Estadual Senador Levindo Coelho, situada no município de Ubá – MG. Como resultados da aplicação do primeiro RED, observou-se uma mudança na linguagem dos alunos sobre a habilidade do PC antes e após a utilização do RED. Em relação ao processo de planejamento e desenvolvimento dos RED, seguimos a Metodologia do Objeto de Aprendizagem (MOA), onde cada produção passou pelas cinco fases: análise, projeto, implementação, revisão, submissão/publicação. Por conseguinte, espera-se que este artigo sirva de subsídios aos futuros pesquisadores que buscam trabalhos relacionados a essa temática, principalmente no desenvolvimento de RED.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0104</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0104</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0104</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0104/17683</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26378</identifier>
+				<datestamp>2024-10-21T11:08:42Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Probability from a digital perspective: an analysis of videos published at the Festival of Digital Videos and Mathematics Education</dc:title>
+	<dc:title xml:lang="es">Probabilidad desde una perspectiva digital: un análisis de videos publicados en el Festival de Videos Digitales y Educación Matemática</dc:title>
+	<dc:title xml:lang="pt-BR">Probabilidade sob uma ótica digital: uma análise dos vídeos publicados no Festival de Vídeos Digitais e Educação Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Silva, Pollyane Vieira da</dc:creator>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">tecnologias digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">festival de vídeos digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">probabilidade</dc:subject>
+	<dc:subject xml:lang="es">educación matemática</dc:subject>
+	<dc:subject xml:lang="es">ecnologías digitales</dc:subject>
+	<dc:subject xml:lang="es">festival de videos digitales</dc:subject>
+	<dc:subject xml:lang="es">probabilidad</dc:subject>
+	<dc:subject xml:lang="en">mathematics education</dc:subject>
+	<dc:subject xml:lang="en">digital technologies</dc:subject>
+	<dc:subject xml:lang="en">digital videos festival</dc:subject>
+	<dc:subject xml:lang="en">probability</dc:subject>
+	<dc:description xml:lang="en">In this study we analyzed two videos published at the Festival of Digital Videos and Mathematics Education (FVDEM), with an emphasis on the probabilistic concepts presented. In addition to analyzing these videos, the objective was to investigate the impact of FVDEM as a platform to promote Mathematics Education, recognizing videos as valuable teaching tools. Using a qualitative approach, the videos were analyzed as examples of how Digital Technologies (DT) can promote student autonomy and deepen learning. It is crucial to highlight the importance of the interaction between human beings and digital media in the creation and dissemination of knowledge, highlighting the active role of videos in this process. Thus, the Digital Video Festival not only contributes to students&#039; understanding of probability, but also empowers them as participatory agents in the construction of mathematical knowledge, demonstrating the transformative potential of DT in Mathematics Education. This approach emphasizes the relevance of videos as dynamic and accessible teaching tools, capable of engaging students and promoting a deeper understanding of mathematical and statistical concepts.</dc:description>
+	<dc:description xml:lang="es">En este estudio analizamos dos videos publicados en el Festival de Videos Digitales y Educación Matemática (FVDEM), con énfasis en los conceptos probabilísticos presentados. Además de analizar estos videos, el objetivo fue investigar el impacto de la FVDEMcomo plataforma para promover la Educación Matemática, reconociendo los videos como valiosas herramientas de enseñanza. Utilizando un enfoque cualitativo, los videos fueron analizados como ejemplos de cómo las Tecnologías Digitales (DT) pueden promover laautonomía de los estudiantes y profundizar el aprendizaje. Es crucial resaltar la importancia de la interacción entre los seres humanos y los medios digitales en la creación y difusión del conocimiento, destacando el papel activo de los vídeos en este proceso. Así, el Festival de Video Digital no sólo contribuye a la comprensión de la probabilidad por parte de los estudiantes, sino que también los empodera como agentes participativos en la construcción del conocimiento matemático, demostrando el potencial transformador de la DT en la Educación Matemática. Este enfoque enfatiza la relevancia de los videos como herramientas de enseñanza dinámicas y accesibles, capaces de involucrar a los estudiantes y promover una comprensión más profunda de conceptos matemáticos y estadísticos.</dc:description>
+	<dc:description xml:lang="pt-BR">Neste estudo analisamos dois vídeos publicados no Festival de Vídeos Digitais e Educação Matemática (FVDEM), com ênfase nos conceitos probabilísticos apresentados. Além de analisar esses vídeos, o objetivo foi investigar o impacto do FVDEM como uma plataforma para promover a Educação Matemática, reconhecendo os vídeos como valiosas ferramentas de ensino. Por meio de uma abordagem qualitativa, os vídeos foram analisados como exemplos de como as Tecnologias Digitais (TD) podem promover a autonomia dos estudantes e aprofundar o aprendizado. É crucial destacar a importância da interação entre seres humanos e mídias digitais na criação e disseminação do conhecimento, ressaltando o papel ativo dos vídeos nesse processo. Assim, o Festival de Vídeos Digitais não apenas contribui para a compreensão dos alunos sobre probabilidade, mas também os capacita como agentes participativos na construção do conhecimento matemático, demonstrando o potencial transformador das TD na Educação Matemática. Essa abordagem enfatiza a relevância dos vídeos como instrumentos de ensino dinâmicos e acessíveis, capazes de engajar os alunos e promover uma compreensão mais profunda dos conceitos matemáticos e estatísticos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0105</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0105</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0105</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0105/17684</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26379</identifier>
+				<datestamp>2024-10-21T11:08:40Z</datestamp>
+				<setSpec>boem:REX</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Integrating semiotic resources in the production of mathematical videos: analysis of a video produced by students in the final years of elementary school</dc:title>
+	<dc:title xml:lang="es">Integrando recursos semióticos en la producción de vídeos matemáticos: análisis de un vídeo producido por estudiantes de los últimos años de la escuela primaria</dc:title>
+	<dc:title xml:lang="pt-BR">Integrando recursos semióticos na produção de vídeos matemáticos: análise de um vídeo produzido por alunos dos anos finais do ensino fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Kurz, Catiéle Scheidt</dc:creator>
+	<dc:creator xml:lang="pt-BR">Franchi, Regina Helena de Oliveira Lino</dc:creator>
+	<dc:subject xml:lang="pt-BR">produção de vídeo</dc:subject>
+	<dc:subject xml:lang="pt-BR">conhecimento matemático</dc:subject>
+	<dc:subject xml:lang="pt-BR">multimodalidade</dc:subject>
+	<dc:subject xml:lang="pt-BR">recursos semióticos</dc:subject>
+	<dc:subject xml:lang="es">producción de video</dc:subject>
+	<dc:subject xml:lang="es">conocimiento matemático</dc:subject>
+	<dc:subject xml:lang="es">multimodalidade</dc:subject>
+	<dc:subject xml:lang="es">recursos semióticos</dc:subject>
+	<dc:subject xml:lang="en">video production</dc:subject>
+	<dc:subject xml:lang="en">mathematical knowledge</dc:subject>
+	<dc:subject xml:lang="en">multimodality</dc:subject>
+	<dc:subject xml:lang="en">semiotic resources</dc:subject>
+	<dc:description xml:lang="en">The article reports on an experience of mathematical video production by students in the final years of Elementary School, aimed at analyzing, in the produced video, how students used and integrated semiotic resources to communicate mathematical knowledge.The methodology employed was qualitative in nature. The analysis was conducted using the Systemic Functional Theory -Multimodal Discourse Analysis, which allows not only to investigate the relationship between visual, verbal, and auditory elements present in this type of media but also to understand how these elements relate and contribute to the overall meaning of the video. This analysis enables us to identify the communication strategies used by students, as well as to understand the effect of these resources on the comprehension of mathematical concepts by viewers. In the analysis of the produced video, the combination of semiotic resources, such as sounds, images, mathematical symbols, gestures, colors, written and oral language, reveals a multimodal approach that seeks to communicate mathematical concepts in a captivating and meaningful way.</dc:description>
+	<dc:description xml:lang="es">El artículo informa sobre una experiencia de producción de videos matemáticos por parte de estudiantes de los últimos años de la escuela primaria, con el objetivo de analizar, en el video producido, cómo los estudiantes utilizaron e integraron recursos semióticos para comunicar conocimientos matemáticos. La metodología empleada fue de naturaleza cualitativa. El análisis se realizó utilizando la Teoría Funcional Sistémica -Análisis del Discurso Multimodal, que permite no solo investigar la relación entre elementos visuales, verbales y auditivos presentes en este tipo de medios, sino también comprender cómo estos elementos se relacionan y contribuyen al significado general del video. Este análisis nos permite identificar las estrategias de comunicación utilizadas por los estudiantes, así como comprender el efecto de estos recursos en la comprensión de conceptos matemáticos por parte de los espectadores. En el análisis del video producido, la combinación de recursos semióticos, como sonidos, imágenes, símbolos matemáticos, gestos, colores, lenguaje escrito y oral, revela un enfoque multimodal que busca comunicar conceptos matemáticos de una manera cautivadora y significativa.</dc:description>
+	<dc:description xml:lang="pt-BR">O artigo relata uma experiência de produção de vídeo matemático por alunos dos anos finais do Ensino Fundamental, com o objetivo de analisar, no vídeo produzido, de que maneira os estudantes usaram e integraram recursos semióticos para comunicar os conhecimentos matemáticos. A metodologia utilizada foi de cunho qualitativo. A análise foi realizada a partir da Teoria Sistêmico Funcional - Análise do Discurso Multimodal, que permite, além de investigar a relação entre os elementos visuais, verbais e sonoros presentes nesse tipo de mídia, também compreender como esses elementos se relacionam e contribuem para a construção do significado geral do vídeo. Esta análise nos permite identificar as estratégias de comunicação utilizadas pelos alunos, como também compreender o efeito desses recursos na compreensão dos conceitos matemáticos pelos espectadores. Na análise do vídeo produzido, a combinação dos recursos semióticos, como sons, imagens, símbolos matemáticos, gestos, cores, linguagem escrita e oral, revela uma abordagem multimodal que procura comunicar os conceitos matemáticos de uma forma cativante e significativa.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0201</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0201</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0201</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0201/17697</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26380</identifier>
+				<datestamp>2024-10-21T11:08:38Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Digital videos for teaching geometry using the quadriculated mesh: report of experience in the early years of elementary school</dc:title>
+	<dc:title xml:lang="es">Videos digitales para la enseñanza de geometría utilizando la malla cuadriculada: reporte de experiencia en los primeros años de escuela primaria</dc:title>
+	<dc:title xml:lang="pt-BR">Vídeos digitais para o ensino de geometria com o apoio da malha quadriculada: relato de experiência nos anos iniciais do ensino fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Portela, Márcia da Silva Santos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Oliveira, Carloney Alves de</dc:creator>
+	<dc:subject xml:lang="pt-BR">produção de vídeo</dc:subject>
+	<dc:subject xml:lang="pt-BR">geometria</dc:subject>
+	<dc:subject xml:lang="pt-BR">malha quadriculada</dc:subject>
+	<dc:subject xml:lang="pt-BR">anos Iniciais</dc:subject>
+	<dc:subject xml:lang="es">producción de vídeo</dc:subject>
+	<dc:subject xml:lang="es">geometría</dc:subject>
+	<dc:subject xml:lang="es">malla a cuadros</dc:subject>
+	<dc:subject xml:lang="es">primeros años</dc:subject>
+	<dc:subject xml:lang="en">video production</dc:subject>
+	<dc:subject xml:lang="en">geometry</dc:subject>
+	<dc:subject xml:lang="en">checkered mesh</dc:subject>
+	<dc:subject xml:lang="en">early years</dc:subject>
+	<dc:description xml:lang="en">The aim of this article is to present an experience report on the production of digital videos for teaching geometry with the support of the grid in the early years of elementary school. An intervention was carried out in a public school in Maceió, in the fifth year of the early years of elementary school. The videos were produced by the teacher and made available in the virtual environment as a digital learning resource for the classes involved. The videos deal with the teaching of geometry, with the object of knowledge being the enlargement and reduction of polygonal figures on checkered meshes: recognizing the congruence of angles and the proportionality of the corresponding sides. And as a skill (EF05MA18) &quot;recognizing the congruence of angles and the proportionality between the corresponding sides of polygonal figuresin situations of enlargement and reduction on checkered grids and using digital technologies&quot;. With this, we point out that the videos provide learning that involves creativity and the possibility of re-signifying geometry concepts, which emerge from themes and environments in the student&#039;s daily life, promoting greater involvement and engagement in math classes.</dc:description>
+	<dc:description xml:lang="es">El objetivo de este artículo es presentar un informe de experiencia sobre la producción de vídeos digitales para la enseñanza de la geometría con el apoyo de la red en los primeros años de la escuela primaria. La intervención se llevó a cabo en una escuela pública de Maceió, en el quinto año de los primeros años de la escuela primaria. Los vídeos fueron producidos por el profesor y puestos a disposición en el ambientevirtual como recurso digital de aprendizaje para las clases involucradas. Los vídeos tratan de la enseñanza de la geometría, siendo el objeto de conocimiento la ampliación y reducción de figuras poligonales en mallas cuadriculadas: reconociendo la congruencia de los ángulos y la proporcionalidad de los lados correspondientes. Y como destreza (EF05MA18) &quot;reconocer la congruencia de ángulos y la proporcionalidad entre los lados correspondientes de figuras poligonales en situaciones de ampliación y reducción sobre mallas cuadriculadas y utilizando tecnologías digitales&quot;. Con esto, podemos ver que los videos proporcionan un aprendizaje que involucra la creatividad y la posibilidad de resignificar conceptos de geometría, que surgen de temas y ambientes de la vida cotidiana del alumno, promoviendo una mayor implicación y compromiso en las clases de matemáticas.</dc:description>
+	<dc:description xml:lang="pt-BR">Este artigo tem como objetivo apresentar um relato de experiência acerca da elaboração de vídeos digitais para o ensino de geometria com o apoio da malha quadriculada nos anos iniciais do Ensino Fundamental, tendo sido realizada uma intervenção em uma escola pública de Maceió, no quinto ano dos anos iniciais do Ensino Fundamental. Os vídeos foram produzidos pela professora e disponibilizados no ambiente virtual como recurso digital de aprendizagem para turmas envolvidas. Os vídeos abordam o ensino de geometria, tendo como objeto de conhecimento a ampliação e redução de figuras poligonais em malhas quadriculadas: reconhecimento da congruência dos ângulos e da proporcionalidade dos lados correspondentes. E como habilidade (EF05MA18) “reconhecer a congruência dos ângulos e a proporcionalidade entre os lados correspondentes de figuras poligonais em situações de ampliação e de redução em malhas quadriculadas e usando tecnologias digitais”. Com isso, apontamos que os vídeos proporcionam uma aprendizagem que envolvam a criatividade e a possibilidade para ressignificar os conceitos de geometria, que emergem de temas e ambientes do cotidiano do aluno, promovendo um maior envolvimento e engajamento nas aulas de Matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0106</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0106</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0106</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0106/17685</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26381</identifier>
+				<datestamp>2024-10-21T11:08:36Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Student digital authorship in learning Differential and Integral Calculus in Engineering courses</dc:title>
+	<dc:title xml:lang="es">Autoría digital estudiantil en el aprendizaje de Cálculo Diferencial e Integral en cursos de Ingeniería</dc:title>
+	<dc:title xml:lang="pt-BR">Autoria digital discente no aprendizado de Cálculo Diferencial e Integral em cursos de Engenharia</dc:title>
+	<dc:creator xml:lang="pt-BR">Gomes, Cristiane Ruiz</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silva, Paulo Vilhena da</dc:creator>
+	<dc:subject xml:lang="pt-BR">performance matemática digital</dc:subject>
+	<dc:subject xml:lang="pt-BR">autoria discente</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino de cálculo</dc:subject>
+	<dc:subject xml:lang="pt-BR">engenharias</dc:subject>
+	<dc:subject xml:lang="es">rendimiento matemático digital</dc:subject>
+	<dc:subject xml:lang="es">autoría del estudiante;</dc:subject>
+	<dc:subject xml:lang="es">enseñanza del cálculo</dc:subject>
+	<dc:subject xml:lang="es">ingeniería</dc:subject>
+	<dc:subject xml:lang="en">digital mathematics performance</dc:subject>
+	<dc:subject xml:lang="en">student authorship</dc:subject>
+	<dc:subject xml:lang="en">calculus teaching</dc:subject>
+	<dc:subject xml:lang="en">engineering</dc:subject>
+	<dc:description xml:lang="en">Traditionally, the basic cycle of engineering courses is made up of theoretical subjects in Calculus and Physics. These provide the fundamental content for future applications in specific disciplines, however it is common for students of such courses to feel unmotivated, since the teaching approach of these disciplines is, as a rule, theoretical and conceptual, not envisioning the application of the contents developed in class. In order to this scenario, in this article, we propose an approach to student digital authorship, through Digital Mathematical Performance in Differential and Integral Calculus discipline, in which students learn through the creation of digital media such as videos, e-books and Instagram posts, among others. The research follows the molds of a participant investigation in a qualitative approach. In this, it was observed that students feel more motivated, as well as consider that they obtain better learning when there is the possibility of using, manipulating, expressing themselves through the creation of digital media.</dc:description>
+	<dc:description xml:lang="es">Tradicionalmente, el ciclo básico de las carreras de ingeniería se compone de asignaturas teóricas de Cálculo y Física. Estos brindan el contenido fundamental para futuras aplicaciones en disciplinas específicas, sin embargo, es común que los estudiantes de dichos cursos se sientan desmotivados, ya que el enfoque de enseñanza de estas disciplinas es, por regla general, teórico y conceptual,sin contemplar la aplicación de los contenidos desarrollado en clase. Con el objetivo de contribuir a este escenario, este artículo propone un acercamiento a la autoría digital de los estudiantes, a través del Desempeño Matemático Digital en la disciplinade Cálculo Diferencial e Integral, en el que los estudiantes aprenden a través de la creación de medios digitales como videos, libros electrónicos y publicaciones en Instagram. entre otros. La investigación sigue los moldes de una investigación participante en un enfoque cualitativo. En este se observó que los estudiantes se sienten más motivados, así como también consideran que obtienen mejores aprendizajes cuando existe la posibilidad de utilizar, manipular, expresarse a través de la creación de medios digitales.</dc:description>
+	<dc:description xml:lang="pt-BR">Tradicionalmente, o ciclo básico dos cursos de engenharia é composto por disciplinas teóricas de Cálculo e Física. Essas fornecem o conteúdo fundamental para aplicações futuras nas disciplinas específicas, entretanto, é comum os alunos de tais cursos se sentirem desmotivados, uma vez que a abordagem de ensino dessas disciplinas é, geralmente, teórica e conceitual, pois não vislumbra a aplicação dos conteúdos desenvolvidos nas aulas. Visando contribuir para a melhoria desse cenário, o presente artigo propõe uma abordagem de autoria digital discente, por meio da Performance Matemática Digital na disciplina de Cálculo Diferencial e Integral, na qual os alunos aprendem por meio da criação de mídias digitais, como vídeos, e-books, postagens no Instagram. A pesquisa segue os moldes de uma investigação participante numa abordagem qualitativa, em que se observou que os educandos se sentem mais motivados, bem como consideram que obtêm um melhor aprendizado quando há a possibilidade de utilizar, manipular e expressar através da criação de mídias digitais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0107</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0107</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0107</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0107/17686</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26382</identifier>
+				<datestamp>2024-10-21T11:08:34Z</datestamp>
+				<setSpec>boem:REX</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Exploring sequences and algebraic symbolism through an educational vídeo</dc:title>
+	<dc:title xml:lang="es">Explorando secuencias y simbología algebraica a través de un video educativo</dc:title>
+	<dc:title xml:lang="pt-BR">Explorando sequências e simbologia algébrica por meio de um vídeo educativo</dc:title>
+	<dc:creator xml:lang="pt-BR">Fagundes, Maria Eliza de França</dc:creator>
+	<dc:creator xml:lang="pt-BR">Moura, Carla Saturnina Ramos de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Costa, Nancy Lima</dc:creator>
+	<dc:subject xml:lang="pt-BR">álgebra</dc:subject>
+	<dc:subject xml:lang="pt-BR">matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">tecnologias digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">multimodalidade</dc:subject>
+	<dc:subject xml:lang="es">álgebra</dc:subject>
+	<dc:subject xml:lang="es">matemáticas</dc:subject>
+	<dc:subject xml:lang="es">tecnologías digitales</dc:subject>
+	<dc:subject xml:lang="es">multimodalidad</dc:subject>
+	<dc:subject xml:lang="en">álgebra</dc:subject>
+	<dc:subject xml:lang="en">mathematics</dc:subject>
+	<dc:subject xml:lang="en">digital technologies</dc:subject>
+	<dc:subject xml:lang="en">multimodality</dc:subject>
+	<dc:description xml:lang="en">This experience report aims to present the construction and experience of an educational video about sequences and algebraic symbolism. This material was produced during the Professional Practice course of a mathematics degree program and experienced with a 7th-grade class of Elementary School. The development of the video followed the following steps: content selection, script creation, audio production, and scene development. Using the Canva platform, the video was developed to include illustrations, animations, and voice narration that explain the concepts visually and audibly. During the video experience, pauses were made for questions about numerical sequences, where students had moments to reflect and respond, with responses being collected, then the video presentation continued to present the answers. This interaction promoted student engagement, who showed interest and active participation. The assessment by the mathematics teacher of the Basic Education student group pointed out that the video has technical quality and pedagogical potential, suggesting that the use of this technological material can significantly enrich the teaching and learning of mathematical concepts.</dc:description>
+	<dc:description xml:lang="es">Este relato de experiencia tiene como objetivo presentar la construcción y experiencia de un video educativo sobre secuencias y simbolismo algebraico. Este material se produjo durante la asignatura de Práctica Profesional de un grado en matemáticas y se vivenció con un grupo de 7º grado de Educación Primaria. El desarrollo del video siguió las siguientes etapas: selección del contenido, creación del guion, producción de audio y elaboración de las escenas. Utilizando la plataforma Canva, se desarrolló el video incluyendo ilustraciones, animaciones y narración sonora que explican los conceptos de forma visual y auditiva. Durante la experiencia del video, se realizaron pausas para cuestionamientos sobre secuencias numéricas, donde los alumnos tenían momentos para reflexionar y responder, recogiéndose las respuestas, para luego continuar con la presentación del video en que se presentaban las respuestas. Esta interacción promovió la participación de los alumnos, quienes demostraron interés y participación activa. La evaluación de la profesora de matemáticas del grupo de estudiantes de Educación Básica indicó que el video tiene calidad técnica y potencial pedagógico, sugiriendo que el uso de este material tecnológico puede enriquecer significativamente la enseñanza y el aprendizaje de conceptos matemáticos.</dc:description>
+	<dc:description xml:lang="pt-BR">Esse relato de experiência objetiva apresentar a construção e vivência de um vídeo educativo sobre sequências e simbologia algébrica. Esse material foi produzido durante a disciplina de Prática Profissional de um curso de Licenciatura em Matemática e vivenciado com uma turma do 7º ano do Ensino Fundamental. O desenvolvimento do vídeo seguiu as seguintes etapas: seleção do conteúdo, criação do roteiro, produção de áudio e elaboração das cenas. Utilizando a plataforma Canva, o vídeo foi desenvolvido incluindo ilustrações, animações e narração que explanam os conceitos de forma visual e auditiva. Durante a vivência do vídeo, foram realizadas pausas para questionamentos sobre sequências numéricas, onde os alunos tinham momentos para refletir e responder, sendo coletadas as respostas, em seguida prosseguia-se com a apresentação do vídeo sendo apresentadas as resoluções. Essa interação promoveu o envolvimento dos alunos, que demonstraram interesse e participação ativa. A avaliação da professora de matemática da turma de estudantes da Educação Básica apontou que o vídeo tem qualidade técnica e potencial pedagógico, sugerindo que o uso desse material tecnológico pode auxiliar o ensino e a aprendizagem de conceitos matemáticos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0202</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0202</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0202</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0202/17687</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26383</identifier>
+				<datestamp>2024-10-21T11:08:32Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Formative assessment of videos in Calculus classes: an enriching experience during the pandemic era</dc:title>
+	<dc:title xml:lang="es">Evaluación formativa de videos en clases de Cálculo: una experiencia enriquecedora en la época de la pandemia</dc:title>
+	<dc:title xml:lang="pt-BR">Avaliação formativa por meio de vídeos em turmas de Cálculo: uma experiência enriquecedora na época da pandemia</dc:title>
+	<dc:creator xml:lang="pt-BR">Bezerra, Wescley Well Vicente</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Rogério César dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gontijo, Cleyton Hércules</dc:creator>
+	<dc:subject xml:lang="pt-BR">avaliação formativa</dc:subject>
+	<dc:subject xml:lang="pt-BR">feedback</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino de Cálculo Diferencial e Integral</dc:subject>
+	<dc:subject xml:lang="pt-BR">aulas remotas</dc:subject>
+	<dc:subject xml:lang="pt-BR">produção de vídeo estudantil</dc:subject>
+	<dc:subject xml:lang="es">evaluación formativa</dc:subject>
+	<dc:subject xml:lang="es">retroalimentación</dc:subject>
+	<dc:subject xml:lang="es">enseñanza del cálculo diferencial e integral</dc:subject>
+	<dc:subject xml:lang="es">clases a distancia</dc:subject>
+	<dc:subject xml:lang="es">producción de video estudiantil</dc:subject>
+	<dc:subject xml:lang="en">formative assessment</dc:subject>
+	<dc:subject xml:lang="en">feedback</dc:subject>
+	<dc:subject xml:lang="en">differential and integral calculus teaching</dc:subject>
+	<dc:subject xml:lang="en">remote classes</dc:subject>
+	<dc:subject xml:lang="en">student video production</dc:subject>
+	<dc:description xml:lang="en">The aim of this article is to report on a case study of formative assessment carried out using videos, with two classes, one in Calculus I and the other in Calculus 2, at a Brazilian university, during the covid-19 pandemic between 2020 and 2021. The methodology used to analyze the activities developed was qualitative. In order to assess learning in the subject, students sent videos to the teacher every week, showing the answers they had produced to the activities and explaining how they had developed each one. As feedback, the teacher commented oneach resolution on the Teams platform. We concluded that assessment through videos produced by the students favored learning from a formative perspective, with two main characteristics: firstly, it allowed students not only to write down their resolutions, but also to explain them orally, exposing their thoughts in the development of the answers; secondly, it gave the teacher a better understanding of the students&#039; cognitive process, through their speeches, allowing them to provide more precise feedback inrelation to the aspects that needed to be improved for academic success in the subjects.</dc:description>
+	<dc:description xml:lang="es">El objetivo de este artículo es relatar un estudio de caso de evaluación formativa realizado por medio de videos, con dos clases, una de Cálculo I y otrade Cálculo 2, en una universidad brasileña, durante la pandemia de covid-19, entre 2020 y 2021. La metodología utilizada para analizar las actividades desarrolladas fue cualitativa. Para evaluar el aprendizaje de la asignatura, los alumnos enviaron semanalmente al profesor vídeos con las respuestas que habían producido a las actividades, explicando cómo habían desarrollado cada una de ellas. Como feedback, el profesor comentaba cada resolución en la plataforma Teams. Concluimos que la evaluación mediante vídeos producidos por los alumnos favorecía el aprendizaje desde una perspectiva formativa, con dos características principales: en primer lugar, permitía a los alumnos no sólo escribir sus soluciones, sino también exponerlas oralmente, explicando sus reflexiones al desarrollar sus respuestas; en segundo lugar, proporcionaba al profesor una mejor comprensión del proceso cognitivo de los alumnos a través de su discurso, permitiéndole proporcionar un feedback más preciso en relación con los aspectos que debíanmejorar para el éxito académico en las asignaturas.</dc:description>
+	<dc:description xml:lang="pt-BR">O objetivo deste artigo é relatar um estudo de caso de avaliação formativa realizada por meio de vídeos, com duas turmas, uma de Cálculo I e outra de Cálculo 2, em uma universidade brasileira, no período da pandemia do covid-19 entre os anos de 2020 e 2021. A metodologia utilizada para a análise das atividades desenvolvidas foi a qualitativa. Para as avaliações das aprendizagens na disciplina, os estudantes enviavam vídeos ao professor, semanalmente, mostrando as respostas produzidas para as atividades, explicando como desenvolveram cada uma delas. Como feedback, o professor comentava cada resolução em forma de comentário, na plataforma Teams. Concluímos que a avaliação por meio de vídeos produzidos pelos alunos favoreceu as aprendizagens numa perspectiva formativa, com duas características principais: a primeira, proporcionou ao estudante não apenas a escrever suas resoluções, mas também a explica-las&amp;nbsp; oralmente, expondo os seus pensamentos no desenvolvimento das respostas; a outra, proporcionou ao professor uma melhor compreensão do processo cognitivo dos estudantes, por meio de suas falas, permitindo fornecer feedbacks mais precisos em relação aos aspectos que necessitavam ser aprimorados para o sucesso acadêmico nas disciplinas.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0108</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0108</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0108</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0108/17688</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26384</identifier>
+				<datestamp>2024-10-21T11:08:31Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Regionalized video lesson: a teaching tool in the process of teaching the fundamental principle of counting</dc:title>
+	<dc:title xml:lang="es">Videolección regionalizada: una herramienta didáctica en el proceso de enseñanza del principio fundamental del conteo</dc:title>
+	<dc:title xml:lang="pt-BR">Videoaula regionalizada: uma ferramenta didática no processo  de ensino do princípio fundamental da contagem</dc:title>
+	<dc:creator xml:lang="pt-BR">Martins, Matheus dos Santos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gil, Rita Sidmar Alencar</dc:creator>
+	<dc:subject xml:lang="pt-BR">tecnologias de informação e comunicação</dc:subject>
+	<dc:subject xml:lang="pt-BR">videoaula</dc:subject>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">análise combinatória</dc:subject>
+	<dc:subject xml:lang="es">tecnologías de la información y las comunicaciones</dc:subject>
+	<dc:subject xml:lang="es">video aula</dc:subject>
+	<dc:subject xml:lang="es">educación matemática</dc:subject>
+	<dc:subject xml:lang="es">análisis combinatório</dc:subject>
+	<dc:subject xml:lang="en">information and communication Technologies</dc:subject>
+	<dc:subject xml:lang="en">video lessons</dc:subject>
+	<dc:subject xml:lang="en">mathematics education</dc:subject>
+	<dc:subject xml:lang="en">combinatorial analysis</dc:subject>
+	<dc:description xml:lang="en">This article presents an excerpt from an undergraduate research whose objective is to analyze the production of a video lesson with regionalized themes on Combinatorial Analysis content, with a view to its use as a teaching instrument inside and outside the classroom. This production is a continuation of the VideoMat Project, from PIBID/IFPA/Campus Belém. The study was established on the theoretical references of Ethnomathematics and Information and Communication Technologies, such as: D&#039;Ambrósio (2002; 2009), Ponte (1995; 2000 ), Moran (1995),among others. This theoretical basis, with the support of PIBID, allowed the production of a high quality regionalized video lesson, recorded in the main tourist attraction of Pará (Ver-o-peso), with typical Pará language, situations, soundtrack, making the (future) student perceives content that is closer to their reality, with more meaning; promoting better fixation of the topics covered, being able to access it as many times, wherever and whenever you want. This video lesson is available on YouTube and can be used both by teachers, as a teaching tool, and by students. Thus, we hope to contribute so that education professionals can take advantage of this educational product in order to provide a more qualified education, with more meaning and that prepares them for life in a society that is increasingly technological.</dc:description>
+	<dc:description xml:lang="es">Este artículo presenta un extracto de una investigación de pregrado cuyo objetivo es analizar la producción de una videolección con temas regionalizados sobre contenidos de Análisis Combinatorio, con miras a su utilización como instrumento de enseñanza dentro y fuera del aula. Esta producción es continuación del Proyecto VideoMat, del PIBID/IFPA/Campus Belém, cuyo estudio se basó en los referentes teóricos de la Etnomatemática y las Tecnologías de la Información y la Comunicación, tales como: D&#039;Ambrósio (2002; 2009), Ponte (1995; 2000 ), Morán (1995), entre otros. Esta base teórica, con el apoyo del PIBID, permitió la producción de una videolección regionalizada de alta calidad, grabada en el principal atractivo turístico de Pará (Ver-o-peso), con lengua típica de Pará, situaciones, banda sonora, haciendo el (futuro) estudiante percibe contenidos más cercanos a su realidad, con más significado; promoviendo una mejor fijación de los temas tratados, pudiendo acceder a él tantas veces, donde y cuando quieras. Esta videolección está disponible en YouTube y puede ser utilizada tanto por profesores, como herramienta didáctica, como por estudiantes. Así, esperamos contribuir a que los profesionales de la educación puedan aprovechar este producto educativo para proporcionar una educación más cualificada, con más sentido y que les prepare para la vida en una sociedad cada vez más tecnológica.</dc:description>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta um recorte de uma pesquisa de graduação cujo objetivo é analisar a respeito da produção de uma videoaula com temas regionalizados sobre um conteúdo de Análise Combinatória, tendo em vista sua utilização como um instrumento de ensino dentro e fora da sala de aula. Essa produção é uma continuação do Projeto VideoMat, do PIBID/IFPA/Campus Belém. O estudo foi estabelecido sobre os referenciais teóricos de Etnomatemática e Tecnologias de Informação e Comunicação, como: D’Ambrósio (2002; 2009), Ponte (1995; 2000), Moran (1995), entre outros. Essa base teórica com o apoio do PIBID permitiu a produção de uma videoaula regionalizada de qualidade alta, gravada no principal ponto turístico do Pará (Ver-o-peso), com linguagem, situações, trilha sonora tipicamente paraenses, fazendo com que o (futuro) aluno perceba os conteúdos mais próximos de sua realidade, com mais significado; promovendo a melhor fixação dos assuntos trabalhados, podendo ter acesso quantas vezes, onde e quando quiser. Essa videoaula está disponível no Youtube, podendo ser usada tanto por professores, como uma ferramenta de ensino, como por estudantes. Assim, esperamos contribuir para que os profissionais da área da educação possam se apropriar deste produto educacional a fim de proporcionar uma educação mais qualificada, com mais significado e que prepare para a vida em uma sociedade a qual está cada vez mais tecnológica.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0109</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0109</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0109</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0109/17689</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26385</identifier>
+				<datestamp>2024-10-21T11:08:29Z</datestamp>
+				<setSpec>boem:ENS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The production of digital videos as a possibility for evaluative practice</dc:title>
+	<dc:title xml:lang="es">La producción de videos digitales como una posibilidad de práctica evaluativa</dc:title>
+	<dc:title xml:lang="pt-BR">A produção de vídeos digitais como uma possibilidade de prática avaliativa</dc:title>
+	<dc:creator xml:lang="pt-BR">Schünemann, Tiele Aquino</dc:creator>
+	<dc:creator xml:lang="pt-BR">Borba, Marcelo de Carvalho</dc:creator>
+	<dc:subject xml:lang="pt-BR">vídeos digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">prática avaliativa</dc:subject>
+	<dc:subject xml:lang="pt-BR">estágio docência</dc:subject>
+	<dc:subject xml:lang="pt-BR">imagem pública da matemática</dc:subject>
+	<dc:subject xml:lang="es">videos digitales</dc:subject>
+	<dc:subject xml:lang="es">práctica evaluativa</dc:subject>
+	<dc:subject xml:lang="es">pasantía docente</dc:subject>
+	<dc:subject xml:lang="es">magen pública de las matemáticas</dc:subject>
+	<dc:subject xml:lang="en">digital videos</dc:subject>
+	<dc:subject xml:lang="en">evaluative practice</dc:subject>
+	<dc:subject xml:lang="en">teaching internship</dc:subject>
+	<dc:subject xml:lang="en">public image of mathematics</dc:subject>
+	<dc:description xml:lang="en">The objective of this essay on videos as an evaluation tool is to present the production of digital videos as a possibility for evaluative practice in teaching degree courses. Based on the experience gained through the teaching internship developed by the Program for Improvement and Support of Teaching in Higher Education (PAADES) at the São Paulo State University, Rio Claro/SP campus, we worked with a group of Mathematics students from the aforementioned institution, following the process of producing videos with mathematical content by the students and the subsequent presentation of their productions. These videos were evaluated andcontributed to the final grade of the course. As results, we highlight the participation, creativity, and engagement of the students in the video production process. We consider that, more than just a form of evaluation, this activity demonstrates the importance of how mathematical content can be presented, as well as how mathematical learning is constituted when students participate in learning collectives. Furthermore, this practice contributes to changing the public image of Mathematics.</dc:description>
+	<dc:description xml:lang="es">El objetivo de este ensayo sobre los videos como herramienta de evaluación es presentar la producción de videos digitales como una posibilidad de práctica evaluativa en los cursos de licenciatura. A partir de la experiencia en la pasantía docente desarrollada por el Programa de Mejora y Apoyo a la Docencia en la Educación Superior (PAADES) de la Universidad Estatal de São Paulo, campus de Rio Claro/SP, trabajamos con un grupo de estudiantes de curso de licenciatura em matemáticasde la mencionada institución, siguiendo el proceso de producción de videos con contenidos matemáticos por parte de los estudiantes y la posterior presentación de sus producciones. Estos videos fueron evaluados y contribuyeron a la nota final de la asignatura. Como resultados, destacamos la participación, creatividad y compromiso de los estudiantes en el proceso de producción de videos. Consideramos que, más que una forma de evaluación, esta actividad demuestra la importancia de cómo se puede presentar el contenido matemático, así como de cómo se constituye el aprendizaje matemático cuando los estudiantes participan en colectivos de aprendizaje. Además, esta práctica contribuye a cambiar la imagen pública de las Matemáticas.</dc:description>
+	<dc:description xml:lang="pt-BR">O objetivo deste ensaio sobre vídeos como forma de avaliação é apresentar a produção de vídeos digitais como uma possibilidade de prática avaliativa em cursos de licenciatura. A partir da experiência no estágio docência desenvolvido pelo Programa de Aperfeiçoamento e Apoio à Docência no Ensino Superior (PAADES) da Universidade Estadual Paulista, campus Rio Claro/SP, vivenciamos junto a uma turma do curso de Matemática da referida instituição, a experiência de acompanhar o desenvolvimento da produção de vídeos com conteúdos matemáticos pelos alunos e posterior apresentação das produções, sendo que as mesmas foram avaliadas e compuseram a nota final da disciplina. Como resultados, destacamos a participação, criatividade e engajamento dos alunos no processo da produção de vídeos. Consideramos que, mais que uma forma de avaliação, essa atividade demonstra a importância do modo como conteúdos matemáticos podem ser apresentados, bem como da constituição da aprendizagem matemática pelos alunos ao participar de coletivos de aprendizagem, além de esta prática proporcionar o papel de modificar a imagem pública da Matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0301</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0301</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0301</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0301/17690</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26386</identifier>
+				<datestamp>2024-10-21T11:08:27Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Technological knowledge with mathematics in the production of interactive videos</dc:title>
+	<dc:title xml:lang="es">Conocimientos tecnológicos con matemáticas en la producción de videos interactivos</dc:title>
+	<dc:title xml:lang="pt-BR">Conhecimento tecnológico com a matemática na produção de vídeos interativos</dc:title>
+	<dc:creator xml:lang="pt-BR">Campos, Arthur Ferreira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Souza Junior, Arlindo José de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Lopes, Érika Maria Chioca</dc:creator>
+	<dc:subject xml:lang="pt-BR">vídeos interativos</dc:subject>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">tecnologias digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">orientação didática</dc:subject>
+	<dc:subject xml:lang="en">interactive videos</dc:subject>
+	<dc:subject xml:lang="en">mathematics education</dc:subject>
+	<dc:subject xml:lang="en">digital technologies</dc:subject>
+	<dc:subject xml:lang="en">didactic guidance</dc:subject>
+	<dc:subject xml:lang="es">videos interactivos</dc:subject>
+	<dc:subject xml:lang="es">educación matemática</dc:subject>
+	<dc:subject xml:lang="es">tecnologías digitales</dc:subject>
+	<dc:subject xml:lang="es">orientación didáctica</dc:subject>
+	<dc:description xml:lang="en">This research highlighted the potential results obtained from the use of interactive videos in the first period of a subject in the in-person Mathematics course at a public university. As these classes were applied in times of pandemic, the modality was developed remotely through the virtual environment Microsoft Teams. As methodological procedures, we observed participants on the learning platform, with the aim of preparing university students for a modern and dynamic approach, through facilitating tools for making interactive videos. The participation of graduates resulted in the production of videos where it was possible to analyze the challenges faced, among other records. All data produced was systematized, which made it possible to highlight the importance of Technological Content Knowledge.</dc:description>
+	<dc:description xml:lang="es">Esta investigación destacó los potenciales resultados obtenidos del uso de videos interactivos en el primer período de una asignatura del curso presencial de Matemáticas en una universidad pública. Como estas clases se aplicaron en tiempos de pandemia, la modalidad se desarrolló de forma remota a través del entorno virtual Microsoft Teams. Como procedimientos metodológicos, observamos a los participantes en la plataforma de aprendizaje, con el objetivo de preparar a los estudiantes universitarios para un enfoquemoderno y dinámico, a través de facilitarles herramientas para la realización de videos interactivos. La participación de los egresados resultó en la producción de videos donde fue posible analizar los desafíos enfrentados, entre otros registros. Todos los datos producidos fueron sistematizados, lo que permitió resaltar la importancia del Conocimiento de los Contenidos Tecnológicos.</dc:description>
+	<dc:description xml:lang="pt-BR">Essa pesquisa evidenciou os potenciais resultados obtidos a partir do uso de vídeos interativos no primeiro período de uma disciplina do curso presencial de Matemática de uma universidade pública. Como essas aulas foram aplicadas em tempos de pandemia, a modalidade foi desenvolvida à distância por meio do ambiente virtual Microsoft Teams. Como procedimentos metodológicos observamos os participantes na plataforma de aprendizado, com o objetivo de preparar os alunos da universidade para uma abordagem moderna e dinâmica, por meio de ferramentas facilitadoras para confecção de vídeos interativos. A participação dos licenciandos resultou na produção de vídeos onde foi possível analisar os desafios enfrentados entre outros registros. Sistematizou-se todos os dados produzidos, os quais possibilitaram evidenciar a importância do Conhecimento Tecnológico do Conteúdo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0110</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0110</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0110</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0110/17691</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26387</identifier>
+				<datestamp>2024-10-21T11:08:24Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Video showcase of the VII Festival of Digital Videos and Mathematics Education</dc:title>
+	<dc:title xml:lang="es">Muestra de vídeos del VII Festival de Vídeos Digitales y Educación Matemática</dc:title>
+	<dc:title xml:lang="pt-BR">Mostra de vídeos do VII Festival de Vídeos Digitais e Educação Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Costa, Rosicácia Florêncio</dc:creator>
+	<dc:creator xml:lang="pt-BR">Borba, Marcelo de Carvalho</dc:creator>
+	<dc:creator xml:lang="pt-BR">Domingues, Nilton Silveira</dc:creator>
+	<dc:subject xml:lang="pt-BR">vídeos</dc:subject>
+	<dc:subject xml:lang="pt-BR">festival de vídeos digitais e educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">tecnologias digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">educação matemática</dc:subject>
+	<dc:subject xml:lang="es">vídeos</dc:subject>
+	<dc:subject xml:lang="es">festivales</dc:subject>
+	<dc:subject xml:lang="es">tecnologías digitales</dc:subject>
+	<dc:subject xml:lang="es">educación matemática</dc:subject>
+	<dc:subject xml:lang="en">videos</dc:subject>
+	<dc:subject xml:lang="en">festivals</dc:subject>
+	<dc:subject xml:lang="en">digital technologies</dc:subject>
+	<dc:subject xml:lang="en">mathematics education</dc:subject>
+	<dc:description xml:lang="en">This article aims to analyze the experiences shared by video producers in the video shows at the VII Festival of Digital Videos and Mathematics Education. The sources of data production are observations and statements made during the video shows developed at the award ceremony at UNESP, Rio Claro, SP, coordinated by the Research Group in Informatics, other Media and Mathematics Education. To analyze the data, we carried out a dialogue with part of the literature and ideas associated with the Human-Beings-With-Media construct. The results indicate that the “voices” of the participants in the VII Festival video show promote participant-organizer-media interactions, highlight the importance of the Video Festival in social and cultural content, in addition to presenting the challenges in video production and movements of changes in the classroom and pedagogical practices. Finally, we reason that videos are produced by collectives of human-beings-with-media, where they become actors in a new system, therefore having the power of action within this new system. The video, in this scenario, becomes an actor in several parts, as well as an artifact and community.</dc:description>
+	<dc:description xml:lang="es">Este artículo tiene como objetivo analizar las experiencias compartidas por productores de video en las muestras de video del VII Festival de Videos Digitales y Educación Matemática. Las fuentes de producción de los datos son observaciones y declaraciones realizadas durante las proyecciones de videos desarrolladas en la ceremonia de premiación en la Unesp, en Rio Claro, SP, coordinada por el Grupo de Investigación en Informática, otros Medios y Educación Matemática. Para analizar los datos, llevamos a cabo un diálogo con parte de la literatura y las ideas asociadas al constructo Seres-Humanos-Con-Medios. Los resultados indican que las “voces” de los participantes en la video muestra del VII Festival promueven las interacciones participante-organizador-medios, resaltan la importanciadel Video Festival en los contenidos sociales y culturales, además de presentar los desafíos en la producción de videos y los movimientos de Cambios en el aula y prácticas pedagógicas. Finalmente, razonamos que los videos son producidos por colectivos de seres humanos con medios, donde se convierten en actores de un nuevo sistema y, por lo tanto, tienen el poder de acción dentro de este nuevo sistema. El vídeo, en este escenario, se convierte en actor en varias partes, además de artefacto y comunidad.</dc:description>
+	<dc:description xml:lang="pt-BR">Este artigo analisa as experiências compartilhadas pelos produtores de vídeos nas mostras do VII Festival de Vídeos Digitais e Educação Matemática. As fontes de produção dos dados são as observações e os depoimentos coletados durante as mostras de vídeos realizadas na cerimônia de premiação na UNESP, campus de Rio Claro (SP). O evento foi coordenado pelo Grupo de Pesquisa em Informática, Outras Mídias e Educação Matemática (GPIMEM). Para a análise dos dados, estabelecemos um diálogo com parte da literatura e nos fundamentamos em ideias associadas ao constructo Seres-Humanos-Com-Mídias. Os resultados indicam que as &quot;vozes&quot; dos participantes da mostra de vídeo do VII Festival promovem interações entre participantes-organizadores-mídias, destacam a importância do Festival de Vídeo no contexto social e cultural, além de apresentarem os desafios na produção de vídeos e as mudanças nas práticas pedagógicas e no ambiente da sala de aula. Por fim, argumentamos que os vídeos são produzidos por coletivos de seres-humanos-com-mídias, tornando-se atores de um novo sistema e, consequentemente, detentores de poder de ação dentro dele. Nesse cenário, o vídeo assume múltiplos papéis, atuando não apenas como artefato, mas também como ator e elemento de comunidade.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0111</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0111</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0111</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0111/17692</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26389</identifier>
+				<datestamp>2024-10-21T11:08:21Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">When video production moves into the Mathematics classroom</dc:title>
+	<dc:title xml:lang="es">Cuando la producción de vídeo llega al aula de Matemáticas</dc:title>
+	<dc:title xml:lang="pt-BR">Quando a produção de vídeos movimenta a sala de aula de Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Souza, Marcelo Batista de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Reis, Diógenes Rocha</dc:creator>
+	<dc:creator xml:lang="pt-BR">Belo, Edileusa do Socorro Valente</dc:creator>
+	<dc:subject xml:lang="pt-BR">tecnologia digital</dc:subject>
+	<dc:subject xml:lang="pt-BR">produção de vídeos</dc:subject>
+	<dc:subject xml:lang="pt-BR">multimodalidade</dc:subject>
+	<dc:subject xml:lang="es">tecnología digital</dc:subject>
+	<dc:subject xml:lang="es">producción de vídeo</dc:subject>
+	<dc:subject xml:lang="es">multimodalidad</dc:subject>
+	<dc:subject xml:lang="en">digital technology</dc:subject>
+	<dc:subject xml:lang="en">video production</dc:subject>
+	<dc:subject xml:lang="en">multimodality</dc:subject>
+	<dc:description xml:lang="en">How do public school students express mathematical content through digital video? This question promoted reflections on the production ‘Complex Numbers’, prepared by high school students, which we analyzed in light of multimodality, in addition to conducting the investigation based on a qualitative approach. To this end, we narrate the wanderings of a public school character we call Chico, we highlight some of his memories and we list excerpts from Pitty’s music. The data suggest that carrying out the activity is associated with an experience ‘totally different from the common classroom’, something ‘interesting’ for the students, which required attention, organization, creativity, and spontaneity. In our understanding, the demonstrations of these students announce that the engagement with the video production activity enabled learning, the deepening of themes, the meeting of groups, as well as the recognition that digital technology brings people together and plays ‘a role extremely important’ in education networks.</dc:description>
+	<dc:description xml:lang="es">¿Cómo expresan los estudiantes de escuelas públicas el contenido matemático a través del video digital? Esta pregunta promovió reflexiones sobre la producción ‘Números complejos’, elaborada por estudiantes de secundaria, la cual analizamos a la luz de la multimodalidad, además de realizar la investigación con un enfoque cualitativo. Para ello, narramos las andanzas de un personaje de escuela pública al que llamamos Chico y para resaltar algunos de sus recuerdos enumeramos extractos de la música de Pitty. Los datos sugieren que la realización de la actividad está asociada a una experiencia ‘totalmente diferente a la del aula común’, algo ‘interesante’ para los estudiantes, que requirió atención, organización, creatividad y espontaneidad. A nuestro entender, las manifestaciones de estos estudiantes anuncian que el compromiso con la actividad de producción de video permitió el aprendizaje, la profundización de los temas, el encuentro de grupos, así como el reconocimiento de que la tecnología digital une a las personas y juega ‘un papel extremadamente importante’ en las redes educativas.</dc:description>
+	<dc:description xml:lang="pt-BR">Como estudantes da escola pública expressam conteúdos matemáticos por meio de vídeo digital? Essa pergunta promoveu reflexões acerca da produção ‘Números complexos’, elaborada por estudantes do Ensino Médio, a qual analisamos à luz da multimodalidade, além de ter conduzido a investigação apoiada na abordagem qualitativa. Para tal, narramos andanças de um personagem da escola pública que chamamos de Chico, destacamos algumas de suas memórias e elencamos trechos da música de Pitty. Os dados sugerem que a realização da atividade se associa a uma vivência ‘totalmente diferente da sala de aula comum’, algo ‘interessante’ para os estudantes, que exigiu atenção, organização, criatividade e espontaneidade. Em nosso entendimento, as manifestações desses estudantes anunciam que o engajamento na atividade de produção de vídeo possibilitou aprendizagens, o aprofundamento de temas, a reunião de grupos, assim como o reconhecimento de que a tecnologia digital aproxima pessoas e desempenha ‘um papel importantíssimo’ nas redes de ensino.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0112</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0112</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0112</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0112/17693</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26390</identifier>
+				<datestamp>2024-10-21T11:08:19Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Planning pedagogical practice using video as a didactic resource in mathematics education</dc:title>
+	<dc:title xml:lang="es">Planificación de la práctica pedagógica utilizando el video como recurso didáctico en la enseñanza de las matemáticas</dc:title>
+	<dc:title xml:lang="pt-BR">Planejamento da prática pedagógica utilizando o vídeo como recurso didático no ensino de matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Gomes, Amanda Colombo</dc:creator>
+	<dc:creator xml:lang="pt-BR">Barrére, Eduardo</dc:creator>
+	<dc:subject xml:lang="pt-BR">plano de aula</dc:subject>
+	<dc:subject xml:lang="pt-BR">vídeo educacional</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino de Matemática</dc:subject>
+	<dc:subject xml:lang="es">plan de lección</dc:subject>
+	<dc:subject xml:lang="es">video educativo</dc:subject>
+	<dc:subject xml:lang="es">enseñanza de las matemáticas</dc:subject>
+	<dc:subject xml:lang="en">lesson plan</dc:subject>
+	<dc:subject xml:lang="en">educational video</dc:subject>
+	<dc:subject xml:lang="en">mathematics teaching</dc:subject>
+	<dc:description xml:lang="en">In the educational context and with the emergence of new technologies, new ways of learning and acquiring knowledge have arisen, prompting reflections on the didactic and methodological possibilities of using technological resources in the teaching and learning process. Among these technologies, video, due to its content presentation and arrangement and its ability to spark the imagination, has become an important tool gaining relevance in Mathematics Education. The use of this resource requires teachers not only to have knowledge and critical analysis of its content but also to plan when and how to use it in their practice. Consideringthis, this article presents a methodology to assist mathematics teachers in planning pedagogical practice using video media. A lesson plan will be presented, with a pedagogical and technical approach to using video media. The contributions of the plan areoptimizing time for planning practices using videos; understanding the pedagogical and technical aspects of the media; appropriately using audiovisual resources in the educational process of mathematics teaching; encouraging the use of videos in mathematics classes; and providing confidence in selecting the topic to be covered, based on curricular guidelines and utilizing media resources.</dc:description>
+	<dc:description xml:lang="es">Ante el contexto educativo y el surgimiento de nuevas tecnologías, han surgido nuevas formas de aprender y adquirir conocimiento, lo que produce reflexiones relacionadas con las posibilidades didácticas y metodológicas del uso de recursos tecnológicos en el proceso de enseñanza y aprendizaje. Entre estas tecnologías, el video, por la forma de disposición y presentación de los contenidos y por despertar la imaginación, se ha convertido en una herramienta importante que ha ganado relevancia en la Educación Matemática. El uso de este recursorequiere que el profesor, además de tener conocimiento y análisis crítico sobre su contenido, planifique el momento y la forma de utilizarlo en su práctica. Ante esto, este artículo presenta una propuesta de metodología que ayude a los profesores de Matemáticas a planificar la práctica pedagógica utilizando medios de video. Se presentará un plan de lección, con un enfoque pedagógico y técnico para el uso de los medios de video. Las contribuciones del plan son: optimización del tiempo para la planificación de prácticas utilizando videos; conocimiento de los aspectos pedagógicos y técnicos de los medios; uso adecuado del recurso audiovisual en el proceso educativo de la enseñanza de las matemáticas; fomento del uso de videos en las clases de matemáticas; y seguridad en la selección del tema a abordar, basándose en directrices curriculares y utilizando recursos mediáticos.</dc:description>
+	<dc:description xml:lang="pt-BR">Diante do contexto educacional e do surgimento de novas tecnologias, houve o despertar de novas formas de aprender e agregar conhecimento, o que produz reflexões relacionadas às possibilidades didáticas e metodológicas do uso de recursos tecnológicos no processo de ensino e aprendizagem. Entre essas tecnologias, o vídeo, em virtude da forma de disposição e apresentação dos conteúdos e do despertar da imaginação, tornou-se uma importante ferramenta que vem ganhando relevância na Educação Matemática. O emprego desse recurso requer do professor, além de ter conhecimento e análise crítica sobre seu conteúdo, planejamento para delinear o momento e a forma de utilização na sua prática. Diante disso, este artigo traz uma proposta de metodologia que auxilie professores de Matemática no planejamento da prática pedagógica utilizando a mídia vídeo. Será apresentado um plano de aula, com abordagem pedagógica e técnica para uso da mídia vídeo. As contribuições do plano são: otimização do tempo para o planejamento das práticas utilizando os vídeos; conhecimento dos aspectos pedagógicos e técnicos da mídia; uso adequado do recurso audiovisual no processo educativo do ensino de Matemática; fomento do uso de vídeos nas aulas de Matemática; segurança em selecionar o assunto a ser abordado, alicerçando-se em diretrizes curriculares e valendo-se de recurso midiático.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0113</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0113</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0113</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0113/17694</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26391</identifier>
+				<datestamp>2024-12-10T09:08:42Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Digital Technologies in Teacher Education with Emphasis on Cartoons Production</dc:title>
+	<dc:title xml:lang="es">Tecnologías Digitales en la Formación de Profesores con énfasis en la Producción de Cartoons</dc:title>
+	<dc:title xml:lang="pt-BR">Tecnologias Digitais na Formação de Professores com ênfase na Produção de Cartoons</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, P. A. S.</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Elisângela Rodrigues dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Souto, Daise Lago Pereira</dc:creator>
+	<dc:subject xml:lang="pt-BR">tecnologias digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">cartoons</dc:subject>
+	<dc:subject xml:lang="pt-BR">formação docente</dc:subject>
+	<dc:subject xml:lang="es">digital technologies</dc:subject>
+	<dc:subject xml:lang="es">dibujos animados</dc:subject>
+	<dc:subject xml:lang="es">aprendizaje</dc:subject>
+	<dc:subject xml:lang="en">digital technologies</dc:subject>
+	<dc:subject xml:lang="en">cartoons</dc:subject>
+	<dc:subject xml:lang="en">eacher training</dc:subject>
+	<dc:description xml:lang="en">This article aims to investigate the teachers&#039; perception regarding the production and use of digital cartoons in the teaching and learning process. To do so, we invited teachers of Science and Mathematics from the public school of the municipality of Tangará da Serra for a cartoon production training. From the pedagogical point of view, the intention is to discuss possibilities of use of Digital Technologies (TD) in pedagogical practices. Theoretically, we support authors who discuss digital technologies, teacher training and the use of cartoons in the teaching and learning process. Regarding the adopted methodology, we opted for the qualitative approach research, and for data analysis were performed through open questionnaires, interviews and observation during training. The results gave indications that the cartoons can contribute in the process of teaching and learning, presenting itself as a potentiator of the dialogue between teacher and student, in the production of knowledge in a playful, motivating and instigating way.</dc:description>
+	<dc:description xml:lang="es">Este artículo tiene como objetivo investigar a los maestros de la percepción de la producción y utilizar las imágenes digitales en el aprendizaje y el aprendizaje de aprendizaje. Y en el caso de que se trate de una película de ficción. En el pedagogical punto de vista, la intención es discutir las posibilidades de uso de las tecnologías digitales (TD) en pedagogical prácticas. Theoretically, nosotros soportan a los autores de que utilizan las tecnologías digitales en el aprendizaje y el aprendizaje de procesos. En el caso de que se produzca un cambio en la calidad de la información, Los resultados de las indicaciones que las historietas pueden invocar en el proceso de enseñanza y aprendizaje, se presentan a la potentiación del diálogo entre el profesor y el estudiante, en la producción del conocimiento in a jugoso, de motivación e instigating way.</dc:description>
+	<dc:description xml:lang="pt-BR">Neste artigo, temos como objetivo investigar a percepção dos professores em relação à produção e à utilização de cartoons digitais nos processos de ensino e de aprendizagem. Para tanto, convidamos professores de Ciências e de Matemática da rede pública de ensino do município de Tangará da Serra-MT para uma formação sobre produção de cartoons. Do ponto de vista pedagógico, o intuito foi discutir possibilidades de uso das Tecnologias Digitais (TD) nas práticas pedagógicas. Teoricamente, nos apoiamos nos autores que discutem tecnologias digitais, formação de professores e o uso dos cartoons nos processos de ensino e de aprendizagem. Quanto à metodologia adotada, optamos pela pesquisa de abordagem qualitativa, tendo como instrumentos e procedimentos de produção de dados questionários abertos, entrevistas e observação participante.&amp;nbsp; Os resultados indicaram que os cartoons podem contribuir com os processos de ensino e de aprendizagem, como uma alternativa para possibilitar a integração das Tecnologias Digitais (TD) nas práticas pedagógicas.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0114</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0114</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0114</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0114/17700</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26392</identifier>
+				<datestamp>2024-10-21T11:08:14Z</datestamp>
+				<setSpec>boem:ENS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The use of digital videos in teaching mathematics from a Wittgensteinian perspective</dc:title>
+	<dc:title xml:lang="es">El uso de vídeos digitales en la enseñanza de las matemáticas desde una perspectiva wittgensteiniana</dc:title>
+	<dc:title xml:lang="pt-BR">O uso de vídeos digitais no ensino de Matemática numa perspectiva wittgensteiniana</dc:title>
+	<dc:creator xml:lang="pt-BR">Barros, Marlon Augusto das Chagas</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silva, Paulo Vilhena da</dc:creator>
+	<dc:subject xml:lang="pt-BR">filosofia da linguagem</dc:subject>
+	<dc:subject xml:lang="pt-BR">jogos de linguagem</dc:subject>
+	<dc:subject xml:lang="pt-BR">vídeos digitais</dc:subject>
+	<dc:subject xml:lang="pt-BR">ensino de matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Wittgenstein</dc:subject>
+	<dc:subject xml:lang="es">filosofía del lenguaje</dc:subject>
+	<dc:subject xml:lang="es">juegos de lenguaje</dc:subject>
+	<dc:subject xml:lang="es">vídeos digitales</dc:subject>
+	<dc:subject xml:lang="es">enseñar matemáticas</dc:subject>
+	<dc:subject xml:lang="es">Wittgenstein</dc:subject>
+	<dc:subject xml:lang="en">philosophy of language</dc:subject>
+	<dc:subject xml:lang="en">language games</dc:subject>
+	<dc:subject xml:lang="en">digital videos</dc:subject>
+	<dc:subject xml:lang="en">teaching mathematics</dc:subject>
+	<dc:subject xml:lang="en">Wittgenstein</dc:subject>
+	<dc:description xml:lang="en">The present work, which is a theoretical-philosophical essay, aims to discuss the use of digital videos in teaching mathematics from a Wittgensteinian perspective, that is, from a theoretical perspective of some concepts presented in Ludwig Wittgenstein&#039;s second philosophy. To this end, initially, we discussed digital videos in Education (Mathematics), seeking to highlight some of the potential of these resources in teaching mathematical concepts. Next, we make some considerations about Wittgenstein&#039;s thought, highlighting aspects about the concepts of language games and seeing-how, and their relationships with mathematics teaching. Finally, we discuss digital videos in teaching and learning mathematics, seeking to link the potential and concepts mentioned above. It can be concluded that the video, as an activity that is intertwined with different linguistic manifestations, is a language game that can contribute to the appropriation and use of mathematical language, as well as to the training ofteachers who teach mathematics.</dc:description>
+	<dc:description xml:lang="es">El presente trabajo, que es un ensayo teórico-filosófico, tiene como objetivo discutir el uso de videos digitales en la enseñanza de las matemáticas desde una perspectiva wittgensteiniana, es decir, desde una perspectiva teórica de algunos conceptos presentados en la segunda filosofía de Ludwig Wittgenstein. Para ello, inicialmente, discutimos los videos digitales en Educación (Matemáticas), buscando resaltar algunas de las potencialidades de estos recursos en la enseñanza de conceptos matemáticos. A continuación, hacemos algunas consideraciones sobre el pensamiento de Wittgenstein, destacando aspectos sobre los conceptos de juegos de lenguaje y ver-cómo, y sus relaciones con la enseñanza de las matemáticas. Finalmente, discutimos los videos digitales en la enseñanza y el aprendizaje de las matemáticas, buscando vincular las potencialidades y conceptos mencionados anteriormente. Se puede concluir que el video, como actividad que se entrelaza con diferentes manifestaciones lingüísticas, es un juego de lenguajeque puede contribuir a la apropiación y uso del lenguaje matemático, así como a la formación de docentes que enseñan matemáticas.</dc:description>
+	<dc:description xml:lang="pt-BR">O presente trabalho, que se trata de um ensaio teórico-filosófico, objetiva discutir acerca do uso de vídeos digitais no ensino de Matemática em uma perspectiva wittgensteiniana, isto é, sob olhar teórico de algumas concepções apresentadas na segunda filosofia de Ludwig Wittgenstein. Para tanto, inicialmente discutimos sobre os vídeos digitais na Educação (Matemática), buscando destacar algumas potencialidades desses recursos para o ensino de conceitos matemáticos. Em seguida, tecemos algumas considerações sobre o pensamento de Wittgenstein, destacando os conceitos de jogos de linguagem e ver-como, e suas relações com o ensino de Matemática. Por fim, discutimos a respeito dos vídeos digitais no ensino e aprendizagem de Matemática, buscando a articulação entre as potencialidades e os conceitos mencionados anteriormente. Pode-se concluir que o vídeo, como atividade que está entrelaçada com diferentes manifestações linguísticas, é um jogo de linguagem que pode contribuir para a apropriação e uso da linguagem matemática, bem como para a formação de professores que ensinam matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0302</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0302</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0302</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0302/17695</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/26393</identifier>
+				<datestamp>2024-10-15T15:50:47Z</datestamp>
+				<setSpec>boem:EDT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial: Volume 12, Número 22 (2024)</dc:title>
+	<dc:creator xml:lang="pt-BR">Kistemann Junior, Marco Aurélio</dc:creator>
+	<dc:creator xml:lang="pt-BR">Canedo Junior, Neil da Rocha</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Luciane Mulazani dos</dc:creator>
+	<dc:subject xml:lang="pt-BR">Editorial</dc:subject>
+	<dc:description xml:lang="pt-BR">Edição Temática: “O uso de vídeos digitais em educação matemática: possibilidades e desafios”.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2024-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0001</dc:identifier>
+	<dc:identifier>10.5965/2357724X12222024e0001</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 12 n. 22 (2024): Edição Temática “O uso de vídeos digitais em educação matemática: possibilidades e desafios”; e0001</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:source>10.5965/2357724X12222024</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/2357724X12222024e0001/17696</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2024 Revista BOEM</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-nd/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="333" cursor="300" />
+	</ListRecords>
+</OAI-PMH>

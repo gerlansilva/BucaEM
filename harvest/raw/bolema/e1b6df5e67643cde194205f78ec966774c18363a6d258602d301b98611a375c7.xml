@@ -1,0 +1,3207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.periodicos.rc.biblioteca.unesp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:24:12Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10714</identifier>
+				<datestamp>2015-10-13T23:48:29Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">D’AMBROSIO, BEATRIZ S. The dynamics and consequences of the modern mathematics reform movement for Brazilian mathematics education. Bloomington, Indiana University. Tese de doutorado, 1987. Orientador: Frank K. Lester Jr.</dc:title>
+	<dc:creator>Neeleman, Wim</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10714</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 6 n. 7 (1991); 106-109</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10714/7097</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10715</identifier>
+				<datestamp>2015-10-13T23:48:29Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Machado, Ozeneide Venâncio de Mello. Ensino de Ciências na escola de 1º grau: visão de ciência veiculada pelos alunos. São Paulo, PUC, dissertação de mestrado na área de Supervisão e Currículo. 1989. Orientador: Prof. Dr. Joel Martins.</dc:title>
+	<dc:creator>Sameshima, Dumara Coutinho Tokunaga</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10715</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 6 n. 7 (1991); 110-111</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10715/7098</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10716</identifier>
+				<datestamp>2015-10-13T23:48:29Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ceron, Rut de R. A Intuição no Ensino de Geometria Elementar. Rio Claro, IGCE/UNESP. 1986. Orientadora: Profa. Dra. Maria Aparecida Viggiani Bicudo</dc:title>
+	<dc:creator>Perez, Geraldo</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10716</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 6 n. 7 (1991); 112-115</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10716/7099</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10717</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Souza, Antonio Carlos Carrera de</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10717</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 5-5</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10717/7100</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10718</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Simbolismo na Matemática Uma tentativa de resgate do seu caráter educativo</dc:title>
+	<dc:creator>Fonseca, Maria da Conceição F. R.</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10718</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 7-19</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10718/7101</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10719</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Um Estudo Sobre o Fracasso do Ensino e da Aprendizagem da Matemática</dc:title>
+	<dc:creator>Imenes, Luiz Márcio</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10719</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 21-27</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10719/7102</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10720</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Raciocínio Dedutivo do Ensino da Geometria</dc:title>
+	<dc:creator>Vianna, Claudia C. de Segadas</dc:creator>
+	<dc:creator>Teixeira, Mario Tourasse</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10720</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 29-33</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10720/7103</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10721</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Como está o desempenho de nossos alunos em Resolução de Problemas?</dc:title>
+	<dc:creator>Nasser, Lilian</dc:creator>
+	<dc:creator>Chaves, Eloa A.</dc:creator>
+	<dc:creator>Azevedo, Ionilde M.</dc:creator>
+	<dc:creator>Brandao, Jorge L. M.</dc:creator>
+	<dc:creator>Silva, Márcia S. da</dc:creator>
+	<dc:creator>Souza, Moema L. de</dc:creator>
+	<dc:creator>Sant&#039;Anna, Neide F. P.</dc:creator>
+	<dc:creator>Cerqueira, Sonia dos A.</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10721</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 35-44</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10721/7104</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10722</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:CMS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Algumas Pesquisas em Educação Matemática Realizadas no Programa de Mestrado em Educação Matemática do Instituto de Geociências e Ciências Exatas da UNESP – Campus de Rio Claro</dc:title>
+	<dc:creator>Bicudo, Maria Aparecida Viggiani</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10722</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 45-47</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10722/7105</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10723</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:CMS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretrizes Educacionais para um Curso de Magistério</dc:title>
+	<dc:creator>Cabral, Tânia Cristina Baptista</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10723</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 49-55</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10723/7106</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10724</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:DTS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Kalendergeschichten</dc:title>
+	<dc:creator>Brecht, Bertold</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10724</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 57-57</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10724/7107</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10725</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">DOMINGUES, José L. O Cotidiano da Escola de 1º Grau - o sonho e a realidade, São Paulo, PUC, Tese de Doutorado. 1985. Orientadora: Profa. Dra. Maria R. Maluf</dc:title>
+	<dc:creator>Montenegro, Maria Eleusa</dc:creator>
+	<dc:creator>Perez, Geraldo</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10725</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 59-60</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10725/7108</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10726</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">VIANA, Claudia C. S. O Papel do Raciocínio Dedutivo no Ensino da Matemática. Rio Claro. UNESP. Dissertação de Mestrado. 1988. Orientador: Prof. Dr. Mario Tourasse Teixeira</dc:title>
+	<dc:creator>Fonseca, Maria da Conceição F. R.</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10726</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 61-62</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10726/7109</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10727</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">DANYLUCK, Ocsana S. Um Estudo sobre o Significado da Alfabetização Matemática. Rio Claro. UNESP. Dissertação de Mestrado. 1988. Orientadora: Profa. Dra. Maria Aparecida Viggiani Bicudo.</dc:title>
+	<dc:creator>Prado, Ema Luiza Beraldo</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10727</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 63-63</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10727/7110</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10728</identifier>
+				<datestamp>2015-10-13T23:46:03Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">IMENES, Luiz Márcio P. Um Estudo sobre o Fracasso do Ensino e da Aprendizagem da Matemática, Rio Claro. UNESP. Dissertação de Mestrado, 1989. Orientadora: Profa. Dra. Maria Aparecida Viggiani Bicudo. Co-orientador: Prof. Dr. Irineu Bicudo.</dc:title>
+	<dc:creator>Garnica, Antonio Vicente Marafioti</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10728</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 6 (1990); 65-67</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10728/7111</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10729</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Bicudo, Maria Aparecida Viggiani</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10729</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 3-3</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10729/7112</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10730</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Educação na Educação Matemática: os pressupostos filosóficos e psicológicos de educação presentes na Educação Matemática</dc:title>
+	<dc:creator>Bernardo, Maristela Veloso Campos</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10730</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 5-17</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10730/7113</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10731</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Etnomatemática: o homem também conhece o mundo de um ponto de vista matemático</dc:title>
+	<dc:creator>Borba, Marcelo de Carvalho</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10731</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 19-34</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10731/7114</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10732</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDA em Classes Primárias - formação de conceito e gráfico combinados</dc:title>
+	<dc:creator>Dunkels, Andrejs</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10732</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 35-46</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10732/7115</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10733</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">De quantas maneiras é que se pode demonstrar o Teorema de Pitágoras?</dc:title>
+	<dc:creator>Gerdes, Paulus</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10733</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 47-55</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10733/7116</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10734</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:CMS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uma Tentativa de Ensinar Geometria na 5ª Série</dc:title>
+	<dc:creator>Penteado, Miriam Godoy</dc:creator>
+	<dc:creator>Perez, Geraldo</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10734</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 57-60</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10734/7117</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10735</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:CMS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Ensino de Alguns Tópicos de Matemática na 5ª Série Através de Modelagem Matemática</dc:title>
+	<dc:creator>Penteado, Miriam Godoy</dc:creator>
+	<dc:creator>Pastori, Odesnei Aparecida</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10735</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 61-74</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10735/7118</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10736</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:DTS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Menininho</dc:title>
+	<dc:creator>University of Bridgeport, Curso de Psicologia nº 553 - “Exceptional Children”</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10736</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 75-78</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10736/7119</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10737</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">MENDES, Maria D. C. Aprendizagem da Noção de Comprimento: idiossincrasias determinantes. São Carlos. Dissertação de Mestrado. 1985. Orientador Prof. Dr. Fermino F. Sisto.</dc:title>
+	<dc:creator>Perez, Geraldo</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10737</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 79-81</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10737/7120</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10738</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">FREITAG, Bárbara. Sociedade e Consciência. Um estudo piagetiano na favela e na escola. São Paulo. Editora Cortez, 2ª edição.</dc:title>
+	<dc:creator>Cabral, Tânia Cristina Baptista</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10738</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 83-86</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10738/7121</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10739</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">RIBEIRO, Maira Judith Sperb. Livro-Texto de Matemática de 2º Grau: grau de importância de critérios e indicadores para a sua seleção. Porto Alegre. Dissertação de Mestrado em Educação. UFRS. 1981.</dc:title>
+	<dc:creator>Araujo, Antonio Pinheiro de</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10739</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 87-90</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10739/7122</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10740</identifier>
+				<datestamp>2015-10-13T23:45:45Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">DUARTE, Newton. A Relação entre o Lógico e o Histórico no Ensino da Matemática Elementar. São Carlos. Dissertação de Mestrado. Universidade de São Carlos. 1987. Orientadora Professora Drª Bettu Antunes de Oliveira.</dc:title>
+	<dc:creator>Giardinetto, José Roberto Boettger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10740</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 5 (1988); 91-93</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10740/7123</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10741</identifier>
+				<datestamp>2015-09-22T14:34:17Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10743</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Bicudo, Maria Aparecida Viggiani</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10743</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 3-3</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10743/7125</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10744</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Por que ensinar Matemática na escola?</dc:title>
+	<dc:creator>Palermo, Amélia Pires</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10744</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 5-12</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10744/7126</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10745</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Etnomatemática se ensina?</dc:title>
+	<dc:creator>D&#039;Ambrosio, Ubiratan</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10745</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 13-16</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10745/7127</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10746</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Pesquisa em Educação Matemática: realidade e perspectivas à fenomenologia</dc:title>
+	<dc:creator>Bicudo, Maria Aparecida Viggiani</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10746</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 17-31</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10746/7128</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10747</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Tipos de Problemas para a Instrução Matemática no Primeiro Grau</dc:title>
+	<dc:creator>Lester Jr, Frank K.</dc:creator>
+	<dc:creator>D&#039;Ambrosio, Beatriz Silva</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10747</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 33-40</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10747/7129</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10748</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:CMS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Modelagem Matemática - Experiências no Cálculo</dc:title>
+	<dc:creator>Bassanezi, Rodney Carlos</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10748</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 41-49</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10748/7130</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10749</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:CMS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Motivando a Construção do Saber Matemático</dc:title>
+	<dc:creator>Barros, Marília Toledo de Almeida</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10749</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 51-53</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10749/7131</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10750</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:DTS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Reflexão de Carl Jung sobre a Matemática na Escola</dc:title>
+	<dc:creator>Jung, C. G.</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10750</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 55-57</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10750/7132</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10751</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">FREUDENTHAL, Hans. Didactical Phenomenology of Mathematical Structures. Dordrecht/Boston/Lancaster. D. Riedel Publishing. Co. 1983.</dc:title>
+	<dc:creator>Bicudo, Maria Aparecida Viggiani</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10751</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 59-64</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10751/7133</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10752</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">BORBA, Marcelo de Carvalho. Um Estudo de Etnomatemática. Rio Claro, Unesp. Dissertação de Mestrado. 1987.</dc:title>
+	<dc:creator>Anastácio, Maria Queiroga A.</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10752</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 64-66</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10752/7134</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10753</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">BURAK, Dionísio. Modelagem Matemática: uma metodologia alternativa para o ensino da matemática na 5ª série. Rio Claro. Unesp. Dissertação de Mestrado. 1987.</dc:title>
+	<dc:creator>Monteiro, Alexandrina</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10753</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 66-67</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10753/7135</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10754</identifier>
+				<datestamp>2015-10-13T23:45:25Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">SILVA, José Geraldo Acioly Mendes da. O Ensino da Matemática: da aparência à essência. Rio Claro, Unesp. Dissertação de Mestrado. 1987.</dc:title>
+	<dc:creator>Fiorentini, Dario</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10754</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 3 n. 4 (1988); 67-71</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10754/7136</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10755</identifier>
+				<datestamp>2015-10-13T23:45:05Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Nobre, Sérgio</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10755</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 2 n. 3 (1986); 1-1</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10755/7137</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10756</identifier>
+				<datestamp>2015-10-13T23:45:05Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Devolver a Criatividade da Criança: um importante desafio educacional</dc:title>
+	<dc:creator>Dante, Luiz Roberto</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10756</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 2 n. 3 (1986); 1-1</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10756/7138</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10757</identifier>
+				<datestamp>2015-10-13T23:45:05Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">As Atividades Lúdicas e o Ensino da Matemática</dc:title>
+	<dc:creator>Imenes, Luiz Márcio</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10757</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 2 n. 3 (1986); 2-2</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10757/7139</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10758</identifier>
+				<datestamp>2015-10-13T23:45:05Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Reta Real Realmente Existe?</dc:title>
+	<dc:creator>Lintz, Rubens Gouvea</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10758</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 2 n. 3 (1986); 3-3</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10758/7140</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10759</identifier>
+				<datestamp>2015-10-13T23:44:43Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Acioly, José Geraldo</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10759</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 1 n. 2 (1985); 1-1</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10759/7141</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10760</identifier>
+				<datestamp>2015-10-13T23:44:43Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Entrevista: Professor Hassler Whitney</dc:title>
+	<dc:creator>Gazire, Eliane Scheid</dc:creator>
+	<dc:creator>Bicudo, Irineu</dc:creator>
+	<dc:creator>Borba, Marcelo de Carvalho</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10760</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 1 n. 2 (1985); 1-1</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10760/7145</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10762</identifier>
+				<datestamp>2015-10-13T23:44:43Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Construção do Número</dc:title>
+	<dc:creator>Micotti, Maria Cecília de Oliveira</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10762</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 1 n. 2 (1985); 1-1</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10762/7142</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10763</identifier>
+				<datestamp>2015-10-13T23:44:43Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Matemática na Babilônia: uma reconstrução do passado (continuação)</dc:title>
+	<dc:creator>Bicudo, Irineu</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10763</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 1 n. 2 (1985); 2-3</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10763/7143</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10764</identifier>
+				<datestamp>2015-10-13T23:44:43Z</datestamp>
+				<setSpec>bolema:CMS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Problema das Sete Pontes: uma experiência no 1º grau</dc:title>
+	<dc:creator>Borba, Marcelo de Carvalho</dc:creator>
+	<dc:creator>Vianna, Claudia Coelho de Sagados</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10764</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 1 n. 2 (1985); 4-4</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10764/7144</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10765</identifier>
+				<datestamp>2015-10-13T23:44:29Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Dante, Luiz Roberto</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10765</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 1 n. 1 (1985); 1-1</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10765/7146</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10767</identifier>
+				<datestamp>2015-10-13T23:44:29Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Como Resolver um Problema?</dc:title>
+	<dc:creator>Acioly, José Geraldo</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10767</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 1 n. 1 (1985); 4-4</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10767/7147</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10768</identifier>
+				<datestamp>2015-10-13T23:44:29Z</datestamp>
+				<setSpec>bolema:CMS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Recomendações para Escolas de 1º e 2º graus, com Relação ao Ensino de Matemática na década de 80</dc:title>
+	<dc:creator>Burak, Dionízio</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10768</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 1 n. 1 (1985); 4-4</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10768/7148</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10769</identifier>
+				<datestamp>2017-05-03T09:56:16Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Competency-based Learning in Higher Mathematics Education as a Cluster of Efficient Approaches</dc:title>
+	<dc:creator>Kytmanov, Alexey A.</dc:creator>
+	<dc:creator>Noskov, Michael V.</dc:creator>
+	<dc:creator>Safonov, Konstantin V.</dc:creator>
+	<dc:creator>Savelyeva, Marina V.</dc:creator>
+	<dc:creator>Shershneva, Victoria A.</dc:creator>
+	<dc:subject xml:lang="pt-BR">Competency. Polyparadigm approach. Didactic basis. Cluster of approaches. System to select teaching con-tents.</dc:subject>
+	<dc:description xml:lang="pt-BR">This paper presents the research results of what the process of mathematics tеaching should be under the competency-based approach allowing the development of a university student’s mathematical competency. It indicates that integrative structure of mathematical competency containing cognitive, practical, motivational and value-based, reflexive and assessment-based components, updates the polyparadigm approach in teaching mathematics as an open cluster of approaches; their integrated utilization under the leading role of competency-based approach contributes to developing all mathematical competency components. It justifies that competency-based, context-based, interdisciplinary, discipline-based and information technology approaches and fundamentalization play a critical part in the polyparadigm approach; the integrated utilization of all approaches results in a synergetic effect. Within this framework the basic principles of competency-based mathematics teaching as well as a coherent system to select the content of mathematics teaching for engineering educational institution students are developed.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-12-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Polyparadigm approach</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10769</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 56 (2016); 1113 - 1126</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10769/7955</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10774</identifier>
+				<datestamp>2015-10-13T15:08:53Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Souza, Antonio Carlos Carrera de</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10774</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 1 (1989); 3-4</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10774/7149</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10775</identifier>
+				<datestamp>2015-10-13T15:08:53Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">INTRODUÇÃO</dc:title>
+	<dc:creator>D&#039;Ambrosio, Ubiratan</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10775</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 1 (1989); 5-10</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10775/7150</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10776</identifier>
+				<datestamp>2015-10-13T15:08:53Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sobre Aritmética e Ornamentação Geométrica: análise de alguns cestos de índios do Brasil</dc:title>
+	<dc:creator>Gerdes, Paulus</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10776</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 1 (1989); 11-34</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10776/7151</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10777</identifier>
+				<datestamp>2015-10-13T15:08:53Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sobre a Origem Histórica do Conceito de Número</dc:title>
+	<dc:creator>Gerdes, Paulus</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10777</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 1 (1989); 35-49</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10777/7152</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10778</identifier>
+				<datestamp>2015-10-13T15:08:53Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Desenhos Tradicionais na Areia em Angola e seus Possíveis Usos na Aula de Matemática</dc:title>
+	<dc:creator>Gerdes, Paulus</dc:creator>
+	<dc:description xml:lang="pt-BR">Tanto países industrializados como também países do Terceiro Mundo enfrentam a necessidade de
+“multi-culturizar” seus currículos matemáticos. Após uma breve descrição da tradição do desenho do
+povo Tchokwe (Angola), dão-se algumas sugestões de possíveis usos dos seus pictogramas na aula de
+matemática. Os exemplos dados neste artigo vão do estudo de relações aritméticas, progressões, simetria,
+semelhanças e grafos de Euler à determinação do máximo divisor comum de dois números naturais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10778</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 1 (1989); 51-77</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10778/7153</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10779</identifier>
+				<datestamp>2015-10-13T15:08:53Z</datestamp>
+				<setSpec>bolema:ESP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Descobrir as Figuras que Faltam: Série de Exercícios Inspirados em Desenhos Tradicionais dos Quiocos do Nordeste de Angola e dos Tamil do Sul da Índia</dc:title>
+	<dc:creator>Gerdes, Paulus</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10779</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 1 (1989); 79-97</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10779/7154</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10780</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Bicudo, Maria Aparecida Viggiani</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10780</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 6-6</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10780/7155</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10781</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:APR</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">APRESENTAÇÃO</dc:title>
+	<dc:creator>Bicudo, Maria Aparecida Viggiani</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10781</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 4-5</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10781/7156</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10782</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sobre a História da Matemática</dc:title>
+	<dc:creator>Bicudo, Irineu</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10782</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 7-25</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10782/7157</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10783</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O uso da História da Matemática na formalização de conceitos</dc:title>
+	<dc:creator>Ferreira, Eduardo Sebastiani</dc:creator>
+	<dc:creator>Prado, Ema Luiza Beraldo</dc:creator>
+	<dc:creator>Anastácio, Maria Q. A.</dc:creator>
+	<dc:creator>Correa, Roseli de A.</dc:creator>
+	<dc:creator>Caldeira, Ademir D.</dc:creator>
+	<dc:creator>Mendes, Jackeline R.</dc:creator>
+	<dc:creator>Silva, Mauro D. da</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10783</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 26-41</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10783/7158</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10784</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Reflexões sobre História, Filosofia e Matemática</dc:title>
+	<dc:creator>D&#039;Ambrosio, Ubiratan</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10784</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 42-60</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10784/7159</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10785</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sobre a História da Matemática no Brasil</dc:title>
+	<dc:creator>Silva, Clóvis Pereira da</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10785</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 61-83</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10785/7160</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10786</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Considerações Gerais sobre a Filosofia da História e sua Influência na Evolução das Formas Matemáticas</dc:title>
+	<dc:creator>Lintz, Rubens Gouvea</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10786</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 84-92</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10786/7161</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10787</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Glosas de una Concepción Humanista, Dialéctica y Materialista de la Historia de la Matemática</dc:title>
+	<dc:creator>Fernandes, Carlos Sanchez</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10787</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 93-103</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10787/7162</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10788</identifier>
+				<datestamp>2015-10-13T15:07:41Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Concepção de História da Matemática</dc:title>
+	<dc:creator>Otte, Michael Friedrich</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10788</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 2 (1992); 104-115</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10788/7163</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10789</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Lins, Romulo Campos</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10789</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); i-iii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10789/7164</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10790</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Representação do Conhecimento em Matemática: transformações no plano - Translação e Simetria</dc:title>
+	<dc:creator>Fainguelernt, Estela Kaufman</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10790</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 1-13</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10790/7165</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10791</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Debate da apresentação de Estela Kaufman Fainguelernt</dc:title>
+	<dc:creator>Dynnikov, Circe Mary Silva da Silva</dc:creator>
+	<dc:creator>Fainguelernt, Estela Kaufman</dc:creator>
+	<dc:creator>Bicudo, Irineu</dc:creator>
+	<dc:creator>Allan, Nelo da Silva</dc:creator>
+	<dc:creator>Baldino, Roberto Ribeiro</dc:creator>
+	<dc:creator>Borba, Marcelo de Carvalho</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10791</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 15-17</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10791/7166</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10792</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Epistemologia e Psicanálise: o Sujeito</dc:title>
+	<dc:creator>Lajonquière, Leandro de</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10792</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 19-33</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10792/7167</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10793</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Epistemologia e Matemática</dc:title>
+	<dc:creator>Lins, Romulo Campos</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10793</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 35-46</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10793/7168</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10794</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Debate do painel de Leandro de Lajonquière e Romulo C. Lins</dc:title>
+	<dc:creator>Terra, Edmir</dc:creator>
+	<dc:creator>Lajonquière, Leandro de</dc:creator>
+	<dc:creator>Lins, Romulo Campos</dc:creator>
+	<dc:creator>Borba, Marcelo Carvalho</dc:creator>
+	<dc:creator>Cabral, Tânia Cristina Baptista</dc:creator>
+	<dc:creator>Baldino, Roberto Ribeiro</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10794</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 47-52</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10794/7169</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10795</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Peirce e a Matemática</dc:title>
+	<dc:creator>Silveira, Lauro Frederico Barbosa da</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10795</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 53-65</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10795/7170</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10796</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Debate da apresentação de Lauro F. B. da Silveira</dc:title>
+	<dc:creator>Borba, Marcelo Carvalho</dc:creator>
+	<dc:creator>Silveira, Lauro Frederico Barbosa da</dc:creator>
+	<dc:creator>Bicudo, Irineu</dc:creator>
+	<dc:creator>Lins, Romulo Campos</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10796</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 67-69</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10796/7171</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10797</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Pensamento Relacional: equações</dc:title>
+	<dc:creator>Otte, Michael Friedrich</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10797</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 71-79</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10797/7172</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10798</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Debate da apresentação de Michael Otte</dc:title>
+	<dc:creator>Borba, Marcelo Carvalho</dc:creator>
+	<dc:creator>Otte, Michael Friedrich</dc:creator>
+	<dc:creator>Baldino, Roberto Ribeiro</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10798</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 81-82</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10798/7173</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10799</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Computadores, Representações Múltiplas e a Construção de Idéias Matemáticas</dc:title>
+	<dc:creator>Borba, Marcelo de Carvalho</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10799</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 83-101</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10799/7174</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10800</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Representações, Representantes e Referenciais</dc:title>
+	<dc:creator>Campos, Marcio D&#039;Olne</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10800</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 103-114</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10800/7175</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10804</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">História da Educação Matemática: a propósito da edição temática do BOLEMA</dc:title>
+	<dc:creator>Gomes, Maria Laura Magalhães</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10804</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); vii-xxvii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10804/7176</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10805</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Percursos Indisciplinares na Atividade de Pesquisa em História (da Educação Matemática): entre jogos discursivos como práticas e práticas como jogos discursivos</dc:title>
+	<dc:creator>Miguel, Antonio</dc:creator>
+	<dc:description xml:lang="pt-BR">Neste artigo, é nosso propósito realizar uma problematização de natureza filosóficometodológica
+acerca de alguns problemas que se apresentam para o investigador que
+decide tomar o construto práticas socioculturais como unidade focal de análise na
+atividade situada de investigação científico-acadêmica em história da educação
+matemática. Para a discussão de tais problemas, recorreremos, a título de exemplo, à
+memória do desenvolvimento da pesquisa intitulada Um estudo sobre o processo de
+obsolescência de uma prática cultural: a prova dos nove, realizada em coautoria com
+Eliana da Silva Souza.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10805</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 1-57</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10805/7177</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10806</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Análise Narrativa em Trabalhos de História da Educação Matemática: algumas considerações</dc:title>
+	<dc:creator>Cury, Fernando Guedes</dc:creator>
+	<dc:description xml:lang="pt-BR">Este texto apresenta algumas reflexões sobre o uso da análise narrativa como artifício
+para a interpretação de dados biográficos/historiográficos de pesquisas em História da
+Educação (Matemática). Apresentaremos algumas discussões que nos permitiram optar
+por tal tipo de análise, buscando nas idéias de Walter Benjamim a caracterização da
+figura do narrador e seu vínculo com o historiador, investigando, segundo a visão de
+Benedito Nunes, os vínculos que ligam narrativas, ficção e historiografia, salientando as
+idéias de Jorge Larrosa sobre transmissão de experiências e propondo às pesquisas que
+tratam principalmente da História da Educação Matemática uma alternativa para a
+discussão de seus dados segundo a perspectiva de Antonio Bolívar.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10806</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 59-73</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10806/7178</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10807</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Analisando Imagens: um ensaio sobre a criação de fontes narrativas para compreender os Grupos Escolares</dc:title>
+	<dc:creator>Garnica, Antonio Vicente Marafioti</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo é um ensaio sobre a potencialidade da análise de fotografias para constituir
+narrativas que sirvam como fontes para estudos sobre as práticas escolares. Como
+exercício, analisa seis antigas fotografias ligadas ao universo dos Grupos Escolares,
+instituições que, extintas na década de 1970, inauguram o ensino público brasileiro no
+final do século XIX.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10807</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 75-100</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10807/7179</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10809</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Como Relacionar Histórias Regionais a Padrões Gerais de História? O caso do ensino de matemática na Westphalia</dc:title>
+	<dc:creator>Schubring, Gert</dc:creator>
+	<dc:description xml:lang="pt-BR">Este estudo aborda como o ensino de matemática foi implementado na Westphalia entre
+1800 e 1840. Como a Westphalia era uma das províncias do estado alemão da Prússia,
+esta é, evidentemente, uma história inteiramente regional. Pela análise das mudanças
+políticas, religiosas e culturais concretas ocorridas nesse período, o caso se revela como
+um indicador para as mudanças gerais pelas quais os sistemas educacionais na Europa
+passaram depois da Revolução Francesa. Levar em conta os sistemas contextuais
+contribui para esclarecer a variedade de padrões que caracteriza a história da educação
+matemática. A pesquisa se baseia em amplas investigações realizadas em arquivos de
+escolas, de municipalidades, de governos provinciais e do ministério da educação da
+Prússia.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10809</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 101-122</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10809/7180</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10810</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">História da educação matemática: considerações sobre suas potencialidades na formação do professor de matemática.</dc:title>
+	<dc:creator>Valente, Wagner Rodrigues</dc:creator>
+	<dc:description xml:lang="pt-BR">O propósito deste estudo é analisar as potencialidades do uso da história da educação
+matemática na formação do professor de matemática. Parte-se do princípio de que os
+professores tendem a desenvolver uma prática pedagógica de melhor qualidade se
+mantiverem uma relação histórica com seu passado profissional. Assim, este texto
+pretende responder a seguinte questão: que história da educação matemática deve ser
+incluída na formação dos professores de matemática? Para responder a tal interrogação,
+utiliza-se como base teórico-metodológica a História Cultural. Com esta referência buscase
+uma história da educação matemática que leve em conta a circulação de modelos
+internacionais que cobram sentido num determinado local e tempo histórico, dando
+significado às práticas pedagógicas dos professores de matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10810</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 123-136</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10810/7181</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10811</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Euclides Roxo: engenheiro, professor, intelectual e educador matemático</dc:title>
+	<dc:creator>Dassie, Bruno Alves</dc:creator>
+	<dc:creator>Carvalho, João Bosco Pitombeira Fernandes de</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta a trajetória profissional de Euclides Roxo considerando fatos que
+precederam sua atuação como reformador educacional. São apresentadas considerações
+sobre o mercado de trabalho do engenheiro no início do século XX, para mostrar que a
+opção de Euclides Roxo pelo magistério não foi autônoma em relação ao quadro da
+sociedade da época. Por outro lado, sua atuação no Instituto de Educação do Rio de
+Janeiro, antiga Escola Normal, é essencial para analisar a gênese de suas idéias, pois
+esta instituição apresentou um ambiente educacional propício. Por fim, apresentamos de
+forma breve outras instâncias de atuação de Euclides Roxo. Dessa forma, podemos
+considerar Euclides Roxo como um intelectual atuante no ensino da matemática, ou seja,
+um educador matemático.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10811</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 137-158</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10811/7182</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10812</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Contribuições da CADES para a Educação (Matemática) Secundária no Brasil: uma Descrição da Produção Bibliográfica (1953-1971)</dc:title>
+	<dc:creator>Baraldi, Ivete Maria</dc:creator>
+	<dc:creator>Gaertner, Rosinéte</dc:creator>
+	<dc:description xml:lang="pt-BR">No Brasil, no período entre 1953 e 1971, é desenvolvida a Campanha de Aperfeiçoamento
+e Difusão do Ensino Secundário (CADES). Durante o período em que esteve em vigor, a
+Campanha publicou ou apoiou a publicação de dezenas de obras, em diversas áreas do
+ensino, sendo que muitas delas foram localizadas pelas autoras. Estas obras orientavam
+os professores do ensino secundário nos aspectos curriculares, legais e didáticos. Neste
+artigo, apresentamos uma contextualização histórica do que foi essa Campanha e de
+quais eram os seus objetivos, bem como a descrição de algumas das obras encontradas
+relacionadas com o ensino de matemática, buscando abrir caminhos para uma futura
+investigação mais profunda que auxilie a construção de considerações acerca dessa
+perspectiva de formação de professores de matemática, numa época em que, no Brasil,
+ainda existiam poucas faculdades ou universidades para formá-los.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10812</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 159-183</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10812/7183</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10813</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uma Caracterização do Centro de Educação Matemática – CEM (1984–1997) como uma Comunidade de Prática de Formação Continuada de Professores de Matemática</dc:title>
+	<dc:creator>Silva, Heloisa da</dc:creator>
+	<dc:description xml:lang="pt-BR">O artigo apresenta alguns resultados da investigação realizada sobre o Centro de
+Educação Matemática (CEM), um grupo de educadores matemáticos da cidade de São
+Paulo atuante principalmente entre os anos de 1984 e 1997. Para configurar uma posição
+sobre o processo de constituição da identidade do CEM são trazidos à cena o método da
+História Oral e as teorias da identidade. No ensaio, marcado por um exercício de constituir
+a identidade do CEM a partir da caracterização da produção dessa comunidade no
+interior de sua prática, assume-se que o processo de constituição de identidades não se
+refere ao que o CEM é ou foi, mas a um conjunto de possibilidades de apreendê-lo a
+partir de estratégias e iniciativas desenvolvidas em determinadas condições e tempo
+históricos. Três aspectos de relação mediante os quais a prática se converte em fonte de
+coerência do CEM são explicitadas com vista a essa comunidade: o compromisso mútuo,
+o empreendimento conjunto e o repertório compartilhado, permitindo revelar ações e
+produções na história da formação continuada de professores de matemática na grande
+São Paulo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10813</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 185-218</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10813/7184</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10815</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Analisando provas de concursos para professores de Matemática no Colégio Pedro II no século XIX</dc:title>
+	<dc:creator>Soares, Flávia</dc:creator>
+	<dc:description xml:lang="pt-BR">Na tentativa de investigar aspectos históricos do ensino de Matemática, questionam-se
+que tipos de instrumentos podem ser utilizados para reconstruir a trajetória profissional
+do professor e de suas práticas e a partir de quais elementos pode-se examinar de
+maneira mais rigorosa as questões relativas ao acesso à profissão de professor de
+Matemática no Brasil. Um desses elementos são as provas de concursos. A análise
+dessas provas é capaz de revelar quais as exigências para o exercício do magistério e
+trazer à tona questões importantes a respeito da concepção da época em relação ao
+papel do professor, aos conteúdos que deveria ensinar, entre outros aspectos. Este
+trabalho enfatiza o conteúdo das provas, as exigências formais e as habilidades medidas
+nos exames para os cargos de professor de Matemática da principal instituição de ensino
+secundário do Brasil no século XIX, o Colégio Pedro II.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10815</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 219-240</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10815/7185</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10816</identifier>
+				<datestamp>2015-09-24T18:45:04Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Ensino de Matemática entre 1885 e 1929 no Colégio Salesiano Liceu Coração de Jesus: “bons cristãos, honestos cidadãos”</dc:title>
+	<dc:creator>Dalcin, Andréia</dc:creator>
+	<dc:description xml:lang="pt-BR">O objetivo deste artigo é contribuir com a história da Educação Matemática no Brasil,
+tendo como objeto de investigação a instituição salesiana Liceu Coração de Jesus de
+São Paulo, de suas origens até 1929. As práticas educativas salesianas, o modo de
+ensinar Matemática, os livros didáticos produzidos e os objetivos da Matemática na
+relação com a máxima “formar bons cristãos e honestos cidadãos”, contribuíram para a
+formação de gerações de jovens, dentre os quais alguns professores de Matemática. A
+investigação realizada verificou o movimento de um ensino essencialmente
+profissionalizante para um ensino propedêutico, fruto das reformas educacionais da
+época e das relações socioeconômico-culturais entre Estado, Igreja e Sociedade. Do
+cruzamento de fontes impressas e iconográficas buscou-se construir uma história que
+recrie essa realidade não vivida, mas cujas marcas se fazem presentes até os dias de hoje.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10816</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 23 n. 35A (2010); 241-268</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10816/7186</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema: Mathematics Education Bulletin = Bolema: Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10845</identifier>
+				<datestamp>2015-10-07T19:53:14Z</datestamp>
+				<setSpec>bolema:DIS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sobre a Produção de Significados para a Noção de Transformação Linear em Álgebra Linear</dc:title>
+	<dc:creator>Oliveira, Viviane Cristina Almada de</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10845</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 16 n. 19 (2003); 120-120</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10845/7189</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10846</identifier>
+				<datestamp>2015-10-07T19:53:14Z</datestamp>
+				<setSpec>bolema:DIS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensino-aprendizagem das Equações Algébricas Através da Resolução de Problemas</dc:title>
+	<dc:creator>Azevedo, Elizabeth Quirino de</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10846</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 16 n. 19 (2003); 120-121</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10846/7190</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10847</identifier>
+				<datestamp>2015-10-07T19:53:14Z</datestamp>
+				<setSpec>bolema:DIS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Professores de Matemática que Utilizam Softwares de Geometria Dinâmica: suas características e perspectivas</dc:title>
+	<dc:creator>Amaral, Rúbia Barcelos</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10847</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 16 n. 19 (2003); 121-122</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10847/7191</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10848</identifier>
+				<datestamp>2015-10-07T19:53:14Z</datestamp>
+				<setSpec>bolema:DIS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Utilização do Computador e do Programa Logo como Ferramentas de Ensino de Conceitos de Geometria Plana</dc:title>
+	<dc:creator>Maggi, Luiz</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10848</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 16 n. 19 (2003); 122-122</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10848/7192</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10849</identifier>
+				<datestamp>2015-10-07T19:53:14Z</datestamp>
+				<setSpec>bolema:DIS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Concepções Infinitesimais em um Curso de Cálculo</dc:title>
+	<dc:creator>Milani, Raquel</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10849</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 16 n. 19 (2003); 123-123</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10849/7193</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10850</identifier>
+				<datestamp>2015-10-07T19:53:14Z</datestamp>
+				<setSpec>bolema:DIS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Modelagem Matemática no Processo Ensino-aprendizagem do Cálculo Diferencial e Integral para o Ensino Médio</dc:title>
+	<dc:creator>Spina, Catharina de Oliveira Corcoll</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10850</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 16 n. 19 (2003); 123-124</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10850/7194</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10851</identifier>
+				<datestamp>2015-10-07T19:53:14Z</datestamp>
+				<setSpec>bolema:DIS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">História da Criação do Curso de Matemática na Pontifícia Universidade Católica de Campinas</dc:title>
+	<dc:creator>Bortoli, Adriana de</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10851</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 16 n. 19 (2003); 124-125</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10851/7195</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10852</identifier>
+				<datestamp>2015-10-07T19:53:14Z</datestamp>
+				<setSpec>bolema:TES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Educador Matemática em Proclo</dc:title>
+	<dc:creator>Cacalano, Oduvaldo</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10852</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 16 n. 19 (2003); 125-125</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10852/7196</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/10872</identifier>
+				<datestamp>2015-10-14T23:58:26Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Debate do painel de Marcelo C. Borba e Marcio D’Olne Campos</dc:title>
+	<dc:creator>Borba, Marcelo de Carvalho</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-10-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10872</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; Edição Especial 3 (1994); 115-117</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/10872/7199</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<resumptionToken expirationDate="2026-09-22T23:24:12Z"
+			completeListSize="1039"
+			cursor="900">6f15b4f7480f0e9b8797f20df6c7060c</resumptionToken>
+	</ListRecords>
+</OAI-PMH>

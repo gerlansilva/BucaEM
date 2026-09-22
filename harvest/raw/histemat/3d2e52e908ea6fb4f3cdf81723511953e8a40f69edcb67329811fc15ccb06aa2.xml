@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://histemat.com.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:20:03Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">https://histemat.com.br/index.php/HISTEMAT/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/685</identifier>
+				<datestamp>2026-05-15T14:40:40Z</datestamp>
+				<setSpec>HISTEMAT:FPEM</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Memórias de um Dinossauro da Educação Matemática:  A Voz de Carlos Vianna e sua Atuação no Pacto Nacional Pela Alfabetização Na Idade Certa </dc:title>
+	<dc:creator> Vasconcelos, Lívia de Oliveira</dc:creator>
+	<dc:creator> Passos, Cármen Lúcia Brancaglion</dc:creator>
+	<dc:subject xml:lang="pt-BR">PNAIC</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação  de  professores</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Pesquisa narrativa</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo decorre de uma pesquisa que tem como temática central o Pacto Nacional pela Alfabetização na Idade Certa – PNAIC. Aqui é apresentada a narrativa elaborada em parceria com um Educador Matemático que atuou na gênese do programa: Carlos Vianna, um dos organizadores dos cadernos de formação de matemática do PNAIC. Por meio de uma entrevista narrativa, Carlos conta como se tornou um Educador Matemático e descreve caminhos profissionais que o levaram até a o PNAIC. As experiências narradas por ele, assim como a minha própria experiência ao realizar esta pesquisa, constituem o fenômeno que investigo narrativamente, fundamentada nos aportes teóricos de Clandinin e Connelly. O objetivo geral é compreender de que maneiras as experiências desse Educador Matemático culminaram na origem do PNAIC de alfabetização matemática nos moldes em que o programa foi apresentado. Esse objetivo maior se desdobra nos seguintes objetivos específicos: recontar episódios sobre a organização e a implementação das ações do PNAIC de matemática; e compreender concepções, escolhas teórico-metodológicas e decisões políticas que auxiliaram a estruturação dos cadernos de formação de matemática do PNAIC. Carlos, ao narrar sua trajetória profissional cita experiências anteriores que o qualificaram para a função de coordenador da coleção de matemática do PNAIC: a docência no Ensino Fundamental 1 e sua atuação no Pró-Letramento. Ao narrar episódios sobre a organização do PNAIC, Carlos evidencia que essa política pública foi influenciada por concepções do Educador Matemático Romulo Lins, que destacou-se como uma das lideranças do Pró-Letramento, desenvolvido anteriormente.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2024-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/685</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2024.10.685</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 10 (2024): Fluxo Contínuo; 1-21</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/685/549</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/688</identifier>
+				<datestamp>2026-05-15T14:40:40Z</datestamp>
+				<setSpec>HISTEMAT:FPEM</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Percepções de Licenciandos em Início de Formação sobre a História da Matemática</dc:title>
+	<dc:creator>Grandi Ferreira, Hellen</dc:creator>
+	<dc:creator>Prado Souza, Arnold Vinicius</dc:creator>
+	<dc:creator>Rodrigues Mendes, Luiz Otavio</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Licenciatura em Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação de Professores</dc:subject>
+	<dc:description xml:lang="pt-BR">O objetivo deste artigo é analisar as percepções de discentes do primeiro ano de Licenciatura em Matemática sobre as possibilidades de trabalhar a História da Matemática. A pesquisa qualitativa foi realizada com 26 estudantes de uma universidade do Paraná, que cursavam a disciplina de Introdução à Educação Matemática. Utilizou-se um questionário que abordava diferentes formas de integrar a HM no ensino, com foco específico para esse estudo em cinco das abordagens propostas pelos autores: trechos históricos, projetos de pesquisa baseados em textos históricos, fontes primárias, fichas de atividades e pacotes históricos. A análise dos dados, fundamentada na Análise de Conteúdo de Bardin (2011), revelou que os alunos mostraram preferências por algumas abordagens, como projetos de pesquisa baseados em textos históricos e fichas de atividades, além de experiências ao ar livre. No entanto, outras possibilidades, como o uso de trechos históricos, fontes primárias, pacotes históricos, aproveitamento de erros, concepções alternativas, mudança de perspectiva, revisão de suposições implícitas, argumentos e notações, problemas históricos, instrumentos mecânicos, atividades matemáticas experienciadas, peças teatrais, filmes e outros meios visuais e internet, não foram igualmente bem aceitas. A maioria dos acadêmicos não reconheceu a viabilidade de utilizar todas as formas propostas, revelando uma lacuna no conhecimento sobre como integrar a HM no ensino. Isso evidencia a necessidade de uma formação mais abrangente e enfática para os futuros professores.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2024-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/688</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2024.10.688</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 10 (2024): Fluxo Contínuo; 1-22</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/688/550</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/696</identifier>
+				<datestamp>2026-05-15T14:40:40Z</datestamp>
+				<setSpec>HISTEMAT:FPEM</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uma perspectiva histórica do Ensino do Cálculo Diferencial e Integral nas licenciaturas</dc:title>
+	<dc:creator>Theodorovski, Ronaldo</dc:creator>
+	<dc:creator>Trevisan, André Luis</dc:creator>
+	<dc:subject xml:lang="pt-BR">Cálculo Diferencial e Integral</dc:subject>
+	<dc:subject xml:lang="pt-BR">Licenciatura em Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História do Ensino de Cálculo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação de Professores</dc:subject>
+	<dc:description xml:lang="pt-BR">Este ensaio apresenta uma análise histórica do ensino de Cálculo Diferencial e Integral (CDI) nos cursos de Licenciatura em Matemática no Brasil. Realizado a partir de uma revisão narrativa, o estudo explora as transformações curriculares e metodológicas que ocorreram desde a introdução do CDI nos currículos, influenciada por movimentos internacionais e reformas locais. Discutimos o impacto dessas mudanças na formação de futuros professores e a importância do CDI como ferramenta para o desenvolvimento de competências pedagógicas e matemáticas essenciais na Educação Básica. O estudo evidencia como o CDI, ao longo do tempo, superou as fronteiras das ciências exatas e integrou-se ao campo da Educação Matemática, promovendo um ensino mais contextualizado e relevante para a formação docente.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2024-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/696</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2024.10.696</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 10 (2024): Fluxo Contínuo; 1-25</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/696/551</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/699</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Inclusão da Probabilidade no Currículo do Ensino Médio na Colômbia: uma perspectiva histórica</dc:title>
+	<dc:creator> Valencia, Arnulfo Fajardo</dc:creator>
+	<dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da probabilidade</dc:subject>
+	<dc:description xml:lang="pt-BR">Este estudo busca analisar a evolução histórica da incorporação da probabilidade no currículo colombiano do ensino secundário, identificando alguns fatores socioculturais que podem ter influenciado seu desenvolvimento. A pesquisa foi realizada a partir de um enfoque descritiva e, para a análise das informações, foi feita uma revisão documental da literatura enquadrada entre o estabelecimento da cadeira de Mutis em 1762 e as reformas educacionais geradas a partir da constituição de 1991. Com base na revisão da literatura, concluiu-se que a incorporação da probabilidade na Colômbia foi particularmente desafiadora, considerando que, durante o período colonial, o monopólio da educação pela Igreja Católica não priorizou o aprendizado da matemática; posteriormente, durante o período de independência, a organização da república se concentrou no desenvolvimento da economia e da infraestrutura, de modo que as ciências básicas foram priorizadas e não o estudo da probabilidade. Embora em 1922 tenham sido identificados alguns elementos de probabilidade no currículo, só após a constituição de 1991, com o reconhecimento da educação como um direito fundamental dos cidadãos e como um serviço público, é que se tornou possível a estabilização de um currículo escolar oficial em que o estudo das probabilidades fosse incluído de forma permanente. Sublinha-se que a compreensão da probabilidade no currículo a partir de um contexto histórico permite aos professores estarem melhor preparados para se adaptarem a novas reformas educativas ou a futuros ajustamentos curriculares.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-03-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/699</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.699</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-17</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/699/566</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/701</identifier>
+				<datestamp>2026-05-15T14:40:40Z</datestamp>
+				<setSpec>HISTEMAT:FPEM</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Atravessamentos dos sentidos de currículos nos percursos de formação de docentes que ensinam matemática na EJA de Sobral - Ceará</dc:title>
+	<dc:creator>Xavier, Francisco Josimar Ricardo</dc:creator>
+	<dc:creator>Freitas, Adriano Vargas</dc:creator>
+	<dc:subject xml:lang="pt-BR">Currículos de Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">EJA</dc:subject>
+	<dc:subject xml:lang="pt-BR">Narrativas de docentes de Sobral</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">Neste texto, trazemos recorte de uma pesquisa de Doutorado em Educação que teve como participantes, os docentes que lecionam matemática na Educação de Jovens, Adultos e Idosos (EJA) de Sobral. Com ele, objetivamos discutir os percursos de formação de docentes que lecionam matemática na EJA de Sobral, compreendendo as suas concepções de currículos. Estes percursos e sentidos de currículos foram captados em suas narrativas e analisadas à luz de estudos dos campos do Currículo e da Educação Matemática. Com resultados, os docentes possuem diferentes experiências de vidas, bem como de formação. Suas relações com a matemática ocorrem de forma diferentes e contribuem para que eles sigam construindo suas aulas com o interesse de aproximação dos saberes matemáticos dos estudantes à realidade da escola. Eles produzem currículos em matemática com sentidos que se alinham às narrativas de identidades e ao gerenciamento da vida dos estudantes. Concluímos que tais sentidos se distanciam das prescrições curriculares indicadas nos momentos de “formação em serviço” e do interesse de padronização curricular proposto pela política educacional municipal de Sobral.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2024-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/701</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2024.10.701</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 10 (2024): Fluxo Contínuo; 1-20</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/701/563</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/708</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">As práticas pedagógicas empreendidas pelos professores no Ensino de Matemática em escolas multisseriadas do campo no município de Ji-Paraná (1977-2006)</dc:title>
+	<dc:creator>Silva, Joziene Batista Alves</dc:creator>
+	<dc:creator> Gouveia Neto, Sérgio Candido de</dc:creator>
+	<dc:creator> Gouveia, Cristiane Talita Gromann</dc:creator>
+	<dc:subject xml:lang="pt-BR">Escolas Multisseriadas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Prática pedagógica</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino de Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ji-Paraná/RO.</dc:subject>
+	<dc:description xml:lang="pt-BR">Este estudo constroi uma História da Educação Matemática, com foco nas práticas pedagógicas desenvolvidas no ensino de matemática em escolas multisseriadas do campo de Ji-Paraná/RO, no período de 1977 a 2006. Esse intervalo temporal foi escolhido por abranger desde a criação do município até a promulgação do decreto nº 10.302/2006, que marcou o surgimento das Escolas Polos e o fechamento das escolas multisseriadas. A pesquisa foi conduzida com base nas concepções de Bloch (2001), Le Goff (1992), Chervel (1990) e Ginzburg (1989), combinando análise documental e entrevistas semiestruturadas realizadas com professores e alunos. Os resultados revelam um cenário desafiador, com recursos limitados, mas também evidenciam a criatividade e a dedicação dos professores, que desenvolvem estratégias colaborativas e inovadoras para tornar o ensino de matemática mais próximo da realidade dos estudantes do campo. Esses relatos mostram como as práticas pedagógicas transformaram adversidades em oportunidades para a aprendizagem.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/708</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.708</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-21</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/708/567</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/714</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">De um pseudobacharelado à licenciatura plena: ecos de políticas públicas e de concepções docentes</dc:title>
+	<dc:creator> Johansen, Mariana Cristina Boaretti Cavenaghi</dc:creator>
+	<dc:creator>Martins, Maria Ednéia</dc:creator>
+	<dc:subject xml:lang="pt-BR">Fundação Educacional de Bauru</dc:subject>
+	<dc:subject xml:lang="pt-BR">Universidade Estadual Paulista</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática Pura</dc:subject>
+	<dc:subject xml:lang="pt-BR">Bacharelado</dc:subject>
+	<dc:subject xml:lang="pt-BR">Licenciatura</dc:subject>
+	<dc:description xml:lang="pt-BR">Esse artigo é um recorte de uma pesquisa de doutorado que objetivou a constituição de uma história do curso de Matemática da Fundação Educacional de Bauru/Universidade Estadual Paulista pela mobilização do referencial teórico metodológico da História Oral. Fazemos uma análise sobre as concepções de Matemática e de formação de professores que permearam as transformações na estrutura do curso, resumidas às modalidades por ele assumidas, quais sejam: licenciatura plena, bacharelado como complementação à licenciatura e licenciatura em Ciências com habilitação. Essa análise é fruto da atribuição de significados às memórias dos nossos colaboradores, pessoas que vivenciaram o curso em tela como estudantes e/ou professores no período tematizado (1969 a 1994). Assim, problematizamos uma concepção dominante de formação de professores que se fundamenta na suficiência do domínio aprofundado do conteúdo matemático, a que está atrelada uma concepção de Matemática arraigada ao preparo dos licenciandos para a pós-graduação em Matemática Pura – concepções essas, limitadas e limitantes, que só viriam a ser contestadas de forma mais consistente com a implementação do projeto pedagógico em 1991, pós incorporação das faculdades mantidas pela Fundação à UNESP, em uma esteira de embates e tensões.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-05-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/714</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.714</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-21</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/714/568</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/717</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:TRAD</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Matemática Escolar na União Soviética e Educação Matemática na Rússia Atual</dc:title>
+	<dc:creator>Dobudko, Tatyana Valerianovna</dc:creator>
+	<dc:creator>Tiujuna, Irina Victorovna</dc:creator>
+	<dc:creator>Silva da Silva, Circe Mary</dc:creator>
+	<dc:subject xml:lang="pt-BR">Educação Matemática Escolar</dc:subject>
+	<dc:subject xml:lang="pt-BR">Abordagem pragmática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Reformas da educação</dc:subject>
+	<dc:description xml:lang="pt-BR">Esta pesquisa analisa o desenvolvimento da Educação Matemática escolar na Rússia. Também, examina as mudanças ocorridas ao longo do século passado, com uma ênfase especial na reforma dos anos 1970. Os autores concluem que a escola está em constante procura de um compromisso (Observação. da tradutora: entre a quantidade de conteúdo e qualidade de aprendizagem), e que uma abordagem pragmática na seleção de conteúdos de matemática para integrarem o currículo vem sendo utilizada nos últimos anos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-03-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/717</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.717</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-12</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/717/564</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/718</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">OS SABERES GEOMÉTRICOS PARA AS ESCOLAS DE APRENDIZES ARTÍFICES: uma reflexão sobre sua objetivação e (trans)formação</dc:title>
+	<dc:creator>Barbaresco, Cleber Schaefer</dc:creator>
+	<dc:creator> Moreira, Marcio Ricardo Teixeira</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino Profissional Técnico</dc:subject>
+	<dc:subject xml:lang="pt-BR">Cultura de Ensino</dc:subject>
+	<dc:subject xml:lang="pt-BR">Cultura de Formação</dc:subject>
+	<dc:description xml:lang="pt-BR">O objetivo deste estudo é realizar uma análise e interpretação da sistematização dos saberes geométricos para o ensino das Escolas de Aprendizes Artífices. Para tanto, foram utilizadas as noções de Forma Escolar e Saberes Objetivados na análise da estruturação e organização dos conteúdos geométricos prescritos. Os dados interpretados e examinados foram extraídos de documentos como Decretos, do Relatório do Ministérios da Agricultura, Indústria e Comércio, de 1926, mais especificamente, do documento de Consolidação dos Dispositivos Concernentes às Escolas de Aprendizes Artífices, do Relatório do Diretor Heitor Blum, da Escola de Aprendizes Artífices de Santa Catarina e dos Diários de Classe de professoras da Escolas de Aprendizes Artífices de Minas Gerais. Como resultado, apontou-se que os saberes geométricos propostos para as Escolas de Aprendizes Artífices possuíam um sentido multifacetado considerando seu papel articulador entre a cultura de ensino e formação que constitui o espaço-tempo das Escolas de Aprendizes Artífices.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-08-11</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/718</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.718</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-24</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/718/573</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/725</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A HISTÓRIA DA MATEMÁTICA COMO TENDÊNCIA METODOLÓGICA A PARTIR DO INÍCIO DOS ANOS 2000</dc:title>
+	<dc:creator>Brandemberg, João Cláudio</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Tendência Metodológica</dc:subject>
+	<dc:subject xml:lang="pt-BR">Influências Nacionais e Internacionais</dc:subject>
+	<dc:description xml:lang="pt-BR">Em nosso artigo, buscamos apresentar aspectos da inserção da História da Matemática como uma tendência metodológica para o ensino de conteúdos matemáticos e, considerando diversas influências neste desenvolvimento. No texto, necessariamente, buscamos explicitar tais influências internacionais e nacionais, traçando um caminho, característico, para a disseminação de tal tendência em nosso território físico e acadêmico ao longo das últimas duas décadas. Inferimos que reconhecer esta trajetória, referente a inserção da História da Matemática no campo da Educação Matemática, deve nos trazer possibilidades de ampliação das discussões quanto a sua importância com referência para o ensino de matemática e sua consolidação como um campo de conhecimento em transformação. Uma história que, perpassa seu caráter investigativo com relação ao tratamento de conhecimentos relativos ao passado e seus desenvolvimentos e em suas referências espaço-temporais e sociais, para uma maior ampliação em seu papel construtor das ações humanas, em particular, quando relacionadas a situações de ensino e, que pode fornecer subsídios para uma compreensão crítica do conhecimento atual. Assim, de nossa discussão temos que, a História da Matemática neste campo vem a ampliar suas finalidades de produção e promoção do conhecimento matemático, em suas mudanças, principalmente, nos pautados no ensino de conteúdos matemáticos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-08-11</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/725</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.725</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-18</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/725/575</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/733</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">AS NOTAS DE RODAPÉ EM DISCUSSÃO: análise do livro Elementos de Geometria (Lacroix, 1824)</dc:title>
+	<dc:creator>Barbosa, Elton Morais</dc:creator>
+	<dc:creator>Cardoso, Virgínia Cardia</dc:creator>
+	<dc:subject xml:lang="pt-BR">Paratextos editoriais</dc:subject>
+	<dc:subject xml:lang="pt-BR">Notas de rodapé</dc:subject>
+	<dc:subject xml:lang="pt-BR">História  da  Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Livros-texto</dc:subject>
+	<dc:subject xml:lang="pt-BR">Século XIX</dc:subject>
+	<dc:description xml:lang="pt-BR">Analisamos a obra Elementos de Geometria de Lacroix (1824), adotado como livro-texto, no início do século XIX, na Academia Real Militar do Rio de Janeiro. Objetivamos nesse exercício analítico elaborar categorias para análise de notas de rodapé em livros-texto de matemática, em complemento para as categorias propostas na análise de Paratextos Editoriais, de Gérard Genette (2009). Com isso, nossa pesquisa trata de responder à pergunta: com base no que é proposto por Genette (2009), quais categorias podem ser acrescentadas à análise de notas de rodapé em livros-texto de matemática? Nessa investigação, ao considerarmos outro critério de classificação das notas de rodapé, ou seja, o conhecimento pedagógico e matemático presentes no registro escrito, foram identificadas, ao menos, seis novas categorias, sendo elas: Diversidade de estratégias quanto à resolução de problemas; Intervenção didática e pedagógica; Aspectos da História da Matemática; Relação entre imagem e texto escrito; Argumentação matemática, provas e demonstrações e Apresentação de um tópico matemático. Isso oferece maiores possibilidades de futuras pesquisas envolvendo livros escolares.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/733</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.733</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-19</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/733/590</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/738</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">POR UMA MATEMÁTICA FÁCIL E ATRAENTE: correlação entre as matérias da escola primária </dc:title>
+	<dc:creator>Pinheiro, Nara</dc:creator>
+	<dc:subject xml:lang="pt-BR">Matérias correlacionadas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Livro Didático.</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino de Matemática.</dc:subject>
+	<dc:subject xml:lang="pt-BR">Escola primária.</dc:subject>
+	<dc:subject xml:lang="pt-BR">Práticas pedagógicas.</dc:subject>
+	<dc:description xml:lang="pt-BR">Este texto analisa os discursos oficiais em defesa da correlação das matérias da escola primária, de modo a tornar o ensino de matemática mais fácil e atraente, bem como as práticas inventivas sistematizadas em Tudo é fácil e Matemática fácil e atraente, por professores do Instituto de Educação do Rio de Janeiro. De modo específico, interessa saber: como os professores do Instituto de Educação do Rio de Janeiro se apropriam dos discursos oficiais em defesa da correlação de matérias na escola primária e sistematizam saberes para tornar a matemática mais fácil e atraente? Na análise das fontes recorreu-se aos pressupostos teóricos advindos dos estudos de Chartier (1990) e De Certeau (2011, 2012). Como principais apontamentos ressaltam-se as mudanças significativas no modo tradicional de se tratar o ensino da matemática, deixando de ser ensinado via conteúdo, para ser explorado a partir de historietas, valorizando ações práticas, sociais e culturais. A busca pela conexão entre as matérias da escola primária se impôs como um elemento curricular importante na reconfiguração de orientações pedagógicas para o ensino-aprendizagem da matemática da escola primária; e na produção de novos livros didáticos, tornando-os mais atraentes ao público infantil.&amp;nbsp;</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/738</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.738</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-19</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/738/583</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/739</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:Res</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">História da educação matemática e frações: aplicações para a atualidade</dc:title>
+	<dc:creator>Novaes, Barbara Winiarski Diesel</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-06-16</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/739</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.739</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-4</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/739/572</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/740</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:Res</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Glossário: Conceitos de Zoltan Paul Dienes </dc:title>
+	<dc:creator>Fischer, Maria Cecilia Bueno</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-06-16</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/740</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.740</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-3</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/740/571</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/741</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">UMA HISTÓRIA DAS GEOMETRIAS NÃO EUCLIDIANAS: o início da Geometria Hiperbólica</dc:title>
+	<dc:creator>Ferreira, Luciano</dc:creator>
+	<dc:creator>Santos, Talita Secorun</dc:creator>
+	<dc:creator>Barros, Rui Marcos de Oliveira</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Euclides</dc:subject>
+	<dc:subject xml:lang="pt-BR">Não-Euclidianas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Geometrias não euclidianas</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo trata de uma pesquisa bibliográfica, com objetivo de discorrer acerca da história das geometrias não-euclidianas, em particular da geometria hiperbólica. O estudo histórico não é baseado apenas na descrição de fatos sequenciais da história, mas também na compreensão da correlação dos conceitos de diferentes campos desse conhecimento e na reflexão sobre os fundamentos da matemática, buscando perceber seu dinamismo interno. Para tal intento, inicialmente é abordado o desenvolvimento da geometria euclidiana axiomática e relembradas as tentativas de alguns matemáticos contemporâneos e posteriores a Euclides que tentaram demonstrar o quinto postulado de Euclides. Em seguida são apresentados fatos da história do aparecimento das geometrias não-euclidianas, principalmente acerca dos personagens Gauss, Lobatschewsky e Bolyai e suas dificuldades na constituição da geometria hiperbólica.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/741</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.741</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-24</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/741/586</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/744</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O ENSINAR MATEMÁTICA NA SEGUNDA METADE DO SÉCULO XX: um estudo das metodologias através do acervo de livros de uma professora especialista</dc:title>
+	<dc:creator>Mometti, Carlos</dc:creator>
+	<dc:subject xml:lang="pt-BR">Acervo bibliográfico</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História cultural</dc:subject>
+	<dc:subject xml:lang="pt-BR">Metodologia</dc:subject>
+	<dc:subject xml:lang="pt-BR">Pedagogia</dc:subject>
+	<dc:description xml:lang="pt-BR">Busca-se com o presente artigo analisar a trajetória histórica de uma professora de Matemática, dita Professora Lucinha, da segunda metade do século XX no que diz respeito às suas orientações metodológicas para o ensino inferidas a partir do seu acervo bibliográfico. Para tanto, utilizou-se como fonte de informação o acervo constituído por 235 livros doados ao Centro de Documentação da Memória Científica e Pedagógica do Ensino de Matemática, do Grupo Associado de História e Pesquisa em Educação Matemática (GHEMAT, Brasil). Como processo de análise, partiu-se de uma construção comparativa juntamente com as interpretações socioculturais dos dados transformados oriundos das fontes materiais de informação. Além disso, utilizou-se do cotejamento com a literatura histórica acerca da formação de professores no Brasil no período de 1970 a 2000. O estudo em pauta assume por questão de investigação: que conclusões podem ser tiradas sobre as metodologias utilizadas como referência no trabalho didático-pedagógico da Professora Lucinha a partir de seus livros? Como resultados, o presente estudo evidenciou num primeiro momento que parte do acervo bibliográfico estudado da professora sujeito da pesquisa direciona-se para um aspecto “conteudista” da Matemática, dando destaque para a utilização de obras de referência traduzidas do Inglês estadunidense para o Português. Num segundo momento, notou-se que a formação metodológica da referida professora, cotejando com sua atuação profissional designava como pressuposto a “Didática e o Método” como aparatos técnicos do “ensinar”. Resultados estes que são apresentados comparativamente ao desenvolvimento da Pedagogia e Educação Matemática na segunda metade do século XX no Brasil.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/744</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.744</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-17</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/744/585</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/747</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O PENSAMENTO ALGÉBRICO NO ENSINO DE CÁLCULO MENTAL EM ATIVIDADES DA OBRA ARITHMETICA ELEMENTAR – LIVRO I, DE GEORG AUGUST BüCHLER</dc:title>
+	<dc:creator>Silva Júnior, Abdoral Gomes da</dc:creator>
+	<dc:creator>Berticelli, Danilene Gullich Donin</dc:creator>
+	<dc:creator>Pinto, Neuza Bertoni</dc:creator>
+	<dc:subject xml:lang="pt-BR">Pensamento algébrico</dc:subject>
+	<dc:subject xml:lang="pt-BR">Cálculo mental</dc:subject>
+	<dc:subject xml:lang="pt-BR">Arithmetica Elementar - Livro I</dc:subject>
+	<dc:subject xml:lang="pt-BR">Georg August Büchler</dc:subject>
+	<dc:description xml:lang="pt-BR">Este estudo apresenta análises preliminares de uma pesquisa de Mestrado em andamento que investiga atividades de aritmética presentes na obra Arithmetica Elementar – Livro I, (1943), de Georg August Büchler, que mobilizam conhecimentos de cálculo mental e contribuem para o desenvolvimento do pensamento algébrico. Inserido no campo da História da educação matemática, o estudo baseia-se nos referenciais da História Cultural (Chartier, 1988; Burke, 2008, Prost, 2008) e nas contribuições de Valente (2007, 2010, 2023). As primeiras análises consideram atividades que exploram os conhecimentos de cálculo mental (Berticelli e Zancan, 2024) como decomposições, fatos básicos, dobros e a rede de relações numéricas do 10, identificando aproximações com propriedades algébricas (Ponte, Matos e Branco, 2009), como decomposição, composição, relações numéricas e comutatividade. As análises da obra de Büchler indicam que as atividades propostas partem de situações em que a álgebra emerge de conhecimentos aritméticos, mostrando uma forte relação com o método intuitivo de Pestalozzi. Indicam também que a integração do cálculo mental e pensamento algébrico pode subsidiar práticas pedagógicas que favorecem a compreensão de conceitos matemáticos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/747</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.747</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-19</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/747/588</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/749</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:H10</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Focos Temáticos de Pesquisas sobre o Ensino de Cálculo publicados nas revistas HISTEMAT e ACERVO</dc:title>
+	<dc:creator>Gonzalez, Fredy</dc:creator>
+	<dc:description xml:lang="pt-BR">Este texto constituye un homenaje a la revista HISTEMAT en su décimo aniversario. Se trata de una revisión parcial del contenido de la publicación, complementada con trabajos publicados en la revista ACERVO, ambas generadas por GHEMAT Brasil. El tema investigado fue la Enseñanza del Cálculo como se presenta en artículos insertados en las dos revistas mencionadas. Para ello, en el módulo de búsqueda de HISTEMAT y en el de ACERVO se utilizó, como término clave, la expresión Cálculo; en HISTEMAT aparecieron 16 artículos, de los cuales solo cuatro (4) se refieren al tema en discusión; ya en ACERVO, se hizo una navegación por los fascículos publicados en flujo continuo a partir de su volumen 3 (2021), encontrando, en total, cinco (5) artículos publicados en las ediciones correspondientes a los años 2022(1), 2023(4); así, se identificaron nueve (9), teniendo como foco el Cálculo. Además, otros tres artículos, nombrados en las referencias, fueron considerados en virtud de su importancia en el análisis que se realizará a los nueve artículos insertados en HISTEMAT y ACERVO. Para identificar Focos Temáticos en estos nueve trabajos, se analizaron sus títulos y sus respectivos resúmenes, consiguiendo explicitar los focos indicados a continuación: Historia de la enseñanza y del aprendizaje del Cálculo en la formación de profesionales; Fundamento del Cálculo en el contexto filosófico; Análisis del tratamiento dado a los conceptos clave del Cálculo en los libros de texto; Análisis de material didáctico utilizado en la enseñanza de los límites y derivadas; Análisis de la enseñanza del Cálculo Diferencial e Integral en las prescripciones curriculares para la educación; y Enseñanza del Cálculo en la educación secundaria.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/749</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.749</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-17</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/749/580</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/751</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">DISCAPACIDAD VISUAL Y ÁLGEBRA: Estudio socioepistemológico del quehacer de Nicholas Saunderson entorno a las soluciones reales de ecuaciones polinómicas</dc:title>
+	<dc:creator> Segura, Rubén Abraham Moreno</dc:creator>
+	<dc:creator> Márquez, Rosa María Farfán</dc:creator>
+	<dc:subject xml:lang="pt-BR">Socioepistemología</dc:subject>
+	<dc:subject xml:lang="pt-BR">Discapacidad visual</dc:subject>
+	<dc:subject xml:lang="pt-BR">Álgebra</dc:subject>
+	<dc:subject xml:lang="pt-BR">Hipótesis epistemológica</dc:subject>
+	<dc:description xml:lang="pt-BR">En Socioepistemología, se estudian obras originales para identificar elementos epistemológicos en la construcción de nociones matemáticas. Pero ¿cómo construye conocimientos matemáticos una persona con discapacidad visual? Es por ello por lo que se analizó el quehacer Nicholas Saunderson (1682-1739), un matemático ciego sin recuerdos visuales, en su trabajo con soluciones reales de ecuaciones polinómicas. Se usó el constructo teórico – metodológico de práctica de la Socioepistemología para caracterizar su quehacer. Además, se usó la comparación entre las aproximaciones a este tema de Saunderson con las de otros matemáticos como Viète, Cardano o Descartes. Este análisis comparativo permitió identificar las particularidades que la discapacidad visual aporta a la interacción con las matemáticas. El objetivo es formular una hipótesis epistemológica sobre la construcción del conocimiento matemático en personas ciegas, específicamente en el tema de soluciones reales de ecuaciones polinómicas.&amp;nbsp;Los elementos centrales de ésta son la importancia de vincular elementos algebraicos con espaciales, así como con aritméticos. También el uso de prácticas como comparar, agrupar, equivaler y generalizar que permitan la manipulación de variables desconocidas a partir de aquellas que sí son conocidas para encontrar el valor de la raíz.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/751</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.751</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-19</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/751/591</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/755</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">ITINERÁRIO DE OBSERVAÇÃO E ANÁLISE DE MANUAIS PEDAGÓGICOS PARA A CARACTERIZAÇÃO DE UMA MATEMÁTICA DO ENSINO</dc:title>
+	<dc:creator>Silva, Camilla Teixeira</dc:creator>
+	<dc:creator>Maciel, Viviane Barros</dc:creator>
+	<dc:subject xml:lang="pt-BR">Álgebra do ensino</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Saber profissional</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática a e para ensinar</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta uma pesquisa que conecta a história da educação matemática e a formação de professores. Ele representa uma das etapas do produto educacional de uma pesquisa de mestrado, que está sendo desenvolvida no âmbito do Programa de Pós-Graduação em Educação para Ciências e Matemática (PPGECM), do Instituto Federal de Goiás (IFG)/ Brasil /Campus Jataí. Assim, o objetivo deste trabalho é desenvolver um itinerário para observar e analisar manuais pedagógicos do século XIX e XX, com vistas à caracterização de saberes. A questão que o norteia é “quais elementos devem compor um itinerário para observar e analisar um manual pedagógico – em uma primeira escala de observação, visando caracterizar uma matemática do ensino?”. Para isso, foi necessário o aporte teórico de autores que definem etapas de sistematização de saberes e que compreendem os campos disciplinar e profissional em cooperação e colaboração, considerando as múltiplas dimensões presentes na atmosfera da docência.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/755</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.755</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-16</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/755/592</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/756</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">ELEMENTOS DO SABER PROFISSIONAL NO IFAC: análise da Matriz Curricular no Campus Rio Branco (2017-2025)</dc:title>
+	<dc:creator>Pereira, Paulo Jose dos Santos</dc:creator>
+	<dc:subject xml:lang="pt-BR">Saber Profissional.</dc:subject>
+	<dc:subject xml:lang="pt-BR">Licenciatura em Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática a Ensinar</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática para Ensinar</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação de Professores de Matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">O presente estudo analisa os elementos do saber profissional do professor de Matemática no curso de Licenciatura em Matemática do IFAC, Campus Rio Branco, no período de 2017 a 2024, com ênfase na articulação entre a matemática a ensinar e a matemática para ensinar. A pesquisa, vinculada ao projeto de iniciação científica “Elementos do Saber Profissional do Professor de Matemática no IFAC”, utiliza abordagem qualitativa e histórica, apoiada em análise documental das ementas e do Projeto Pedagógico do Curso (PPC). As disciplinas foram agrupadas em três categorias: História e Tendências; Práticas e Oficinas; Estágios, Didática e Tecnologias, permitindo observar como os saberes profissionais se desenvolvem ao longo do curso. Os resultados indicam que a matriz curricular favorece a integração entre conhecimento matemático e práticas pedagógicas, promovendo uma formação docente contextualizada e articulada. O estudo contribui para compreender a constituição do saber profissional docente e oferece subsídios para aprimorar a formação de professores de Matemática no IFAC.
+&amp;nbsp;
+&amp;nbsp;
+Palavras-chave: Saber profissional. Licenciatura em Matemática. Matemática a ensinar. Matemática para ensinar. Formação de professores de matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/756</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.756</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-18</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/756/595</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/757</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A MATEMÁTICA DO ENSINO DE FRAÇÕES: análise histórica do saber profissional do professor (RJ/1970)</dc:title>
+	<dc:creator>França, Denise Medina</dc:creator>
+	<dc:creator>Tramontano, Armando</dc:creator>
+	<dc:subject xml:lang="pt-BR">Saberes</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Fração</dc:subject>
+	<dc:subject xml:lang="pt-BR">Laboratório de Currículos</dc:subject>
+	<dc:description xml:lang="pt-BR">Este trabalho integra uma pesquisa de doutoramento em andamento que investiga a presença das propostas de Zoltan Paul Dienes sobre o ensino de frações em publicações oficiais do Estado do Rio de Janeiro nas décadas de 1970 e 1980, alinhando-se ao projeto do Grupo Associado de Estudos e Pesquisas sobre História da Educação Matemática (GHEMAT Rio). O estudo concentra-se nas publicações disponíveis do Laboratório de Currículos (LC), criado em 1975 pela Secretaria de Estado de Educação e Cultura, responsável por identificar as necessidades do sistema educacional e elaborar planos gerais de ensino, publicando materiais voltados à formação de professores. O objetivo é compreender os saberes a ensinar frações e os saberes para ensinar frações sistematizados nessas publicações e, mais especificamente, responder à questão: quais saberes a ensinar frações e para ensinar frações, apropriados das propostas de Zoltan Paul Dienes, são sistematizados nas publicações do Laboratório de Currículos, na década de 1970? A análise evidencia que as propostas teóricas de Dienes, sobretudo quanto ao uso de materiais estruturados, tiveram papel expressivo na formulação das propostas divulgadas pelo LC. A investigação permite compreender a sistematização histórica dos saberes de referência e sua circulação no contexto fluminense, oferecendo subsídios para repensar a formação do professor e orientar a construção de novos referenciais para o ensino de matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-03-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/757</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.757</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-21</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/757/601</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/758</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:H10</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensinar matemática por meio de atividades históricas: duas experiências pedagógicas</dc:title>
+	<dc:creator>Moyon, Marc</dc:creator>
+	<dc:creator>Plantevin, Frédérique</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">geometria plana</dc:subject>
+	<dc:subject xml:lang="pt-BR">numeração</dc:subject>
+	<dc:subject xml:lang="pt-BR">cálculo</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta dois exemplos de atividades baseadas na história para o ensino de matemática a alunos de 8 a 11 anos. Elas diferem em vários aspectos: seus recursos históricos são, respectivamente, uma prancha de desenho do Códice Atlântico, de Leonardo da Vinci, e uma máquina de calcular com rodas, datada da década de 1950 — períodos distintos, objetos bastante diferentes e conteúdos matemáticos diversos. No entanto, também apresentam semelhanças: em ambas, utilizam-se artefatos interdisciplinares, cujo potencial pedagógico é explorado e apresentado de forma intencionalmente articulada. Essas duas experiências integram um projeto mais amplo, que busca produzir materiais concretos e precisos para professores que atuam com essa faixa etária e desejam introduzir uma perspectiva histórica em suas aulas. Esse projeto insere-se em uma longa tradição de estudos sobre a história e a epistemologia da matemática em contextos educacionais, desenvolvidos no âmbito da rede IREM (Institut de Recherche sur l’Enseignement des Mathématiques), na França. Esse contexto, atualmente inserido em um campo internacional de pesquisa, é apresentado no início do artigo. Em seguida, as duas atividades são descritas em detalhes, com seus objetivos a priori, análises das produções dos alunos e materiais completos para o leitor, seguindo a abordagem proposta pelos autores.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/758</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.758</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-25</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/758/576</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/759</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:H10</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">LA DIFUSIÓN DE LAS INNOVACIONES EN EDUCACIÓN MATEMÁTICA</dc:title>
+	<dc:creator>Gallego, Dolores Carrillo</dc:creator>
+	<dc:subject xml:lang="pt-BR">Innovación educativa</dc:subject>
+	<dc:subject xml:lang="pt-BR">Historia de la educación matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Tablero contador</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ábacos</dc:subject>
+	<dc:subject xml:lang="pt-BR">Estudios comparativos</dc:subject>
+	<dc:description xml:lang="pt-BR">El trabajo aborda la difusión de innovaciones educativas, la difusión de teorías y prácticas educativas desde un contexto inicial a otro que las importa porque considera que puede incorporarlas. Para analizar procesos de transmisión de propuestas educativas, se utiliza la comparación internacional de hechos históricos sobre la educación matemática, valorando las características de los contextos (origen y destino), las aportaciones de estudios de ámbito local, la complementariedad de investigaciones realizadas sobre el tema y las perspectivas de los distintos investigadores. Como ejemplo, se comentan investigaciones sobre el uso de aparatos de bolas para los primeros aprendizajes aritméticos, en la primera mitad del siglo XIX. Se considera el uso en el aula de aparatos de bolas, diferenciando tableros contadores (todas las bolas valen 1) y ábacos (el valor de una bola depende de su posición). Se investiga la procedencia de estas propuestas en escuelas infantiles de España, Gran Bretaña y Francia. Se analiza la hipótesis del origen de los aparatos de bolas escolares en el ábaco ruso, utilizando investigaciones de Freiman, Volkov y Karp. Se describe una red internacional de relaciones y la dificultad de identificar un origen de innovaciones educativas concretas; es mejor referirse a relaciones de procedencia. Las conclusiones inciden en la necesidad de situar en contexto internacional las innovaciones educativas, para rastrear sus procedencias y valorar su factor innovador; y en las precauciones debidas a las diferentes perspectivas de los investigadores y que deben ser consideradas por el investigador que compara.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/759</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.759</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-23</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/759/577</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/760</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:H10</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">HISTÓRIA DA MATEMÁTICA NO ENSINO DE CÁLCULO NA FORMAÇÃO INICIAL DE PROFESSORES</dc:title>
+	<dc:creator>Athie, Mateus</dc:creator>
+	<dc:creator>Cavalari, Mariana Feiteiro</dc:creator>
+	<dc:creator>Lima, Rodrigo Silva</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Conhecimento Matemático para o Ensino</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação de Professores</dc:subject>
+	<dc:subject xml:lang="pt-BR">Cálculo Diferencial e Integral</dc:subject>
+	<dc:description xml:lang="pt-BR">Essa pesquisa buscou identificar e analisar os conhecimentos matemáticos mobilizados por licenciandos em Matemática ao cursarem uma disciplina de Cálculo Diferencial e Integral (CDI), na qual foram abordadas questões históricas na introdução dos conceitos de Derivada e Integral. A pesquisa foi realizada com 14 graduandos de uma turma de CDI na qual foram desenvolvidas aulas e duas atividades que abordavam elementos históricos. Os dados foram coletados a partir das atividades, de gravações das discussões realizadas durante elas e de entrevistas realizadas após o termino da disciplina. Os dados foram analisados a partir de uma triangulação e de uma categorização que teve como referência os subdomínios do Conhecimento Específico do Conteúdo pertencente ao Conhecimento Matemático para o Ensino que é conhecido pela sigla MKT. Os resultados mostram que os participantes mobilizaram conhecimentos referentes a todos esses subdomínios, havendo uma predominância de mobilização de conhecimentos “comuns” em comparação aos conhecimentos “especializados” do professor. Com base nesses resultados, são apresentadas considerações sobre o ensino de cálculo e sobre possíveis alterações na proposta desenvolvida.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/760</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.760</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-17</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/760/578</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/761</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:H10</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">HISTÓRIA DA EDUCAÇÃO MATEMÁTICA NA BAHIA: uma historiografia por meio dos grupos de pesquisa (2010-2024)</dc:title>
+	<dc:creator>Lando, Janice Cassia</dc:creator>
+	<dc:creator>Lima, Eliene Barbosa</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História Cultural</dc:subject>
+	<dc:subject xml:lang="pt-BR">Grupos de Pesquisa</dc:subject>
+	<dc:subject xml:lang="pt-BR">Bahia</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo tem como objetivo apresentar uma historiografia da história da educação matemática no estado da Bahia por meio dos grupos de pesquisa no período de 2010 a 2024. Essa periodização tem como início a constituição do Grupo de Pesquisa História – Matemática – Educação (GHAME), que reverberou a formação de linhas de pesquisa no âmbito da história da educação matemática. De todas as produções, fizemos a escolha de analisar apenas os artigos e capítulos de livros, tomados como reflexos tanto dos resultados das orientações de estudantes da graduação e da pós-graduação quanto das investigações dos próprios pesquisadores. Assim, delineamos, as temáticas das pesquisas, as redes de articulações estabelecidas entre esses grupos da Bahia e destes com o GHEMAT e as fundamentações teórico-metodológicas utilizadas nas pesquisas, as quais estão no âmbito de uma história cultural. Interpretamos que as ações desses grupos podem estar contribuindo para o processo de constituição da história da educação matemática como campo disciplinar.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/761</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.761</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-30</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/761/579</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/762</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O CÁLCULO DIFERENCIAL: um estudo histórico pelo livro Cálculo diferencial e integral de Piskunov</dc:title>
+	<dc:creator> Conceição, Daniel Sales da</dc:creator>
+	<dc:creator>Lima , Eliene Barbosa</dc:creator>
+	<dc:subject xml:lang="pt-BR">Piskunov</dc:subject>
+	<dc:subject xml:lang="pt-BR">Cálculo diferencial e integral</dc:subject>
+	<dc:subject xml:lang="pt-BR">Livro didático</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática moderna</dc:subject>
+	<dc:subject xml:lang="pt-BR">Licenciatura em Matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">Este trabalho teve como objetivo realizar uma análise, de cunho histórico, sobre o cálculo diferencial presente no livro Cálculo diferencial e integral, de Piskunov. Sua questão norteadora foi: que concepção de cálculo diferencial foi proposta no livro Cálculo diferencial e integral, de Piskunov? Para responder a esse questionamento, fez-se uso de uma literatura vigente e da compreensão da obra tanto como objeto físico quanto como documento histórico (Choppin, 2004). &amp;nbsp;Publicado para atender as demandas do estudante de engenharia, o livro foi bibliografia básica em diversos cursos de matemática, inclusive na formação de professores de matemática, como na Licenciatura Plena em Ciências da Universidade Estadual de Feira de Santana. Assim, por meio dos debates teóricos, metodológicos e epistemológicos do campo da história, interpretou-se que Piskunov adotou uma concepção moderna de limite, em sintonia com as contribuições teóricas disponíveis à época, mas ajustada ao seu público-alvo e ao seu ambiente educacional técnico. Isso traz indícios de que, ao menos naquele período, entre as décadas de 1960 e 1990, a perspectiva dos cursos de licenciaturas estava mais voltada para o próprio campo disciplinar da matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/762</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.762</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-18</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/762/584</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/765</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Didáctica de la Matemática Francesa, la formación de una comunidad científica kuhniana y su influencia en el currículo escolar de Buenos Aires</dc:title>
+	<dc:creator>Deriard, Alejandra</dc:creator>
+	<dc:subject xml:lang="pt-BR">Didactica de la Matemática Francesa</dc:subject>
+	<dc:subject xml:lang="pt-BR">Paradigma</dc:subject>
+	<dc:subject xml:lang="pt-BR">Comunidad de investigación</dc:subject>
+	<dc:subject xml:lang="pt-BR">Buenos Aires</dc:subject>
+	<dc:description xml:lang="pt-BR">Este estudio investiga la introducción y consolidación del Primer Paradigma de la Didáctica de la Matemática Francesa en Buenos Aires (1992-2004), analizando su impacto en la transformación de la enseñanza de la matemática en el nivel primario. La justificación radica en la necesidad de comprender cómo un paradigma educativo extranjero se adapta y resignifica en un contexto local, generando cambios significativos en las prácticas pedagógicas. La hipótesis central plantea que la adopción del PPDMF en Buenos Aires no fue una mera transferencia de teorías, sino un proceso de apropiación crítica que combinó la fidelidad a los postulados originales con adaptaciones contextuales, dando lugar a una cultura pedagógica innovadora. El marco teórico se fundamenta en la perspectiva kuhniana de las comunidades científicas (Kuhn, 1971), que permite analizar cómo una comunidad de investigadores adopta y desarrolla un paradigma compartido; y el estudio de la Historia Presente según Arostegui (2004). La metodología empleada es de carácter historiográfico y documental, basada en el análisis de fuentes primarias y fuentes secundaria. Los resultados indican que el PPDMF se consolidó como un marco teórico hegemónico en la enseñanza de la matemática, evidenciado en su permanencia en los diseños curriculares hasta la actualidad. La investigación demuestra que su adopción generó una comunidad científica cohesionada que reproduce y adapta esta matriz disciplinar en el contexto local.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/765</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.765</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-21</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/765/587</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/767</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">ENSINO DE CÁLCULO DIFERENCIAL E INTEGRAL NA FORMAÇÃO DE ENGENHEIROS NO BRASIL: um mapeamento de narrativas históricas</dc:title>
+	<dc:creator>Nery, Wesley Ferreira</dc:creator>
+	<dc:creator>Lando, Janice Cassia</dc:creator>
+	<dc:subject xml:lang="pt-BR">Cálculo Diferencial e Integral</dc:subject>
+	<dc:subject xml:lang="pt-BR">Escola Politécnica do Rio de Janeiro</dc:subject>
+	<dc:subject xml:lang="pt-BR">Escola Politécnica de São Paulo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Mapeamento.</dc:subject>
+	<dc:description xml:lang="pt-BR">O objetivo deste trabalho foi compreender o que investigou-se sobre o ensino de Cálculo Diferencial e Integral em escolas de engenharia brasileiras na virada do século XIX para o século XX. Tal recorte temporal é significativo por marcar o momento da separação entre a formação do engenheiro e a formação militar. Para alcançar esse objetivo, realizamos um mapeamento (Garnica, 2013) a partir de narrativas de histórias do ensino de Cálculo Diferencial e Integral, apresentadas em três publicações localizadas por meio de buscas no Catálogo de Teses e Dissertações e no Portal de Periódicos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior e, também, no google acadêmico. A partir da análise realizada, inferimos que o ensino de Cálculo Diferencial e Integral foi desenvolvido de forma bastante similar na Escola Politécnica do Rio de Janeiro e na Escola Politécnica de São Paulo, em especial, a fundamentação dos cursos a partir da concepção de Leibniz ou método infinitesimal, concepção de Newton ou método dos limites e concepção de Lagrange ou método das derivadas. Ainda consideramos que na Escola Politécnica do Rio de Janeiro houve forte influência do positivismo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/767</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.767</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-18</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/767/594</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/768</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:H10</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O CURSO NORMAL NO CONTEXTO DA PANDEMIA DE COVID-19: reflexões sobre o uso de materiais concretos para ensinar matemática em práticas digitais</dc:title>
+	<dc:creator>Rosa, Nícolas Giovani da</dc:creator>
+	<dc:creator>Búrigo, Elisabete Zardo</dc:creator>
+	<dc:subject xml:lang="pt-BR">Curso Normal</dc:subject>
+	<dc:subject xml:lang="pt-BR">Anos Iniciais</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Infantil</dc:subject>
+	<dc:subject xml:lang="pt-BR">Material Concreto</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino Remoto Emergencial</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo trata da formação de professores no Curso Normal em relação aos saberes para ensinar matemática. Pesquisa desenvolvida pelo primeiro autor no período do Ensino Remoto Emergencial (ERE) identificou, nas práticas de matemática do Curso Normal do Centro Estadual de Formação de Professores General Flores da Cunha, evidências do uso de material concreto durante as aulas virtuais. Neste texto, esse uso é objeto de estranhamento. Com isso, o objetivo do estudo foi identificar elementos explicativos dessa presença desses materiais no ERE. A partir de pesquisas e de documentos do Acervo do Laboratório de Matemática do Instituto de Educação foi possível perceber indícios de usos e estudos acerca dos materiais concretos na instituição desde os anos 1950. Essa permanência pode ser compreendida como expressão de uma tradição dos saberes para ensinar matemática do Curso Normal, estabelecida historicamente na instituição desde a implementação da disciplina de Metodologias de Matemática, passando por orientações oficiais curriculares, mudanças com a chegada do ideário do Movimento da Matemática Moderna e a adoção de um referencial construtivista mesmo nas práticas no contexto pandêmico. Essa tradição explica a introdução de noções matemáticas por meio do “concreto”, mesmo na condição do ERE, em que as aulas aconteciam por meio das plataformas digitais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-09-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/768</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.768</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-21</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/768/581</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/769</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:H10</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">RESOLUÇÃO DE PROBLEMAS NO CURRÍCULO, NA DÉCADA DE 1990, EM PORTUGAL</dc:title>
+	<dc:creator>Rodrigues, Alexandra Sofia</dc:creator>
+	<dc:creator>Doutor, Paulo</dc:creator>
+	<dc:creator>Pimenta, Corália</dc:creator>
+	<dc:subject xml:lang="pt-BR">Resolução de problemas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino da Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Renovação curricular</dc:subject>
+	<dc:subject xml:lang="pt-BR">Trabalho colaborativo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+	<dc:description xml:lang="pt-BR">As reformas educativas constituem respostas a dinâmicas culturais, políticas e sociais, refletindo tensões e aspirações presentes no seio das comunidades educativas. A reforma do currículo de Matemática em Portugal, implementada em 1991, emergiu como reação ao descontentamento manifestado por professores, alunos e pela sociedade em geral, procurando superar o formalismo excessivo da matemática moderna através da valorização da resolução de problemas como eixo estruturante do ensino. Este estudo adota uma abordagem qualitativa, centrada na análise documental de diversas fontes: os documentos curriculares oficiais (currículo prescrito), os manuais escolares e listas de problemas (currículo apresentado), bem como legislação, estudos académicos e textos de divulgação. A análise foi orientada por sete categorias analíticas no caso do currículo prescrito e três categorias no currículo apresentado, tendo como objetivos compreender o contexto histórico que propiciou a centralidade da resolução de problemas no ensino da matemática e examinar os modos como essa abordagem é operacionalizada nos diferentes níveis curriculares. Os resultados evidenciam que o currículo de 1991 representa um movimento robusto de renovação curricular, resultante da confluência de múltiplos atores e dinâmicas, com especial relevo para o papel ativo desempenhado pelos professores. Esta reforma marca uma rutura com práticas anteriores, promovendo uma orientação didática centrada na resolução de problemas em detrimento da mecanização e do treino repetitivo característicos das propostas curriculares precedentes.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-09-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/769</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.769</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-26</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/769/582</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/771</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">GEOMETRIA DEDUTIVA EM DEBATE NO MOVIMENTO DA MATEMÁTICA MODERNA</dc:title>
+	<dc:creator>Leme da Silva, Maria Celia</dc:creator>
+	<dc:creator>Jahn, Ana Paula</dc:creator>
+	<dc:subject xml:lang="pt-BR">Geometria do ensino</dc:subject>
+	<dc:subject xml:lang="pt-BR">Normativas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Livros didáticos</dc:subject>
+	<dc:subject xml:lang="pt-BR">Transformações Geometricas</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo examina a trajetória do ensino de geometria no Brasil e na França entre as décadas de 1930 e 1970, período que abrange reformas educacionais anteriores ao Movimento da Matemática Moderna (MMM) e o próprio movimento. Fundamentado em pressupostos da História Cultural, o estudo investiga como a geometria dedutiva e, posteriormente, as Transformações Geométricas (TG) foram abordadas em normativas curriculares e livros didáticos. A metodologia envolveu a análise de reformas brasileiras (1931, 1942, 1951), de instruções curriculares de São Paulo (1965-1975) e da França (1950-1978), bem como de livros didáticos representativos. Os resultados indicam que, no Brasil pré-MMM, houve uma restrição gradual da geometria intuitiva em favor de uma Geometria Euclidiana (GE) dedutiva, por vezes com ênfase na memorização. Durante o MMM, apesar das ideias modernizadoras, a introdução das TG nos livros didáticos paulistas (décadas de 1960-1970) ocorreu majoritariamente como apêndice ou justaposição, sem alterar os pilares da GE tradicional, mantendo-se, por exemplo, os casos de congruência. Em contraste, na França, as TG foram integradas explicitamente a partir de 1971, concomitantes a uma reestruturação curricular mais profunda, que incluiu a eliminação dos casos de congruência nos manuais e uma articulação mais forte com o estudo de álgebra e vetores. Conclui-se que as trajetórias de apropriação das TG e da geometria dedutiva divergiram significativamente entre os dois países, evidenciando a complexidade das reformas curriculares e a persistência de abordagens tradicionais no contexto brasileiro.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/771</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.771</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-20</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/771/611</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/774</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDUCAÇÃO MATEMÁTICA, EDUCAÇÃO DE SUPERDOTADOS E POLÍTICAS EDUCACIONAIS: histórico e perspectivas</dc:title>
+	<dc:creator>Ferreira, Weberson Campos</dc:creator>
+	<dc:creator>Moreira, Geraldo Eustáquio</dc:creator>
+	<dc:subject xml:lang="pt-BR">Políticas educacionais</dc:subject>
+	<dc:subject xml:lang="pt-BR">Superdotados</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo tem como objetivo analisar aspectos históricos da educação de estudantes superdotados matematicamente habilidosos relacionados às questões políticas. Em primeiro lugar, buscamos conjecturar sobre os objetivos específicos da educação destes estudantes e, na sequência, identificar aproximações e distanciamentos no desenvolvimento da Educação Matemática e da educação de superdotados no Brasil. Metodologicamente, o estudo tem abordagem qualitativa e delineamento exploratório. Foi realizado levantamento documental-bibliográfico relativo a legislação educacional em diálogo com pesquisadores da área. Os resultados apontam que a Educação Matemática e a educação de superdotados matematicamente habilidosos no Brasil têm se desenvolvido de forma paralela, em meio a avanços e retrocessos e, só recentemente, têm demonstrado alguma interseção creditada à emersão da Educação Matemática Inclusiva.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/774</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.774</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-24</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/774/589</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/775</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">POLÍTICAS DE MEMÓRIA ESCOLAR:  notas sobre o caso argentino</dc:title>
+	<dc:creator>Rios, Diogo Franco</dc:creator>
+	<dc:subject xml:lang="pt-BR">Políticas de Memória Educativa</dc:subject>
+	<dc:subject xml:lang="pt-BR">Arquivos Escolares</dc:subject>
+	<dc:subject xml:lang="pt-BR">Argentina</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">Mobilizado por inquietações quanto às políticas públicas de preservação do nosso patrimônio cultural brasileiro, particularmente da memória educacional, busquei conhecer mais de perto a experiência argentina relativa às políticas de memória e de acervo escolar. Como resultado dessa aproximação, discuto como as políticas praticadas nesse país vizinho atribuem importância a esses vestígios para preservação da memória escolar e para a valorização da diversidade sociocultural das comunidades ligadas às instituições escolares. Em contraponto, teço considerações sobre nossas políticas de memória educacional brasileiras que estimulam o descarte de documentos relacionados às práticas de ensino após um curto intervalo de tempo, repercutindo negativamente para a cultura escolar e para as pesquisas que utilizam documentos escolares como fonte.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/775</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.775</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-20</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/775/612</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/776</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">MULHERES MATEMÁTICAS NO JORNAL DE MATHEMATICA ELEMENTAR: enfim elas apareceram</dc:title>
+	<dc:creator>Silva, Circe Mary Silva da</dc:creator>
+	<dc:subject xml:lang="pt-BR">Jornal Escolar</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática.</dc:subject>
+	<dc:subject xml:lang="pt-BR">Relações de gênero</dc:subject>
+	<dc:description xml:lang="pt-BR">O objetivo do estudo é identificar, no Jornal de Mathematica Elementar (JME), publicado em Lisboa, o destaque dado pelos editores às mulheres matemáticas nos trinta anos de circulação do periódico de - 1984 a 2014 bem como revelar, nos fragmentos discursivos, estereótipos sobre essas mulheres. O percurso metodológico inicia com uma análise documental, de natureza descritiva, e prossegue com uma análise textual discursiva. O corpus documental compreende 296 exemplares do JME. Concluiu-se que as biografias e artigos do JME mostram que quase todas às mulheres matemáticas enfrentaram batalhas para ter acesso ao conhecimento, uma vez que esse era privilégio dos homens, corroborando o mito ou estereótipo – a matemática não é para mulheres – identificado nas biografias. O JME, ao inserir nomes femininos que se salientaram na matemática, deu visibilidade à matemática feita por mulheres.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2025-12-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/776</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2025.11.776</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-22</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/776/593</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/779</identifier>
+				<datestamp>2026-07-01T22:38:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O ENSINO DE MATEMÁTICA NO COLÉGIO SÃO JOSÉ DAS IRMÃS FRANCISCANAS, DE SÃO LEOPOLDO/RS: socializando fontes primárias de uma pesquisa histórica</dc:title>
+	<dc:creator>Kuhn, Malcus Cassiano</dc:creator>
+	<dc:creator>Britto, Silvio Luiz Martins</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Livros de Aritmética</dc:subject>
+	<dc:subject xml:lang="pt-BR">Cadernos Escolares</dc:subject>
+	<dc:subject xml:lang="pt-BR">Colégio São José de São Leopoldo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Protagonismo Feminino</dc:subject>
+	<dc:description xml:lang="pt-BR">Este texto traz resultados de uma pesquisa voltada ao processo histórico de atuação educacional da Congregação das Irmãs Franciscanas da Penitência e Caridade Cristã de São Leopoldo, que chegaram ao Rio Grande do Sul, em 1872, com a finalidade de contribuir para a educação de crianças e jovens, em sua maioria filhas de imigrantes alemães. Objetiva apresentar fontes primárias de pesquisa com vestígios sobre o ensino de Matemática no Colégio São José das Irmãs Franciscanas, de São Leopoldo, no final do século XIX e na primeira metade do século XX. Este estudo qualitativo e documental ampara-se em referenciais sobre manuais didáticos (Choppin, 2002, 2004; Bittencourt, 2008) e cadernos escolares (Chartier, 2007; Kirchner, 2018). Foram identificados oito livros de Aritmética, produzidos pelas Irmãs Franciscanas para o público feminino de seus Colégios. Essas obras contêm regras, exemplos, exercícios e problemas práticos e úteis ao público feminino, compilados pelas religiosas e professoras do Colégio São José. Também localizaram-se dois cadernos de contas, datados de 1905, e de uma ex-aluna do Colégio São José. Um deles traz 240 exercícios e problemas resolvidos, de aritmética e de geometria plana, encontrados em um dos livros de Aritmética das Irmãs, publicado no ano de 1900. O outro caderno contém 60 problemas de geometria espacial, com seus enunciados e a resolução. Essas fontes fornecem evidências de que as Irmãs Franciscanas desenvolviam um ensino de matemática próprio, com materiais adaptados às suas alunas, mesclando métodos intuitivos, sob influência alemã, com exercícios de repetição e memorização, além de problemas voltados para situações do cotidiano, como a gestão do lar.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/779</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.779</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-23</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/779/604</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/780</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">TECENDO MEMÓRIAS: reflexões sobre Didática da Matemática no Curso Normal e seu legado para a formação de professores</dc:title>
+	<dc:creator>Coradini, Carla</dc:creator>
+	<dc:creator>Mariani, Rita de Cássia Pistóia</dc:creator>
+	<dc:subject xml:lang="pt-BR">Escolas normais</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino de matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR"> Formação de professores</dc:subject>
+	<dc:description xml:lang="pt-BR">O objetivo deste artigo é compartilhar a voz de uma professora de Didática da Matemática do Curso Normal do Instituto Estadual de Educação Olavo Bilac (IEEOB) como um fio condutor para caracterizar o ensino de Didática da Matemática, no período de 1997 a 2017. A história oral foi a base teórico-metodológica para realizar a entrevista e o diálogo construído entre memórias da Profa. Beatriz com os cadernos escolares e autores do campo educacional. Como resultados constatou-se que o ensino de Didática da Matemática, ministrado pela Profa. Beatriz, era caracterizado por diversas influências pedagógicas. Suas aulas equilibraram práticas tradicionais, construtivistas, contextualizadas e centradas no aluno, com ênfase no uso de materiais manipuláveis e na promoção de um aprendizado significativo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/780</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.780</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-24</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/780/606</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/781</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O ENSINO DE CURVAS CÔNICAS SISTEMATIZADO NA OBRA DE ALGACYR MUNHOZ MAEDER NAS DÉCADAS DE 1930 E 1940</dc:title>
+	<dc:creator>Genevain Andrade, Letícia</dc:creator>
+	<dc:creator> Oliveira, Maria Cristina Araújo de</dc:creator>
+	<dc:subject xml:lang="pt-BR">Geometria Analítica</dc:subject>
+	<dc:subject xml:lang="pt-BR">Curvas Cônicas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Livro Didático</dc:subject>
+	<dc:subject xml:lang="pt-BR">Algacyr Munhoz Maeder</dc:subject>
+	<dc:description xml:lang="pt-BR">Esse artigo apresenta resultados de uma dissertação de mestrado que investiga as curvas cônicas numa perspectiva da história do ensino desse conteúdo nas décadas de 1930 e 1940. O aporte teórico-metodológico se fundamenta na História Cultural, mobilizando a noção de representação para a construção da análise histórica. Para a elaboração dessas análises, toma-se como fonte principal o livro didático Curso de Matemática – 3º livro – Ciclo colegial de Algacyr Munhoz Maeder. Como resultado obtido por meio da análise das fontes, foi possível notar que os exercícios sobre curvas cônicas eram escassos, descontextualizados e com foco apenas em cálculos. Ademais, durante a investigação, percebeu-se que, na década de 1930, existiam poucos exemplares de livros didáticos dedicados ao ensino da recém-criada disciplina Matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/781</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.781</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-22</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/781/607</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/783</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">FOTOGRAFIA, HISTÓRIA E MATEMÁTICA: os registros da professora Maria Davina de Lima</dc:title>
+	<dc:creator>Gonçalves, Francisco Djnnathan da Silva</dc:creator>
+	<dc:creator>Silva, Leydson Jose Ferreira da</dc:creator>
+	<dc:creator>Albuquerque, Jovanira Santos Tavares de</dc:creator>
+	<dc:subject xml:lang="pt-BR">Maria Davina de Lima</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História e Memória</dc:subject>
+	<dc:subject xml:lang="pt-BR">Análise Documental</dc:subject>
+	<dc:subject xml:lang="pt-BR">Fotografia da Região Potengi</dc:subject>
+	<dc:description xml:lang="pt-BR">Esse escrito se constitui em um recorte do projeto denominado Reconstruções dos cenários escolares da Região Potengi: os bastidores das histórias que influenciaram o ensino de matemática que visa investigar os possíveis locais ou personagens que contribuíram para o ensino de Matemática na Região Potengi, no Rio Grande do Norte (RN). Neste recorte, direcionamos nossa busca a partir do objetivo de compreender os cenários históricos estabelecidos nos registros fotográficos realizados por Maria Davina de Lima entre 1990 e 2024. Assim, como embasamento teórico-metodológico utilizamos a História da Educação Matemática com uma abordagem qualitativa, em uma perspectiva da história e memória, além da história das disciplinas e instituições escolares. Para tanto, destacamos o uso da análise documental para a interpretação das fotografias, com o acréscimo da história oral para as entrevistas que realizamos. Dessa forma, a partir do cenário advindo desses registros, com o auxílio da professora Davina, tornou-se possível a reflexão acerca dos principais eventos no que tange à importância dos movimentos políticos, sociais e culturalmente estabelecidos durante a construção da adutora Monsenhor Expedito, especialmente na sua inauguração, ocorrida em 1999, marco para o abastecimento de água para os sertanejos das Regiões Agreste, Potengi e Trairi, no Estado do Rio Grande do Norte. Além disso, evidenciamos os aspectos da trajetória da professora Davina como elemento essencial para o reconhecimento dos contributos de suas memórias, que possibilitaram o entendimento dos investimentos de uma carreira na docência e da sensibilidade dos holofotes, que oportunizaram uma significação do passado vivido.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/783</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.783</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-22</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/783/613</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/784</identifier>
+				<datestamp>2026-08-09T10:04:21Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">LES CONDITIONS DE CONVERGENCE DANS LA SÉRIE DE TAYLOR: une analyse socioépistémologique de la mémoire de Cauchy de 1831</dc:title>
+	<dc:creator>Villacrés, Fernando</dc:creator>
+	<dc:creator>Farfán Marquéz, Rosa María</dc:creator>
+	<dc:subject xml:lang="pt-BR">Série de Taylor</dc:subject>
+	<dc:subject xml:lang="pt-BR">Convergência</dc:subject>
+	<dc:subject xml:lang="pt-BR">Socioepistemologia</dc:subject>
+	<dc:subject xml:lang="pt-BR">Augustin-Louis Cauchy</dc:subject>
+	<dc:description xml:lang="pt-BR">Esta investigação analisa a natureza do conhecimento matemático da convergência para a série de Taylor, tomando como eixo a obra publicada por Augustin-Louis Cauchy em 1831. O estudo inscreve-se no marco teórico da socioepistemologia, que permite reinterpretar os processos de construção e difusão do saber matemático desde uma perspectiva contextual e histórica. A motivação principal deste trabalho surge da problemática documentada em diversos estudos, que apontam uma tendência recorrente no ensino e na aprendizagem da série de Taylor caracterizada pelo uso excessivamente algorítmico de sua fórmula, sem atenção a aspectos fundamentais como a convergência. Para abordar esta problemática, empregou-se a proposta metodológica de Hinojos e Farfán (2019), baseada na problematização do saber matemático, que possibilita historicizar e dialectizar o resultado obtido por Cauchy mediante análise contextual e textual de sua obra. A análise realizada permitiu identificar que as condições de convergência estabelecidas por Cauchy estão associadas à escolha de contornos circulares como domínios de convergência, vinculados diretamente ao raio de convergência através da parametrização polar de valores complexos. A partir destes achados, propõe-se uma conjetura epistemológica que pode ser contrastada com os alunos, a fim de melhorar a aprendizagem do conceito de convergência.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-06-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/784</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.784</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-24</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/784/615</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/786</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">ENTRE DEMOCRATIZAÇÃO ELEMENTAR E HIERARQUIZAÇÃO SELETIVA: institucionalização dos saberes matemáticos escolarizados na Argentina do século XIX</dc:title>
+	<dc:creator> Canale, Ricardo Angelo Monteiro</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Saberes matemáticos escolarizados</dc:subject>
+	<dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Argentina</dc:subject>
+	<dc:subject xml:lang="pt-BR">Século XIX</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo analisa a institucionalização dos saberes matemáticos escolarizados na Argentina do século XIX, com ênfase em sua articulação com a construção do Estado, a organização do sistema educativo e a diferenciação social do conhecimento. Trata-se de um estudo qualitativo de natureza historiográfica e documental, baseado na análise crítica de fontes normativas e pedagógicas, incluindo documentos primários como legislação educacional, decretos e programas oficiais analisados, para examinar a escolarização de Aritmética, Álgebra, Geometria e saberes correlatos em distintos circuitos formativos. A constituição do corpus foi condicionada pela dispersão documental, pela preservação desigual dos acervos e pela sistematização ainda incompleta de parte dos materiais em repositórios acessíveis. A análise indica que esses saberes ocuparam posições desiguais no interior da escolarização oitocentista. Na instrução elementar, a Aritmética vinculou-se à alfabetização numérica, ao cálculo prático, às medidas e à disciplina escolar; nas instituições secundárias, normais, militares e superiores, Álgebra, Geometria e, em níveis mais seletivos, Trigonometria e Cosmografia associaram-se à formação de quadros técnicos, administrativos e científicos, em percursos marcados por abstração crescente, diferenciação curricular e seletividade social. Sustenta-se, assim, que a escolarização dos saberes matemáticos integrou um duplo movimento: ampliou a instrução elementar e, simultaneamente, organizou formas desiguais de acesso ao conhecimento matemático mais abstrato e especializado. O estudo explicita como a distribuição escolar desses saberes participou da produção de hierarquias educacionais e da arquitetura do projeto estatal no século XIX.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-06-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/786</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.786</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-22</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/786/617</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/787</identifier>
+				<datestamp>2026-09-17T20:12:12Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">TRANSFORMAÇÕES LINEARES EM INTRODUÇÃO À ÁLGEBRA LINEAR (1977): uma análise à luz da Teoria dos Registros e Representação Semiótica</dc:title>
+	<dc:creator>Martins da Silva, Ellen</dc:creator>
+	<dc:creator>Chaquiam, Miguel</dc:creator>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino de Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Álgebra Linear</dc:subject>
+	<dc:subject xml:lang="pt-BR">Transformações Lineares</dc:subject>
+	<dc:subject xml:lang="pt-BR">Registros e Representações Semiótica</dc:subject>
+	<dc:description xml:lang="pt-BR">A pesquisa partiu da observação de dificuldades de compreensão de alunos da graduação em relação às transformações lineares e suas representações em álgebra linear. À vista disso, questionou-se: Que representações de transformações lineares constantes no livro Introdução à Álgebra Linear (1977), de Guilherme de La Penha e Mina Carakushansky, segundo a Teoria dos Registros de Representações Semiótica de Duval (2003), pode contribuir para o processo de aprendizagem desse conteúdo? Para elucidar tal questão, foi estabelecido como objetivo: Identificar registros e representações das transformações lineares no livro Introdução à Álgebra Linear (1977), tendo-se em vista como estes podem contribuir para seu entendimento, observado a relevância da temática. Esteou-se a pesquisa em base documental, com levantamentos a partir do acervo do GHEMAZ, classificada como aplicada quanto a natureza; a abordagem é qualitativa; exploratória quanto aos objetivos e, quantos aos procedimentos, bibliográfica, segundo definições de Gil (2002), Creswell (2007) e Bauer e Gaskell (2008). Foram identificadas três obras dos citados autores, sendo escolhida Introdução à Álgebra Linear (1977)cpor sua abrangência e relevância. A análise evidenciou que o livro Introdução à Álgebra Linear contempla quatro tipos de registros, algébricos, geométricos, matriciais e numéricos, elementos que podem contribuir para o entendimento do objeto matemático em diferentes perspectivas, ressaltado que nestes foram mantidos pelos autores o rigor matemático e a formalização. Por fim, é possível inferir que a forma apresentada pode contribuir para o entendimento e aplicação deste conteúdo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-09-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/787</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.787</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-22</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/787/627</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/789</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">PERCEPÇÕES DOS ESTUDANTES DA LICENCIATURA EM MATEMÁTICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE ACERCA DA SBEM/RN</dc:title>
+	<dc:creator>Virgínio da Hora Lima, Tiely</dc:creator>
+	<dc:creator> Gutierre, Liliane dos Santos</dc:creator>
+	<dc:subject xml:lang="pt-BR">Licenciatura</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Associados</dc:subject>
+	<dc:subject xml:lang="pt-BR">SBEM/RN</dc:subject>
+	<dc:subject xml:lang="pt-BR">História Social</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta os resultados de uma pesquisa de mestrado sobre a Sociedade Brasileira de Educação Matemática regional do Rio Grande do Norte (SBEM/RN). O estudo teve por objetivo analisar como opinam os estudantes de Licenciatura em Matemática do campus Natal sobre a SBEM/RN. Utilizando uma abordagem qualitativa, a pesquisa articulou documentos sobre a SBEM e SBEM/RN, História Social e História do Tempo Presente, e incluiu um questionário para obtenção de dados. A pesquisa contou com a participação de 44 estudantes de três turmas de graduação e indicou que a maioria não conhece a SBEM e a SBEM/RN. Apenas um estudante é associado à SBEM, mas não tem conhecimento aprofundado sobre sua filosofia e atividades. Outros 4 estudantes disseram ser associados à Sociedade Brasileira de Matemática (SBM), à Society of Automotive Engineers (Sociedade de Engenheiros Automotivos), ao Programa Institucional de Bolsa de Iniciação à Docência (PIBID) e ao site piformuleiros. Os estudantes que não são associados a nenhuma sociedade apresentam como motivos: falta de conhecimento sobre as sociedades, falta de tempo e dinheiro e até mesmo falta de interesse. Esses resultados nos fazem refletir sobre a presença das sociedades cientificas nas universidades e, em especial, na formação de professores.  </dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/789</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.789</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-19</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/789/608</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/790</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A MULTIPLICAÇÃO COM VARETAS DE BAMBU NA FORMAÇÃO INICIAL EM PEDAGOGIA</dc:title>
+	<dc:creator>Silva, Ednaldo Nunes da</dc:creator>
+	<dc:creator>Ribeiro, Pedro Henrique Sales</dc:creator>
+	<dc:creator>Pereira, Ana Carolina Costa</dc:creator>
+	<dc:subject xml:lang="pt-BR">Ensino de multiplicação</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação de Professores</dc:subject>
+	<dc:subject xml:lang="pt-BR">Licenciatura em Pedagogia</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da Matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo tem por objetivo apresentar indícios de conhecimentos matemáticos mobilizados por estudantes da formação inicial em Pedagogia por meio de um processo formativo direcionado ao ensino de Multiplicação. O estudo foi desenvolvido na Universidade Estadual do Ceará (UECE), Campus Itaperi, em Fortaleza no Ceará, semestre de 2024.2, com discentes da Licenciatura em Pedagogia matriculados na disciplina de Matemática II na Educação Infantil e nos Anos Iniciais do Ensino Fundamental. Trata-se de uma pesquisa de cunho qualitativo, aliada ao método da pesquisa-ação, de modo que, em forma de etapas, pode-se organizar aplicação da atividade formativa e a coleta dos dados. Desse modo, os resultados indicam que a articulação entre o ensino de Multiplicação e a História da Matemática, como suporte didático, pode contribuir com a apropriação de conhecimentos pelos estudantes de Pedagogia, preparando-os para enfrentar desafios em aprender e ensinar Matemática. Essa experiência reforça a importância e a necessidade de propostas formativas que integrem práticas colaborativas e reflexivas com artefatos históricos visando o desenvolvimento profissional de futuros professores de Matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/790</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.790</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-23</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/790/596</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/791</identifier>
+				<datestamp>2026-07-01T22:37:11Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A PRODUÇÃO HISTÓRICA DE VIOLÊNCIAS NA EDUCAÇÃO MATEMÁTICA: entre estruturas, culturas e símbolos</dc:title>
+	<dc:creator>Bezerra de Morais, Marcelo</dc:creator>
+	<dc:subject xml:lang="pt-BR">Violência estrutural</dc:subject>
+	<dc:subject xml:lang="pt-BR">Violência cultural</dc:subject>
+	<dc:subject xml:lang="pt-BR">Violência simbólica</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da educação matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Poder</dc:subject>
+	<dc:description xml:lang="pt-BR">Com este artigo, intentamos evidenciar como a violência se constitui e se estabiliza historicamente como uma cultura na educação matemática. Fundamentado nas categorias de violência direta, estrutural e cultural de Johan Galtung e no conceito de violência simbólica de Pierre Bourdieu, analisamos como práticas, discursos e estruturas escolares têm operado na normalização, hierarquização e exclusão de sujeitos. Do ponto de vista metodológico, trata-se de uma pesquisa bibliográfica e interpretativa, que toma como corpus oito trabalhos acadêmicos desenvolvidos no campo da Educação Matemática, mobilizados como registros sintomáticos das experiências de estudantes e docentes. A análise transversal dessas produções possibilita evidenciar recorrências de medos, silenciamentos, humilhações, autoritarismos, desigualdades de gênero, sexualidade e origem social, evidenciando a presença de uma cultura de violências que atravessa fortemente o ensino de matemática. Apontamos que tais violências são sustentadas por discursos de neutralidade, mérito e naturalização da dureza, que legitimam práticas normalizadoras e produzem subjetividades ajustadas. Assim, a violência não é compreendida apenas como evento pontual, mas como elemento cultural historicamente produzido e naturalizado nos processos de escolarização. Defendemos, por fim, que problematizar historicamente essas engrenagens é condição para deslocar a Educação Matemática de um espaço de reprodução de desigualdades para um campo de resistência, emancipação e produção de outras histórias possíveis.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/791</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.791</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-19</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/791/603</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/792</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">CULTURAS ESCOLARES DO CAMPO E HISTÓRIA DA EDUCAÇÃO MATEMÁTICA: articulações e exercícios de pesquisa</dc:title>
+	<dc:creator>Fernandes, Filipe Santos</dc:creator>
+	<dc:creator>Santos, Sérgio Geraldo dos</dc:creator>
+	<dc:subject xml:lang="pt-BR">Cultura Escolar</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação do Campo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Rural</dc:subject>
+	<dc:description xml:lang="pt-BR">O artigo discute a pesquisa em História da Educação Matemática quando orientada pelas culturas escolares do campo, frequentemente invisibilizadas por leituras historiográficas urbanocêntricas. A partir de referenciais da História Cultural e da Antropologia, propõe uma elaboração conceitual que entende as culturas escolares do campo como espaços nos quais se articulam normas e práticas, concessões e apropriações, além de testemunhos que expressam não só o que as escolas são, mas o que projetam ser e o que resistem a ser ou a deixar de ser. Nessa perspectiva, investigar a presença da matemática nos cotidianos escolares camponeses implica reconhecê-la como participante de um jogo constante de negociação simbólica e material, no qual se entrecruzam prescrições institucionais e práticas cotidianas de apropriação e resistência. Visando operar tal conceito, o artigo apresenta duas investigações. A primeira analisa projetos educativos concebidos por movimentos sociais camponeses e, a partir dos Cadernos de Educação do MST, possibilita compreender como tais iniciativas tensionam modelos hegemônicos de escolarização e elaboram outros sentidos para a educação matemática em escolas situadas em contextos de Reforma Agrária. A segunda investigação examina ações formativas destinadas à escola rural mineira entre as décadas de 1950 e 1970, com atenção especial às Granjinhas Escolares que caracterizam parte do trabalho educacional de Helena Antipoff. O estudo mostra como a matemática se integrava à formação de professores/as rurais, operando na manutenção e/ou promoção de ideários e discursos sobre a educação das populações camponesas no período. As análises indicam que a presença da matemática em culturas escolares do campo mobiliza, simultaneamente, finalidades instituídas por projetos hegemônicos e práticas de resistência e de afirmação política. O artigo defende, por fim, a necessidade de uma historiografia da Educação Matemática comprometida com a visibilidade, a diversidade e a legitimidade dessas experiências educacionais, reconhecendo-as como parte constitutiva da história da escola brasileira.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/792</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.792</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-16</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/792/609</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/793</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">UM OLHAR PARA OS CURSOS DE FORMAÇÃO INICIAL DE PROFESSORES: o que podemos aprender frente a diversidade da realidade vivida?</dc:title>
+	<dc:creator>Dalcin, Andréia</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Narrativa</dc:subject>
+	<dc:subject xml:lang="pt-BR">Licenciatura em Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Diretrizes Nacionais para Formação de Professores</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo revisita a fala apresentada no Painel de abertura do IX Seminário Internacional de Pesquisa em Educação Matemática — SIPEM, que ocorreu em 2024 na UFRN. O objetivo da fala é trazer para o debate algumas questões que provocam a pensar sobre o que temos feito no Brasil e para onde iremos em termos de formação inicial de professores que ensinam matemática. Embora o foco esteja no presente é o olhar para o passado que nos permite ter mais clareza sobre o que avançamos e o que perdemos. Os ventos do passado nos empurram para o futuro, como bem coloca Walter Benjamin quando analisa a imagem do anjo da história que é violentamente impelido pela tempestade do Progresso. Dentre as questões apontadas destaco a necessidade de produção e circulação de narrativas que falem das experiências vividas, seja na perspectiva de se construir narrativas para pesquisas históricas ou narrativas que estejam presentes nas práticas formativas dos professores no tempo presente. É preciso incentivar a produção de narrativas sobre a realidade vivida e essas precisam compor os espaços de formação e tornarem-se objeto de nossas pesquisas. Precisamos avançar na compreensão e análise dos cursos de formação de professores extintos, principalmente aqueles com currículos mais abertos e públicos diversificados, que assumiram diferentes papéis em especial nas regiões mais interioranas. Por fim, nossas pesquisas precisam ser lidas (entre nós) e consideradas por aqueles que elaboram as políticas de formação e as DCN nesse país.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/793</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.793</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-18</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/793/610</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/794</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A CONSTITUIÇÃO DA GEOMETRIA DO ENSINO: orientações para professores presentes na Revista Escolar (São Paulo, 1925-1927)</dc:title>
+	<dc:creator>Santos, Joana Kelly Souza</dc:creator>
+	<dc:subject xml:lang="pt-BR">Geometria do Ensino</dc:subject>
+	<dc:subject xml:lang="pt-BR">São Paulo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Revista Escolar</dc:subject>
+	<dc:subject xml:lang="pt-BR">Escola Nova</dc:subject>
+	<dc:description xml:lang="pt-BR">Neste artigo são examinadas orientações para o ensino de geometria. Buscou-se caracterizar a geometria presente na Revista Escolar (1925-1927) a partir da perspectiva da geometria do ensino (Santos, 2022). Foram examinados artigos publicados na Revista Escolar do Estado de São Paulo, com período demarcado entre 1925 e 1927, datas da primeira e última publicação sobre o ensino de geometria. A análise foi efetuada tendo por referenciais teórico-metodológicos autores da História Cultural, além das contribuições de Morais et. al. (2021), para matemática do ensino, Santos (2022) sobre geometria do ensino e Hofstetter e Schneuwly (2017) com saberes profissionais. O exame das fontes apontou para a estruturação de uma geometria a partir de uma abordagem que privilegiava o ensino partindo do todo para as partes, isso significa que primeiro as crianças eram estimuladas a perceber os conceitos geométricos de maneira concreta e visual para que depois fosse possível abordar demais conteúdo. A análise dos artigos da revista apontou, também, para o entendimento da geometria articulando seus conceitos por meio de dois eixos centrais: a observação por comparação e a ação da criança. Os dois eixos apontavam para orientações do ensino de geometria que a configurava um campo da matemática escolar marcado pela possibilidade de visualização e manuseio, produzindo um saber geométrico vinculado às práticas educativas e às orientações para professores que atendesse a demandas do período. Temos, na Revista Escolar, uma geometria do ensino que priorizava a prática como princípio do ensino, evidenciando relação entre os conteúdos geométricos, métodos propostos e necessidades sociais e educacionais da época.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/794</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.794</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-21</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/794/605</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/795</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">ACERVO DE LIVROS DO PROFESSOR RUY MADSEN BARBOSA: contribuições para a História da Educação Matemática</dc:title>
+	<dc:creator>Martins, Maria Ednéia</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática.</dc:subject>
+	<dc:subject xml:lang="pt-BR">Hermenêutica de Profundidade.</dc:subject>
+	<dc:subject xml:lang="pt-BR">Acervo de livros.</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação de professores de Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Livros do professor Ruy Madsen Barbosa</dc:subject>
+	<dc:description xml:lang="pt-BR">Apresenta-se neste artigo resultados de pesquisas que mobilizaram obras do professor Ruy Madsen Barbosa, as quais compõem parte do seu acervo pessoal, o qual foi doado para o Acervo “Antonio Vicente Marafioti Garnica” de livros antigos do Ghoem (Grupo História Oral e Educação Matemática). As pesquisas tiveram inspiração nas metodologias da Hermenêutica de Profundidade e da História Oral e estavam vinculadas a um projeto mais amplo, denominado “Formação e atuação de professores de Matemática: estudos de materiais didáticos, estudos historiográficos e mapeamento de escolas do campo”, de responsabilidade da autora deste artigo. Um dos objetivos desse projeto foi problematizar essa formação e atuação, estudando materiais didáticos, por um viés historiográfico. Dentre os resultados, destacamos i) o foco em produções voltadas à formação de professores, envolvendo uma proposta de formação mais internalista à Matemática, com variações entre formação teórica e prática; ii) envolvimento de estudantes e pesquisadores de seus grupos de pesquisa na elaboração de publicações voltadas a professores da educação básica; iii) influências do Movimento da Matemática Modernas em suas obras mais antigas e iv) presença de ideias recreativas em obras de diferentes períodos, sendo mais evidentes na série “O professor de Matemática em Ação” dos anos 2010 e  v) potencialidades do acervo de livros antigos para a formação em serviço de professores da escola básica.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/795</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.795</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-16</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/795/616</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/798</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:H10</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">APRESENTAÇÃO - HISTEMAT: 10 anos de História da Educação Matemática</dc:title>
+	<dc:creator>Pardim Gouveia, Relicler</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/798</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo; 1-3</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/798/598</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/799</identifier>
+				<datestamp>2026-05-15T14:40:40Z</datestamp>
+				<setSpec>HISTEMAT:EXP</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">AVALIADORES AD HOC, V. 10, 2024</dc:title>
+	<dc:creator>Valente, Wagner Rodrigues</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/799</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 10 (2024): Fluxo Contínuo</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/799/599</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/800</identifier>
+				<datestamp>2026-05-15T14:41:03Z</datestamp>
+				<setSpec>HISTEMAT:EXP</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">AVALIADORES AD HOC, V. 11, 2025</dc:title>
+	<dc:creator>Valente, Wagner Rodrigues</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/800</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 11 (2025): Fluxo Contínuo</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/800/600</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/807</identifier>
+				<datestamp>2026-09-21T14:32:03Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">INSTRUMENTO MATEMÁTICO PRÉ-HISPÂNICO? Uma revisão de literatura sobre o ábaco americano Nepohualtzintzin</dc:title>
+	<dc:creator>Melo, Carlos Ian Bezerra de</dc:creator>
+	<dc:subject xml:lang="pt-BR">Nepohualtzintzin</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ábaco</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">O objetivo deste artigo é sistematizar, a partir de uma revisão de literatura, o que se tem discutido sobre o ábaco americano Nepohualtzintzin, mapeando a recorrência e disseminação de pesquisas sobre esse instrumento matemático histórico e problematizando as discussões a seu respeito. Para isso realizou-se uma pesquisa qualitativa do tipo estado do conhecimento, em 9 bases de dados, que culminou na análise de conteúdo de 16 trabalhos. Os resultados apontam a escassez de estudos sobre o Nepohualtzintzin, especialmente no contexto brasileiro, apesar de seu uso educacional em outros países desde o final do século XX. Os textos analisados reconhecem sua origem mesoamericana e seu potencial didático, sobretudo para crianças, mas, em geral, carecem de aprofundamento quanto à manipulação do instrumento e às formas de integrá-lo de maneira sistemática ao ensino de Matemática. Identificam-se, ainda, possibilidades de pesquisas e propostas pedagógicas que explorem o Nepohualtzintzin mais detalhadamente na Educação Matemática, inclusive na formação inicial de professores.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/807</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.807</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-23</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/807/628</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/820</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">HISTORIA DE UN ÁNGULO NATURAL: el radián entre la teoría, enseñanza y práctica</dc:title>
+	<dc:creator>Camacho-Ríos, Alberto</dc:creator>
+	<dc:creator>Torres-Corrales, Diana del Carmen</dc:creator>
+	<dc:creator>Hinojos-Ramos, Jesús Eduardo</dc:creator>
+	<dc:subject xml:lang="pt-BR">Trigonometría</dc:subject>
+	<dc:subject xml:lang="pt-BR">Cálculo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Astronomía</dc:subject>
+	<dc:subject xml:lang="pt-BR">Transposición Didáctica</dc:subject>
+	<dc:subject xml:lang="pt-BR">Enseñanza de las Matemáticas</dc:subject>
+	<dc:description xml:lang="pt-BR">El presente trabajo analiza la evolución histórica del radián desde finales del siglo XVII hasta mediados del siglo XX, enfatizando su papel como herramienta operativa antes de consolidarse como definición en 1873 con James Thomson. A partir del estudio de fuentes científicas y didácticas, se muestra cómo Isaac Newton empleó implícitamente el radián en los Principia para resolver la conocida ecuación de Kepler, utilizando aproximaciones como sen(x)x, válidas únicamente en radianes. Posteriormente, autores como Lacroix y Lefebure de Fourcy validaron el uso de arcos pequeños y series de potencias para aproximar valores trigonométricos, estableciendo la noción de radián en partes del radio. En el siglo XIX, el radián se consolidó en la práctica de la astronomía, la geodesia y la topografía: Chauvenet lo aplicó en la corrección de observaciones astronómicas; Díaz Covarrubias lo empleó para resolver problemas de coherencia de unidades en geodesia. El estudio concluye que, por alrededor de cuatro siglos, el radián circuló como un conocimiento tácito y utilitario en las ciencias aplicadas y en la enseñanza de la trigonometría, antes de utilizar la forma que hoy reconocemos. En términos de la Teoría Antropológica de lo Didáctico (TAD), se ponen de manifiesto los efectos transpositivos del radián, cuyo tránsito entre instituciones científicas y educativas transformó su estatus de herramienta práctica a definición conceptual.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-06-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/820</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.820</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-20</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/820/619</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/821</identifier>
+				<datestamp>2026-09-17T19:31:49Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O CONHECIMENTO PROFISSIONAL DOCENTE EM PORTUGAL: o que nos diz a investigação em História da Educação Matemática?</dc:title>
+	<dc:creator>Almeida, Mária Cristina</dc:creator>
+	<dc:subject xml:lang="pt-BR">Conhecimento Profissional Docente</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino Primário</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino Secundário</dc:subject>
+	<dc:description xml:lang="pt-BR">O presente artigo tem como objetivo rever a investigação em História da Educação Matemática que tem vindo a ser desenvolvida em Portugal, sob a perspectiva da história cultural, especialmente no domínio conhecimento profissional docente dos professores que ensinam Matemática do ensino não superior. Foram selecionados três trabalhos publicados entre 2019 e 2024. Os trabalhos selecionados estudaram a forma como conhecimento profissional do professor que ensina matemática no ensino não superior se encontra explícito em documentos curriculares e manuais, em diferentes subsistemas de ensino. Explicitamos como se organizou cada um dos textos, a metodologia utilizada e as opções metodológicas feitas. Havendo em todos os trabalhos evidências nos documentos analisados e propostas neles apresentadas de que os autores e professores aplicam conhecimento comum do conteúdo, mas também desenvolviam o conhecimento especializado do conteúdo e o desenvolvimento do conhecimento pedagógico do conteúdo, nomeadamente do conteúdo e do seu ensino.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-09-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/821</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.821</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-18</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/821/625</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/822</identifier>
+				<datestamp>2026-07-06T13:21:20Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">PESQUISA EM HISTÓRIA DA EDUCAÇÃO MATEMÁTICA EM 14 ANOS DE CONGRESSOS IBERO-AMERICANOS</dc:title>
+	<dc:creator>Sales, Francisco Alexandre de Lima</dc:creator>
+	<dc:creator>Aguiar, Reullyanne Freitas de</dc:creator>
+	<dc:creator>Rodrigues, Alexandra Sofia da Cunha</dc:creator>
+	<dc:subject xml:lang="pt-BR">CIHEM</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História da Educação</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">A História da Educação Matemática tem se consolidado como campo científico. No contexto ibero-americano, o Congresso Ibero-Americano de História da Educação Matemática (CIHEM) tem sido fundamental para promover a construção coletiva do conhecimento, fortalecer redes de pesquisa e aprofundar metodologias. Esta pesquisa tem como objetivo mapear as tendências temáticas e metodológicas presentes nas atas do CIHEM, de 2011 a 2023. Adotou-se a metodologia com abordagem qualitativa, associada a técnicas de análise de bigramas, aplicadas aos resumos dos trabalhos. Os resultados indicam um panorama das pesquisas, contribuindo para compreender os rumos e os desafios atuais da História da Educação Matemática no espaço ibero-americano. Destacam-se metodologias como história oral e cultural, períodos como o século XX e a matemática moderna e temáticas como o ensino primário e o livro didático.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/822</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.822</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-17</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/822/621</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/823</identifier>
+				<datestamp>2026-09-17T19:17:33Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">La mujer en la educación STEAM en secundaria: percepciones del profesorado en Castellón </dc:title>
+	<dc:creator>Madrid-Martín, María José</dc:creator>
+	<dc:creator>Sanz Perela, Isabel</dc:creator>
+	<dc:creator>Santágueda-Villanueva, María</dc:creator>
+	<dc:subject xml:lang="pt-BR">Educación matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Equidad de género</dc:subject>
+	<dc:subject xml:lang="pt-BR">Mujeres matemáticas históricas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formación de docentes</dc:subject>
+	<dc:description xml:lang="pt-BR">Este trabajo examina las percepciones del profesorado de Educación Secundaria en la provincia española de Castellón sobre la relación entre género, la presencia de las mujeres matemáticas relevantes del pasado y la enseñanza de las matemáticas. Con este propósito, se ha realizado un estudio piloto de carácter exploratorio con profesorado en ejercicio de matemáticas de educación secundaria de la provincia de Castellón, empleando un cuestionario diseñado específicamente para obtener información sobre esta temática. Se destaca la escasa presencia de mujeres matemáticas del pasado en los materiales didácticos, lo que perpetúa estereotipos y limita referentes femeninos. Aunque el profesorado valora la equidad de género y reconoce la importancia de fomentar vocaciones científicas en ambos géneros, se evidencia una falta de formación específica y recursos adecuados. El estudio concluye que es esencial reforzar la formación docente en igualdad y desarrollar materiales inclusivos que integren la historia de las matemáticas desde una perspectiva equitativa.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-09-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/823</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.823</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-15</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/823/624</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/824</identifier>
+				<datestamp>2026-07-06T13:49:06Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">LAS MATEMÁTICAS DEL PASADO COMO ESCENARIO DE INVESTIGACIÓN EN LA SOCIOEPISTEMOLOGÍA</dc:title>
+	<dc:creator>Espinosa, Gisela Montiel</dc:creator>
+	<dc:subject xml:lang="pt-BR">Estudios históricos</dc:subject>
+	<dc:subject xml:lang="pt-BR">Epistemología de prácticas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Texto y Contexto</dc:subject>
+	<dc:subject xml:lang="pt-BR">Análisis de prácticas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Usos del conocimiento</dc:subject>
+	<dc:description xml:lang="pt-BR">En este ensayo se presentan los orígenes y el desarrollo de la trayectoria de investigación de corte histórico, nacida al seno de un programa de investigación socioepistemológica, cuya perspectiva se ha caracterizado por cambiar su foco de atención de los objetos a las prácticas. La trayectoria inicia con investigaciones relativas a la construcción de conocimiento trigonométrico y va creciendo con la inmersión en áreas de la matemática como la geometría –analítica y no euclidiana–, el álgebra, la estocástica y las matemáticas de la variación y el cambio. Cada objeto de estudio nos demandó, por un lado, revisar y reflexionar constantemente los avances teóricos y metodológicos y, por otro lado, el diálogo profundo con otras perspectivas, disciplinas y programas de investigación en la socioepistemología; tanto para avanzar en cada investigación como en las explicaciones de la teoría. Se concluye con una reflexión en torno a la comunicación de la investigación histórico-epistemológica en general, en la Matemática Educativa, pensándola como estrategia para robustecer nuestras aportaciones y crecer como comunidad especialista en estudios históricos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/824</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.824</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-21</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/824/623</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/829</identifier>
+				<datestamp>2026-07-06T13:35:28Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">NÚMEROS REALES A TRAVÉS DE LOS LENTES DE LA HISTORIA DEL CURRÍCULO ESCOLAR COLOMBIANO</dc:title>
+	<dc:creator>Guacaneme Suárez, Edgar Alberto</dc:creator>
+	<dc:creator>Mora Mendieta, Lyda Constanza</dc:creator>
+	<dc:creator>Rendón Mayorga, César Guillermo</dc:creator>
+	<dc:subject xml:lang="pt-BR">Historia del currículo en matemáticas</dc:subject>
+	<dc:subject xml:lang="pt-BR">Sistema de los números reales</dc:subject>
+	<dc:subject xml:lang="pt-BR">Colombia</dc:subject>
+	<dc:description xml:lang="pt-BR">Con el interés de decantar una base para el conocimiento curricular del profesor de matemáticas sobre el sistema numérico de los números reales se realizó un estudio del desarrollo histórico de este en propuestas oficiales del currículo colombiano de matemáticas en los últimos 75 años. Los resultados del estudio se organizan y presentan en cuatro hitos. A través de estos se reconoce un crecimiento en el tratamiento curricular del sistema numérico en cuestión expresado en su evolución de ser un tema de las matemáticas escolares en un curso, a convertirse en objeto de estudio de sendas unidades temáticas en dos cursos. Adicionalmente, se advierte una evolución del tratamiento curricular al llevar planteamientos generales sobre su lugar en el desarrollo del pensamiento matemático a niveles de concreción en enunciados que se asumen como herramientas para la actividad docente.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/829</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.829</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-20</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/829/622</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/830</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">PRINCÍPIOS E MÉTODOS PARA A PESQUISA EM HISTÓRIA DE PRÁTICAS MATEMÁTICAS</dc:title>
+	<dc:creator>Mendes, Iran Abreu</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Método historiográfico</dc:subject>
+	<dc:subject xml:lang="pt-BR">Princípios e métodos de pesquisa</dc:subject>
+	<dc:subject xml:lang="pt-BR">Criação matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo ensaístico objetiva apresentar princípios e métodos para a pesquisa em história de práticas matemáticas, para que os pesquisadores reflitam sobre os múltiplos processos operacionalizados no exercício da pesquisa historiográfica acerca da dinâmica de criação matemática em espaços e tempos diversos. Nas seções do artigo, posiciono-me em relação ao conceito de história da matemática e se ela é uma entre muitas histórias e um entre muitos objetos de conhecimento. Igualmente, abordo questões como: o que é pesquisa em história da matemática? Qual a sua relevância para a formação de professores de matemática e para o ensino da matemática? Destaco princípios essenciais para o desenvolvimento da pesquisa em história da matemática, bem como a natureza do método historiográfico em relação à matemática e ao problema da pesquisa histórica, as fontes de informação histórica e sua avaliação para a produção historiográfica, e sua relação com a elaboração e as estratégias da pesquisa historiográfica, associadas às técnicas de pesquisa histórica. O ensaio é concluído com a indicação de procedimentos que pesquisadores iniciantes devem adotar para evitar se perderem no labirinto de questões e problemas de pesquisa, bem como na interpretação das fontes.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/830</dc:identifier>
+	<dc:identifier>10.62246/HISTEMAT.2447-6447.2026.12.830</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-24</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/830/618</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.histemat.com.br:article/833</identifier>
+				<datestamp>2026-07-01T19:05:08Z</datestamp>
+				<setSpec>HISTEMAT:GT15</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL -  HISTÓRIA DA EDUCAÇÃO MATEMÁTICA EM PERSPECTIVA: circulação, memória e produção de conhecimentos no âmbito do GT 15 no SIPEM</dc:title>
+	<dc:creator> Morais, Marcelo Bezerra de</dc:creator>
+	<dc:creator>Martins, Maria Ednéia</dc:creator>
+	<dc:creator>Dalcin, Andréia</dc:creator>
+	<dc:creator>Rios, Diogo Franco</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de História da Matemática (SBHMat)</dc:publisher>
+	<dc:date>2026-07-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://histemat.com.br/index.php/HISTEMAT/article/view/833</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista de História da Educação Matemática; v. 12 (2026): Fluxo Contínuo; 1-5</dc:source>
+	<dc:source>2447-6447</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://histemat.com.br/index.php/HISTEMAT/article/view/833/620</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="461" cursor="400" />
+	</ListRecords>
+</OAI-PMH>

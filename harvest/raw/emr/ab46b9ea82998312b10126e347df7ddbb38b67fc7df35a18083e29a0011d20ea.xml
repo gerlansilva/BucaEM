@@ -1,0 +1,3095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.sbembrasil.org.br/periodicos/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:16:06Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">https://www.sbembrasil.org.br/periodicos/index.php/emr/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/252</identifier>
+				<datestamp>2014-05-26T23:11:19Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uso de Jogos a Partir de Análise de Erros de Alunos de 8º Ano do Ensino Fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Castanho, Simone Braga</dc:creator>
+	<dc:creator xml:lang="pt-BR">Cury, Helena Noronha</dc:creator>
+	<dc:subject xml:lang="pt-BR">Álgebra</dc:subject>
+	<dc:subject xml:lang="pt-BR">Jogos</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino fundamental.</dc:subject>
+	<dc:description xml:lang="pt-BR">Neste artigo, é apresentada uma investigação realizada com alunos de 8º ano do Ensino Fun- damental, para os quais foi aplicado um teste sobre conteúdos de Álgebra. A partir das res- postas, os erros foram identificados e classificados. Os resultados mostraram que a maior parte dos erros é relacionada à operação de potenciação. Assim, para auxiliar os estudantes na superação de tais dificuldades, foram criados e aplicados quatro jogos envolvendo esse conteúdo. A observação do desempenho dos alunos nos jogos e os resultados de um teste aplicado ao final mostrou que os jogos têm potencial para motivá-los a revisar os tópicos nos quais se evidenciam as maiores dificuldades.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/252</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 36 - Agosto, 2012; 31 - 38</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/252/240</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/253</identifier>
+				<datestamp>2014-05-26T23:11:18Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Representando, Manipulando e Explorando Conceitos Geométricos: Experiência Com UM Projeto de Extensão</dc:title>
+	<dc:creator xml:lang="pt-BR">Goulart, Jany Santos Souza</dc:creator>
+	<dc:creator xml:lang="pt-BR">Farias, Luiz Marcio Santos</dc:creator>
+	<dc:subject xml:lang="pt-BR">Registros de representações</dc:subject>
+	<dc:subject xml:lang="pt-BR">Geometria</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino-aprendizagem.</dc:subject>
+	<dc:description xml:lang="pt-BR">Este trabalho descreve algumas atividades que foram desenvolvidas com alunos do ensino fundamental, de uma escola da rede pública de Feira de Santana. Nela os saberes geométri- cos se materializavam e havia interação com objetos do nosso entorno, proporcionando aos alunos deste nível desenvolver a argumentação lógica, os aspectos de visualização e     a- plicabilidade da geometria no cotidiano, o que permitiu uma maior aproximação entre o abstrato e o concreto. O uso de materiais manipuláveis de baixo custo foram as ferramentas utilizadas para que tais habilidades fossem desenvolvidas. Nas atividades propostas por esse projeto, durante todas as etapas de execução dessas produções, observou-se um      progresso gradativo e significativo dos alunos no que diz respeito à compreensão dos     saberes geométricos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/253</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 36 - Agosto, 2012; 39 - 45</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/253/241</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/254</identifier>
+				<datestamp>2014-05-26T23:11:18Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Ensino de Geometria no 9º Ano do Ensino  Fundamental a Partir de A- tividades Desenvolvidas por Professor Supervisor do PIDID Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Ciabotti, Valéria</dc:creator>
+	<dc:creator xml:lang="pt-BR">Júnior, Ailton Paulo de Oliveira</dc:creator>
+	<dc:subject xml:lang="pt-BR">Geometria. Ensino Fundamental. Atividades Experimentais.</dc:subject>
+	<dc:description xml:lang="pt-BR">Este trabalho apresenta atividades desenvolvidas no ensino de Geometria com alunos do nono ano do Ensino Fundamental, de uma professora supervisora do Ensino Básico, no subprojeto de Matemática do Programa Institucional de Bolsas de Iniciação à Docência – PIBID. As atividades experimentais descritas neste trabalho mostram a metodologia utili- zada para o ensino de Geometria, envolvendo material concreto. Elas podem servir como modelo de atividades para os professores interessados em dar oportunidade aos seus alunos de construírem o seu próprio conhecimento e valorizarem sua experiência, por meio da participação ativa em sala de aula; o que possibilitará aliar a teoria e a prática na resolução de situações-problema, bem como estabelecer relações entre as figuras e suas representa- ções, relacionadas à Geometria.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/254</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 36 - Agosto, 2012; 46 - 53</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/254/242</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/255</identifier>
+				<datestamp>2014-05-26T23:11:19Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Discurso, Interação e Aprendizagem Matemática em Ambientes Virtuais a Distância</dc:title>
+	<dc:creator xml:lang="pt-BR">Izar, Soraya</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/255</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 36 - Agosto, 2012; 54 - 59</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/255/243</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/256</identifier>
+				<datestamp>2014-05-26T23:11:19Z</datestamp>
+				<setSpec>emr:REG</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretorias Regionais</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/256</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 36 - Agosto, 2012; 60</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/256/244</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/257</identifier>
+				<datestamp>2014-05-26T23:10:55Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretoria Nacional Executiva</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/257</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 02</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/257/245</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/258</identifier>
+				<datestamp>2014-05-26T23:10:55Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Estimado(a) Sócio(a),</dc:title>
+	<dc:creator xml:lang="pt-BR">Muniz, Cristiano Alberto</dc:creator>
+	<dc:creator xml:lang="pt-BR">Bittar, Marilena</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/258</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 03 - 04</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/258/246</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/259</identifier>
+				<datestamp>2014-05-26T23:10:55Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Dobras, Cortes e Fractais no Ensino Fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Gomes, Antônio do Nascimento</dc:creator>
+	<dc:creator xml:lang="pt-BR">Salvador, José Antônio</dc:creator>
+	<dc:subject xml:lang="pt-BR">Ensino de Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Geometria Fractal</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino Fundamental.</dc:subject>
+	<dc:description xml:lang="pt-BR">Este trabalho expõe parte dos resultados de uma pesquisa de mestrado desenvolvida em uma escola estadual paulista. Trabalhamos com Folhas de Atividades que interligam conteúdos que fazem parte do currículo com a Geometria Fractal, dado o seu aspecto lúdico e investi- gativo para tratar dos conceitos de Semelhança de Figuras, entre outros, presentes no        currículo da 8ª série (9º ano) do Ensino Fundamental. São realizadas atividades com        dobradura de papel para a construção de figuras espaciais que tem presente a noção de Construção Fractal. A partir dessas atividades e dos registros dos estudantes, pudemos notar o grande empenho e interesse por parte destes.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/259</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 05 - 13</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/259/247</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/260</identifier>
+				<datestamp>2014-05-26T23:10:55Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Matemática Que Temos Hoje Garantindo Nosso Futuro Amanhã - Contribuindo Para o Entendimento de Temas Socioambientais</dc:title>
+	<dc:creator xml:lang="pt-BR">Silva, Patrícia Carrati Diniz</dc:creator>
+	<dc:creator xml:lang="pt-BR">Chrispino, Álvaro</dc:creator>
+	<dc:subject xml:lang="pt-BR">Meio Ambiente</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Crítica</dc:subject>
+	<dc:subject xml:lang="pt-BR">Cidadania.</dc:subject>
+	<dc:description xml:lang="pt-BR">Ouvimos, comumente, sobre como melhorar o aprendizado da matemática. A contextualiza- ção dos temas transversais, tal como Meio Ambiente, tem sido uma estratégia de ensino a- prendizagem em matemática. Porém, uma sociedade em crise ambiental, como estamos vi- vendo hoje, precisa unir forças para ir além de “usar” esse tema para enriquecer as aulas. Espera-se que todas as disciplinas contribuam para que o meio ambiente seja respeitado. O objetivo desse trabalho é mostrar algumas das atividades, aplicadas em turmas de oitavo ano de uma escola pública situada no município do Rio de Janeiro, que ressaltaram como a    matemática pode contribuir para o melhor entendimento das questões ou temas                socioambientais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/260</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 14 - 23</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/260/248</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/261</identifier>
+				<datestamp>2014-05-26T23:10:55Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Atividade Envolvendo Quadriláteros: Um Relato de Experiência</dc:title>
+	<dc:creator xml:lang="pt-BR">Alves, Maria Rachel</dc:creator>
+	<dc:creator xml:lang="pt-BR">Souza, Gabrielle Vasconcelos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gomes, Gustavo Pereira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Maia, Fernanda Alves</dc:creator>
+	<dc:creator xml:lang="pt-BR">Almeida, Maria Tereza Carvalho</dc:creator>
+	<dc:creator xml:lang="pt-BR">França, Silvana Diamantino</dc:creator>
+	<dc:subject xml:lang="pt-BR">Geometria</dc:subject>
+	<dc:subject xml:lang="pt-BR">Paralelogramo</dc:subject>
+	<dc:subject xml:lang="pt-BR">PIBID</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática.</dc:subject>
+	<dc:description xml:lang="pt-BR">Atualmente, o ensino da Matemática enfrenta muitas dificuldades em relação à deficiência na aprendizagem dos alunos. Nesse sentido, licenciandos em Matemática da Unimontes, bolsistas do subprojeto Geometria Dinâmica do Programa Institucional de Bolsas de Inicia- ção à Docência – PIBID, elaboraram e aplicaram, para alunos do 6º ano, uma atividade so- bre o conteúdo de quadriláteros. O objetivo foi verificar se os alunos eram capazes de iden- tificar as características e os conceitos de paralelogramos, a partir dessa atividade.  Verifi- cou-se que os alunos, mesmo após a atividade, apresentaram dificuldade em identificar as características e os conceitos de paralelogramos. Os resultados revelaram que eles não têm os pré-requisitos necessários para trabalhar com estas figuras, apresentam dificuldade na leitura e interpretação dos enunciados e demonstram falta de autonomia, pois estavam sem- pre requisitando a intervenção do professor. Acredita-se que esses resultados, aparentemente negativos, foram importantes para a construção do conhecimento desses alunos. Essa foi a primeira experiência que eles tiveram com esse tipo de atividade e, provavelmente, se ela for aplicada com maior frequência poderá contribuir para que os alunos desenvolvam uma maior autonomia, necessária à construção do conhecimento matemático.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/261</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 24 - 31</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/261/249</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/262</identifier>
+				<datestamp>2014-05-26T23:10:55Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Desafios do Ensinar e Aprender Matemática: Uma Experiência Com o Uso de Lousa Digital e Applet No Estudo de Produtos Notáveis</dc:title>
+	<dc:creator xml:lang="pt-BR">Gonçalves, Maria José Santana Vieira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Scherer, Suely</dc:creator>
+	<dc:subject xml:lang="pt-BR">Produtos notáveis</dc:subject>
+	<dc:subject xml:lang="pt-BR">lousa digital</dc:subject>
+	<dc:subject xml:lang="pt-BR">aula de matemática.</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo tem por objetivo apresentar uma experiência desenvolvida em sala de aula com o uso da lousa digital e de um applet para o estudo dos produtos notáveis, especificamente, o quadrado da soma de dois termos, envolvendo alunos do 8o ano, do Ensino Fundamental, de uma escola pública de Campo Grande, MS. São analisados os papéis assumidos pelo profes- sor e pelos alunos durante uma aula desenvolvida em abril, de 2013, e as contribuições das tecnologias digitais para esse processo. Os resultados evidenciaram que a abordagem do uso da lousa digital favoreceu a identificação, pelos alunos, das relações entre o quadrado da soma de dois termos e a representação de áreas de quadrados.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/262</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 32 - 42</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/262/250</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/263</identifier>
+				<datestamp>2014-05-26T23:10:55Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Copa 2010: É a Matemática Batendo Um Bolão!</dc:title>
+	<dc:creator xml:lang="pt-BR">Silva, Elvys Wagner Ferreira da</dc:creator>
+	<dc:subject xml:lang="pt-BR">Copa do Mundo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Recurso didático</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino de matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">O interesse em desenvolver o projeto nessa temática tem como objetivo aliar esse grande evento em nível mundial com os conteúdos matemáticos trabalhados em sala de aula e uti- lizá-lo como um valioso recurso didático no processo ensino-aprendizagem de Matemática. O projeto teve uma dinâmica interdisciplinar nos campos da Matemática, Geografia e Ar- tes. Realizou-se uma exposição de trabalhos sobre a Copa do Mundo de Futebol 2010, pro- porcionando aos alunos conhecerem a história das copas, fazendo uma relação direta com os conceitos matemáticos aplicados ao futebol. Vale destacar, também, a inclusão da disci- plina de Geografia, o que proporcionou aos alunos conhecerem um pouco dos países; além da disciplina de Artes, auxiliando no desenvolvimento de habilidades artísticas, voltadas à pintura e a confecção de bandeiras e mosaicos da bandeira do Brasil. O projeto torna-se relevante, pois o desenvolvimento de atividades matemáticas contextualizadas favorece uma aprendizagem mais significativa.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/263</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 43 - 50</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/263/251</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/264</identifier>
+				<datestamp>2014-05-26T23:10:56Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Formação do Professor de Matemática: Reflexões e Propostas</dc:title>
+	<dc:creator xml:lang="pt-BR">Leivas, Prof. Dr. José Carlos Pinto</dc:creator>
+	<dc:creator xml:lang="pt-BR">Bianchini, Profª. Drª. Barbara Lutaif</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/264</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 51 - 55</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/264/252</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/265</identifier>
+				<datestamp>2014-05-26T23:10:56Z</datestamp>
+				<setSpec>emr:REG</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretorias Regionais</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/265</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 37 - Novembro, 2012; 56</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/265/253</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/266</identifier>
+				<datestamp>2014-05-26T23:12:09Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Curso Semipresencial Promove Reflexão Sobre a Prática no Ensino de Álgebra</dc:title>
+	<dc:creator xml:lang="pt-BR">Mendes, Cassius T. C.</dc:creator>
+	<dc:creator xml:lang="pt-BR">Portela, Gilda Maria Q.</dc:creator>
+	<dc:creator xml:lang="pt-BR">Statzner, João Rodrigo E.</dc:creator>
+	<dc:creator xml:lang="pt-BR">Waltz, Karen de A.</dc:creator>
+	<dc:creator xml:lang="pt-BR">Moura, Kelly R. Motta</dc:creator>
+	<dc:creator xml:lang="pt-BR">Rangel, Letícia G.</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silva, Maria Palmira da C.</dc:creator>
+	<dc:creator xml:lang="pt-BR">Maia, Tatiana Cardoso</dc:creator>
+	<dc:creator xml:lang="pt-BR">Tinoco, Lucia A. de A.</dc:creator>
+	<dc:subject xml:lang="pt-BR">Ensino de álgebra</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação continuada</dc:subject>
+	<dc:subject xml:lang="pt-BR">Curso semipresencial.</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo tem origem na satisfação do grupo de Álgebra, do Setor Matemática, do ProjetoFundão, ao terminar duas edições de um curso semipresencial sobre ensino de Álgebra paraprofessores e futuros professores do Estado do Rio de Janeiro. Durante três anos, o gruporealizou um estudo sobre o desenvolvimento do pensamento algébrico que teve como resultadoa publicação de um livro, em 2008, para servir de subsídio a professores interessadosem inovar sua prática nas aulas de Álgebra, do 6º ano do ano, do Ensino Fundamental ao 3ºano do Ensino Médio. Como o conhecimento pedagógico do conteúdo (Shulman, 1986)desenvolvido ao longo do trabalho foi rico e significativo, o grupo resolveu compartilhá-locom outros professores, por meio do curso. O seu sucesso em 2010 fez com que o repetíssemos,em 2011, para outros professores. Registramos aqui as ideias fundamentais sobre asquais giraram as reflexões do curso e observações, considerações e constatações possíveis apartir dele.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-08-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/266</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 34 - Novembro, 2011; 21 - 31</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/266/254</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/267</identifier>
+				<datestamp>2014-05-26T23:12:36Z</datestamp>
+				<setSpec>emr:PLCOA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">De Causos de Sala de Aula Para Atitudes de Professores de Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Pinto, Thiago Pedro</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, João Ricardo Viola dos</dc:creator>
+	<dc:subject xml:lang="pt-BR">Educação matemática e linguagem</dc:subject>
+	<dc:subject xml:lang="pt-BR">Modelo dos Campos Semântico</dc:subject>
+	<dc:subject xml:lang="pt-BR">Jogos de Linguagem.</dc:subject>
+	<dc:description xml:lang="pt-BR">Neste artigo apresentamos situações de sala de aula de matemática constituídas de diálogosentre professores e alunos, caracterizadas por nós como causos, e, a partir deles, tecemosconsiderações sobre algumas possíveis atitudes de professores de matemática em sala deaula. Essas atitudes são construídas na direção de olhar o que alunos e professores falam efazem para ampliar seus modos de produzir significados. Tomamos como referência algunsconceitos do Modelo dos Campos Semânticos (MCS), proposto por Lins (1994), e algumasaproximações à ideia de jogos de linguagem de Ludwig Wittgenstein.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2013-07-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/267</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; Número 33 - Agosto, 2011; 13 - 20</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/267/255</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/270</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">Nacional, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-03-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/270</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 02</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/270/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/273</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/273</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 2</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/273/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/274</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretoria Nacional Executiva</dc:title>
+	<dc:creator xml:lang="pt-BR">Muniz, Cristiano Alberto</dc:creator>
+	<dc:creator xml:lang="pt-BR">Neves, Regina da Silva Pina</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/274</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 3</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/274/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/275</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Leitura e Produção de Textos como Recursos para Aprendizagem Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Nascimento, Ana Maria Porto</dc:creator>
+	<dc:creator xml:lang="pt-BR">Brentano, Elena Maria</dc:creator>
+	<dc:description xml:lang="pt-BR">Leitura e Produção de Textos como Recursos para Aprendizagem Matemática</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/275</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 04-12</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/275/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/276</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Cálculo Mental nas Aulas de Matemática: Uma Proposta Possível</dc:title>
+	<dc:creator xml:lang="pt-BR">Junges, Débora de Lima Velho</dc:creator>
+	<dc:description xml:lang="pt-BR">O Cálculo Mental nas Aulas de Matemática: Uma Proposta Possível</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/276</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 13-23</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/276/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/277</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Percepção dos Professores do Ensino Básico em Relação ao Processo Ensino-Aprendizagem de Estatística</dc:title>
+	<dc:creator xml:lang="pt-BR">Júnior, Ailton Paulo de Oliveira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Neto, Júlio Henrique da Cunha</dc:creator>
+	<dc:description xml:lang="pt-BR">Percepção dos Professores do Ensino Básico em Relação ao Processo Ensino-Aprendizagem de Estatística</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/277</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 24-32</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/277/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/278</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Avaliação da Aprendizagem de Gráficos e Tabelas no 9º Ano do Ensino Fundamental em Escolas Estaduais de Uberaba Em Minas Gerais</dc:title>
+	<dc:creator xml:lang="pt-BR">Júnior, Ailton Paulo de Oliveira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Neto, Júlio Henrique da Cunha</dc:creator>
+	<dc:creator xml:lang="pt-BR">Lopes, Yale de Ângelis</dc:creator>
+	<dc:description xml:lang="pt-BR">Avaliação da Aprendizagem de Gráficos e Tabelas no 9º Ano do Ensino Fundamental em Escolas Estaduais de Uberaba Em Minas Gerais</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/278</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 33-43</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/278/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/279</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Matemática Financeira Escolar e Educação Para a Vida</dc:title>
+	<dc:creator xml:lang="pt-BR">Guérios, Ettiène</dc:creator>
+	<dc:creator xml:lang="pt-BR">Zen, Cleide Cristina</dc:creator>
+	<dc:creator xml:lang="pt-BR">Coelho, José Ricardo Dolenga</dc:creator>
+	<dc:description xml:lang="pt-BR">Matemática Financeira Escolar e Educação Para a Vida</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/279</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 44-53</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/279/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/280</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Tecnologias Digitais e Educação Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Cazetta, Mariângela</dc:creator>
+	<dc:description xml:lang="pt-BR">Tecnologias Digitais e Educação Matemática</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/280</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 54-57</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/280/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/281</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:Nor</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Normas para Submissão de Propostas</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:description xml:lang="pt-BR">Normas para Submissão de Propostas</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/281</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 58-62</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/281/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/282</identifier>
+				<datestamp>2022-12-26T15:39:52Z</datestamp>
+				<setSpec>emr:REG</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretoria Nacional Executiva</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/282</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 38 (2013): jan./abr.; 63</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/282/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/283</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/283</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 02</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/283/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/284</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva 2010-2013, Diretoria Nacional</dc:creator>
+	<dc:creator xml:lang="pt-BR">Executiva 2013-2016, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/284</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 03-04</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/284/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/286</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Aprendizagens Matemáticas a Partir da Construção de Fractais</dc:title>
+	<dc:creator xml:lang="pt-BR">Padilha, Teresinha Aparecida Faccio</dc:creator>
+	<dc:description xml:lang="pt-BR">Aprendizagens Matemáticas a Partir da Construção de Fractais</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/286</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 05-48</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/286/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/287</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">São Luís, Patrimônio da Humanidade: Uma beleza de geometria!</dc:title>
+	<dc:creator xml:lang="pt-BR">Da Silva, Elvys Wagner Ferreira</dc:creator>
+	<dc:description xml:lang="pt-BR">São Luís, Patrimônio da Humanidade: Uma beleza de geometria!</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/287</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 49-58</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/287/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/288</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Observando Formas</dc:title>
+	<dc:creator xml:lang="pt-BR">Brito, Andreia Silva</dc:creator>
+	<dc:description xml:lang="pt-BR">Observando Formas</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/288</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 59-128</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/288/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/289</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensino de Matemática e Ciências (Física): Interdisciplinaridade no Ciclo II do Ensino Fundamental, a Partir de Uma Perspectiva Lipmaniana</dc:title>
+	<dc:creator xml:lang="pt-BR">Friedrich, Márcia</dc:creator>
+	<dc:creator xml:lang="pt-BR">Leandro, Alex Benício</dc:creator>
+	<dc:description xml:lang="pt-BR">Ensino de Matemática e Ciências (Física): Interdisciplinaridade no Ciclo II do Ensino Fundamental, a Partir de Uma Perspectiva Lipmaniana</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/289</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 129-136</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/289/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/290</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Exploração de Tópicos de Matemática da Educação Básica em Modelos Robóticos</dc:title>
+	<dc:creator xml:lang="pt-BR">Furletti, Saulo</dc:creator>
+	<dc:creator xml:lang="pt-BR">Miranda, Dimas Felipe de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Laudares, João Bosco</dc:creator>
+	<dc:description xml:lang="pt-BR">Exploração de Tópicos de Matemática da Educação Básica em Modelos Robóticos</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/290</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 137-168</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/290/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/291</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:Nor</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Normas para Submissão de Propostas</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:description xml:lang="pt-BR">Normas para Submissão de Propostas</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/291</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 169-174</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/291/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/292</identifier>
+				<datestamp>2022-12-26T15:38:47Z</datestamp>
+				<setSpec>emr:REG</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretoria Nacional Executiva</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/292</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 39 (2013): maio/ago.; 175</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/292/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/293</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Ribeiro, Alessandro Jacques</dc:creator>
+	<dc:creator xml:lang="pt-BR">Fernandes, Solange Hassan Ahmad Ali</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/293</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 03-04</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/293/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/294</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Hierarquia na Aprendizagem de Medidas: Mito ou Realidade?</dc:title>
+	<dc:creator xml:lang="pt-BR">Nasser, Lilian</dc:creator>
+	<dc:description xml:lang="pt-BR">Hierarquia na Aprendizagem de Medidas: Mito ou Realidade?</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/294</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 05-12</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/294/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/295</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Inclusão no Ensino Médio: Geometria para Deficiente Visual</dc:title>
+	<dc:creator xml:lang="pt-BR">Silva, Davi Cézar da</dc:creator>
+	<dc:creator xml:lang="pt-BR">Leivas, José Carlos da Silva</dc:creator>
+	<dc:description xml:lang="pt-BR">Inclusão no Ensino Médio: Geometria para Deficiente Visual</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/295</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 13-20</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/295/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/296</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Esquemas Mobilizados por Surdos Sinalizadores no Cálculo da Multiplicação</dc:title>
+	<dc:creator xml:lang="pt-BR">Peixoto, Jurema Lindote Botelho</dc:creator>
+	<dc:description xml:lang="pt-BR">Esquemas Mobilizados por Surdos Sinalizadores no Cálculo da Multiplicação</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/296</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 21-29</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/296/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/297</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Matemática nas Artes Contemporâneas: Possibilidade para uma Atividade Interdisciplinar</dc:title>
+	<dc:creator xml:lang="pt-BR">Soares, Waléria de Jesus Barbosa</dc:creator>
+	<dc:description xml:lang="pt-BR">A Matemática nas Artes Contemporâneas: Possibilidade para uma Atividade Interdisciplinar</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/297</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 30-37</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/297/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/298</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Vídeo na Sala de Aula de Matemática: Que Possibilidades?</dc:title>
+	<dc:creator xml:lang="pt-BR">Amaral, Rúbia Barcelos</dc:creator>
+	<dc:description xml:lang="pt-BR">Vídeo na Sala de Aula de Matemática: Que Possibilidades?</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/298</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 38-47</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/298/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/299</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Qual Educação Financeira Queremos em Nossa Sala de Aula?</dc:title>
+	<dc:creator xml:lang="pt-BR">Campos, André Bernardo</dc:creator>
+	<dc:creator xml:lang="pt-BR">Júnior, Marco Aurélio Kistemann</dc:creator>
+	<dc:description xml:lang="pt-BR">Qual Educação Financeira Queremos em Nossa Sala de Aula?</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/299</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 48-56</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/299/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/300</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sistemas de Inequações Lineares: Uma Ferramenta para Resolver Problemas de Programação Linear</dc:title>
+	<dc:creator xml:lang="pt-BR">Oliveira, Uéric Silva</dc:creator>
+	<dc:creator xml:lang="pt-BR">Jesus, Gilson Bispo de</dc:creator>
+	<dc:description xml:lang="pt-BR">Sistemas de Inequações Lineares: Uma Ferramenta para Resolver Problemas de Programação Linear</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/300</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 57-64</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/300/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/301</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">How Humans Learn to Think Mathematically Exploring TheThree Worlds Of Mathematics</dc:title>
+	<dc:creator xml:lang="pt-BR">Lima, Rosana Nogueira de</dc:creator>
+	<dc:description xml:lang="pt-BR">How Humans Learn to Think Mathematically Exploring TheThree Worlds Of Mathematics</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/301</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 65-68</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/301/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/302</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:RELE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Princípios Básicos de Uso do Computador na Visualização de Entidades Geométricas Euclidianas no Espaço em Laboratórios do PROINFO/MEC</dc:title>
+	<dc:creator xml:lang="pt-BR">Abreu, José Barros de</dc:creator>
+	<dc:description xml:lang="pt-BR">Princípios Básicos de Uso do Computador na Visualização de Entidades Geométricas Euclidianas no Espaço em Laboratórios do PROINFO/MEC</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/302</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 69-71</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/302/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/303</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:Nor</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Normas para Submissão de Propostas</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:description xml:lang="pt-BR">Normas para Submissão de Propostas</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/303</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 72-77</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/303/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/304</identifier>
+				<datestamp>2022-12-26T15:38:11Z</datestamp>
+				<setSpec>emr:REG</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretoria Nacional Executiva</dc:title>
+	<dc:creator xml:lang="pt-BR">Executiva, Diretoria Nacional</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-05-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/304</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 18 n. 40 (2013): set./dez.; 78</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/304/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/326</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">SBEM, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/326</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 2</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/326/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/327</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Futuros Professores de Matemática Interagindo em um Ambiente Virtual com o Geogebra</dc:title>
+	<dc:creator xml:lang="pt-BR">Marques, Felipe de Jesus Ribeiro</dc:creator>
+	<dc:creator xml:lang="pt-BR">Bairral, Marcelo Almeida</dc:creator>
+	<dc:description xml:lang="pt-BR">Futuros Professores de Matemática Interagindo em um Ambiente Virtual com o Geogebra</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/327</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 5-18</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/327/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/328</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Ribeiro, Alessandro Jacques</dc:creator>
+	<dc:creator xml:lang="pt-BR">Ahmad Ali Fernandes, Solange Hassan</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/328</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 3-4</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/328/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/329</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Funções Trigonométricas Seno e Cosseno: Das Representações Semióticas à Formação dos Conceitos</dc:title>
+	<dc:creator xml:lang="pt-BR">Grando, Neiva Ignês</dc:creator>
+	<dc:creator xml:lang="pt-BR">Preussler, Roberto</dc:creator>
+	<dc:description xml:lang="pt-BR">Funções Trigonométricas Seno e Cosseno: Das Representações Semióticas à Formação dos Conceitos</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/329</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 19-27</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/329/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/330</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Um Estudo Sobre a Abordagem da História da Matemática em Livros Didáticos</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, Maria Lucivânia Souza dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Barbosa, Edelweis Jose Tavares</dc:creator>
+	<dc:description xml:lang="pt-BR">Um Estudo Sobre a Abordagem da História da Matemática em LivrosDidáticos</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/330</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 28-36</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/330/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/331</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:PASA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Fractais na Educação Básica: Aprendendo com Quebra-Cabeças, Arte Francesa e Cartões</dc:title>
+	<dc:creator xml:lang="pt-BR">Lopes, Maria Regina Carvalho Macieira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Amaral, Alessandry</dc:creator>
+	<dc:creator xml:lang="pt-BR">Matto, Adriana Fernandes de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silva, Karolina Barone Ribeiro da</dc:creator>
+	<dc:description xml:lang="pt-BR">Fractais na Educação Básica: Aprendendo com Quebra-Cabeças, Arte Francesa e Cartões</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/331</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 37-44</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/331/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/332</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Jogo das Sete Cobras</dc:title>
+	<dc:creator xml:lang="pt-BR">Pavesi, Liliane Cristina de Jesus</dc:creator>
+	<dc:creator xml:lang="pt-BR">Conti, Keli Cristina</dc:creator>
+	<dc:description xml:lang="pt-BR">O Jogo das Sete Cobras</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/332</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 45-53</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/332/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/333</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:AAM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Dialética Materialista Histórica na Educação Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Cardia, Elizabeth Mattiazzo</dc:creator>
+	<dc:creator xml:lang="pt-BR">Moraes, Mara Sueli Simão</dc:creator>
+	<dc:description xml:lang="pt-BR">A Dialética Materialista Histórica na Educação Matemática</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/333</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 54-62</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/333/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/334</identifier>
+				<datestamp>2022-12-26T15:35:36Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Avaliar para Aprender</dc:title>
+	<dc:creator xml:lang="pt-BR">Ferreira, Paula Ramos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Ortigão, Maria Isabel Ramalho</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-08-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/334</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 41 (2014): jan./abr.; 63-66</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/334/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/355</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">SBEM, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/355</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 2</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/355/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/356</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Ribeiro, Alessandro Jacques</dc:creator>
+	<dc:creator xml:lang="pt-BR">Fernandes, Solange Hassan Ahmad Ali</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/356</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 3-4</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/356/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/357</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Interdisciplinaridade no Ensino de Matemática: A Necessária Superação de Modismos</dc:title>
+	<dc:creator xml:lang="pt-BR">Gonçalves, Harryson Júnior Lessa</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Paulo Gabriel Franco dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Peralta, Deise Aparecida</dc:creator>
+	<dc:description xml:lang="pt-BR">Interdisciplinaridade no Ensino de Matemática: A Necessária Superação de Modismos</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/357</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 5-13</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/357/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/358</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">As Representações Sociais da Aprendizagem da Matemática na Educação Básica e Sua Influência no Curso de Administração</dc:title>
+	<dc:creator xml:lang="pt-BR">Salerno, Daniela Prado</dc:creator>
+	<dc:creator xml:lang="pt-BR">Vieira, Vania Maria de Oliveira</dc:creator>
+	<dc:description xml:lang="pt-BR">As Representações Sociais da Aprendizagem da Matemática na Educação Básica e Sua Influência no Curso de Administração</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/358</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 14-22</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/358/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/359</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Contribuições da Educação Estatística para a Formação de Engenheiros de Produção</dc:title>
+	<dc:creator xml:lang="pt-BR">Junior, Geraldo Bull da Silva</dc:creator>
+	<dc:creator xml:lang="pt-BR">Lopes, Celi Espasandin</dc:creator>
+	<dc:description xml:lang="pt-BR">Contribuições da Educação Estatística para a Formação de Engenheiros de Produção</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/359</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 23-30</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/359/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/360</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:PASA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Análise da Produção Escrita como Possibilidade de Trabalho para Professores que Ensinam Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, João Ricardo Viola dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Buriasco, Regina Luzia Corio de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Ferreira, Pamela Emanueli Alves</dc:creator>
+	<dc:description xml:lang="pt-BR">Análise da Produção Escrita como Possibilidade de Trabalho para Professores que Ensinam Matemática</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/360</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 31-39</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/360/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/362</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:PISA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Engenharia Didática e Geogebra Aliados na Construção de Conceitos Geométricos</dc:title>
+	<dc:creator xml:lang="pt-BR">Gobbi, Juliana Aparecida</dc:creator>
+	<dc:creator xml:lang="pt-BR">Leivas, José Carlos Pinto</dc:creator>
+	<dc:description xml:lang="pt-BR">Engenharia Didática e Geogebra Aliados na Construção de Conceitos Geométricos</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/362</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 40-48</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/362/pdf</dc:relation>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/362/1612</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/363</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensino de Matemática e Formação para Cidadania: Discussão de uma Possibilidade</dc:title>
+	<dc:creator xml:lang="pt-BR">Brito, Arlete de Jesus</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gonçalves, Larissa</dc:creator>
+	<dc:description xml:lang="pt-BR">Ensino de Matemática e Formação para Cidadania: Discussão de uma Possibilidade</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/363</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 49-56</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/363/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/364</identifier>
+				<datestamp>2022-12-26T15:35:57Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Uso da Calculadora nos Anos Iniciais do Ensino Fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Batista, Paulo Soares</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2014-10-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/364</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 42 (2014): maio/ago.; 57-60</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/364/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/388</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">SBEM, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/388</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 2</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/388/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/389</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">SBEM, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/389</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 3-4</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/389/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/391</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Reflexões Sobe o Debate Curricular</dc:title>
+	<dc:creator xml:lang="pt-BR">Pires, Célia Maria Carolino</dc:creator>
+	<dc:description xml:lang="pt-BR">Reflexões Sobe o Debate Curricular</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/391</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 5-13</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/391/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/392</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Os Problemas de Aritmética nos Exames de Admissão ao Ginásio: Uma Análise da Influência das Propostas Escalanovistas</dc:title>
+	<dc:creator xml:lang="pt-BR">Virgens, Wellington Pereira das</dc:creator>
+	<dc:description xml:lang="pt-BR">Os Problemas de Aritmética nos Exames de Admissão ao Ginásio: Uma Análise da Influência das Propostas Escalanovistas</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/392</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 14-21</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/392/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/393</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Resolução de Problemas: Implicações Pedagógicas para o Ensino de Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Miguel, José Carlos</dc:creator>
+	<dc:description xml:lang="pt-BR">Resolução de Problemas: Implicações Pedagógicas para o Ensino de Matemática </dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/393</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 22-30</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/393/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/394</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:PISA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Aproximando e Calculando Áreas com Recursos Diversos: Uma Proposição para a Licenciatura em Matemátic</dc:title>
+	<dc:creator xml:lang="pt-BR">Vianna, Márcio de Albuquerque</dc:creator>
+	<dc:creator xml:lang="pt-BR">Bairral, Marcelo Almeida</dc:creator>
+	<dc:creator xml:lang="pt-BR">Oliveira, Leonardo Kirmse de</dc:creator>
+	<dc:description xml:lang="pt-BR">Aproximando e Calculando Áreas com Recursos Diversos: Uma Proposição para a Licenciatura em Matemátic</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/394</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 31-39</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/394/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/395</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:PISA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Influência do Contexto e do Tipo de Problema na Compreensão de Problemas Combinatórios por Alunos do 5º Ano do Ensino Fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, Laís Thalita Bezerra dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Pessoa, Cristiane Azevêdo dos Santos</dc:creator>
+	<dc:description xml:lang="pt-BR">A Influência do Contexto e do Tipo de Problema na Compreensão de Problemas Combinatórios por Alunos do 5º Ano do Ensino Fundamental</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/395</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 40-48</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/395/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/396</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:ATI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Gold Freire -  GF$: Uma Experiência de Educação Financeira</dc:title>
+	<dc:creator xml:lang="pt-BR">Silva, Magno Rodrigo da</dc:creator>
+	<dc:creator xml:lang="pt-BR">Laier, Simone Simionato dos Santos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Rosinke, Patrícia</dc:creator>
+	<dc:description xml:lang="pt-BR">Gold Freire -  GF$: Uma Experiência de Educação Financeira</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/396</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 49-58</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/396/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/397</identifier>
+				<datestamp>2022-12-26T15:34:24Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Psicologia e Conhecimento Subsídios da Psicologia do Desenvolvimento para a Análise do Ensinar e Aprender</dc:title>
+	<dc:creator xml:lang="pt-BR">Chiesa, Aline de Amorim Pinto</dc:creator>
+	<dc:creator xml:lang="pt-BR">Lopes, Maria Juliana de Freitas Carvalho</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-02-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/397</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 19 n. 43 (2014): set./dez.; 59-62</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/397/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/427</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Um Estudo Sobre o Erro Matemático de Estudantes de Engenharia Mecânica</dc:title>
+	<dc:creator xml:lang="pt-BR">Lessa, Valéria Espíndola</dc:creator>
+	<dc:creator xml:lang="pt-BR">Fresch, Elisandra Mottin</dc:creator>
+	<dc:description xml:lang="pt-BR">Um Estudo Sobre o Erro Matemático de Estudantes de Engenharia Mecânica</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/427</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 05-13</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/427/317</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/428</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Matemática e Música em Sintonia: Uma Proposta Educacional</dc:title>
+	<dc:creator xml:lang="pt-BR">Kluth, Verilda Speridião</dc:creator>
+	<dc:creator xml:lang="pt-BR">Savanachi, Cristiane Silva</dc:creator>
+	<dc:creator xml:lang="pt-BR">Cardeira, Francisco Aparecido</dc:creator>
+	<dc:description xml:lang="pt-BR">Matemática e Música em Sintonia: Uma Proposta Educacional</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/428</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 14-20</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/428/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/429</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">Nacional, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/429</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 02</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/429/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/430</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Nacional, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/430</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 03-04</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/430/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/431</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Função: Concepções Manifestadas por um Grupo de Professores</dc:title>
+	<dc:creator xml:lang="pt-BR">Pires, Rogério Fernando</dc:creator>
+	<dc:creator xml:lang="pt-BR">Merline, Vera</dc:creator>
+	<dc:creator xml:lang="pt-BR">Magina, Sandra</dc:creator>
+	<dc:description xml:lang="pt-BR">Função: Concepções Manifestadas por um Grupo de Professores</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/431</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 21-29</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/431/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/432</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Educação Financeira na Educação Básica: Um Bom Negócio</dc:title>
+	<dc:creator xml:lang="pt-BR">Lima, Adriana de Souza</dc:creator>
+	<dc:creator xml:lang="pt-BR">Costa, Christine Sertã</dc:creator>
+	<dc:description xml:lang="pt-BR">Educação Financeira na Educação Básica: Um Bom Negócio</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/432</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 30-38</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/432/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/433</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:RE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">As Contribuições das Ações do PIBID de Educação Matemática na Educação Básica</dc:title>
+	<dc:description xml:lang="pt-BR">As Contribuições das Ações do PIBID de Educação Matemática na Educação Básica</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/433</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 39-48</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/433/pdf_1</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/434</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:ATI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Atividades Online Para o Estudo das Equações de 1º Graus</dc:title>
+	<dc:creator xml:lang="pt-BR">Lemos, Andrielly Viana</dc:creator>
+	<dc:creator xml:lang="pt-BR">Kaiber, Carmen Teresa</dc:creator>
+	<dc:description xml:lang="pt-BR">Atividades Online Para o Estudo das Equações de 1º Graus</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/434</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 49-57</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/434/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/435</identifier>
+				<datestamp>2022-12-26T15:33:08Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Currículo, Cultura e Educação Matemática: Uma Aproximação Possível?</dc:title>
+	<dc:creator xml:lang="pt-BR">Godoy, Elenilton Vieira</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/435</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 44 (2015): jan./mar.; 58-61</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/435/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/452</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">Nacional, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/452</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 02</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/452/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/453</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Nacional, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/453</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 03-04</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/453/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/454</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Papel da Educação e a Utilização da Modelagem Matemática no Processo de Ensino e Aprendizagem</dc:title>
+	<dc:description xml:lang="pt-BR">O Papel da Educação e a Utilização da Modelagem Matemática no Processo de Ensino e Aprendizagem</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/454</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 05-11</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/454/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/455</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Escolha do Tema em Modelagem Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Oliveira, Luiz Antônio Ribeiro Neto de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santo, Adilson de Oliveira do Espírito</dc:creator>
+	<dc:creator xml:lang="pt-BR">Souza, Elizabeth Gomes de</dc:creator>
+	<dc:description xml:lang="pt-BR">A Escolha do Tema em Modelagem Matemática</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/455</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 12-21</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/455/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/456</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Importância dos Jogos na Perspectiva Histórico-Cultural para a Aprendizagem e Desenvolvimento da Criança na Educação Infantil</dc:title>
+	<dc:creator xml:lang="pt-BR">Carcanholo, Flávia Pimenta de Souza</dc:creator>
+	<dc:description xml:lang="pt-BR">A Importância dos Jogos na Perspectiva Histórico-Cultural para a Aprendizagem e Desenvolvimento da Criança na Educação Infantil</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/456</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 22-29</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/456/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/457</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:PISA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Interação Sócio-Cognitiva Durante a Resolução de Situações-Problema na Formação Inicial do Professor: Uma Experiência com Licenciandos em Pedagogia e Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Camargo, Melise</dc:creator>
+	<dc:creator xml:lang="pt-BR">Muniz, Cristiano Alberto</dc:creator>
+	<dc:description xml:lang="pt-BR">A Interação Sócio-Cognitiva Durante a Resolução de Situações-Problema na Formação Inicial do Professor: Uma Experiência com Licenciandos em Pedagogia e Matemática</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/457</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 30-39</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/457/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/458</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:PISA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Uso do Software Geogebra no Ensino da Geometria Analítica: Experiências Vivenciadas no Contexto Escolar</dc:title>
+	<dc:creator xml:lang="pt-BR">Nascimento, Francisco Jeovane do</dc:creator>
+	<dc:creator xml:lang="pt-BR">Castro, Eliziane Rocha</dc:creator>
+	<dc:creator xml:lang="pt-BR">Lima, Ivoneide Pinheiro de</dc:creator>
+	<dc:description xml:lang="pt-BR">O Uso do Software Geogebra no Ensino da Geometria Analítica: Experiências Vivenciadas no Contexto Escolar</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/458</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 40-47</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/458/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/459</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:ArT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Avaliação da Aprendizagem Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Trevisan, André Luis</dc:creator>
+	<dc:creator xml:lang="pt-BR">Mendes, Marcele Tavares</dc:creator>
+	<dc:description xml:lang="pt-BR">Avaliação da Aprendizagem Matemática</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/459</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 48-55</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/459/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/460</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:ATI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Relatório Como Instrumento Para Avaliação da Aprendizagem Matemática: Roteiro de Elaboração- Correção e Uma Proposta de Utilização</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, Edilaine Regina dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Pires, Magna Natalia Marin</dc:creator>
+	<dc:description xml:lang="pt-BR">O Relatório Como Instrumento Para Avaliação da Aprendizagem Matemática: Roteiro de Elaboração- Correção e Uma Proposta de Utilização</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/460</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 56-63</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/460/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/461</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Processos de Ensino e Aprendizagem em Educação Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Lima, Ana Paula</dc:creator>
+	<dc:description xml:lang="pt-BR">Processos de Ensino e Aprendizagem em Educação Matemática</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/461</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 64-67</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/461/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/462</identifier>
+				<datestamp>2022-12-26T15:32:29Z</datestamp>
+				<setSpec>emr:LC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Resolvendo Problemas de Análise Combinatória nos Anos Iniciais do Ensino Fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Teixeira, Paulo Jorge Magalhães</dc:creator>
+	<dc:description xml:lang="pt-BR">Resolvendo Problemas de Análise Combinatória nos Anos Iniciais do Ensino Fundamental</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/462</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 45 (2015): abr./jun.; 68-71</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/462/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/496</identifier>
+				<datestamp>2022-12-26T15:31:53Z</datestamp>
+				<setSpec>emr:SUM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">NACIONAL, SBEM</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/496</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 46 (2015): jul./set.; 2</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/496/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/497</identifier>
+				<datestamp>2022-12-26T15:31:53Z</datestamp>
+				<setSpec>emr:EDI</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Malheiros, Ana Paula dos Santos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Almeida, Lourdes Maria Werle de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Klüber, Tiago Emanuel</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/497</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 46 (2015): jul./set.; 3-5</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/497/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/498</identifier>
+				<datestamp>2022-12-26T15:31:53Z</datestamp>
+				<setSpec>emr:PISA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Práticas de Professores com Modelagem Matemática: Algumas Configurações</dc:title>
+	<dc:creator xml:lang="pt-BR">Almeida, Lourdes Maria Werle de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silva, Karina Alessandra Pessoa da</dc:creator>
+	<dc:description xml:lang="pt-BR">Práticas de Professores com Modelagem Matemática: Algumas Configurações</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/498</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 46 (2015): jul./set.; 06-15</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/498/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/499</identifier>
+				<datestamp>2022-12-26T15:31:53Z</datestamp>
+				<setSpec>emr:PISA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Formação Continuada e Modelagem Matemática: Percepções de Professores</dc:title>
+	<dc:creator xml:lang="pt-BR">Scheller, Morgana</dc:creator>
+	<dc:creator xml:lang="pt-BR">Bonotto, Danusa de Lara</dc:creator>
+	<dc:creator xml:lang="pt-BR">Biembengut, Maria Salett</dc:creator>
+	<dc:description xml:lang="pt-BR">Formação Continuada e Modelagem Matemática: Percepções de Professores</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/499</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 46 (2015): jul./set.; 16-24</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/499/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:emr.www.sbembrasil.org.br:article/500</identifier>
+				<datestamp>2022-12-26T15:31:53Z</datestamp>
+				<setSpec>emr:PISA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Modelagem Matemática na Educação Matemática: Obstáculos Segundo Professores da Educação Básica</dc:title>
+	<dc:creator xml:lang="pt-BR">Ceolim, Amauri Jersi</dc:creator>
+	<dc:creator xml:lang="pt-BR">Caldeira, Ademir Donizeti</dc:creator>
+	<dc:description xml:lang="pt-BR">Modelagem Matemática na Educação Matemática: Obstáculos Segundo Professores da Educação Básica</dc:description>
+	<dc:publisher xml:lang="pt-BR">Sociedade Brasileira de Educação Matemática</dc:publisher>
+	<dc:date>2015-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/500</dc:identifier>
+	<dc:source xml:lang="pt-BR">Educação Matemática em Revista; v. 20 n. 46 (2015): jul./set.; 25-34</dc:source>
+	<dc:source>2317-904X</dc:source>
+	<dc:source>1517-3941</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.sbembrasil.org.br/periodicos/index.php/emr/article/view/500/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<resumptionToken expirationDate="2026-09-22T23:16:06Z"
+			completeListSize="1158"
+			cursor="100">e59e8c65c94aa95adaff7ad732d46839</resumptionToken>
+	</ListRecords>
+</OAI-PMH>

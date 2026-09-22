@@ -1,0 +1,2286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.udesc.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:18:42Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">https://www.revistas.udesc.br/index.php/boem/pt_BR/oai</request>
+	<ListRecords>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3459</identifier>
+				<datestamp>2013-10-08T14:01:24Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3912</identifier>
+				<datestamp>2013-10-08T16:30:32Z</datestamp>
+				<setSpec>palindromo:EDA</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3913</identifier>
+				<datestamp>2013-10-08T16:30:32Z</datestamp>
+				<setSpec>palindromo:EDA</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3915</identifier>
+				<datestamp>2013-09-29T17:56:40Z</datestamp>
+				<setSpec>palindromo:EDA</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3916</identifier>
+				<datestamp>2013-10-08T14:49:34Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3917</identifier>
+				<datestamp>2013-10-08T14:49:35Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3918</identifier>
+				<datestamp>2013-10-08T14:49:35Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3919</identifier>
+				<datestamp>2013-10-08T14:49:35Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3920</identifier>
+				<datestamp>2013-10-08T14:49:35Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3921</identifier>
+				<datestamp>2013-10-15T17:24:21Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3922</identifier>
+				<datestamp>2013-10-08T15:22:59Z</datestamp>
+				<setSpec>palindromo:DSS</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3923</identifier>
+				<datestamp>2013-10-08T15:22:59Z</datestamp>
+				<setSpec>palindromo:DSS</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3925</identifier>
+				<datestamp>2013-10-08T15:22:59Z</datestamp>
+				<setSpec>palindromo:DSS</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3926</identifier>
+				<datestamp>2013-10-08T15:22:59Z</datestamp>
+				<setSpec>palindromo:DSS</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3932</identifier>
+				<datestamp>2013-10-08T15:22:59Z</datestamp>
+				<setSpec>palindromo:DSS</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3933</identifier>
+				<datestamp>2013-10-08T15:22:59Z</datestamp>
+				<setSpec>palindromo:DSS</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3934</identifier>
+				<datestamp>2013-10-08T16:05:17Z</datestamp>
+				<setSpec>palindromo:EDF</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3990</identifier>
+				<datestamp>2013-11-27T14:20:49Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/3993</identifier>
+				<datestamp>2013-10-08T15:11:31Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/4002</identifier>
+				<datestamp>2013-10-15T15:59:22Z</datestamp>
+				<setSpec>palindromo:DSS</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/4047</identifier>
+				<datestamp>2013-10-16T17:26:49Z</datestamp>
+				<setSpec>palindromo:DSS</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/4050</identifier>
+				<datestamp>2013-10-31T13:09:23Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/4092</identifier>
+				<datestamp>2013-10-31T14:03:56Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/4093</identifier>
+				<datestamp>2013-11-08T14:58:18Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/4126</identifier>
+				<datestamp>2013-11-27T15:27:22Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/4234</identifier>
+				<datestamp>2014-12-07T00:16:24Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/6518</identifier>
+				<datestamp>2015-08-07T14:19:56Z</datestamp>
+				<setSpec>palindromo:EXP</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/9653</identifier>
+				<datestamp>2017-05-07T21:44:55Z</datestamp>
+				<setSpec>palindromo:EXP</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/14026</identifier>
+				<datestamp>2018-11-05T10:06:11Z</datestamp>
+				<setSpec>palindromo:RC</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/15332</identifier>
+				<datestamp>2019-06-06T09:29:08Z</datestamp>
+				<setSpec>palindromo:ART</setSpec>
+			</header>
+		</record>
+		<record>
+			<header status="deleted">
+				<identifier>oai:ojs.revistas.udesc.br:article/15399</identifier>
+				<datestamp>2019-05-31T20:42:09Z</datestamp>
+				<setSpec>palindromo:EDI</setSpec>
+			</header>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3871</identifier>
+				<datestamp>2013-12-10T09:10:32Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">As Compreensões dos Estudantes Acerca do Conhecimento Sobre Ótica: análise de uma atividade para o estudo de fenômenos da natureza</dc:title>
+	<dc:creator xml:lang="pt-BR">Brum, Wanderley Pivatto</dc:creator>
+	<dc:creator xml:lang="pt-BR">Schuhmacher, Elcio</dc:creator>
+	<dc:description xml:lang="pt-BR">Os estudantes trazem à sala de aula um conjunto de explicações sobre determinado assunto, conhecido como conhecimentos prévios, muitas vezes diferentes dos saberes científicos apresentados pela escola. Este ponto é essencialmente importante, uma vez que possibilita ao professor desacreditar que a apropriação de um conhecimento acontece pela simples transmissão. Os conhecimentos prévios são explicações funcionais para os objetos e fenômenos, muitas vezes pouco elaborados que precisam ser identificados e levados em consideração pelos professores de Física. Neste sentido, apresentamos uma experiência didática para o estudo do arco-íris, vivenciada em aulas de Física com estudantes da segunda série do ensino médio, analisada a partir dos pressupostos da Teoria da Aprendizagem Significativa. Entendemos que o ensino deve basear-se nas experiências pessoais que o estudante vivencia e que o papel do professor está na orientação e regulação das atividades, com vistas à transformação dos conhecimentos prévios em sua estrutura cognitiva. Assim, de acordo com o pensamento ausubeliano, se o professor deseja ensinar significativamente, é preciso descobrir aquilo que o estudante já sabe, para enfim, direcionar seus ensinamentos. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2013-11-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3871</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 1 n. 1 (2013): BoEM; 2-19</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3871/2827</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3953</identifier>
+				<datestamp>2013-12-10T08:57:01Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Contribuições da Educação Matemática Crítica para o processo de materacia nas Séries Iniciais do Ensino Fundamental: um olhar através dos Parâmetros Curriculares Nacionais.</dc:title>
+	<dc:creator xml:lang="pt-BR">Pessôa, Esther Bahr</dc:creator>
+	<dc:creator xml:lang="pt-BR">Júnior, Valdir Damázio</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente artigo pretende debater o potencial do uso das ideias apresentadas pela Educação Matemática Crítica aliadas ao conceito de materacia visando um ensino de matemática voltado para a atuação cidadã nas séries iniciais do Ensino Fundamental. Tomaremos como base os objetivos apresentados pelos PCNs para o ensino de matemática nos dois primeiros ciclos do Ensino Fundamental. Discutiremos o conceito de materacia, partindo da ideia de letramento, buscando ampliar essa discussão para o contexto da Educação Matemática. Tal discussão se faz importante uma vez que a matemática está presente em muitas nuances da realidade, frequentemente formatando a sociedade. A Educação Matemática Crítica propõe um ensino de matemática que objetiva desenvolver a competência democrática, através do desenvolvimento dos conhecimentos matemático, tecnológico e reflexivo, podendo assim contribuir para que os objetivos propostos pelos PCNs para os dois primeiros ciclos do Ensino Fundamental sejam alcançados.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2013-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3953</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 1 n. 1 (2013): BoEM; 76-98</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3953/2828</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3960</identifier>
+				<datestamp>2013-12-10T09:16:35Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Dona Romilda e sua Topolãgia: as deformações da lã de ovelha</dc:title>
+	<dc:creator xml:lang="pt-BR">Faria, Juliano Espezim Soares</dc:creator>
+	<dc:creator xml:lang="pt-BR">das Graças Souza, Ely</dc:creator>
+	<dc:description xml:lang="pt-BR">Com este artigo objetivamos apresentar o trabalho artesanal que Dona Romilda, moradora do Quilombo Invernada dos Negros, elabora a partir da lã de ovelha, a qual passa por processos de deformações até ser transformada em artesanato. Para efetivar este intento, baseados em Gallo (2008) e Tadeu; Corazza &amp;amp; Zordan (2004), fizemos uma criação conceitual a partir da Topologia das Superfícies, criando o termo Topolãgia, considerando-o como ponto de fuga para escapar ao processo de disciplinamento deste saber, apontado por Foucault (2010). O trabalho se inicia com uma breve introdução, seguido da descrição do trabalho de Dona Romilda, de breves pareceres sobre a Etnomatemática e a Topologia das Superfícies, findando com a análise baseada nos elementos da Topolãgia. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2013-11-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3960</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 1 n. 1 (2013): BoEM; 55-75</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3960/2829</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3961</identifier>
+				<datestamp>2013-12-10T09:12:34Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Atribuição de Significado ao Conceito de Proporcionalidade: contribuições da História da Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Costa Júnior, José Roberto</dc:creator>
+	<dc:description xml:lang="pt-BR">Este estudo é o resultado de um trabalho que aborda a História da Matemática como fonte de atribuição de significado ao conceito de proporcionalidade. Adotamos a metodologia de pesquisa qualitativa e trabalhamos com um grupo de professores da rede pública de ensino do nível básico de uma cidade da Paraíba. Objetivamos neste estudo conhecer os significados atribuídos ao conceito de proporcionalidade por meio de atividades mediadas pela História da Matemática, bem como averiguar se uma abordagem desta natureza possibilita modificação nesse sentido. Os resultados obtidos por meio da análise dos dados indicaram que as atividades contribuíram no que se refere ao alcance dos objetivos. Por outro lado mostrou, também, que existe um longo percurso a ser trilhado no sentido de tornar a História da Matemática subsídio efetivo na prática desses professores, tendo em vista a falta de formação tanto inicial quanto continuada nesta área de conhecimento.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2013-11-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3961</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 1 n. 1 (2013): BoEM; 34-54</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3961/2830</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3965</identifier>
+				<datestamp>2014-08-06T17:19:18Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Um Estudo sobre o SND na Matriz de Avaliação da Prova Brasil de Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Barbosa, Jozeildo Kleberson</dc:creator>
+	<dc:description xml:lang="pt-BR">Este trabalho traz um fragmento de nossa dissertação. Seu objetivo é trazer um estudo sobre os Números Naturais e o Sistema de Numeração Decimal e sua presença dentro da Matriz Referência de Avaliação da Prova Brasil do 5º ano do Ensino Fundamental. Como procedimento de pesquisa utilizamos a pesquisa bibliográfica e a pesquisa documental, a fim de estruturar nosso banco de dados para análise. Ao analisarmos os descritores de avaliação de Matemática da Prova Brasil referentes aos Números Naturais e o Sistema de Numeração Decimal, podemos concluir que estes estão de acordo com o que propõem os pesquisadores da área. E que a compreensão do Sistema de Numeração Decimal não é simples para as crianças, mesmo que elas o usem no cotidiano, desconhecem suas características,  não exploram suas regularidades ou a falta delas, havendo assim, a necessidade de um trabalho efetivo da escola sobre esse sistema. Palavras-chave: Ensino de Matemática. Sistema de Numeração Decimal. Prova Brasil.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3965</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; 2-17</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3965/3230</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3970</identifier>
+				<datestamp>2014-08-06T17:19:18Z</datestamp>
+				<setSpec>boem:REX</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Lúdico no Ensino de Frações</dc:title>
+	<dc:creator xml:lang="pt-BR">Prevê, Deison Teixeira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Sheneckemberg, Cleder Marcos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Munhoz, Regina Helena</dc:creator>
+	<dc:description xml:lang="pt-BR">Este trabalho descreve a um projeto de ensino elaborado e desenvolvido no decorrer da disciplina de Prática de Ensino de Matemática[1], disciplina esta que faz parte da grade do curso de Licenciatura em Matemática da Universidade do Estado de Santa Catarina - UDESC. Esse projeto aqui apresentado foi elaborado por dois acadêmicos do curso e as Tendências abordadas foram a História da Matemática e Tecnologias da Informação, bem como um Jogo Educativo. Por sua vez o conteúdo matemático abordado foi o de frações. Especificamente sobre a História da Matemática exploramos a História das Frações e no caso das Tecnologias da Informação utilizamos um vídeo (desenho animado). Com relação ao lúdico no processo de ensino aprendizagem, trabalhou-se com os seguintes jogos - “Dominó de Frações” e com o Tangram. Tal projeto foi aplicado em uma turma do 6º ano do Ensino Fundamental de uma escola Municipal da cidade Joinville/SC. [1] A disciplina de Prática de Ensino de uma forma geral tem o objetivo de que os licenciandos elaborarem e desenvolvam um projeto de trabalho envolvendo alguma(s) das Tendências em Educação Matemática e após a realização do mesmo elaborem um artigo. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3970</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; 88-99</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3970/3235</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3971</identifier>
+				<datestamp>2013-12-10T09:15:00Z</datestamp>
+				<setSpec>boem:REX</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Clube de Matemática: ações e reflexões coletivas no espaço de aprendizagem</dc:title>
+	<dc:creator xml:lang="pt-BR">Oliveira, Daniela Cristina</dc:creator>
+	<dc:description xml:lang="pt-BR">Este é um relato de experiência de ensino, desenvolvido com alunos do Ensino Fundamental de uma escola pública municipal em Goiânia, associado ao projeto Observatório da Educação (OBEDUC). Neste trabalho, apresentamos o projeto “Clube de Matemática” e o relato do desenvolvimento de algumas atividades. A nossa proposta pedagógica para o ensino é baseada em atividades coletivas, que objetivam o compartilhamento de ações e reflexões em grupo, tomando por base o conhecimento algébrico. O homem é um ser social, necessitando, com isso, de situações de aprendizagem que possibilitem trabalhos colaborativos. Nesta perspectiva, torna-se essencial o planejamento de atividades coletivas que possibilitem aos sujeitos estar em atividade (ensinar, para o professor e aprender, para o aluno) por meio de relações interpessoais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2013-11-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3971</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 1 n. 1 (2013): BoEM; 99-110</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3971/2831</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3972</identifier>
+				<datestamp>2013-12-10T09:06:52Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Os Saberes Docentes Sobre o Objeto Matemático da Divisão</dc:title>
+	<dc:creator xml:lang="pt-BR">Alencar, Edvonete Souza de</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo é um resultado parcial de uma pesquisa com formação de professores que teve como objetivo analisar as observações de professores sobre o desempenho de alunos fictícios em uma situação envolvendo o objeto matemático - divisão .  Este estudo foi realizado em uma escola da rede pública de São Paulo com excelente índice de proficiência em Matemática em uma avaliação externa. Selecionamos para este estudo cinco professores que lecionam no 5° ano do Ensino Fundamental. Como referencial teórico embasamos nos autores que tocam os Saberes Docentes entre eles: Shulman (1986) e Ball e Bass (2003). Como fundamentação matemática utilizamos Vergnaud (1990). Os dados foram coletados  por meio de questionários no qual os professores analisaram resoluções de  alunos fictícios .  Esta pesquisa identificou como os professores analisam as produções do alunos. Permitiu ainda a reflexão sobre a mudança na formação inicial e continuada desses educadores.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2013-11-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3972</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 1 n. 1 (2013): BoEM; 20-33</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3972/2832</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/3974</identifier>
+				<datestamp>2014-08-06T17:19:18Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Blogs como diários reflexivos de aprendizagem e portfólios digitais: uma aplicação em um curso de formação inicial de professores</dc:title>
+	<dc:creator xml:lang="pt-BR">Mulazani dos Santos, Luciane</dc:creator>
+	<dc:creator xml:lang="pt-BR">Siple, Ivanete Zucchi</dc:creator>
+	<dc:creator xml:lang="pt-BR">Damázio Junior, Valdir</dc:creator>
+	<dc:description xml:lang="pt-BR">Este trabalho discute e analisa a utilização do blog na forma de diário reflexivo de aprendizagem, espaço onde o aluno relata e compartilha o seu percurso de formação, refletindo sobre ele e portfólio digital, espaço onde o aluno registra o seu percurso de aprendizagem inserindo atividades realizadas ao longo da disciplina que serão avaliadas pelo professor. A reflexão é feita a partir do uso dos blogs nas disciplinas de Estágio Supervisionado de um curso de licenciatura em Matemática e mostra como a criação e o compartilhamento de rastros de experiências nos blogs pode contribuir para a formação inicial de professores.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/3974</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; 18-29</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/3974/3231</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4149</identifier>
+				<datestamp>2014-08-06T17:33:32Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Utilização do jogo educativo GEONANDIA 3D no ensino de Matemática: uma investigação com estudantes de séries iniciais do ensino fundamental sobre o tema geometria</dc:title>
+	<dc:creator xml:lang="pt-BR">Brum, Wanderley Pivatto</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silva Silveira, Gisele Aparecida</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente artigo apresenta os resultados de uma investigação realizada com estudantes de quarta série do ensino fundamental de uma escola da rede municipal de ensino de Itapema, Santa Catarina, sobre o tema geometria com a utilização do jogo educativo GEONANDIA 3D. A pesquisa tem caráter qualitativo e um dos instrumentos utilizados para coleta de dados consistiu de um questionário. Para análise dos resultados, as ideias de Lara (2004), Gladcheff, Zuffi e Silva (2001) e as orientações dos PCN, nortearam com ênfase as colocações referentes a jogos educacionais e sua abordagem perante aos estudantes. A investigação foi dividida em dois momentos: no primeiro foi aplicado o jogo GEONÂNDIA 3D e no segundo momento ocorreu um feedback com os estudantes referente a utilização do jogo educativo e a forma abordada em sala de aula para a aprendizagem de conceitos matemáticos. Os resultados evidenciam que, os jogos educacionais são ferramentas auxiliadoras indispensáveis no processo de ensino e aprendizagem, devido à tentativa de agregar o lúdico para salas de aula e com isso tendem a ser mais agradáveis, instigando o estudante ao novo, auxiliando-os no desenvolvimento do raciocínio de maneira natural e ágil, com possibilidades de se tornar uma ferramenta auxiliadora no seu cotidiano escolar.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4149</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; 30-55</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4149/3232</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4169</identifier>
+				<datestamp>2013-12-10T08:57:00Z</datestamp>
+				<setSpec>boem:EDT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Mulazani dos Santos, Luciane</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2013-12-10</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4169</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 1 n. 1 (2013): BoEM</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4169/2833</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4396</identifier>
+				<datestamp>2014-08-06T17:19:18Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Computational Technique for Teaching Mathematics -  : sobre a construção de curvas parametrizadas</dc:title>
+	<dc:creator xml:lang="pt-BR">vieira, francisco alves</dc:creator>
+	<dc:description xml:lang="pt-BR">Nesse trabalho trazemos para o leitor certos exemplos extraídos de um ramo em Matemática conhecido como Geometria Algébrica – GA. Contrapomos seu caráter formalizante e estruturante com situações que conduzem o aluno à intuição e a percepção visual de propriedades gráfico-geométricas. Nosso objeto matemático de interesse será o objeto curva algébrica plana. Mostraremos algumas possibilidades de se obter a descrição de seu traço no plano. Em todas as possibilidades de exploração desse problema, a visualização deve funcionar como elemento invariante à cada situação. Por fim, os dados e argumentos evidenciados serão sistematizados e constituirão uma técnica computacional para o ensino de Matemática (Computational Technique for Teaching Mathematics - ) que se apoia no uso dos softwares Geogebra e no Software de Computação Algébrica Maple. Não obstante, indicaremos também certas limitações de cada uma desses softwares. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4396</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; 56-71</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4396/3233</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4444</identifier>
+				<datestamp>2014-08-06T17:19:18Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Desafios da comunicação no ensino de matemática para alunos surdos</dc:title>
+	<dc:creator xml:lang="pt-BR">Costa, Walber Christiano Lima da</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silveira, Marisa Rosâni Abreu da</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente artigo tem por objetivo apresentar alguns desafios da comunicação no ensino de matemática para alunos surdos e, neste contexto, busca-se analisar de que forma a lingua de sinais pode favorecer este ensino com vistas à aprendizagem dos conceitos matemáticos. A comunicação em matemática entre professor e aluno surdo pode ser estabelecida por meio de jogos de linguagem que fornecem significados às palavras do vocabulário matemático. A linguagem matemática é codificada e precisa ser traduzida para a língua portuguesa, como também para a LIBRAS. Essas traduções fazem parte dos jogos de linguagem estabelecidos em sala de aula e buscam suprir a necessidade de que o conhecimento matemático seja compreendido pela comunidade surda. Assim, salienta-se a importância em fornecer ênfase à linguagem na educação matemática de alunos surdos, bem como a busca de uma tradução eficaz dos conceitos escritos em linguagem matemática para a língua de sinais. Para tanto, na discussão teórica recorre-se às produções textuais de alguns educadores matemáticos e ao conceito de jogo de linguagem da filosofia de Wittgenstein.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4444</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; 72-87</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4444/3234</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4528</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Tratamento da Informação e Prova Brasil de Matemática: ensino e avaliação</dc:title>
+	<dc:creator xml:lang="pt-BR">Barbosa, Jozeildo Kleberson</dc:creator>
+	<dc:description xml:lang="pt-BR">Neste trabalho trazemos algumas análises sobre os descritores da Prova Brasil que avaliam os conhecimentos dos alunos sobre o Tratamento da Informação e sobre o seu processo de ensino; esperamos assim, contribuir sobre discussões pedagógicas referente a Prova Brasil, seus descritores e sobre o ensino e aprendizagem de Tratamento da Informação.Nosso objeto é apresentar considerações sobre o ensino e avaliação do Tratamento da Informação e da sua presença na Prova Brasil. Como metodologia utilizamos a pesquisa bibliográfica e a pesquisa documental. Ao analisarmos os descritores de avaliação de Matemática da Prova Brasil referentes ao tema Tratamento da Informação, podemos concluir que estes estão de acordo com o que propõem os PCN e as pesquisas da área. Pois procuram avaliar estes conhecimentos conforme suas prescrições de ensino, tanto pelos documentos curriculares, quanto pelas pesquisas sobre o ensino e aprendizagem da área. Palavras-chave: Ensino de Matemática. Tratamento da Informação. Prova Brasil.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4528</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; 51-71</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4528/3923</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4857</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O ver-como wittgensteiniano e suas implicações para a aprendizagem da Matemática: um ensaio</dc:title>
+	<dc:creator xml:lang="pt-BR">da Silva, Paulo Vilhena</dc:creator>
+	<dc:creator xml:lang="pt-BR">Abreu da Silveira, Marisa Rosâni</dc:creator>
+	<dc:description xml:lang="pt-BR">Com o objetivo de incrementar o debate sobre a questão da visualização no aprendizado da Matemática, procuramos apontar como a filosofia da linguagem de Wittgenstein, em especial seu conceito de ver-como, pode ajudar a compreender algumas das dificuldades de aprendizagem da Matemática, como, por exemplo, ver a diagonal de um retângulo como a hipotenusa de um triângulo retângulo. Conforme evidenciou Presmeg (2006), a maioria das pesquisas que tratam desse âmbito fundamentam-se na Psicologia da Matemática, daí a relevância em discutir essa questão tendo como base a filosofia da linguagem, no sentido de apontar perspectivas diferentes. Assim, desenvolveremos o presente artigo como segue: discutiremos o significado como uso na filosofia da linguagem de Wittgenstein, o que nos ajudará a compreender o conceito de ver-como não como um processo mental, mas como o domínio de técnicas, para, então, discutirmos como as ideias desse filósofo podem ajudar a lançar luz sobre algumas questões sobre a visualização no aprendizado da Matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4857</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; 17-34</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4857/3921</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4925</identifier>
+				<datestamp>2015-07-09T09:38:55Z</datestamp>
+				<setSpec>boem:EDT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Damázio Júnior, Valdir</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4925</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; 1</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4925/3236</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4926</identifier>
+				<datestamp>2014-08-06T17:19:18Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">DAMAZIO JUNIOR, VALDIR</dc:creator>
+	<dc:description xml:lang="pt-BR">Sumário</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4926</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; i</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4926/3237</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/4927</identifier>
+				<datestamp>2014-08-06T17:19:18Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Nominata</dc:title>
+	<dc:creator xml:lang="pt-BR">DAMAZIO JUNIOR, VALDIR</dc:creator>
+	<dc:description xml:lang="pt-BR">Nominata</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-08-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/4927</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 2 (2014): BoEM; ii</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/4927/3238</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5030</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Números reais e o problema da medida</dc:title>
+	<dc:creator xml:lang="pt-BR">Lima Duarte, Carlos Eduardo</dc:creator>
+	<dc:description xml:lang="pt-BR">Nos livros didáticos do ensino médio, os números reais são normalmente apresentados como os números que abrangem os racionais (números com representação decimal finita ou infinita periódica) e os irracionais (números com uma representação decimal infinita e não-periódica). Nesse trabalho, queremos propor ao professor de matemática uma reflexão acerca do ensino de números reais no ensino médio, fazendo com que ele reflita na construção desses números a partir de sua necessidade, mostrando ao aluno como a matemática se desenvolve ao longo dos tempos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5030</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; 35-50</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5030/3922</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5085</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uma Análise Sobre Como os Livros Didáticos de Matemática Estão Trabalhando a Questão da Contextualização</dc:title>
+	<dc:creator xml:lang="pt-BR">Rosalis, Rodrigo</dc:creator>
+	<dc:description xml:lang="pt-BR">Mesmo com as atuais tendências tecnológicas dentro da sala de aula, o livro didático ainda é o material de apoio mais utilizado pelos professores, além deste fato, há os constantes esforços para que o ensino dos conteúdos nas escolas seja mais contextualizado e próximo da realidade do aluno. Neste sentido, o conteúdo dos livros e suas atividades tendem a sofrer modificações tornando-se mais contextualizados, para assim, continuarem bons  apoios didáticos aos professores. Uma grande dificuldade de contextualização se encontra na disciplina de matemática, que em muitos casos continua com seu aspecto abstrato composto de textos e demonstrações em linguagem puramente matemática e atividades que se baseiam no simples treinamento de algorítmos e fórmulas de resolução. Realizamos uma análise sobre como o conteúdo de funções trigonométricas seno e cosseno é trabalhado nos livros didáticos, identificando as semelhanças e particularidades em diferentes livros. Selecionamos seis, entre os quinze livros de matemática para o segundo ano do ensino médio público brasileiro do PNLD-EM 2009 ou 2012. Desenvolvemos um sistema de categorias para analisar o desenvolvimento teórico do conteúdo dos livros didáticos: Introdução, Definição, Gráfico da Função e Propriedades; e, também, para analisar as atividades dos livros quanto a Demanda Cognitiva, Estrutura e Contexto de cada uma. Após análise produzimos gráficos comparativos, em que foi possível constatar o quanto ainda é predominante a matemática sem contexto, de atividades fechadas e de reprodução e treinamento de algorítmos de resolução.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5085</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; 72-97</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5085/3924</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5461</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Constante de Liouville: uma escolha não feita pelo acaso</dc:title>
+	<dc:creator xml:lang="pt-BR">Lübeck, Kelly Roberta Mazzutti</dc:creator>
+	<dc:creator xml:lang="pt-BR">Friedemann, Priscila</dc:creator>
+	<dc:description xml:lang="pt-BR">Neste artigo estamos interessados em discutir como se dão as tomadas de decisões em algumas pesquisas em matemática, ou seja, quais os caminhos que devem ser percorridos para se alcançar a descoberta matemática. Para tanto, vamos nos apoiar na Constante de Liouville, no porquê da sua definição e como tal escolha acabou por resolver o problema da existência de números transcendentes, mostrando esta constante como o primeiro exemplo de número transcendente. Ainda, apresentaremos diversos resultados que impulsionaram o desenvolvimento desta teoria e outros que intrigam muitos pensadores curiosos. Acreditamos que valorizar este processo de construção do conhecimento matemático formal, acadêmico, é extremamente importante, pois ajuda a alterar o paradigma de que a matemática é para poucos ‘gênios’, contribuindo, desta maneira, com a formação de pessoas confiantes e críticas.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5461</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; 2-16</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5461/3920</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5789</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:EDT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">DAMAZIO JUNIOR, VALDIR</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5789</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; 1</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5789/3916</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5790</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">DAMAZIO JUNIOR, VALDIR</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5790</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; i</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5790/3917</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5791</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Nominata</dc:title>
+	<dc:creator xml:lang="pt-BR">DAMAZIO JUNIOR, VALDIR</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5791</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; ii</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5791/3918</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5792</identifier>
+				<datestamp>2014-12-08T18:19:42Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Postura Fenomenológica nas Pesquisas em Educação Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Venturin, Jamur Andre</dc:creator>
+	<dc:creator xml:lang="pt-BR">da Silva, Anderson Afonso</dc:creator>
+	<dc:description xml:lang="pt-BR">Este trabalho tem como objetivos expressar nossa compreensão de aspectos conceituais de Fenomenologia, e apresentar uma pesquisa realizada com a abordagem fenomenológica. No primeiro movimento, dizemos dos conceitos fenomenológicos que estão se destacando com os estudos realizados em Husserl, Ales Bello e Bicudo, bem como explicitamos nosso entendimento de conceitos fenomenológicos e da atitude fenomenológica do pesquisador no movimento de pesquisa. No segundo movimento, descrevemos aspectos do trabalho de Mocrosky (2010), evidenciando o objeto de pesquisa, a interrogação, a elaboração dos procedimentos metodológicos e a postura fenomenológica, assumida pela pesquisadora, no movimento de investigação. Por fim, anunciamos campos de possibilidades para pesquisar em Educação Matemática com abordagem fenomenológica e destacamos como está sendo entendida a postura fenomenológica, assumida por nós pesquisadores, no desenvolvimento de nossas pesquisas de doutorado.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2014-12-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5792</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 2 n. 3 (2014): BoEM; 98-111</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5792/3919</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5876</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensaio sobre o sujeito (e sobre o sujeito chamado professor de Matemática)</dc:title>
+	<dc:creator xml:lang="pt-BR">Levy, Lênio Fernandes</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gonçalves, Tadeu Oliver</dc:creator>
+	<dc:description xml:lang="pt-BR">Nas laudas iniciais deste artigo, abordam-se concepções históricas sobre o que se chama, em Filosofia, de sujeito (e, nesse sentido, sobre o sujeito conhecido como professor de Matemática). Em seguida, discorre-se a propósito da ideia complexa de sujeito (incluso o sujeito identificado como professor de Matemática). Essa ideia diz respeito a diálogos entre âmbitos que se contradizem e que, ao mesmo tempo, complementam-se. Tais âmbitos, uma vez considerados isoladamente (ou melhor, uma vez considerados em detrimento de diálogos complexos), tendem a guardar relação direta com algumas das noções filosóficas de sujeito abordadas na parte inicial do artigo. Como exemplos de pares de dimensões contraditórias e complementares, temos: ordem e desordem; manutenção e dinamismo; objetividade e subjetividade; abstração e concretude; globalidade e localidade; coletividade e individualidade. Essas são algumas das dimensões que, de acordo com a visão complexa defendida por Edgar Morin, interagem entre si no processo de constituição do sujeito. Referidas dimensões, porém, conservam sua distinção durante esse processo (eis aí uma característica da complexidade), não se dissolvendo para dar origem à totalidade designada sujeito, e sim dialogando umas com as outras e com essa totalidade.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5876</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; 2-23</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5876/4426</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/5900</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:REX</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O lúdico no processo de ensino e aprendizagem da matemática: uma proposta envolvendo histórias em quadrinhos</dc:title>
+	<dc:creator xml:lang="pt-BR">Freitas, Adriano Vargas</dc:creator>
+	<dc:creator xml:lang="pt-BR">Pacheco, Karine Martins Barroso</dc:creator>
+	<dc:description xml:lang="pt-BR">O artigo apresenta relato de experiência envolvendo análises a respeito da utilização de recursos lúdicos como facilitadores do processo de ensino e aprendizagem da matemática na educação básica. Analisa que a ludicidade tem o caráter de enriquecer as práticas pedagógicas, estimulando o estudante a participar das atividades propostas, pesquisar, socializar seus acertos e erros e construir novas soluções para os desafios impostos por essas atividades. Destaca a criação de histórias envolvendo conteúdos da área de matemática, em especial a porcentagem. Por meio da utilização de recursos computacionais prontos e disponíveis gratuitamente no ambiente virtual da internet, foram desenvolvidas as atividades que tiveram como resultados, dentre outros, a maior percepção por parte dos estudantes sobre a importância do estudo de matemática, e que seu estudo pode se tornar mais envolvente e convidativo, além de auxiliar o docente a desmistificar a corrente ideia da inacessibilidade da área, servindo como um modo atraente de superar as dificuldades.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/5900</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; 94-106</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/5900/4431</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6209</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensino de matemática X alunos surdos: uma equação sem resultados?</dc:title>
+	<dc:creator xml:lang="pt-BR">Costa, Walber Christiano Lima da</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silveira, Marisa Rosâni Abreu da</dc:creator>
+	<dc:creator xml:lang="pt-BR">Moreira, Ivanete Maria Barroso</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente estudo apresenta reflexões sobre o ensino de matemática para alunos surdos, trazendo discussões a partir da filosofia da linguagem. O processo de inclusão se tornou objeto de inúmeros estudos científicos visando a melhor aprendizagem dos alunos com necessidades especiais. Dentre estes, os alunos surdos são vistos como os que tendem a ter maiores dificuldades na aprendizagem da matemática, pois no cenário educacional há a necessidade da presença da Língua Brasileira de Sinais – Libras. Além do que existem outras línguas e linguagens que participam em meio aos discentes surdos, configurando assim os jogos de linguagem. No ensino de matemática o fato que marca maior dificuldade é a falta de uma proposta de uso mais propícia em relação aos alunos que apresentam surdez. Para este estudo bibliográfico, trazemos autores das áreas em discussão no texto, como Silveira (2014) da educação e linguagem matemática, Quadros e Karnopp (2004) da educação de surdos e Libras e, tendo como ponto central a filosofia da linguagem de Ludwig Wittgenstein (1979; 1989).Palavras-chave: Matemática. Surdos. Dificuldades. Tradução.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6209</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; 66-80</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6209/4429</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6226</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uma investigação na sala de aula de Matemática da EJA: Matemática Financeira,tecnologias e cidadania</dc:title>
+	<dc:creator xml:lang="pt-BR">Kistemann, Marco Aurélio</dc:creator>
+	<dc:creator xml:lang="pt-BR">Costa, Luciano Pecoraro</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo busca apresentar os resultados de uma pesquisa em uma sala de aula de matemática. A pesquisa foi desenvolvida num colégio público estadual da cidade de Miguel Pereira (Brasil-Rio de Janeiro) na modalidade da Educação de Jovens e Adultos. Embasando-se nos pressupostos da Educação Matemática Crítica de Ole Skovsmose e em ideias sobre cidadania de Nilson José Machado, foram incorporadas às práticas da sala de aula de matemática ferramentas tecnológicas como meios de promover a inclusão digital, e paralelamente, como instrumentos auxiliadores de tomadas de decisão nas situações de cunho financeiro-econômicas problematizadas. Diante da escassez de materiais atualizados e adequados ao público da EJA, seja no âmbito editorial, quanto por meio de publicações no meio acadêmico, apresentamos como resultado de nossa investigação, um produto educacional com situações-problema, cujo escopo central é o desenvolvimento nos indivíduos-consumidores frequentadores das aulas de materacia financeiro-econômica e da cidadania.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6226</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; 24-44</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6226/4427</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6235</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O que dizem as produções paranaenses quanto ao ensino das geometrias não euclidianas a partir da publicação das Diretrizes Curriculares da Educação do Estado do Paraná</dc:title>
+	<dc:creator xml:lang="pt-BR">Bagio, Viviane Aparecida</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo tem por finalidade apresentar as pesquisas realizadas pelos Programas de Pós-Graduação no estado do Paraná e que contemplam o conteúdo de Geometrias Não Euclidianas. Estes estudos foram realizados entre os anos de 2009 e 2014 a partir da publicação do documento de Diretrizes Curriculares da Educação Básica do Estado do Paraná (em 2008) e a realização de algumas medidas de implementação desse documento. A partir disso, a proposta é tecer algumas considerações sobre as realidades encontradas e as propostas de ensino destes conteúdos, uma vez que o conteúdo de Geometrias Não Euclidianas foi inserido neste novo documento curricular do Estado do Paraná e que diversas ações foram empregadas com vistas à torná-lo “natural” e possível de ser ensinado como qualquer outro conteúdo da disciplina de Matemática nos anos finais do Ensino Fundamental e no Ensino Médio.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6235</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; 45-65</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6235/4428</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6267</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:REX</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O jogo bingo: uma abordagem lúdica no ensino de equações do primeiro grau</dc:title>
+	<dc:creator xml:lang="pt-BR">Borges, Larissa Gehrinh</dc:creator>
+	<dc:creator xml:lang="pt-BR">Rosalis, Rodrigo</dc:creator>
+	<dc:description xml:lang="pt-BR">Este relato resulta da aplicação de uma atividade matemática lúdica no Ensino Fundamental. Foi aplicada para alunos do 8ºano de uma escola estadual. A atividade foi pensada à luz de teóricos da área acadêmica da matemática, e buscamos vivenciar as contribuições de jogos enquanto recursos didáticos para o ensino da matemática. O jogo escolhido foi o Bingo. O objetivo principal da aplicação é auxiliar os alunos sobre conceitos pertinentes ao ano letivo corrente em que eles possuem algumas dificuldades que foram observadas previamente, como no conteúdo de equações de 1º grau e as regras de sinais envolvidas. Durante o jogo observamos como os alunos trabalharam suas dificuldades além de sua motivação. Durante a realização da atividade observou-se mudanças positivas de comportamento entre os alunos e, também, mudanças positivas relacionadas ao interesse pelo jogo utilizado e o desenvolvimento do conteúdo de equações.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6267</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; 107-115</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6267/4432</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6418</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uma investigação sobre o ensino da Matemática nas primeiras escolas polonesas do Paraná</dc:title>
+	<dc:creator xml:lang="pt-BR">Staniszewski, Rosane Sousa</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo é parte dos resultados encontrados na dissertação desenvolvida no Programa de Pós-Graduação em Educação em Ciências e em Matemática da Universidade Federal do Paraná e aborda a criação das primeiras escolas pelos imigrantes poloneses no Paraná, mais especificamente na cidade de São Mateus do Sul, situada na região sul do estado. O recorte abrange desde a colonização dos imigrantes a partir de 1890 até a nacionalização do ensino, quando Getúlio Vargas proibiu as escolas étnicas no Brasil. Poucos documentos escritos foram encontrados, por isso, através de depoimentos coletados conforme pressupostos metodológicos da História Oral encontramos informações sobre como era o ensino e em particular o ensino da Matemática nesta época. Escolhemos um dos depoimentos da pesquisa que está relacionado aos temas da nacionalização e que desvela alguns dados de como era o ensino da Matemática e as práticas escolares no contexto citado. Pretendemos contribuir dessa maneira para compor mais uma paisagem no cenário da História da Educação Matemática no Brasil.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6418</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; 81-93</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6418/4430</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6450</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Nominata</dc:title>
+	<dc:creator xml:lang="pt-BR">DAMAZIO JUNIOR, VALDIR</dc:creator>
+	<dc:description xml:lang="pt-BR">Nominata</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6450</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; ii</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6450/4455</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6451</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumario</dc:title>
+	<dc:creator xml:lang="pt-BR">DAMAZIO JUNIOR, VALDIR</dc:creator>
+	<dc:description xml:lang="pt-BR">Sumario</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6451</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; i</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6451/4456</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6452</identifier>
+				<datestamp>2015-08-04T13:49:43Z</datestamp>
+				<setSpec>boem:EDT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Mandler, Marnei Luis</dc:creator>
+	<dc:description xml:lang="pt-BR">Editorial</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-07-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6452</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 4 (2015): BoEM; 1</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6452/4457</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6752</identifier>
+				<datestamp>2016-01-15T10:22:03Z</datestamp>
+				<setSpec>boem:ET</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Explorando o Teorema das Quatro Cores em Performances Matemáticas Digitais</dc:title>
+	<dc:creator xml:lang="pt-BR">Scucuglia Rodrigues da Silva, Ricardo</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gregorutti, Gabriel Souza</dc:creator>
+	<dc:description xml:lang="pt-BR">Neste artigo apresentamos uma discussão fundamentada na investigação de performances matemáticas digitais (PMD), as quais abordam o Teorema das Quatro Cores (T4C). PMD se refere ao uso das artes e das tecnologias digitais em Educação Matemática, concebida enquanto linha de pesquisa, proposta didático-pedagógica e/ou narrativa matemática artística multimodal. Metodologicamente, os dados foram produzidos a partir da realização de um curso de extensão universitária no qual lincenciandos em Matemática criaram 5 PMD do tipo Harlem Shake. Foram explorados diferentes aspectos acerca do T4C e diversificadas nuances sobre o fazer matemático (performático). Sendo este um estudo de natureza qualitativa, do ponto de vista interpretativo-analítico, destacamos a natureza artística-multimodal das PMD enquanto narrativas digitais, a ludicidade e criatividade fomentada pela comunicação artística na atividade matemática coletiva e a construção de imagens alternativas sobre a matemática e os matemáticos. Os resultados apresentados corroboram com a perspectiva de que PMD é uma possibilidade/alternativa metodológica diferenciada para o ensino-aprendizagem de matemática, a qual integra o uso das artes e das tecnologias digitais visando a inovação didático-pedagógica em Educação Matemática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6752</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 5 (2015): BoEM; 2-17</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6752/4887</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6933</identifier>
+				<datestamp>2016-01-14T10:51:53Z</datestamp>
+				<setSpec>boem:ET</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Musicalidade na Formação de Professores dos Anos Iniciais do Ensino Fundamental: conversando sobre o sistema de numeração decimal</dc:title>
+	<dc:creator xml:lang="pt-BR">Gomes, Herica Cambraia</dc:creator>
+	<dc:creator xml:lang="pt-BR">Alencar, Edvonete Souza de</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo objetiva refletir a proposta de utilização do ferramental didático da musicalidade, típica da historicidade humana, como estratégia de ensino na matemática dos anos iniciais do ensino fundamental, elegendo como conteúdo o Sistema de Numeração Decimal. Trata-se de um estudo documental, referenciado em pesquisas acerca de musicalidade, corporeidade, cognição e educação matemática. Nossas observações foram realizadas com atividades organizadas segundo a teoria da Transposição Didática de Chevallard, desenvolvidas com alunos do primeiro ano do ensino fundamental. Em nossa análise percebemos a importância do aprofundamento acerca do tratamento didático nas ações de planejamento e suas relações com a aprendizagem matemática considerando elementos da neurociência. Além disso, teorizamos fatores significativos nas relações entre Musicalidade, Neurociência Educacional e Matemática, como nova contribuição para a formação de professores</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6933</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 5 (2015): BoEM; 18-32</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6933/4888</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/6936</identifier>
+				<datestamp>2016-01-14T10:51:53Z</datestamp>
+				<setSpec>boem:ET</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O que se aprende com imagens matemáticas? Uma experiência na Educação de Jovens e Adultos</dc:title>
+	<dc:creator xml:lang="pt-BR">Rozal, Edilene Farias</dc:creator>
+	<dc:creator xml:lang="pt-BR">Espírito Santo, Adilson Oliveira do</dc:creator>
+	<dc:creator xml:lang="pt-BR">Chaves, Isaura de Albuquerque</dc:creator>
+	<dc:description xml:lang="pt-BR">Este trabalho tem como objetivo analisar as percepções dos alunos da Educação de Jovens e Adultos envolvendo aprendizagem através da utilização de imagens matemáticas nas aulas de Matemática destacando percepções, interpretações e observações quanto às imagens aplicadas aos estudantes. Participaram desta pesquisa 16 alunos da Educação de Jovens e Adultos de uma escola pública estadual do município de Bragança – PA. Os dados foram coletados através de imagens matemáticas entregues aos alunos para que escrevessem o que conseguissem observar nas imagens. A pesquisa revela a satisfação dos alunos com a metodologia utilizada e que atividades desta natureza envolvem os alunos ao ponto de nem perceberem passar o tempo da aula. Os resultados obtidos sinalizam que a atividade despertou nos alunos questões de Matemática, de outras áreas do currículo escolar e ainda questões do cotidiano. O aspecto visual das imagens acaba atraindo a atenção do aluno e isto fez com que os alunos acabassem se dedicando mais à atividade, o que nos levou a concluir que os estudantes conseguem fazer associações da Matemática com outras disciplinas e com questões do cotidiano. Esta prática aponta para o sucesso em atividades com enfoques para uma abordagem interdisciplinar.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/6936</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 5 (2015): BoEM; 19-50</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/6936/4889</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7253</identifier>
+				<datestamp>2016-01-14T10:51:53Z</datestamp>
+				<setSpec>boem:EDT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Damázio Júnior, Valdir</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7253</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 5 (2015): BoEM; 1</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7253/4885</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7254</identifier>
+				<datestamp>2016-01-14T10:51:53Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">Damázio Júnior, Valdir</dc:creator>
+	<dc:description xml:lang="pt-BR">Sumário</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7254</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 5 (2015): BoEM; i</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7254/4886</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7255</identifier>
+				<datestamp>2016-01-14T10:51:53Z</datestamp>
+				<setSpec>boem:ET</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Metáforas, Aforismos e Reflexões: Aproximações entre Matemática, Educação Matemática e Arte</dc:title>
+	<dc:creator xml:lang="pt-BR">Damázio Júnior, Valdir</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente artigo apresenta algumas reflexões em forma de aforismos sobre a Matemática e a Educação Matemática a partir da Arte. Os aforismos não apresentam uma relação direta entre si, tratando de diversos temas tais como a linguagem matemática, poesia e matemática, literatura, tradução e transposição didática, infinito, Educação Matemática etc. O objetivo deste trabalho é refletir sobre diversos temas relacionando-os com as artes, dando margem assim a novas reflexões e metáforas ampliando as possibilidades de agir e pensar sobre os temas tratados.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2015-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7255</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 3 n. 5 (2015): BoEM; 51-68</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7255/4890</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7360</identifier>
+				<datestamp>2017-01-25T10:20:05Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Materiais didáticos para o ensino e aprendizagem da geometria</dc:title>
+	<dc:creator xml:lang="pt-BR">Neto, Pablo Roberto de Sousa</dc:creator>
+	<dc:creator xml:lang="pt-BR">Abreu da Silveira, Marisa Rosâni</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente texto tem o objetivo de responder a seguinte questão: como as vivências dos estudantes – no âmbito da própria linguagem – com materiais didáticos contribuem para o ensino e aprendizagem da geometria? Para tanto, analisamos como os estudantes interagem com os materiais, suas linguagens e como relacionam o conhecimento da geometria às suas vivências cotidianas. O estudo foi realizado com base na filosofia da linguagem de Wittgenstein. Para o uso dos materiais didáticos apoiamo-nos nas ideias de Lorenzato. Percebemos nos relatos dos estudantes o conceito negativo formulado por eles no âmbito das aulas de geometria – no sentido de não os instigarem para a aprendizagem. A interação com os materiais didáticos permitiu aos estudantes a percepção e compreensão de traços e formas geométricas muitas vezes não perceptíveis nos desenhos feitos na lousa pelo professor. A experiência relatada ocorreu no campus Timon do Instituto Federal do Maranhão (IFMA) por meio da proposição de uma das oficinas na 12ª Semana Nacional de Ciência e Tecnologia – realizada no período de 20 a 23 de outubro de 2015.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7360</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; 1-27</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7360/5750</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7463</identifier>
+				<datestamp>2016-07-29T15:03:01Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Avaliação em Aulas de Ciências e Matemáticas: narrativa (auto)biográfica como instrumento de formação do professor-pesquisador</dc:title>
+	<dc:creator xml:lang="pt-BR">Rodrigues-Moura, Sebastião</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente artigo traz o delineamento das experiências vivenciadas por um professor-pesquisador em uma disciplina sobre avaliação em aulas de ciências e matemáticas em um programa de pós-graduação de uma universidade federal. A presente discussão se justifica pelo fato de o processo de avaliação educacional ser uma dimensão importante na formação de professores-pesquisadores e pouco se discute como um componente curricular consolidado na sua relação professor-conhecimento-estudantes. Como método investigativo usamos a narrativa (auto)biográfica por ser considerada uma importante ferramenta na formação de professores-pesquisadores capazes de analisar sua formação e seu fazer pedagógico. As discussões aqui apresentadas mostram-se com um reflexo do conhecer a si próprio e de apropriação do percurso formativo na docência.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7463</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; 28-47</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7463/5759</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7809</identifier>
+				<datestamp>2016-07-29T15:03:01Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Conceito de Média Aritmética nos Anos Finais do Ensino Fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Damin, Willian</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos Junior, Guataçara dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Pereira, Rudolph dos Santos Gomes</dc:creator>
+	<dc:description xml:lang="pt-BR">Esta pesquisa teve por objetivo apresentar o diagnostico dos conhecimentos adquiridos sobre média aritmética por alunos dos anos finais do ensino fundamental. A pesquisa foi realizada em uma turma formada por 11 alunos, na faixa etária de 13 anos, do 8º ano do Ensino Fundamental de um colégio da rede particular de ensino do estado do Paraná, Brasil. Para alcançar o objetivo foi aplicado junto a eles um teste diagnóstico contendo cinco questões sobre média aritmética. Para a análise dos registros descritos pelos alunos no teste utilizou-se a análise de conteúdo de Bardin (2009). Observou-se que esses alunos não apresentaram uma compreensão adequada no que diz respeito ao conceito de média aritmética.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7809</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; 48-68</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7809/5752</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7884</identifier>
+				<datestamp>2016-07-29T15:03:01Z</datestamp>
+				<setSpec>boem:REX</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Ensino da Matemática por meio de jogos no contexto da formação do pedagogo</dc:title>
+	<dc:creator xml:lang="pt-BR">Lima Rodrigues, Polyana Marques</dc:creator>
+	<dc:creator xml:lang="pt-BR">Rodrigues Lima, Willams dos Santos</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta um relato de experiência sobre a utilização de jogos nas aulas da disciplina Saberes e Metodologias do Ensino de Matemática, no Curso de Pedagogia da Universidade Federal de Alagoas (UFAL), no Centro de Educação (CEDU), como prática educativa no processo de formação do pedagogo, a partir de jogos confeccionados pelos próprios discentes do referido curso, com o objetivo de trabalhar conteúdos matemáticos de forma divertida e diferenciada, mas também possibilitar que estes profissionais tenham maturidade em propor novos procedimentos com esta abordagem, permitindo assim, que façam uso desta metodologia com suas turmas de alunos . Diante desses aspectos, constatou-se que a utilização de jogos na formação do pedagogo, a fim de trabalhar os conteúdos matemáticos, torna-se importante, uma vez que possibilita novas experiências e novos aprendizados de forma divertida e prazerosa.  </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7884</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; 105-115</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7884/5753</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7962</identifier>
+				<datestamp>2016-07-29T15:03:01Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O processo de escrita das Diretrizes Curriculares da Educação Básica do Estado do Paraná</dc:title>
+	<dc:creator xml:lang="pt-BR">Bagio, Viviane Aparecida</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo tem como proposta descrever em linhas gerais como ocorreu a elaboração das Diretrizes Curriculares da Educação Básica do Estado do Paraná (DCE/PR) publicadas em 2008, analisando o documento elaborado para a disciplina de Matemática. Além das versões preliminares, temos uma carta introdutória do processo que na época foi elaborada pela Superintendência de Educação e a versão final do documento a fim de observar como ocorreu em linhas gerais a participação dos professores da rede básica paranaense, esta que é tão citada em todos os textos que serão descritos. No caso do documento da disciplina de Matemática, além da participação dos professores na escrita, análise e reformulação do documento ao longo do tempo, observaremos a inclusão de um novo conteúdo: as geometrias não euclidianas. Em síntese, podemos afirmar que o documento contou a participação indireta dos professores na escrita, bem como na inserção de conteúdos e temas e, que os mesmos foram convencidos quanto à inclusão do conteúdo de geometrias não euclidianas, uma vez que muitos destes, não tiveram uma formação adequada ou suficiente para o ensino deste conteúdo</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7962</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; 86-104</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7962/5754</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7964</identifier>
+				<datestamp>2016-07-29T15:03:01Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Autoformação para o ensino de matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Costa, Lucélida de Fátima Maia da</dc:creator>
+	<dc:creator xml:lang="pt-BR">Ferreira, Rômulo Igor da Silva</dc:creator>
+	<dc:description xml:lang="pt-BR">Neste artigo trazemos à discussão, sobre a formação do professor que ensina matemática, pontos para a reflexão sobre a apropriação da formação por quem se forma. A experiência apresentada foi construída no âmbito de um projeto de extensão desenvolvido em escolas ribeirinhas da região amazônica, o qual contemplou um curso de curta duração para os professores e oficinas matemáticas para os alunos dos anos iniciais do ensino fundamental. As oficinas foram desenvolvidas conjuntamente por licenciandos dos cursos de Matemática e Pedagogia da Universidade do Estado do Amazonas. Como momentos autoformativos os licenciandos desenvolveram rodas de diálogos as quais se constituíram espaços à reflexão individual e coletiva sobre o processo de tornar-se professor e ensinar matemática. Os subsídios teóricos sobre autoformação defendidos por Warschauer, Gaston Pineau e Pascal Galvani nos permitiram um olhar mais profundo e mais humano sobre a formação do professor e o ensino de matemática em contexto ribeirinho e nos permitem afirmar que todo processo formativo quando não viabiliza momento de reflexão sobre si torna-se adestramento e não formação.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7964</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; 69-85</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7964/5755</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/7975</identifier>
+				<datestamp>2016-07-29T15:03:01Z</datestamp>
+				<setSpec>boem:REX</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Os jogos tradicionais nas aulas de matemática:uma proposta envolvendo bolinhas de gude.</dc:title>
+	<dc:creator xml:lang="pt-BR">Viana, Josiane Borgmann</dc:creator>
+	<dc:creator xml:lang="pt-BR">Munhoz, Regina Helena</dc:creator>
+	<dc:creator xml:lang="pt-BR">Steil, Joana Alves</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta uma das atividades, envolvendo jogos tradicionais, que fazem parte de uma pesquisa de mestrado em Ensino de Ciências, Matemática e Tecnologias. O texto objetiva uma atividade desenvolvida com alunos de 6º ao 9º ano do Ensino Fundamental, envolvendo especificamente bolinhas de gude, propiciando aos alunos uma vivência lúdica com esse jogo considerado tradicional. Além disso, os alunos elaboraram novas estratégias de jogar, estimulando o raciocínio lógico, bem como desenvolveram outros conceitos matemáticos pertinentes ao processo de ensino e aprendizagem. Concluindo, essa vivência, propiciou oportunidade do levantamento de hipóteses matemáticas, a elaboração de novas possibilidades de jogar e estimular a participação de todos. Por sua vez, os professores podem utilizar esse recurso como ferramenta na sua prática pedagógica nas aulas de matemática. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/7975</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; 116-124</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/7975/5756</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8315</identifier>
+				<datestamp>2016-07-29T15:03:01Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Nominata</dc:title>
+	<dc:creator xml:lang="pt-BR">Damázio Júnior, Valdir</dc:creator>
+	<dc:description xml:lang="pt-BR">Nominata</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8315</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; ii</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8315/5757</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8316</identifier>
+				<datestamp>2016-07-29T15:03:01Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">Damázio Júnior, Valdir</dc:creator>
+	<dc:description xml:lang="pt-BR">Sumário</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-07-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8316</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 6 (2016): BoEM; i</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8316/5758</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8538</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Literacia financeira: cenário e perspectivas</dc:title>
+	<dc:creator xml:lang="pt-BR">Somavilla, Adriana Stefanello</dc:creator>
+	<dc:creator xml:lang="pt-BR">Bassoi, Tânia Stella</dc:creator>
+	<dc:description xml:lang="pt-BR">O nível de literacia financeira está associado ao desenvolvimento de competências financeiras básicas, essenciais ao cotidiano de todo cidadão. Esse artigo se propõe a destacar algumas ações, iniciativas e pesquisas referentes ao tema educação financeira e literacia financeira, resultantes da análise documental e leituras que fazem parte da pesquisa da dissertação de mestrado das autoras. Nesse sentido, a melhoria na literacia financeira das pessoas exige uma mudança de postura que pode ser alcançada com os conhecimentos viabilizados por meio da educação financeira e alguns aspectos como o conhecimento, atitudes financeiras e comportamento, são fatores determinantes para que isso aconteça. Por fim, a disseminação da literacia financeira é parte de uma educação para a cidadania e o contexto escolar é o meio ideal para uma formação financeira adequada.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8538</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 7-22</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8538/6229</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8540</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Educação financeira na perspectiva da educação matemática crítica uma reflexão teórica à luz dos ambientes de aprendizagem de Ole Skovsmose</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, Laís Thalita Bezerra dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Pessoa, Cristiane Azevêdo dos Santos</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente artigo, tratando-se de um estudo teórico, objetiva discutir a Educação Financeira (EF) na perspectiva dos ambientes de aprendizagem (matemática pura, semi-realidade e realidade, em paradigmas de exercício ou de cenários para investigação) propostos por Skovsmose (2000). Apresenta-se, inicialmente, uma discussão sobre EF, bem como sobre a Estratégia Nacional de Educação Financeira (ENEF) para, posteriormente, discutir a Educação Matemática Crítica (EMC) e as possíveis relações que podem ser feitas entre ela e a EF, no âmbito de uma formação crítica e reflexiva. Como resultados, aponta-se que, para pensar em uma EF que promova a criticidade e a reflexão, é importante a existência de ambientes propícios, nos quais os alunos possam ser questionados e levantar soluções diversas para um mesmo problema. Além disso, destaca-se a necessidade de que os professores estejam capacitados para o trabalho com a EF, de modo que possam, sempre que preciso, fazer os ajustes necessários nas atividades propostas. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8540</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 23-45</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8540/6230</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8566</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Educação Financeira crítica: questões e considerações</dc:title>
+	<dc:creator xml:lang="pt-BR">Teixeira, Paulo Jorge Magalhães</dc:creator>
+	<dc:description xml:lang="pt-BR">O trabalho apresenta conhecimentos, orientações e informações, desenvolvidos em uma experiência didática cujos propósitos foram os de explorar, apresentar e aprofundar conteúdos e recomendações, próprios das temáticas: Educação Financeira e Matemática Financeira; oportunizar os alunos no que refere à apropriação de conceitos e procedimentos e a avaliação acerca de crenças e concepções - possivelmente oriundas de experiências pessoais e/ou familiares. A experiência didática constitui-se de parte importante, necessária e essencial de um repertório de orientações financeiras as quais visam apresentar razões para justificar o desenvolvimento de estudos acerca de conceitos concernentes à Matemática Financeira, mas não apenas a isso como também têm o propósito de contribuir para formar valores de cidadania e fomentar reflexões e análises críticas. Quanto à fundamentação teórica valemo-nos de conceitos próprios de práticas reflexivas defendidos por Zeichner (1993) e da Metodologia Design Experiments, na perspectiva de Cobb et all (2003). Os alunos foram distribuídos em grupos de até quatro alunos cada. As questões que serviram de base para reflexões e discussões foram propostas em textos escritos em dez tiras de papel (uma questão por tira). </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8566</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 163-193</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8566/6237</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8572</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Discutindo sobre a Educação Financeira nos Anos Iniciais do Ensino Fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Ramos, Juliana Teixeira do Vale</dc:creator>
+	<dc:creator xml:lang="pt-BR">dos Santos, Silvana Claudia</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente trabalho teve como foco discutir qual o papel da educação financeira escolar frente à sociedade do consumo que vivemos. Diariamente, tem-se observado que o público infantil está sendo cada vez mais bombardeado por uma série de estímulos para que consumam mais. A mídia, com suas diversas mensagens e imagens, se aproveita para formar novos consumidores. Assim, nota-se, gradativamente, a construção de uma identidade social embasada nos bens materiais onde o “ter” vale mais que o “ser”. Diante disso, o objetivo geral deste estudo foi discutir, com futuros professores, a importância de uma educação financeira nos Anos Iniciais do Ensino Fundamental. Especificamente, buscamos promover uma reflexão sobre o papel da educação financeira nos Anos Iniciais; e apresentar propostas de atividades para um trabalho sobre educação financeira na sala de aula. Para efeito de coleta de dados, foram utilizados, como instrumentos, a pesquisa bibliográfica acerca da temática e a construção e realização de uma oficina pedagógica, com alunos do curso de Pedagogia de uma Universidade Federal da Zona da Mata Mineira.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8572</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 62-81</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8572/6232</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8644</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uma experiência vivida com estudantes do ensino médio: reflexões sobre Educação Financeira à luz da Educação Matemática Crítica</dc:title>
+	<dc:creator xml:lang="pt-BR">Da Silva, Daniela Mendes Vieira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Canedo Jr, Neil da Rocha</dc:creator>
+	<dc:creator xml:lang="pt-BR">Vaz, Rafael Filipe Novoa</dc:creator>
+	<dc:description xml:lang="pt-BR">Esse artigo busca compartilhar com a comunidade de educadores matemáticos, algumas reflexões a respeito da Educação Financeira que temos praticado e pesquisado de forma colaborativa no contexto da Educação Básica. Para tanto, relatamos uma experiência desenvolvida com alunos do segundo ano do Ensino Médio de uma escola pública da cidade do Rio de Janeiro, na qual puderam refletir a respeito das compras por meio do uso de cartões de crédito, com ênfase na matemática em ação no cálculo dos juros de refinanciamento. Essa atividade serviu de pano de fundo às nossas reflexões, a partir das quais pudemos tanto descortinar possibilidades como considerar incertezas relevantes ao desenvolvimento da Educação Financeira que temos praticado e pesquisado, segundo as preocupações da Educação Matemática Crítica.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8644</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 82-100</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8644/6233</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8647</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Finanças é Assunto de Criança? Uma Proposta de Educação Financeira nos Anos Iniciais</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, Bárbara Cristina Mathias dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Menezes, Adriane Melo de Castro</dc:creator>
+	<dc:creator xml:lang="pt-BR">Rodrigues, Chang Kuo</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente artigo surge de trabalhos realizados pelo Grupo Investigações no Ensino de Matemática e Ciências, Programa de Pós-Graduação no Ensino das Ciências na Universidade UNIGRANRIO e tem como objetivo discutir o ensino de Educação Financeira nos anos iniciais do Ensino Fundamental. Apesar de muitas pessoas acharem que dinheiro não é assunto para criança, é necessário refletir sobre valores e posturas da vida adulta que tem sua construção iniciada na infância, principalmente na sociedade atual em que o consumo vem se tornando uma das principais preocupações dos órgãos nacionais e internacionais. Este artigo apresenta argumentos que validam a importância da abordagem dos temas relacionados a finanças no âmbito da Educação Matemática nos anos iniciais, de forma a colaborar na formação da consciência cidadã do aluno.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8647</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 101-115</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8647/6234</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8649</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Representações temporais e o valor do dinheiro no tempo: conexões entre a Educação Financeira e o Ensino de Matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Muniz Junior, Ivail</dc:creator>
+	<dc:creator xml:lang="pt-BR">Jurkiewicz, Samuel</dc:creator>
+	<dc:description xml:lang="pt-BR">O objetivo desse artigo é apresentar a ideia de representação temporal, cunhada em nossa pesquisa de doutorado, e analisar possíveis influências destas representações nas estratégias de estudantes de Ensino Médio quando analisam situações financeiras, incluindo as que culminem com a tomada de decisão, por meio de tarefas em ambientes escolares de aprendizagem. Para tanto, partindo das nossas concepções de educação financeira escolar e da noção de representação temporal, tomamos como ponto de partida uma situação financeira utilizada em nossa pesquisa para descrevermos o que são tais representações temporais. Utilizamos o modelo dos Campos Semânticos como apoio teórico-metodológico na análise da dinâmica da produção de significados dos estudantes para algumas dessas tarefas, para procurar entender o papel das representações temporais em suas estratégias de análise das situações financeiras apresentadas. Os resultados, obtidos a partir desses significados produzidos, indicam que as representações temporais podem contribuir para a análise de variadas situações financeiras, em diversos aspectos da dinâmica do processo, incluindo compreensão inicial do problema, constituição de objetos, as operações entre esses objetos e suas lógicas, a produção e validação dos resultados encontrados</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8649</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 116-138</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8649/6235</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8678</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Saberes Matemáticos de alunos agricultores na Educação de Jovens e Adultos (EJA): uma experiência com conteúdos de Matemática Financeira</dc:title>
+	<dc:creator xml:lang="pt-BR">Filho, Francisco Diogo Lopes</dc:creator>
+	<dc:creator xml:lang="pt-BR">Rozal, Edilene Farias</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo é fruto de uma dissertação de mestrado, oriunda de uma pesquisa qualitativa realizada com agricultores, baseada nos Saberes Matemáticos dos Alunos Agricultores Camponeses da Educação de Jovens e Adultos (EJA) na Vila de Tamatateua, Bragança, Pará, buscando no Programa Etnomatemática, seguindo definições de Ubiratan D’Ambrósio (1987, 2011), a possiblidade de análise desses saberes como ponto de interação entre o saber matemático e o saber escolar. O ponto de partida se deu mediante a observação das atividades produtivas da Vila de Tamatateua, uma localidade com predominância na agricultura familiar, especificamente no plantio da mandioca para a produção de farinha. Os resultados do estudo evidenciam que no decorrer da aplicação das atividades sobre Matemática Financeira, os alunos demonstraram um maior interesse pela matemática escolar, segundo eles, conseguiram reconhecer a importância do conhecimento que já possuíam. A pesquisa permitiu uma interação entre o cotidiano do aluno agricultor e a matemática escolar, sendo possível o reconhecimento da cultura particular do aluno camponês no desenvolvimento do conteúdo, o que direcionou uma reflexão acerca da Educação Matemática nas escolas do campo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8678</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 46-61</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8678/6231</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8697</identifier>
+				<datestamp>2017-08-01T13:30:12Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A UBP e sua inserção no ensino de Matemática: Uma proposta utilizando a obra Matemática Lúdica de Leon Battista Alberti (1404 – 1472)</dc:title>
+	<dc:creator xml:lang="pt-BR">Tavares, Marina Oliveira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Pereira, Ana Carolina Costa</dc:creator>
+	<dc:description xml:lang="pt-BR">Na pesquisa por uma aprendizagem mais eficiente, pesquisadores têm procurado meios que possibilitem ao aluno um conhecimento matemático pautado em competências que agregue novos rumos a educação matemática brasileira. Dentre essas possibilidades metodológicas podemos encontrar a Unidade Básica de Problematização - UBP, que é um flash de memória discursiva que descreve uma prática social num campo da atividade humana que, por algum motivo, é eleito como um objeto de problematização disciplinar. A UBP possibilita valorizar elementos tais como contexto, historicidade, informalidade e simplicidade que são aspectos importantes na prática escolar da Matemática, mostrando a importância da história e cultura da comunidade escolhida para a aplicação da problematização na educação. A UBP se utiliza de uma metodologia ativa, onde a partir de atividades investigativas o aluno se torna participante ativo no processo de construção de seu aprendizado. Nesse intuito, através da UBP, mostraremos que o papel do professor é estimular e permitir a discussão entre os alunos conduzindo-os se necessária, permitindo que os alunos examinem, reflitam e discutam sobre a historicidade e cultura matemática, realizando assim o exercício do pensar.  Neste artigo, mostrar-se uma proposta de UBP a partir de estudos feitos na obra Matemática Lúdica de Leon Battista. Dessa forma ao analisar a obra observam-se diversas práticas matemáticas históricas inseridas e estas será parte do objeto de pesquisa.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2017-08-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8697</dc:identifier>
+	<dc:identifier>10.5965/2357724X05082017021</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 5 n. 8 (2017): BoEM; 21-36</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8697/6866</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2017 BoEM - Boletim online de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8858</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Uma proposta de Educação Financeira com Jovens-Indivíduos-Consumidores (JIC’S)</dc:title>
+	<dc:creator xml:lang="pt-BR">Campos, André Bernardo</dc:creator>
+	<dc:creator xml:lang="pt-BR">Kistemann Jr., Marco Aurélio</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta uma pesquisa, de cunho qualitativo, cujo eixo central foi Educação Financeira. Nosso estudo tem como objetivo investigar a produção de significados para os resíduos de enunciação de estudantes do Ensino Médio em relação às situações-problemas financeiras apresentadas. Partindo de um projeto de extensão universitária, propomos situações-problemas e discussões sobre o tema, buscando provocar reflexões, bem como oferecer acesso a informações para a tomada de decisões de consumo. Para tal, fundamentamo-nos nas ideias da Educação Matemática Crítica de Ole Skovsmose e no Modelo dos Campos Semânticos de Romulo Campos Lins. Nossa pesquisa ainda revelou uma considerável necessidade de se implementar ações junto aos estudantes, de forma a contribuir para a formação de cidadãos financeira e criticamente educados. E, para que isso se concretize, apresentamos um Curso de Extensão de Educação Financeira como produto educacional.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8858</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 211-233</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8858/6239</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8860</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Encontros polissêmicos entre a educação financeira e a etnomatemática: um ensaio teórico</dc:title>
+	<dc:creator xml:lang="pt-BR">Rosa, Milton</dc:creator>
+	<dc:creator xml:lang="pt-BR">Orey, Daniel Clark</dc:creator>
+	<dc:description xml:lang="pt-BR">O inter-relacionamento de saberes relacionados com a Educação Financeira e a Etnomatemática é importante para que se possa obter informações relevantes sobre o encontro polissêmico entre essas duas áreas de conhecimento. Uma compreensão aprofundada sobre essas inter-relações pode auxiliar no entendimento de conceitos específicos encontrados nessa polissemia. É importante reconhecer que os pressupostos da Educação Financeira e da Etnomatemática exercem um papel importante no desenvolvimento intelectual, cultural e social da humanidade, pois a matemática pode ser entendida como a espinha dorsal do conhecimento científico, tecnológico e sociológico historicamente desenvolvido. Os conteúdos matemáticos associados com a Educação Financeira podem ser utilizados na formação da cidadania dos alunos, bem como uma das finalidades da Etnomatemática é prepara-los para que possam desenvolver os valores de naturezas diversas, pois têm como objetivo a sua formação integral como cidadãos. Então, existe a necessidade de destacar a composição de ambientes de ensino e aprendizagem que visam educar os alunos, tornando-os cidadãos críticos, transformadores e reflexivos, preparando-os para a tomada de decisões em relação aos problemas que afligem a sociedade moderna.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8860</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 139-162</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8860/6236</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8863</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O ensino de Matemática Financeira e os registros de representação semiótica</dc:title>
+	<dc:creator xml:lang="pt-BR">Schünemann, Tiele Aquino</dc:creator>
+	<dc:creator xml:lang="pt-BR">Mariani, Rita de Cássia Pistóia</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo tem o propósito de apresentar os dados iniciais de uma meta-análise realizada a partir de investigações stricto sensu produzidas em instituições brasileiras tomando as palavras-chave “Matemática Financeira” e “Financeira” na relação de dissertações e teses publicada na Revista Zetetiké, no Banco de Teses da CAPES e ainda nos bancos de dados de programas de pós-graduação stricto sensu na área de Ensino de Ciências e Matemática cadastrados na grande área Multidisciplinar. Identificou-se 58 pesquisas que foram organizadas de acordo com os níveis de ensino, os sujeitos e os conceitos explorados, a saber: introdução à matemática financeira, juros simples, capitalização composta, rendas e educação financeira. Diante desse contexto, selecionou-se 04 dissertações que continham 47 atividades didáticas dinamizadas com alunos do Ensino Médio. Tais atividades foram analisadas por meio do referencial teórico dos registros de representação semiótica a partir de 05 descritores: tomada de decisão diante de uma situação financeira, capitalização composta por meio de modelos da matemática financeira, capitalização composta por meio da recursividade, rendas por meio de modelos da matemática financeira e rendas por meio da recursividade.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8863</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 194-210</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8863/6238</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8880</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:DT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Educação Financeira para alunos de um curso de Engenharia de Produção  Financial Education for students of a Production Engineering Course</dc:title>
+	<dc:creator xml:lang="pt-BR">Coutinho, Cileda de Queiroz e Silva</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Alan da Silva</dc:creator>
+	<dc:description xml:lang="pt-BR">ResumoNeste texto propomos a discussão de um recorte de uma pesquisa desenvolvida no âmbito do grupo de pesquisa PEAMAT/PUCSP. Trata-se de um estudo diagnóstico no tema Educação Financeira, envolvendo alunos de um curso de Engenharia de Produção da cidade de São Paulo. Os conhecimentos desse campo da Matemática são de suma importância na formação do engenheiro de produção, conforme se pode observar na descrição das características esperadas nos egressos de tais cursos, presentes nas Diretrizes Curriculares Nacionais para os cursos de Engenharia. A análise dos dados coletados foi feita à luz dos resultados de pesquisas na área de Educação Financeira, assim como aspectos teórico-metodológicos inerentes à Análise Estatística Implicativa (ASI), possibilitada pelo uso do software CHIC (Classificação Hierárquica Implicativa e Coesitiva). Os resultados obtidos por meio de formulário aplicado permitiram classificar os alunos de Engenharia de Produção segundo suas concepções sobre elementos da educação financeira, mostrando principalmente a evolução dos mesmos durante os cinco anos do curso quando o assunto é Finanças Pessoais. AbstractIn this text we propose the discussion of a part of a research developed within the scope of the research group PEAMAT / PUCSP. This is a diagnostic study in the subject of Financial Education, involving students of a Production Engineering course in the city of São Paulo. The knowledge of this field of Mathematics is  very important for the formation of the engineer of production, as it can be observed in the description of the expected characteristics in the graduates of such courses, present in the National Curricular Guidelines for the courses of Engineering. The analysis of the collected data was made in the light of the results of research in the area of Financial Education, as well as theoretical and methodological aspects inherent to the Statistical Implicative Analysis (ASI), made possible by the use of the software named CHIC (Hierarchical Classification Implication and Coesitive – implication intensity). The results obtained through an applied form allowed to classify the students of Production Engineering according to their conceptions about elements of financial education, showing mainly their evolution during the five years of the course when the subject is Personal Finance. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8880</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 234-253</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8880/6240</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8895</identifier>
+				<datestamp>2017-08-02T09:39:17Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensino de Matemática através da Resolução de Problemas: alguns aspectos orientadores para a prática docente</dc:title>
+	<dc:creator xml:lang="pt-BR">Teixeira, Bruno Rodrigo</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Edilaine Regina dos</dc:creator>
+	<dc:description xml:lang="pt-BR">Neste artigo, a partir de uma revisão de literatura, destacamos aspectos que podem ser orientadores para a prática do professor no ensino de Matemática através da Resolução de Problemas. Para isso, apresentamos considerações a respeito do planejamento da tarefa matemática e das ações do professor na condução de uma aula nessa concepção de ensino. Com relação ao planejamento da tarefa, a literatura tem evidenciado que a escolha dela deve levar em conta fundamentalmente a matemática que o professor gostaria que seus alunos aprendessem, e, que a antecipação de possíveis resoluções pode auxiliar na condução do discurso com a turma. No que tange à condução da aula, a literatura tem apresentado sugestões tanto no que se refere a que ações o professor pode desenvolver durante o trabalho com os alunos quanto no que diz respeito a como pode desenvolvê-las. Dada a complexidade do ensino de Matemática através da Resolução de Problemas, consideramos que tais sugestões podem auxiliar professores no desenvolvimento de uma prática baseada nessa concepção de ensino. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2017-08-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8895</dc:identifier>
+	<dc:identifier>10.5965/2357724X05082017051</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 5 n. 8 (2017): BoEM; 51-71</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8895/6868</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2017 BoEM - Boletim online de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8991</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:EDT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator xml:lang="pt-BR">Kistemann Jr., Marco Aurélio</dc:creator>
+	<dc:creator xml:lang="pt-BR">Coutinho, Cileda de Queiroz e Silva</dc:creator>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8991</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; 1-6</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8991/6226</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/8992</identifier>
+				<datestamp>2016-12-12T14:16:35Z</datestamp>
+				<setSpec>boem:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator xml:lang="pt-BR">Damázio Júnior, Valdir</dc:creator>
+	<dc:description xml:lang="pt-BR">.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2016-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/8992</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 4 n. 7 (2016): Dossiê temático Educação Financeira e Educação Matemática; i-ii</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/8992/6228</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/9032</identifier>
+				<datestamp>2017-08-01T13:30:12Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Imposto de Renda: função contínua? Uma questão de Cálculo tanto para o Ensino Básico quanto para o Ensino Superior</dc:title>
+	<dc:creator xml:lang="pt-BR">Bihuna de Azevedo, Eliane</dc:creator>
+	<dc:creator xml:lang="pt-BR">Bar de Figueiredo, Elisandra</dc:creator>
+	<dc:creator xml:lang="pt-BR">Zuchi Siple, Ivanete</dc:creator>
+	<dc:creator xml:lang="pt-BR">Palhares, Pedro Manuel Baptista</dc:creator>
+	<dc:description xml:lang="pt-BR">Um conteúdo que gera debates entre professores e pesquisadores de Cálculo Diferencial e Integral (CDI) é a definição de continuidade de uma função real de variável real. Nesse sentido, este texto apresenta e discute a diferença entre duas definições de continuidade que aparentemente pode ser sutil, porém veremos que não é. Também apresentamos essa discussão numa atividade proposta aos alunos de um Programa de Pós-Graduação de uma instituição pública brasileira no contexto do imposto de renda. A metodologia utilizada para aplicação das atividades foi a Resolução de Problemas. Os resultados oriundos das discussões dessa atividade evidenciam que essas atividades poderão ser utilizadas tanto nas aulas de Matemática do Ensino Médio quanto nas aulas de CDI do Ensino Superior e poderão auxiliar um (futuro) professor de Matemática na percepção das conexões existentes entre os conteúdos estudados no Ensino Superior com os do Ensino Básico, pois muitas vezes esse elo entre esses dois níveis de ensino não é perceptível aos estudantes nem aos professores de CDI.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2017-08-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/9032</dc:identifier>
+	<dc:identifier>10.5965/2357724X05082017001</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 5 n. 8 (2017): BoEM; 1-20</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/9032/6865</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/9274</identifier>
+				<datestamp>2017-08-01T13:30:12Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A resolução de problemas no ensino de estocástica no Ensino Médio</dc:title>
+	<dc:creator xml:lang="pt-BR">Oliveira Júnior, Ailton Paulo de</dc:creator>
+	<dc:creator xml:lang="pt-BR">dos Anjos, Roberta de Cássia</dc:creator>
+	<dc:description xml:lang="pt-BR">Esse trabalho tem como objetivo investigar o que se tem sido publicado nos anos de 2010 a 2015 sobre a aplicação da Resolução de Problemas como Metodologia no Ensino da Estocástica no Ensino Médio. A pesquisa em tela é denominada do tipo “estado da arte” que segundo Ferreira (2002) tem como desafio mapear e discutir uma determinada pesquisa em diferentes áreas do conhecimento, época e lugar. Segundo Lopes e Moran (1999) o termo “Estocástico” refere-se à interface entre os conceitos combinatório, probabilístico e estatístico, possibilitando o desenvolvimento de formas particulares de pensamento. A partir da leitura de 8 trabalhos (artigos publicados em periódicos científicos; artigos publicados em eventos científicos; e dissertações de Mestrado) mostram que os alunos possuem limitações em relação aos conceitos estocásticos, indicando ainda a não utilização deste enfoque em sala de aula por parte dos professores. Assim, conclui-se que há necessidade desta formação nos cursos de licenciatura em Matemática que atendam a nova demanda de Ensino Estocástico e a inclusão no currículo da formação de professor na forma de Resolução de Problemas.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2017-08-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/9274</dc:identifier>
+	<dc:identifier>10.5965/2357724X05082017072</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 5 n. 8 (2017): BoEM; 72-92</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/9274/6869</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2017 BoEM - Boletim online de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs.pkp.sfu.ca:article/9288</identifier>
+				<datestamp>2017-08-01T13:30:12Z</datestamp>
+				<setSpec>boem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Jogos africanos na formação de professores: o yoté como um recurso para o ensino de matemática</dc:title>
+	<dc:creator xml:lang="pt-BR">Figueiredo Furtado, Maria Gabriela</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gonçalves, Paulo Gonçalo Farias</dc:creator>
+	<dc:description xml:lang="pt-BR">O baixo rendimento em Matemática na Educação Básica e a importância da inserção da cultura afro-brasileira no currículo tem sido um desafio para a formação de professores. Nesse sentido, esse artigo discute uma experiência educacional com o yoté no ensino de Geometria e da História Afro-brasileira, ocorrida com licenciandos de Ciências e Matemática. Constituindo-se como uma intervenção pedagógica, essa investigação utilizou a observação e o questionário para recolha dos dados. Foi unânime entre os licenciandos a compreensão dos jogos como recursos como promissores para o ensino e aprendizagem de matemática, sobretudo pelo seu aspecto lúdico, dinâmico, caráter facilitador; e no desenvolvimento de competências, habilidades e atitudes. Em relação ao yoté, foi destacada a importância da interação entre conceitos matemáticos e histórico-culturais. Dentre as desvantagens, os estudantes apresentaram a possibilidade de surgimento de comportamentos inadequados e a utilização do jogo pelo jogo. É fundamental que os cursos de licenciaturas empreendam práticas direcionadas não apenas ao saber e ao saber-fazer matemática, mas ainda ao saber-ser, essencial para a formação de um cidadão que respeite a diversidade e diferenças em uma sociedade multicultural. </dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade do Estado de Santa Catarina</dc:publisher>
+	<dc:date>2017-08-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.revistas.udesc.br/index.php/boem/article/view/9288</dc:identifier>
+	<dc:identifier>10.5965/2357724X05082017037</dc:identifier>
+	<dc:source xml:lang="pt-BR">Revista BOEM; v. 5 n. 8 (2017): BoEM; 37-50</dc:source>
+	<dc:source>2357-724X</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://www.revistas.udesc.br/index.php/boem/article/view/9288/6867</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2017 BoEM - Boletim online de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<resumptionToken expirationDate="2026-09-22T23:18:42Z"
+			completeListSize="333"
+			cursor="0">e821c3be0da412dec3d519d39557ff14</resumptionToken>
+	</ListRecords>
+</OAI-PMH>
