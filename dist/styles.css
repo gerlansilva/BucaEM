@@ -15,3 +15,12 @@ footer{width:var(--shell);margin:35px auto 0;padding:24px 0 30px;border-top:1px 
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 
 @media(max-width:420px){.brand{font-size:24px}.header-inner{gap:9px}.header nav{gap:1px}.header nav a{font-size:10px;padding:7px 6px}.summary{gap:6px}.summary span{font-size:9px}}
+/* Explicit placement prevents the mobile filter button from shifting the grid. */
+.workspace{grid-template-areas:"filters results"}
+.workspace>.filters{grid-area:filters;min-width:0}
+.workspace>.results{grid-area:results;min-width:0}
+.workspace>.filter-toggle{display:none}
+@media(max-width:700px){
+  .workspace{grid-template-areas:none}
+  .workspace>.filter-toggle{display:flex}
+}
