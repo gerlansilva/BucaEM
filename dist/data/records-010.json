@@ -27,6 +27,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6123",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -57,6 +61,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/49250",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -98,6 +106,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7047",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -127,6 +139,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/73871",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -169,6 +185,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9794",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -199,6 +219,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6166",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -234,6 +258,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/243642",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -275,6 +303,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/17413",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -312,6 +344,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9605",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -341,6 +377,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5917",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -371,6 +411,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5969",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -402,6 +446,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6110",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -441,6 +489,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/244794",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -470,6 +522,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/49631",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -501,6 +557,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/66040",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -532,6 +592,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5983",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -562,6 +626,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5978",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -600,6 +668,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9617",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -630,6 +702,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6109",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -660,6 +736,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6097",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -690,6 +770,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7269",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -728,6 +812,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/43602",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -768,6 +856,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2169",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -799,6 +891,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/70562",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -830,6 +926,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/50558",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -870,6 +970,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/169",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -904,6 +1008,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6041",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -942,6 +1050,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8656869",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -972,6 +1084,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9789",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1001,6 +1117,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5975",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1039,6 +1159,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/11396",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1077,6 +1201,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/350",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1116,6 +1244,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/168",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1157,6 +1289,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44263",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1186,6 +1322,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/118",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1215,6 +1355,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/50424",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1245,6 +1389,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2370",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1275,6 +1423,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/49219",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1306,6 +1458,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/67491",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1344,6 +1500,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/18109",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1377,6 +1537,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/105",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1415,6 +1579,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/141",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1446,6 +1614,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6495",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1476,6 +1648,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/248522",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1506,6 +1682,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5997",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1535,6 +1715,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/72628",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1565,6 +1749,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6217",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1603,6 +1791,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/43483",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1643,6 +1835,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8656990",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1676,6 +1872,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2359",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1706,6 +1906,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/49241",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1736,6 +1940,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6207",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1772,6 +1980,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/445",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1815,6 +2027,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/17871",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1845,6 +2061,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6147",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1875,6 +2095,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6224",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1905,6 +2129,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/16900",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1937,6 +2165,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6230",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -1975,6 +2207,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/48218",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2006,6 +2242,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/50330",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2033,6 +2273,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6173",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2064,6 +2308,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6152",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2101,6 +2349,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/173",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2131,6 +2383,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5999",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2162,6 +2418,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/17377",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2204,6 +2464,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/149",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2235,6 +2499,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/49179",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2273,6 +2541,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/2788",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2311,6 +2583,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/2793",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2348,6 +2624,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/2776",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2378,6 +2658,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/74234",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2408,6 +2692,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/59118",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2446,6 +2734,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/11038",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2476,6 +2768,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6006",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2506,6 +2802,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5948",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2536,6 +2836,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6029",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2566,6 +2870,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6114",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2597,6 +2905,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5996",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2627,6 +2939,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/66169",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2658,6 +2974,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5938",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2688,6 +3008,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6197",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2721,6 +3045,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8656854",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2750,6 +3078,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6180",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2788,6 +3120,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/38669",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2817,6 +3153,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/77277",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2857,6 +3197,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/11161",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2897,6 +3241,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/316",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2927,6 +3275,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/72854",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2957,6 +3309,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/67675",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -2995,6 +3351,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/306",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3025,6 +3385,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/69951",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3054,6 +3418,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8657607",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3086,6 +3454,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7245",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3119,6 +3491,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6165",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3149,6 +3525,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6107",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3180,6 +3560,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/49204",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3209,6 +3593,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/49164",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3239,6 +3627,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7930",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3271,6 +3663,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/65710",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3301,6 +3697,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6063",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3331,6 +3731,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9799",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3360,6 +3764,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/2796",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3391,6 +3799,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6140",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3421,6 +3833,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/50406",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3461,6 +3877,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/6342",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3491,6 +3911,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6022",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3528,6 +3952,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/110",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3558,6 +3986,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6039",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3588,6 +4020,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/49162",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3618,6 +4054,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6055",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3658,6 +4098,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2226",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3688,6 +4132,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6134",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3718,6 +4166,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7265",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3756,6 +4208,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/97",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3797,6 +4253,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/8177",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3828,6 +4288,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/70522",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3858,6 +4322,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6032",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3891,6 +4359,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6176",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3922,6 +4394,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5927",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3961,6 +4437,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9803",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -3991,6 +4471,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/50251",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4033,6 +4517,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/132",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4063,6 +4551,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/5949",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4106,6 +4598,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/165",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4136,6 +4632,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6091",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4166,6 +4666,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6137",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4201,6 +4705,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/115",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4239,6 +4747,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/2792",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4277,6 +4789,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/43723",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4313,6 +4829,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/298",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4358,6 +4878,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45259",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4394,6 +4918,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/123",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4436,6 +4964,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2685",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4474,6 +5006,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/11509",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4508,6 +5044,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6071",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4537,6 +5077,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/6101",
     "source": "https://periodicos.unespar.edu.br/index.php/rpem/oai",
+    "provenance": [
+      "https://periodicos.unespar.edu.br/index.php/rpem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4575,6 +5119,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/160",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4611,6 +5159,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/47580",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4642,6 +5194,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/8132",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4672,6 +5228,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/46880",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4702,6 +5262,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/39351",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4733,6 +5297,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7057",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4772,6 +5340,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/39791",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4812,6 +5384,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2181",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4841,6 +5417,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1943",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4870,6 +5450,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1706",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4899,6 +5483,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45680",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4929,6 +5517,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/59689",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4958,6 +5550,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42537",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -4997,6 +5593,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/161",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5026,6 +5626,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42549",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5062,6 +5666,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1949",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5102,6 +5710,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45557",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5140,6 +5752,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/178",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5171,6 +5787,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/57310",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5203,6 +5823,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9466",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5233,6 +5857,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1694",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5273,6 +5901,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654092",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5303,6 +5935,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44660",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5339,6 +5975,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/35433",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5373,6 +6013,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1707",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5410,6 +6054,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1996",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5447,6 +6095,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45525",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5486,6 +6138,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9508",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5513,6 +6169,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1723",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5542,6 +6202,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1935",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5572,6 +6236,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42583",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5604,6 +6272,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/10793",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5642,6 +6314,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/43603",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5671,6 +6347,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1653",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5707,6 +6387,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/232",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5736,6 +6420,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/58617",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5766,6 +6454,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1808",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5796,6 +6488,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6155",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5825,6 +6521,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1678",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5861,6 +6561,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44419",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5905,6 +6609,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/242752",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5941,6 +6649,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/283",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -5972,6 +6684,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42595",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6002,6 +6718,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7058",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6043,6 +6763,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654266",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6072,6 +6796,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7702",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6102,6 +6830,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/35781",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6132,6 +6864,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/163",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6164,6 +6900,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8249",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6195,6 +6935,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42587",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6225,6 +6969,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1691",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6264,6 +7012,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9464",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6294,6 +7046,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/41263",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6331,6 +7087,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/160",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6361,6 +7121,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1733",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6390,6 +7154,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1719",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6427,6 +7195,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8851",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6465,6 +7237,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/10242",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6495,6 +7271,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42546",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6525,6 +7305,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6237",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6557,6 +7341,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42603",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6595,6 +7383,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/39862",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6635,6 +7427,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/276",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6666,6 +7462,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6029",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6704,6 +7504,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2016",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6744,6 +7548,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8860",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6775,6 +7583,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/240024",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6813,6 +7625,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/215",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6844,6 +7660,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/61915",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6886,6 +7706,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/273",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6924,6 +7748,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/210",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6959,6 +7787,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7179",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -6988,6 +7820,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1705",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7019,6 +7855,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1769",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7059,6 +7899,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/40766",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7088,6 +7932,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/158",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7120,6 +7968,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9504",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7157,6 +8009,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/170",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7197,6 +8053,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45543",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7227,6 +8087,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2078",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7256,6 +8120,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42552",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7294,6 +8162,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/237",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7332,6 +8204,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/236",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7361,6 +8237,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1942",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7392,6 +8272,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1675",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7421,6 +8305,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62755",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7450,6 +8338,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2069",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7480,6 +8372,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7061",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7522,6 +8418,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/5096",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7551,6 +8451,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45500",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7591,6 +8495,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/240507",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7622,6 +8530,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/9376",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7663,6 +8575,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7245",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7699,6 +8615,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/239878",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7735,6 +8655,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/171",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7773,6 +8697,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/39098",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7802,6 +8730,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7045",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7840,6 +8772,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654289",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7869,6 +8805,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/284",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7898,6 +8838,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1938",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7930,6 +8874,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2047",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -7970,6 +8918,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8988",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8004,6 +8956,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9463",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8034,6 +8990,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2081",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8069,6 +9029,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/222",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8098,6 +9062,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1689",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8135,6 +9103,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45501",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8166,6 +9138,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6569",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8203,6 +9179,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/166",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8239,6 +9219,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/41210",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8270,6 +9254,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62757",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8299,6 +9287,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/257",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8339,6 +9331,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/187",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8379,6 +9375,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42243",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8419,6 +9419,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/4142",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8458,6 +9462,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/234",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8488,6 +9496,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1734",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8517,6 +9529,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1667",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8551,6 +9567,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/150",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8581,6 +9601,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/240023",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8612,6 +9636,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1251",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8649,6 +9677,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45494",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8691,6 +9723,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1979",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8731,6 +9767,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7298",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8772,6 +9812,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45576",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8812,6 +9856,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654316",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8850,6 +9898,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654072",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8880,6 +9932,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/182",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8916,6 +9972,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7195",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8956,6 +10016,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/153",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -8986,6 +10050,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/61978",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9024,6 +10092,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/9667",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9060,6 +10132,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654287",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9093,6 +10169,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2155",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9129,6 +10209,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/4253",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9164,6 +10248,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/5565",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9193,6 +10281,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1650",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9232,6 +10324,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/238",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9262,6 +10358,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6150",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9303,6 +10403,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44255",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9332,6 +10436,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1661",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9371,6 +10479,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/191",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9401,6 +10513,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1964",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9444,6 +10560,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7248",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9480,6 +10600,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45503",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9513,6 +10637,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654281",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9551,6 +10679,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/159",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9581,6 +10713,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6262",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9611,6 +10747,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2364",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9643,6 +10783,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/57133",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9673,6 +10817,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42591",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9703,6 +10851,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1710",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9732,6 +10884,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45598",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9761,6 +10917,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/292",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9801,6 +10961,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654121",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9831,6 +10995,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2076",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9867,6 +11035,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45552",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9907,6 +11079,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/240767",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9937,6 +11113,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62131",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -9967,6 +11147,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6191",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10005,6 +11189,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/37282",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10047,6 +11235,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/5791",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10085,6 +11277,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44237",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10123,6 +11319,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9505",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10152,6 +11352,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/67500",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10190,6 +11394,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8653725",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10231,6 +11439,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/41408",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10269,6 +11481,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/39833",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10305,6 +11521,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654109",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10335,6 +11555,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/15118",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10371,6 +11595,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/236193",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10405,6 +11633,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9458",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10446,6 +11678,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7328",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10482,6 +11718,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44706",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10521,6 +11761,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44302",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10557,6 +11801,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/37664",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10587,6 +11835,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1677",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10629,6 +11881,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1931",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10658,6 +11914,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1672",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10687,6 +11947,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1936",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10716,6 +11980,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62770",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10760,6 +12028,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1961",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10789,6 +12061,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/152",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10820,6 +12096,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6196",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10858,6 +12138,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/9007",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10898,6 +12182,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2053",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10928,6 +12216,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/267",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10966,6 +12258,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45511",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -10995,6 +12291,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1686",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11026,6 +12326,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/226",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11056,6 +12360,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2068",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11097,6 +12405,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45516",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11138,6 +12450,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1933",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11167,6 +12483,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42588",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11201,6 +12521,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1915",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11230,6 +12554,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1664",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11271,6 +12599,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45654",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11309,6 +12641,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/3158",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11339,6 +12675,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/177",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11369,6 +12709,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62926",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11398,6 +12742,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45540",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11429,6 +12777,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7710",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11458,6 +12810,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6245",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11498,6 +12854,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7279",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11540,6 +12900,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1812",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11579,6 +12943,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/242482",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11609,6 +12977,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/16813",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11641,6 +13013,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1966",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11672,6 +13048,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8463",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11701,6 +13081,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/16819",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11731,6 +13115,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6261",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11760,6 +13148,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1724",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11796,6 +13188,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/174",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11831,6 +13227,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9495",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11871,6 +13271,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654273",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11900,6 +13304,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2154",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11938,6 +13346,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45597",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11968,6 +13380,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62664",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -11999,6 +13415,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/59069",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12038,6 +13458,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/176",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12068,6 +13492,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/229",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12106,6 +13534,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/3549",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12145,6 +13577,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45539",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12187,6 +13623,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1984",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12225,6 +13665,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8825",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12256,6 +13700,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/65501",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12294,6 +13742,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/38907",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12331,6 +13783,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/165",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12367,6 +13823,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/192",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12397,6 +13857,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1696",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12427,6 +13891,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8335",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12461,6 +13929,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1909",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12498,6 +13970,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45563",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12529,6 +14005,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6340",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12570,6 +14050,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/252",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12600,6 +14084,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1698",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12631,6 +14119,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/240019",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12671,6 +14163,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44229",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12703,6 +14199,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62872",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12732,6 +14232,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1681",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12769,6 +14273,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45506",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12806,6 +14314,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2152",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12841,6 +14353,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45574",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12873,6 +14389,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42600",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12910,6 +14430,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/38302",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12940,6 +14464,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42592",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -12970,6 +14498,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/16814",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13008,6 +14540,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42771",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13037,6 +14573,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1767",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13070,6 +14610,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45558",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13109,6 +14653,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/285",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13146,6 +14694,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7283",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13176,6 +14728,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45908",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13206,6 +14762,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/9013",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13245,6 +14805,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654251",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13274,6 +14838,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1649",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13304,6 +14872,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62809",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13341,6 +14913,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/39080",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13373,6 +14949,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62802",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13413,6 +14993,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654227",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13445,6 +15029,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45606",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13486,6 +15074,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1911",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13522,6 +15114,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45513",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13563,6 +15159,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8650678",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13603,6 +15203,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2018",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13632,6 +15236,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1657",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13670,6 +15278,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8863",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13699,6 +15311,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1673",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13737,6 +15353,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45611",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13777,6 +15397,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/194",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13807,6 +15431,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/67343",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13849,6 +15477,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/220",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13880,6 +15512,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/7059",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13909,6 +15545,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42582",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13947,6 +15587,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/156",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -13985,6 +15629,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/190",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14014,6 +15662,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1693",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14043,6 +15695,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/240018",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14087,6 +15743,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42337",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14123,6 +15783,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/38560",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14158,6 +15822,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44285",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14188,6 +15856,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/286",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14219,6 +15891,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/57939",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14259,6 +15935,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/269",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14289,6 +15969,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42598",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14318,6 +16002,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1655",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14348,6 +16036,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42541",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14384,6 +16076,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/37978",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14413,6 +16109,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7706",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14451,6 +16151,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/41286",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14480,6 +16184,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45502",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14520,6 +16228,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/38207",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14549,6 +16261,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/16817",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14578,6 +16294,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2363",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14615,6 +16335,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2182",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14651,6 +16375,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44640",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14681,6 +16409,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/61998",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14710,6 +16442,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45505",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14751,6 +16487,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2224",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14781,6 +16521,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42580",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14820,6 +16564,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45660",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14862,6 +16610,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1820",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14892,6 +16644,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1685",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14929,6 +16685,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7677",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14958,6 +16718,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42584",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -14998,6 +16762,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2221",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15035,6 +16803,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7242",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15067,6 +16839,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42596",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15097,6 +16873,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:seer.pgsscogna.com.br:article/6258",
     "source": "https://jieem.pgsscogna.com.br/jieem/oai",
+    "provenance": [
+      "https://jieem.pgsscogna.com.br/jieem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15139,6 +16919,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/270",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15168,6 +16952,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1660",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15198,6 +16986,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62797",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15227,6 +17019,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7701",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15264,6 +17060,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8284",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15302,6 +17102,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/39841",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15339,6 +17143,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/154",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15370,6 +17178,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1250",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15404,6 +17216,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/225",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15435,6 +17251,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62827",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15470,6 +17290,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/9459",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15499,6 +17323,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7705",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15529,6 +17357,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/183",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15558,6 +17390,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1721",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15592,6 +17428,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/36408",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15621,6 +17461,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/42272",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15662,6 +17506,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44293",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15691,6 +17539,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1687",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15729,6 +17581,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/219",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15763,6 +17619,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45510",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15801,6 +17661,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2222",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/ripem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15839,6 +17703,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs2.www.revistasbemsp.com.br:article/212",
     "source": "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai",
+    "provenance": [
+      "https://www.revistasbemsp.com.br/index.php/REMat-SP/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15875,6 +17743,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1043",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15907,6 +17779,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/58860",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15936,6 +17812,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1703",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15967,6 +17847,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/44311",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -15997,6 +17881,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/62434",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16026,6 +17914,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8899",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16062,6 +17954,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/288",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16101,6 +17997,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45524",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16131,6 +18031,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1701",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16176,6 +18080,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/239544",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16214,6 +18122,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/109922",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16251,6 +18163,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1632",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16289,6 +18205,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45555",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16327,6 +18247,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.histemat.com.br:article/271",
     "source": "https://histemat.com.br/index.php/HISTEMAT/oai",
+    "provenance": [
+      "https://histemat.com.br/index.php/HISTEMAT/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16363,6 +18287,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1623",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16392,6 +18320,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1708",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16421,6 +18353,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/2161",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16459,6 +18395,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45581",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16494,6 +18434,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/6627",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16526,6 +18470,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/31948",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16565,6 +18513,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7255",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16595,6 +18547,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufsc.br:article/58229",
     "source": "https://periodicos.ufsc.br/index.php/revemat/oai",
+    "provenance": [
+      "https://periodicos.ufsc.br/index.php/revemat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16626,6 +18582,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/16818",
     "source": "https://www.revistas.udesc.br/index.php/boem/oai",
+    "provenance": [
+      "https://www.revistas.udesc.br/index.php/boem/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16667,6 +18627,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7238",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16706,6 +18670,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.pkp.sfu.ca:article/8843",
     "source": "https://ojs.ufgd.edu.br/tangram/oai",
+    "provenance": [
+      "https://ojs.ufgd.edu.br/tangram/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16743,6 +18711,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/6614",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16781,6 +18753,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:ojs.periodicos.sbu.unicamp.br:article/8654047",
     "source": "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai",
+    "provenance": [
+      "https://periodicos.sbu.unicamp.br/ojs/index.php/zetetike/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16811,6 +18787,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/45650",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16849,6 +18829,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:emr.www.sbembrasil.org.br:article/1946",
     "source": "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai",
+    "provenance": [
+      "https://www.sbembrasil.org.br/periodicos/index.php/emr/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16880,6 +18864,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs.revistas.pucsp.br:article/40112",
     "source": "https://revistas.pucsp.br/index.php/emp/oai",
+    "provenance": [
+      "https://revistas.pucsp.br/index.php/emp/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16920,6 +18908,10 @@
     "openAccess": true,
     "oaiIdentifier": "oai:oai.periodicos.ufpe.br:article/241150",
     "source": "https://periodicos.ufpe.br/revistas/index.php/emteia/oai",
+    "provenance": [
+      "https://periodicos.ufpe.br/revistas/index.php/emteia/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16949,6 +18941,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:periodicos.ufms.br:article/7700",
     "source": "https://periodicos.ufms.br/index.php/pedmat/oai",
+    "provenance": [
+      "https://periodicos.ufms.br/index.php/pedmat/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   },
   {
@@ -16984,6 +18980,10 @@
     "openAccess": null,
     "oaiIdentifier": "oai:ojs2.www.rematec.net.br:article/179",
     "source": "https://www.rematec.net.br/index.php/rematec/oai",
+    "provenance": [
+      "https://www.rematec.net.br/index.php/rematec/oai"
+    ],
+    "scieloUrl": null,
     "harvestedAt": "2026-09-21T23:21:27.936289+00:00"
   }
 ]

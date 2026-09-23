@@ -1,6 +1,6 @@
-# BuscaEM · versão 3 — interface em cards
+# BuscaEM · versão 4.1 — buscador internacional e coleta SciELO
 
-Busca integrada em periódicos brasileiros de Educação Matemática. Site estático para GitHub + Cloudflare Pages, sem contas ou recursos de rede social.
+Busca integrada em periódicos nacionais e internacionais especializados em Educação Matemática. A interface e o modelo público de metadados são multilíngues, com camada normalizada em inglês quando a própria fonte fornece essa variante. Site estático para GitHub + Cloudflare Pages, sem contas ou recursos de rede social.
 
 ## Correção da distribuição das colunas
 
@@ -21,7 +21,7 @@ Configuração do Pages: framework **None**, comando de build **vazio**, saída 
 
 ## Dados desta entrega
 
-**10.367 registros reais de 15 revistas**, em lugar dos 300 registros iniciais. A paginação dos 15 endpoints foi percorrida até o fim. Bolema tem cobertura histórica até 2016; os registros posteriores da SciELO ainda não estão incluídos. Consulte `COBERTURA.md`.
+**10.367 registros reais de 15 revistas** permanecem como catálogo-base desta entrega. O código agora inclui coleta complementar da **Bolema via SciELO (2012+)**, além do OAI histórico da UNESP. A primeira execução conectada do coletor incorpora os registros SciELO e deduplica automaticamente por DOI e, quando necessário, por revista + ano + título normalizado. Consulte `COBERTURA.md`.
 
 ## Redesign desta versão
 
@@ -38,18 +38,46 @@ O acervo e o coletor desta entrega são os mesmos da versão 2. Os testes DOM in
 ## Interface
 
 - Marca tipográfica BuscaEM, fundo branco, Open Sans, títulos e resumos justificados.
-- Busca por título, autor, resumo em português, assunto, DOI e nome da revista. Ignora acentos e exige todos os termos digitados.
-- Apenas filtros **Revista** e **Ano**. Os valores da mesma categoria são alternativos; categorias diferentes se combinam.
+- Busca em título, título original/inglês, autor, resumo original/inglês, palavras-chave original/inglês, DOI e periódico. Suporta `AND`, `OR`, `NOT`, frases entre aspas e parênteses.
+- Filtros por **Journal, Year, Country, Region, Language, Document type e Open Access**.
 - Ordenação por ano ou título, paginação e resumos expansíveis.
 - Registro com endereço compartilhável, referência e exportação RIS, BibTeX e CSV.
 - Links para leitura na revista e PDF quando fornecido pela fonte.
 - Páginas Revistas, Acervo e Sobre; nenhum filtro de idioma ou palavras-chave.
 
-## Resumos e palavras-chave em português
 
-O coletor seleciona campos identificados por `xml:lang` como português. Campos marcados em inglês, espanhol ou outros idiomas não são usados como alternativa. Campos sem idioma só entram quando o detector local Lingua identifica português. A mesma identificação linguística rejeita casos de textos estrangeiros marcados incorretamente pela fonte e separa traduções concatenadas com marcadores como `Abstract:`.
+## Bolema + SciELO (v4.1)
 
-A identificação compara português, inglês, espanhol e francês; siglas e nomes de ferramentas conhecidos são preservados em campos portugueses. Essa verificação é conservadora, não uma tradução nem uma garantia linguística absoluta para metadados incorretos. Termos curtos sem identificação podem ser omitidos. Quando não há resumo em português identificado, o site informa a ausência. As variantes originais permanecem no catálogo de coleta e nos XMLs, fora dos lotes públicos usados pela interface. Títulos originais em outros idiomas são preservados quando não há título em português.
+A Bolema possui duas fontes complementares configuradas em `dist/data/journals.json`:
+
+- OAI-PMH histórico da UNESP, preservado para a cobertura anterior;
+- `https://www.scielo.br/j/bolema/grid`, usado pelo novo adaptador `scripts/scielo.py` para a coleção SciELO (2012+).
+
+O coletor percorre a grade de fascículos, abre cada fascículo, identifica as páginas de artigos e captura metatags bibliográficas/DC. As páginas brutas são preservadas em `harvest/raw/bolema/scielo/` (`grid/`, `issues/` e `articles/`). Para cada artigo, são consultadas também as interfaces `lang=en`, `lang=pt` e `lang=es` para recuperar variantes fornecidas pela própria SciELO. O código não inventa traduções: uma variante inglesa só é armazenada quando a página correspondente fornece conteúdo diferente ou quando o artigo é originalmente em inglês.
+
+Na integração, DOI é a chave prioritária. Um artigo SciELO já existente no OAI é **mesclado no mesmo registro**, preservando o ID antigo e acrescentando proveniência, URL/PDF e metadados multilíngues. Sem DOI, usa-se revista + ano + título normalizado como chave secundária. Front matter conhecido (`Editorial`, `Nominata`, `Errata`, retratação) é excluído pelo adaptador SciELO.
+
+Execução completa da Bolema:
+
+```sh
+python3 scripts/harvest.py --journal bolema --full
+```
+
+Somente para testar rapidamente o adaptador SciELO:
+
+```sh
+python3 scripts/harvest.py --journal bolema --full --scielo-max-issues 1 --scielo-max-articles 5
+```
+
+Para executar apenas o OAI, sem SciELO:
+
+```sh
+python3 scripts/harvest.py --journal bolema --skip-scielo
+```
+
+## Metadados multilíngues
+
+O catálogo mantém os metadados no idioma original e campos específicos em inglês (`titleEn`, `abstractEn`, `keywordsEn`) quando a fonte os fornece. A ausência de tradução fica marcada como `pending_translation`; o pipeline não produz traduções automáticas silenciosas. Isso permite pesquisar simultaneamente a camada original e a camada inglesa sem perder a forma publicada.
 
 ## Coleta integral e atualização
 
@@ -121,3 +149,31 @@ Esta entrega contém código e dados: não altera automaticamente seu repositór
 ## International metadata model (v4)
 
 BuscaEM now keeps original-language metadata and dedicated English fields (`titleEn`, `abstractEn`, `keywordsEn`). The public search indexes both layers and supports `AND`, `OR`, `NOT`, quoted phrases and parentheses. The journal registry includes integrated and catalogued sources; catalogued sources are never counted as indexed until an ingestion adapter succeeds.
+
+## Coleta internacional (OpenAlex)
+
+A partir da v4.2, os periódicos sem OAI-PMH/SciELO próprio configurado são coletados pelo OpenAlex. O adaptador resolve o periódico na entidade `source` e pagina os trabalhos usando `primary_location.source.id`. As respostas JSON originais são preservadas em `harvest/raw/<journal>/openalex/`.
+
+- Primeira carga completa de uma revista: `python scripts/harvest.py --journal zdm --full`
+- Diagnóstico de duas páginas: `python scripts/harvest.py --journal zdm --full --openalex-max-pages 2`
+- Todas as fontes configuradas: `python scripts/harvest.py --workers 3 --openalex-max-pages 20`
+- `OPENALEX_API_KEY` é opcional no código. Para coleta em escala no GitHub Actions, cadastre a chave gratuita como secret com esse nome; sem a chave, o adaptador continua tentando a cota pública.
+
+O cadastro em `dist/data/journals.json` distingue `configured` de `integrated`: um periódico só deve ser considerado integrado depois que uma execução real produzir registros. Não crie pastas `raw` artificiais; elas surgem quando a fonte responde.
+
+## Política de autoridade dos metadados (v4.3)
+
+O BuscaEM **não usa OpenAlex como fonte canônica de metadados bibliográficos**. Para periódicos internacionais, o OpenAlex é utilizado somente para descoberta de DOI, identificação do periódico e métricas de citação. Antes de um registro entrar no catálogo público, o DOI é resolvido e os metadados são obtidos nesta ordem:
+
+1. **Página oficial do artigo no periódico/editora** (metatags Highwire/Dublin Core/PRISM ou JSON-LD);
+2. **Crossref**, como depósito estruturado do publisher;
+3. **OpenAlex**, apenas como camada suplementar de descoberta e `citedByCount`.
+
+Se um item descoberto no OpenAlex não tiver DOI ou não puder ser confirmado em uma fonte canônica, ele é salvo em `harvest/discovery/<journal>.json` e **não entra nos resultados públicos**.
+
+Os arquivos auditáveis ficam separados por origem:
+
+- `harvest/raw/<journal>/official/` — HTML da página oficial;
+- `harvest/raw/<journal>/crossref/` — JSON depositado no Crossref;
+- `harvest/raw/<journal>/openalex-discovery/` — respostas usadas apenas para descoberta;
+- `harvest/discovery/` — fila dos itens ainda não canonizados.

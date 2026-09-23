@@ -16,6 +16,9 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
+from scielo import harvest_journal as harvest_scielo
+from openalex import harvest_journal as harvest_openalex
+from catalog_merge import integrate_records
 
 ROOT = Path(__file__).resolve().parents[1]
 NS = {'o': 'http://www.openarchives.org/OAI/2.0/', 'dc': 'http://purl.org/dc/elements/1.1/'}
@@ -196,6 +199,11 @@ def main():
     parser.add_argument('--max-pages', type=int, default=0, help='0: até o último lote; valores positivos limitam a execução com retomada')
     parser.add_argument('--workers', type=int, default=3, help='Fontes consultadas em paralelo (1 a 4)')
     parser.add_argument('--full', action='store_true', help='Ignorar cursor anterior e recomeçar a coleta')
+    parser.add_argument('--skip-scielo', action='store_true', help='Não executar os adaptadores SciELO configurados')
+    parser.add_argument('--scielo-max-issues', type=int, default=0, help='Diagnóstico: limita fascículos SciELO; 0 coleta todos')
+    parser.add_argument('--scielo-max-articles', type=int, default=0, help='Diagnóstico: limita artigos SciELO; 0 coleta todos')
+    parser.add_argument('--skip-openalex', action='store_true', help='Não executar adaptadores OpenAlex configurados')
+    parser.add_argument('--openalex-max-pages', type=int, default=0, help='Limita páginas OpenAlex por revista; 0 coleta todas')
     args = parser.parse_args()
     if args.max_pages < 0:
         parser.error('--max-pages deve ser zero ou positivo')
@@ -293,8 +301,82 @@ def main():
             print(f'{jid}: {exc}')
         with lock:
             statuses[jid] = report
+    oai_selected=[j for j in selected if j.get('oai')]
     with ThreadPoolExecutor(max_workers=max(1,min(4,args.workers))) as pool:
-        list(pool.map(collect, selected))
+        list(pool.map(collect, oai_selected))
+    if not args.skip_openalex:
+        for journal in selected:
+            if not any(s.get('type')=='openalex' for s in journal.get('sources', [])):
+                continue
+            try:
+                current_state=state.get(journal['id'], {}) or {}
+                oa_state=current_state.get('openalex', {}) or {}
+                incoming, oa_report = harvest_openalex(
+                    journal, ROOT,
+                    max_pages=args.openalex_max_pages,
+                    full=args.full,
+                    cursor=oa_state.get('cursor') if not args.full else None,
+                )
+                with lock:
+                    added, merged_count = integrate_records(records, incoming)
+                    oa_report['added']=added
+                    oa_report['merged']=merged_count
+                    oa_report['recordsAvailable']=sum(a.get('journal')==journal['id'] for a in records.values())
+                    current_state['openalex']={'cursor':oa_report.get('cursor','')} if oa_report.get('cursor') else {'completedAt':oa_report.get('attemptedAt')}
+                    state[journal['id']]=current_state
+                    save_json(state_file,state)
+                    base=statuses.get(journal['id'], {'id':journal['id']})
+                    base['openalex']=oa_report
+                    if oa_report['status'] in {'ok','partial'}:
+                        base['status']=oa_report['status']; any_success=True
+                    statuses[journal['id']]=base
+                    save_json(catalog_file, {'demo':False,'partial':any(statuses.get(j['id'],{}).get('status') not in {'ok','partial'} for j in journals if j.get('enabled')),'updated':now,'articles':sorted(records.values(), key=lambda a:(a.get('year',0),a['id']), reverse=True)})
+                    save_json(directory/'status.json', {'updated':now,'journals':list(statuses.values())})
+                print(f"{journal['id']}/OpenAlex: {added} novos, {merged_count} mesclados", flush=True)
+            except Exception as exc:
+                report=statuses.get(journal['id'], {'id':journal['id']})
+                report['openalex']={'adapter':'openalex','status':'error','error':str(exc),'attemptedAt':now}
+                if not journal.get('oai') and not journal.get('scieloCode'): report['status']='error'
+                statuses[journal['id']]=report
+                print(f"{journal['id']}/OpenAlex: {exc}", flush=True)
+    if not args.skip_scielo:
+        for journal in selected:
+            if not journal.get('scieloCode'):
+                continue
+            try:
+                known_scielo=set((state.get(journal['id'], {}) or {}).get('scieloKnownArticles', []))
+                incoming, scielo_report = harvest_scielo(
+                    journal, ROOT,
+                    max_issues=args.scielo_max_issues,
+                    max_articles=args.scielo_max_articles,
+                    known_articles=known_scielo,
+                    full=args.full,
+                )
+                with lock:
+                    added, merged_count = integrate_records(records, incoming)
+                    scielo_report['added'] = added
+                    scielo_report['merged'] = merged_count
+                    scielo_report['recordsAvailable'] = sum(a.get('journal') == journal['id'] for a in records.values())
+                    discovered=scielo_report.pop('discoveredArticles', [])
+                    current_state=state.get(journal['id'], {}) or {}
+                    current_state['scieloKnownArticles']=sorted(set(current_state.get('scieloKnownArticles', [])) | set(discovered))
+                    state[journal['id']]=current_state
+                    save_json(state_file, state)
+                    base_report=statuses.get(journal['id'], {'id':journal['id']})
+                    base_report['scielo']=scielo_report
+                    # Overall journal status is successful if either source completed; retain OAI errors for diagnosis.
+                    if scielo_report['status'] in {'ok','partial'}:
+                        base_report['status']='ok' if scielo_report['status']=='ok' else 'partial'
+                        any_success=True
+                    statuses[journal['id']]=base_report
+                    save_json(catalog_file, {'demo':False,'partial':any(statuses.get(j['id'],{}).get('status') not in {'ok','partial'} for j in journals if j.get('enabled')),'updated':now,'articles':sorted(records.values(), key=lambda a:(a.get('year',0),a['id']), reverse=True)})
+                    save_json(directory/'status.json', {'updated':now,'journals':list(statuses.values())})
+                print(f"{journal['id']}/SciELO: {added} novos, {merged_count} mesclados", flush=True)
+            except Exception as exc:
+                report=statuses.get(journal['id'], {'id':journal['id']})
+                report['scielo']={'adapter':'scielo','status':'error','error':str(exc),'attemptedAt':now}
+                statuses[journal['id']]=report
+                print(f"{journal['id']}/SciELO: {exc}", flush=True)
     if any_success:
         save_json(catalog_file, {'demo': False, 'partial': any(statuses.get(j['id'], {}).get('status') != 'ok' for j in journals if j.get('enabled')), 'updated': now, 'articles': sorted(records.values(), key=lambda a: (a['year'], a['id']), reverse=True)})
     save_json(directory / 'status.json', {'updated': now, 'journals': list(statuses.values())})

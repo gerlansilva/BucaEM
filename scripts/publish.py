@@ -2,7 +2,7 @@
 import json,gzip
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
-FIELDS='id journal title titleOriginal titleEn authors institutions abstract abstractOriginal abstractEn keywords keywordsOriginal keywordsEn metadataEnglishStatus year language languageCode type doi url pdf openAccess oaiIdentifier source harvestedAt'.split()
+FIELDS='id journal title titleOriginal titleEn authors institutions abstract abstractOriginal abstractEn keywords keywordsOriginal keywordsEn metadataEnglishStatus year language languageCode type doi url pdf openAccess oaiIdentifier source provenance scieloUrl harvestedAt'.split()
 def load_json(path):
     if path.suffix=='.gz':
         with gzip.open(path,'rt',encoding='utf-8') as f:return json.load(f)
@@ -27,6 +27,7 @@ def migrate(a):
     a.setdefault('institutions',[])
     a.setdefault('languageCode','en' if is_en else ('pt' if 'portugu' in lang else ('es' if 'espan' in lang or 'span' in lang else '')))
     a.setdefault('metadataEnglishStatus','source' if is_en else 'pending_translation')
+    a.setdefault('provenance',[a.get('source')] if a.get('source') else [])
     return a
 def publish(root=ROOT):
     directory=root/'dist/data'; source=root/'harvest/catalog.json.gz'

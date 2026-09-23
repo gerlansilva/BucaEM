@@ -16,7 +16,21 @@
     "oai": "https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/oai",
     "enabled": true,
     "collectionStatus": "integrated",
-    "coverageNote": "Legacy UNESP OAI collection is integrated. SciELO enrichment for later years remains a separate ingestion task."
+    "coverageNote": "Historical UNESP OAI + SciELO complementary harvest. SciELO collection covers 2012 onward and is deduplicated against OAI records by DOI/title-year.",
+    "scieloCode": "bolema",
+    "scieloUrl": "https://www.scielo.br/j/bolema/",
+    "sources": [
+      {
+        "type": "oai",
+        "url": "https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/oai",
+        "role": "historical"
+      },
+      {
+        "type": "scielo",
+        "url": "https://www.scielo.br/j/bolema/grid",
+        "role": "primary-2012+"
+      }
+    ]
   },
   {
     "id": "zetetike",
@@ -282,8 +296,16 @@
       "Spanish"
     ],
     "url": "https://www.periodicos.unimontes.br/index.php/emd",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Educação Matemática Debate",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "emfoco",
@@ -297,8 +319,16 @@
       "Portuguese"
     ],
     "url": "https://revista.uepb.edu.br/REM",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Educação Matemática em Foco",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "capp",
@@ -312,8 +342,16 @@
       "Portuguese"
     ],
     "url": "http://revista.geem.mat.br/index.php/CPP",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Com a Palavra, o Professor",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "reviem",
@@ -327,8 +365,16 @@
       "Portuguese"
     ],
     "url": "https://periodicos.ufjf.br/index.php/ridema",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Revista de Investigação e Divulgação em Educação Matemática",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "revemop",
@@ -344,8 +390,16 @@
       "Spanish"
     ],
     "url": "https://periodicos.ufop.br/revemop",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Revemop",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "rsermat",
@@ -359,8 +413,16 @@
       "Portuguese"
     ],
     "url": "https://periodicos.ufs.br/ReviSe",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Revista Sergipana de Matemática e Educação Matemática",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "baianaem",
@@ -374,8 +436,16 @@
       "Portuguese"
     ],
     "url": "https://www.revistas.uneb.br/index.php/baeducmatematica",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Revista Baiana de Educação Matemática",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "emr-rs",
@@ -389,8 +459,16 @@
       "Portuguese"
     ],
     "url": "https://www.sbemrs.org/revista/index.php/2011_1",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Educação Matemática em Revista",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "relime",
@@ -406,8 +484,16 @@
       "English"
     ],
     "url": "https://relime.org/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "RELIME",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "educacion-matematica",
@@ -423,8 +509,16 @@
       "Portuguese"
     ],
     "url": "https://www.revista-educacion-matematica.org.mx/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Educación Matemática",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "redimat",
@@ -440,8 +534,16 @@
       "Portuguese"
     ],
     "url": "https://hipatiapress.com/hpjournals/index.php/redimat",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "REDIMAT",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "pna",
@@ -456,8 +558,16 @@
       "English"
     ],
     "url": "https://revistaseug.ugr.es/index.php/pna",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "PNA",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "aiem",
@@ -473,8 +583,16 @@
       "Portuguese"
     ],
     "url": "https://aiem.es/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "AIEM",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "union",
@@ -489,8 +607,16 @@
       "Portuguese"
     ],
     "url": "https://union.fespm.es/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "UNIÓN",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "numeros",
@@ -504,8 +630,16 @@
       "Spanish"
     ],
     "url": "https://www.sinewton.org/numeros/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Números",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "epsilon",
@@ -519,8 +653,16 @@
       "Spanish"
     ],
     "url": "https://thales.cica.es/epsilon/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Épsilon",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "quadrante",
@@ -536,8 +678,16 @@
       "Spanish"
     ],
     "url": "https://quadrante.apm.pt/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Quadrante",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "zdm",
@@ -551,8 +701,16 @@
       "English"
     ],
     "url": "https://link.springer.com/journal/11858",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "ZDM",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "esm",
@@ -566,8 +724,16 @@
       "English"
     ],
     "url": "https://link.springer.com/journal/10649",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Educational Studies in Mathematics",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "jrme",
@@ -581,8 +747,16 @@
       "English"
     ],
     "url": "https://pubs.nctm.org/view/journals/jrme/jrme-overview.xml",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Journal for Research in Mathematics Education",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "jmte",
@@ -596,8 +770,16 @@
       "English"
     ],
     "url": "https://link.springer.com/journal/10857",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Journal of Mathematics Teacher Education",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "merj",
@@ -611,8 +793,16 @@
       "English"
     ],
     "url": "https://link.springer.com/journal/13394",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Mathematics Education Research Journal",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "mtl",
@@ -626,8 +816,16 @@
       "English"
     ],
     "url": "https://www.tandfonline.com/journals/hmtl20",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Mathematical Thinking and Learning",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "jmb",
@@ -641,8 +839,16 @@
       "English"
     ],
     "url": "https://www.sciencedirect.com/journal/the-journal-of-mathematical-behavior",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "The Journal of Mathematical Behavior",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "rme",
@@ -656,8 +862,16 @@
       "English"
     ],
     "url": "https://www.tandfonline.com/journals/rrme20",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Research in Mathematics Education",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "flm",
@@ -671,8 +885,16 @@
       "English"
     ],
     "url": "https://flm-journal.org/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "For the Learning of Mathematics",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "ijmest",
@@ -686,8 +908,16 @@
       "English"
     ],
     "url": "https://www.tandfonline.com/journals/tmes20",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "International Journal of Mathematical Education in Science and Technology",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "iejme",
@@ -701,8 +931,16 @@
       "English"
     ],
     "url": "https://www.iejme.com/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "International Electronic Journal of Mathematics Education",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "tmma",
@@ -716,8 +954,16 @@
       "English"
     ],
     "url": "https://academic.oup.com/teamat",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Teaching Mathematics and its Applications: An International Journal of the IMA",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "mted",
@@ -731,8 +977,16 @@
       "English"
     ],
     "url": "https://mted.merga.net.au/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Mathematics Teacher Education and Development",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "jume",
@@ -746,8 +1000,16 @@
       "English"
     ],
     "url": "https://journals.librarypublishing.arizona.edu/jume/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Journal of Urban Mathematics Education",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "alm",
@@ -761,8 +1023,16 @@
       "English"
     ],
     "url": "https://alm-online.net/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Adults Learning Mathematics: An International Journal",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "serj",
@@ -776,8 +1046,16 @@
       "English"
     ],
     "url": "https://iase-web.org/ojs/SERJ/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Statistics Education Research Journal",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "jmd",
@@ -792,8 +1070,16 @@
       "English"
     ],
     "url": "https://link.springer.com/journal/13138",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Journal für Mathematik-Didaktik",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "gepem",
@@ -809,8 +1095,16 @@
       "Spanish"
     ],
     "url": "https://periodicos.ufrrj.br/index.php/gepem",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Boletim GEPEM",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "caminhos-em",
@@ -824,8 +1118,16 @@
       "Portuguese"
     ],
     "url": "https://periodicos.ifs.edu.br/periodicos/caminhos_da_educacao_matematica/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Caminhos da Educação Matemática em Revista",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "emsf",
@@ -841,8 +1143,16 @@
       "English"
     ],
     "url": "",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Educação Matemática Sem Fronteiras",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "modelagem-em",
@@ -856,8 +1166,16 @@
       "Portuguese"
     ],
     "url": "https://ojsrevista.furb.br/ojs/index.php/modelagem",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Modelagem na Educação Matemática",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "geogebra-sp",
@@ -873,8 +1191,16 @@
       "Spanish"
     ],
     "url": "https://revistas.pucsp.br/index.php/IGISP",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Revista do Instituto GeoGebra Internacional de São Paulo",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "coinspiracao",
@@ -888,8 +1214,16 @@
       "Portuguese"
     ],
     "url": "https://sbemmatogrosso.com.br/publicacoes/index.php/coinspiracao",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "CoInspiração",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "ijtme",
@@ -903,8 +1237,16 @@
       "English"
     ],
     "url": "https://www.researchinformation.co.uk/journals/ijtme/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "International Journal for Technology in Mathematics Education",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "dem",
@@ -918,8 +1260,16 @@
       "English"
     ],
     "url": "https://link.springer.com/journal/40751",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Digital Experiences in Mathematics Education",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "iml",
@@ -933,8 +1283,16 @@
       "English"
     ],
     "url": "https://www.tandfonline.com/journals/uiml20",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Investigations in Mathematics Learning",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "tme",
@@ -948,8 +1306,16 @@
       "English"
     ],
     "url": "https://openjournals.libs.uga.edu/tme/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "The Mathematics Educator",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "mathematica-didactica",
@@ -964,8 +1330,16 @@
       "English"
     ],
     "url": "https://journals.ub.uni-koeln.de/index.php/mathematica_didactica/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "mathematica didactica",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "zmfp",
@@ -980,8 +1354,16 @@
       "English"
     ],
     "url": "https://zmfp.de/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Zeitschrift für Mathematikdidaktik in Forschung und Praxis",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "educacao-matematica-pt",
@@ -995,8 +1377,16 @@
       "Portuguese"
     ],
     "url": "https://em.apm.pt/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "Educação e Matemática",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   },
   {
     "id": "suma",
@@ -1010,7 +1400,15 @@
       "Spanish"
     ],
     "url": "https://revistasuma.fespm.es/",
-    "enabled": false,
-    "collectionStatus": "catalogued"
+    "enabled": true,
+    "collectionStatus": "configured",
+    "openalexQuery": "SUMA",
+    "sources": [
+      {
+        "type": "openalex",
+        "role": "discovery-metrics-only"
+      }
+    ],
+    "metadataPolicy": "official-first"
   }
 ]
