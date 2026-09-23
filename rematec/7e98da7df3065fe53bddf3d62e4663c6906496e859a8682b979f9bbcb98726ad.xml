@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.rematec.net.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:24:42Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">https://www.rematec.net.br/index.php/rematec/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/860</identifier>
+				<datestamp>2026-06-05T17:14:32Z</datestamp>
+				<setSpec>rematec:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Construindo o acervo pessoal da professora Léa Fagundes, uma pesquisadora da aprendizagem e da cognição</dc:title>
+	<dc:creator> Fischer, Maria Cecilia Bueno</dc:creator>
+	<dc:creator>Búrigo, Elisabete Zardo</dc:creator>
+	<dc:creator>Silva, Andressa Rodrigues da</dc:creator>
+	<dc:subject xml:lang="pt-BR">Léa Fagundes</dc:subject>
+	<dc:subject xml:lang="pt-BR">LEC/UFRGS</dc:subject>
+	<dc:subject xml:lang="pt-BR">Acervo Pessoal</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Informática na Educação</dc:subject>
+	<dc:description xml:lang="pt-BR">O artigo apresenta investigação com base em materiais guardados pela professora Léa Fagundes, consigo e no Laboratório de Estudos Cognitivos da Universidade Federal do Rio Grande do Sul (LEC/UFRGS), coordenado por ela de 1973 a 2019. A seção inicial apresenta breve biografia de Léa, destacando o início de sua atuação como estudante e professora de Didática da Matemática. Documentos desse período encontram-se na coleção digital Práticas e saberes matemáticos nas escolas normais do Rio Grande do Sul, já digitalizada, diferentemente dos acervos do LEC e da professora. A biografia inclui relatos de memória do convívio com Léa no Colégio de Aplicação, nos anos 1970, e no início do LEC, nos anos 1980. A segunda seção aborda o tratamento em curso dos documentos do LEC e da residência da professora, visando à constituição do Acervo Pessoal Léa Fagundes, que reunirá documentação de pesquisas sobre processos cognitivos na aprendizagem mediada pelo computador.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-05-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/860</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n57.e2026005.id860</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 57 (2026): Histórias situadas da Matemática e de seu ensino; e2026005</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/860/702</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/861</identifier>
+				<datestamp>2026-06-05T17:14:31Z</datestamp>
+				<setSpec>rematec:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Former avec ou sans histoire ? Enjeux épistémologiques et institutionnels pour l’enseignement des mathématiques en France (1989 2025)</dc:title>
+	<dc:creator>Moyon, Marc</dc:creator>
+	<dc:subject xml:lang="pt-BR">História da matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Formação inicial de professores</dc:subject>
+	<dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Epistemologia</dc:subject>
+	<dc:subject xml:lang="pt-BR">Práticas de ensino</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo analisa a evolução do lugar atribuído à história da matemática no ensino secundário francês e na formação inicial de professores de matemática entre 1989 e 2025. A partir de um estudo diacrônico dos programas escolares e dos dispositivos de formação, evidencia‑se uma presença institucional descontínua, porém persistente, da história, oscilando entre finalidades culturais, epistemológicas e didáticas. O inquérito realizado em 2023–2024 com 504 futuros professores revela um desejo real de introduzir uma perspectiva histórica na sala de aula, mas também um desfasamento entre prescrições, práticas e a formação recebida. Os resultados sublinham a necessidade de uma formação coerente que articule conhecimentos históricos, referências epistemológicas e práticas pedagógicas, de modo a favorecer uma integração efetiva e sustentável da história da matemática nas práticas profissionais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-05-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/861</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n57.e2026006.id861</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 57 (2026): Histórias situadas da Matemática e de seu ensino; e2026006</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/861/703</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/862</identifier>
+				<datestamp>2026-06-05T17:14:29Z</datestamp>
+				<setSpec>rematec:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Les méthodes quantitatives dans les écrits de Guy Brousseau</dc:title>
+	<dc:creator>Vittori, Thomas De</dc:creator>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Estatística</dc:subject>
+	<dc:subject xml:lang="pt-BR">França</dc:subject>
+	<dc:description xml:lang="pt-BR">Embora seja amplamente conhecido que Guy Brousseau estabeleceu, já nas décadas de 1970 e 1980, as bases teóricas do que deveria ser a didática da matemática, raramente se lembra que essas primeiras reflexões fundamentais também o levaram a se interessar por uma multiplicidade de métodos, entre eles as chamadas abordagens quantitativas. Foi sobretudo ao longo da década de 1990 que Guy Brousseau passou a se dedicar de maneira mais sistemática aos métodos estatísticos aplicados às análises didáticas. Em particular, no contexto da formação de professores e de futuros pesquisadores em didática naquela época, ele propôs cursos de estatística especificamente voltados para esse público. Neste artigo, são explorados alguns textos nos quais Guy Brousseau aborda o interesse do tratamento estatístico de dados para a análise didática.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-05-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/862</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n57.e2026007.id862</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 57 (2026): Histórias situadas da Matemática e de seu ensino; e2026007</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/862/705</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/863</identifier>
+				<datestamp>2026-06-05T17:14:28Z</datestamp>
+				<setSpec>rematec:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ensino de Ciências e Matemática no Brasil: um estudo sobre os saberes iniciais e sua constituição a partir do Arquivo Pessoal Ubiratan D’Ambrosio </dc:title>
+	<dc:creator>Oliveira, Adriana Nogueira de</dc:creator>
+	<dc:creator>Valente, Wagner Rodrigues</dc:creator>
+	<dc:creator>Pereira, Ana Carolina Costa</dc:creator>
+	<dc:subject xml:lang="pt-BR">Área de Ensino de Ciências e Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Saberes Iniciais</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ubiratan D’Ambrosio</dc:subject>
+	<dc:subject xml:lang="pt-BR">Arquivo Pessoal</dc:subject>
+	<dc:description xml:lang="pt-BR">Este texto aborda os resultados preliminares de uma pesquisa de Doutorado em Educação que se apoia nos documentos contidos no Arquivo Pessoal Ubiratan D’Ambrosio (APUA). Nessa perspectiva, o presente artigo tem como objetivo apresentar aspectos que referenciam a constituição da área de Ensino de Ciências e Matemática no Brasil por meio da documentação do APUA. Para isso, buscar-se-á responder à seguinte questão: Que processos estão envolvidos na institucionalização da área de Ensino de Ciências e Matemática no Brasil que contribuem para caracterizar os saberes que referenciam a nova área? Inserida nesse contexto, a pesquisa assume cunho qualitativo, bibliográfico e documental, utilizando ferramentas teórico-metodológicas vindas da Sociologia das Ciências e da História Cultural. Os resultados revelam que os saberes em circulação fazem parte das ideias trazidas por D’Ambrosio dos projetos que integrou no Estados Unidos na tentativa precursora de institucionalização de uma nova área de ensino no Brasil.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-05-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/863</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n57.e2026008.id863</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 57 (2026): Histórias situadas da Matemática e de seu ensino; e2026008</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/863/704</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/864</identifier>
+				<datestamp>2026-06-05T17:14:27Z</datestamp>
+				<setSpec>rematec:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Educação Matemática como campo científico no Brasil:  estudos a partir do APUA e do GEPEM</dc:title>
+	<dc:creator>Valente, Wagner Rodrigues</dc:creator>
+	<dc:subject xml:lang="pt-BR">Campo científico</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">História</dc:subject>
+	<dc:subject xml:lang="pt-BR">Ensino</dc:subject>
+	<dc:description xml:lang="pt-BR">O texto apresenta uma análise histórica da constituição da Educação Matemática como campo científico no Brasil, destacando as etapas de institucionalização e os principais atores envolvidos. Inicialmente, discute a criação do primeiro mestrado em ensino de ciências e matemática (PROMULMEC), seguido das tentativas de criação de um mestrado específico em Educação Matemática pelo GEEM e, finalmente, a consolidação do campo com o mestrado da UNESP de Rio Claro. Em seguida, o artigo aborda o surgimento do GEPEM e sua importância na organização de cursos de formação para professores, além da realização de eventos nacionais que ampliaram o debate e a articulação internacional. O estudo enfatiza o papel do curso lato sensu do GEPEM como marco na disciplinarização secundária da área, promovendo a teorização da prática pedagógica e a criação de uma comunidade acadêmica. Por fim, destaca os desafios e singularidades do processo de institucionalização da Educação Matemática, ressaltando a contribuição do GEPEM para o reconhecimento do ensino de matemática como objeto de pesquisa.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-05-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/864</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n57.e2026009.id864</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 57 (2026): Histórias situadas da Matemática e de seu ensino; e2026009</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/864/706</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/865</identifier>
+				<datestamp>2026-06-05T17:14:25Z</datestamp>
+				<setSpec>rematec:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Ubiratan D'Ambrosio e sua proposta historiográfica para uma ciência não Ocidental</dc:title>
+	<dc:creator>Mendes, Iran Abreu</dc:creator>
+	<dc:subject xml:lang="pt-BR">Ciência não Ocidental</dc:subject>
+	<dc:subject xml:lang="pt-BR">Historiografia não Ocidental</dc:subject>
+	<dc:subject xml:lang="pt-BR">Reformulação epistemológica</dc:subject>
+	<dc:subject xml:lang="pt-BR">Encontros socioculturais</dc:subject>
+	<dc:subject xml:lang="pt-BR">Matemáticas não hegemônicas</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta princípios epistemológicos defendidos por Ubiratan D'Ambrosio para uma abordagem historiográfica não Ocidental da Ciência (e da Matemática), que valoriza a diversidade do saber produzido por várias culturas em suas próprias práticas, lógicas e necessidades. Destacamos aspectos que caracterizam uma epistemologia histórica que aposta na produção de saber a partir de encontros e diálogos socioculturais que questionam o eurocentrismo da história da Ciência Ocidental e valorizam a presença de ideias matemáticas em todas as ações humanas. Para atingir esses objetivos, investigamos documentos relacionados à produção científica de D'Ambrosio em artigos, livros, conferências, entrevistas e outras manifestações de suas reflexões sobre encontros socioculturais e a produção de saber em todos os tempos e lugares. Os resultados apontaram para a constituição de uma epistemologia histórico-cultural que fundamenta a historiografia de culturas matemáticas não hegemônicas e destaca as contribuições dessas culturas para uma reformulação da epistemologia da Ciência (Matemática) na atualidade.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-05-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/865</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n57.e2026010.id865</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 57 (2026): Histórias situadas da Matemática e de seu ensino; e2026010</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/865/707</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/866</identifier>
+				<datestamp>2026-06-06T11:42:39Z</datestamp>
+				<setSpec>rematec:EDT</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Histórias situadas da Matemática e de seu ensino:  Arquivos, instituições, circulações e epistemologias</dc:title>
+	<dc:creator>Moyon, Marc</dc:creator>
+	<dc:creator>Valente, Wagner Rodrigues</dc:creator>
+	<dc:subject xml:lang="pt-BR">Arquivos</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">Circulações transnacionais</dc:subject>
+	<dc:subject xml:lang="pt-BR">Epistemologia</dc:subject>
+	<dc:subject xml:lang="pt-BR">Historiografia</dc:subject>
+	<dc:description xml:lang="pt-BR">Este número especial da revista REMATEC, coordenado por Marc Moyon e Wagner Rodrigues Valente, explora as mudanças historiográficas da história da matemática e de seu ensino. Tendo por base a cooperação científica franco-brasileira, o dossiê analisa a Matemática como prática situada, moldada por contextos institucionais, materiais e culturais específicos. Por meio de quatro eixos principais, as contribuições mobilizam arquivos variados (fundos pessoais ou coletivos, ferramentas digitais, certificados pedagógicos) para interrogar em nível local, as reformas curriculares, a formação de professores e as circulações transnacionais. O conjunto dos textos propõe uma visão conectada e pluralista da disciplina, integrando notadamente perspectivas etnomatemáticas e não ocidentais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-05-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/866</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n57.e2026000.id866</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 57 (2026): Histórias situadas da Matemática e de seu ensino; e2026000</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/866/696</dc:relation>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/866/697</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/880</identifier>
+				<datestamp>2026-07-07T20:30:20Z</datestamp>
+				<setSpec>rematec:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Com quem Dialoga o Produto Educacional? Uma discussão inicial sobre Público-Alvo e Mediador</dc:title>
+	<dc:creator>Mendonça, Andréa Pereira</dc:creator>
+	<dc:creator>Fraiha, France Sarmanho</dc:creator>
+	<dc:creator>Azevedo, Rosa Oliveira Marins</dc:creator>
+	<dc:subject xml:lang="pt-BR">Produto Educacional</dc:subject>
+	<dc:subject xml:lang="pt-BR">Área de Ensino</dc:subject>
+	<dc:subject xml:lang="pt-BR">Público-alvo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Mediador</dc:subject>
+	<dc:description xml:lang="pt-BR">Este artigo, de cunho teórico, apresenta uma discussão sobre a distinção entre público-alvo e mediador e suas implicações na concepção e no desenvolvimento de produtos educacionais no contexto de Programas de Pós-Graduação Profissionais da Área de Ensino. A distinção de ambos (público-alvo e mediador) não tem sido problematizada na área e ampliar esse debate contribui para melhor orientar os pós-graduandos desses programas, assim como projetar ações para construção de produtos educacionais mais adequados ao contexto ao qual se destinam, potencializando, consequentemente, sua inserção social. Metodologicamente, o artigo parte da conceituação de público-alvo e mediação, tomando como referência a literatura relacionada e como resultado apresenta um conjunto de reflexões sobre as implicações dessa distinção na concepção e no desenvolvimento das camadas conceitual, didático-pedagógica, comunicacional, estética e funcional de produtos educacionais, evidenciando sua complexidade e apontando aspectos para o seu aprimoramento.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/880</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n56.e2026004.id880</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 56 (2026): Fluxo Contínuo; e2026004</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/880/709</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:ojs2.www.rematec.net.br:article/888</identifier>
+				<datestamp>2026-09-11T22:47:24Z</datestamp>
+				<setSpec>rematec:ART</setSpec>
+				<setSpec>driver</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Do conhecimento profissional à aprendizagem do formador de professores de Matemática: um deslocamento teórico-analítico</dc:title>
+	<dc:creator>Tinti, Douglas da Silva</dc:creator>
+	<dc:creator>Wenceslau, Pablo Farias</dc:creator>
+	<dc:creator>Martins, Amanda Cristina</dc:creator>
+	<dc:subject xml:lang="pt-BR">formador de professores de Matemática</dc:subject>
+	<dc:subject xml:lang="pt-BR">conhecimento profissional</dc:subject>
+	<dc:subject xml:lang="pt-BR">aprendizagem profissional</dc:subject>
+	<dc:subject xml:lang="pt-BR">formação de professores</dc:subject>
+	<dc:subject xml:lang="pt-BR">Educação Matemática</dc:subject>
+	<dc:description xml:lang="pt-BR">Este estudo analisa modelos teóricos do conhecimento do formador de professores de Matemática à luz das concepções de conhecimento propostas por Cochran-Smith e Lytle. Foram analisados e discutidos três modelos amplamente utilizados na literatura internacional, buscando compreender quais concepções de conhecimento do professor emergem dessas proposições e discutir possibilidades de ampliação para a aprendizagem profissional do próprio formador. A análise evidenciou que os modelos permanecem organizados em torno da aprendizagem da docência dos professores em formação, definindo implicitamente os conhecimentos do formador em função dessa finalidade. Como principal contribuição, o estudo propõe um deslocamento do foco teórico-analítico, preservando os fundamentos epistemológicos das concepções de conhecimento-para-prática, conhecimento-na-prática e conhecimento-da-prática, mas direcionando-as para a investigação da aprendizagem profissional do formador. Argumenta-se que essa ampliação possibilita delinear uma agenda de pesquisa voltada aos processos pelos quais formadores constroem, desenvolvem e transformam seus conhecimentos profissionais.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Grupo de Pesquisa Práticas Socioculturais e Educação Matemática</dc:publisher>
+	<dc:date>2026-03-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.rematec.net.br/index.php/rematec/article/view/888</dc:identifier>
+	<dc:identifier>10.37084/REMATEC.1980-3141.2026.n56.e2026010.id888</dc:identifier>
+	<dc:source xml:lang="pt-BR">REMATEC; v. 21 n. 56 (2026): Fluxo Contínuo; e2026010</dc:source>
+	<dc:source>2675-1909</dc:source>
+	<dc:source>1980-3141</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.rematec.net.br/index.php/rematec/article/view/888/712</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 REMATEC</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="709" cursor="700" />
+	</ListRecords>
+</OAI-PMH>

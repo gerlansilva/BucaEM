@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jieem.pgsscogna.com.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:23:36Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">https://jieem.pgsscogna.com.br/jieem/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14536</identifier>
+				<datestamp>2026-03-11T11:33:09Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Avaliação de Futuros Professores de Matemática sobre o Recurso Educacional Digital (RED) &#039;Triângulo Resgate&#039;</dc:title>
+	<dc:creator xml:lang="pt-BR">Otero, Maria Rita</dc:creator>
+	<dc:creator xml:lang="pt-BR">Gazzola, Maria Paz</dc:creator>
+	<dc:description xml:lang="pt-BR">No contexto de uma oficina de formação em uma instituição de ensino superior não universitária, com a participação de 103 futuros professores de matemática, foi aplicado um questionário do tipo Likert, baseado nas categorias propostas por Queiros et al. (2022, 2024), para avaliar o recurso educacional digital (RED) Triângulo Resgate, desenvolvido para o ensino de trigonometria no ensino médio. Antes de responderem ao questionário, os professores jogaram todos os níveis do jogo. Foi realizada uma análise de confiabilidade do questionário e as respostas obtidas são descritas. Os resultados mostram que os futuros professores priorizam a clareza, a estrutura e o alinhamento curricular do jogo, enquanto a autonomia e as recompensas são menos valorizadas. Isso indica uma preferência por recursos estruturados e previsíveis e destaca o desafio de aproveitar seu potencial para fomentar abordagens de ensino mais exploratórias e autônomas.
+Palavras-chave: Formação de Professores. Ensino. Currículo.
+Abstract
+In the context of a training workshop at a non-university tertiary teacher training institute, attended by 103 prospective mathematics teachers, a Likert-type questionnaire was administered, based on the categories proposed by Queiros et al. (2022, 2024), to evaluate the digital educational resource (DER) Triángulo Resgate, designed for teaching trigonometry in secondary school. Before answering the questionnaire, the teachers played all levels of the game. A reliability analysis of the questionnaire was performed, and the responses obtained are described. The results show that the prospective teachers prioritize the game&#039;s clarity, structure, and curriculum alignment, while autonomy and rewards are valued less. This indicates a preference for structured and predictable resources and raises the challenge of leveraging its potential to foster more exploratory and autonomous teaching approaches.
+Keywords: Teacher Training. Teaching. Curriculum.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2025-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14536</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2025v18n3p293-299</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 18 n. 3 (2025); 293-299</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v18n3</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14536/7871</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2025 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14646</identifier>
+				<datestamp>2026-03-11T12:33:05Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Práticas inclusivas em Educação Matemática na Perspectiva do Desenho Universal para Aprendizagem: uma Revisão Sistemática da Literatura</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, Rodiney Marcelo Braga dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Vasconcelos, Tatiana Cristina</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo resulta de uma pesquisa em nível de mestrado que tem como objetivo investigar sobre a Educação Matemática e sua interface com o Desenho Universal para Aprendizagem (DUA), de forma a contribuir para a formação inicial do professor de matemática. O estudo está ancorado em uma Este artigo investiga sobre a Educação Matemática e sua interface com o Desenho Universal para Aprendizagem (DUA). O estudo está ancorado em uma Revisão Sistemática da Literatura, realizada em bases nacionais como o Portal de Periódicos da Capes, o Catálogo de Teses e Dissertações da Capes e a Biblioteca Digital Brasileira de Teses e Dissertações, contemplando o período de 2021 a 2023. Foram selecionadas e analisadas 18 produções, categorizadas em três eixos: práticas pedagógicas, acessibilidade e formação de professores. Os resultados revelam que a aplicabilidade do DUA tem se voltado prioritariamente ao planejamento e desenvolvimento de práticas pedagógicas inclusivas na Educação Básica, com ênfase em jogos, sequências didáticas, tecnologias digitais e recursos acessíveis. Contudo, identificou-se escassez de pesquisas voltadas à formação inicial de professores de matemática, configurando lacuna relevante no campo. As análises indicam que, quando integrado desde o planejamento curricular, o DUA amplia o engajamento, promove múltiplos meios de representação e expressão, e favorece a participação de todos os estudantes, sem se restringir a adaptações pontuais. Conclui-se que o DUA representa um referencial teórico e metodológico promissor para a Educação Matemática inclusiva, capaz de orientar reflexões docentes e subsidiar práticas pedagógicas mais equitativas. Entretanto, sua apropriação ainda é incipiente, fragmentada e dependente de condições institucionais, o que reforça a necessidade de aprofundar investigações e consolidar sua presença na formação inicial do professor de matemática.
+Palavras-chave: Desenho Universal para Aprendizagem. Educação Matemática. Revisão Sistemática da Literatura.
+Abstract
+This article investigates Mathematics Education and its interface with Universal Design for Learning (UDL). The study is anchored in a Systematic Literature Review conducted in national databases such as the Capes Journal Portal, the Capes Theses and Dissertations Catalog, and the Brazilian Digital Library of Theses and Dissertations, covering the period 2021 to 2023. Eighteen productions were selected and analyzed, categorized into three axes: pedagogical practices, accessibility, and teacher training. The results reveal that the applicability of UDL has primarily focused on the planning and development of inclusive pedagogical practices in Basic Education, with an emphasis on games, teaching sequences, digital technologies, and accessible resources. However, a scarcity of research focused on initial mathematics teacher training was identified, representing a significant gap in the field. The analyses indicate that, when integrated into curriculum planning, UDL increases engagement, promotes multiple means of representation and expression, and favors the participation of all students, without being limited to specific adaptations. We conclude that UDL represents a promising theoretical and methodological framework for inclusive mathematics education, capable of guiding teaching reflections and supporting more equitable pedagogical practices. However, its adoption remains incipient, fragmented, and dependent on institutional conditions, reinforcing the need for further research and consolidating its presence in initial mathematics teacher training.
+Keywords: Universal Design for Learning. Mathematics Education. Systematic Literature Review.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2025-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14646</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2025v18n3p374-383</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 18 n. 3 (2025); 374-383</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v18n3</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14646/7879</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2025 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14677</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Análise da Argumentação no Ensino de Teoria de Controle Moderno</dc:title>
+	<dc:creator xml:lang="pt-BR">Veloso, Shinnayder Carlos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Torezani, Débora Cristina da Silva Araújo</dc:creator>
+	<dc:creator xml:lang="pt-BR">Sales, Antonio</dc:creator>
+	<dc:description xml:lang="pt-BR">Considerando a complexidade da disciplina Teoria de Controle Moderno (TCM), ministrada nos semestres finais do curso de Engenharia Elétrica, este estudo analisou a eficácia da Argumentação como estratégia de ensino para facilitar a aprendizagem. Um estudo de caso experimental e qualitativo desenvolvido com cinco alunos regulares do curso de graduação revelou que a técnica promoveu significativamente o raciocínio crítico e a construção colaborativa de conhecimento. Embora o domínio completo da argumentação racional tenha variado entre os participantes, a abordagem mostrou-se uma ferramenta pedagógica de grande potencial. Este trabalho aponta para a importância de se investigar novas práticas de ensino que qualifiquem a formação de futuros engenheiros.
+Palavras-chave: Servomecanismo. Engenharia Elétrica. Ferramenta Pedagógica.
+Abstract
+Considering  the complexity of the Modern Control Theory (MCT) course, taught in the final semesters of the Electrical Engineering program, this study analyzed the effectiveness of Argumentation as a teaching strategy to facilitate learning. An experimental, qualitative case study conducted with five undergraduate students revealed that the technique significantly promoted critical thinking and collaborative knowledge construction. Although the participants&#039; complete mastery of rational argumentation varied, the approach proved to be a pedagogical tool with great potential. This work highlights the importance of investigating new teaching practices that improve the training of future engineers.
+Keywords: Servomechanism. Electrical Engineering. Pedagogical Tool.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-06-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14677</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p36-40</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 36-40</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14677/7939</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14721</identifier>
+				<datestamp>2026-03-11T12:37:48Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Análise da Visualização Espacial e Raciocínio Lógico-Matemático em Atividades com Blocos Geométricos no Ensino Fundamental</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, Batista Moraes dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Miguel Mores dos</dc:creator>
+	<dc:description xml:lang="pt-BR">O estudo analisa o desenvolvimento da visualização espacial e do raciocínio lógico-matemático de alunas e alunos do Ensino Fundamental em atividades com blocos geométricos. A pesquisa, de abordagem qualitativa e caráter descritivo, envolveu 11 estudantes de diferentes idades e séries, que participaram da atividade “Contagem de blocos”. Por meio da análise de acertos, erros e justificativas, investigou-se como as alunas e alunos mobilizam suas habilidades cognitivas ao compor e decompor sólidos tridimensionais. Fundamentado na teoria da análise de erros e nas contribuições de D’Ambrosio, Vale, Barbosa e Ritter, o estudo evidenciou que a habilidade de visualização espacial não se desenvolve automaticamente com a escolarização, mas requer estímulos e experiências práticas. Os resultados indicaram que o uso de materiais manipuláveis potencializa o raciocínio geométrico, tornando o aprendizado mais significativo. A análise dos erros revelou diferentes padrões cognitivos, permitindo compreender as estratégias das alunas e alunos e suas dificuldades. Conclui-se que o ensino da geometria deve valorizar a experimentação, a análise reflexiva e a construção ativa do conhecimento.
+Palavras-chave: Visualização Espacial. Raciocínio Lógico-Matemático. Ensino de Geometria. Materiais Manipuláveis. Análise de Erros. Ensino Fundamental.
+Abstract
+This study analyzes the development of spatial visualization and logical-mathematical reasoning in elementary school students through activities with geometric blocks. The qualitative and descriptive research involved 11 students of different ages and grades who participated in the activity &quot;Counting Blocks.&quot; Through the analysis of correct answers, errors, and justifications, the study investigated how students mobilize their cognitive skills when composing and decomposing three-dimensional solids. Based on error analysis theory and the contributions of D&#039;Ambrosio, Vale, Barbosa, and Ritter, the study showed that spatial visualization skills do not develop automatically with schooling but require stimuli and practical experiences. The results indicated that the use of manipulable materials enhances geometric reasoning, making learning more meaningful. The analysis of errors revealed different cognitive patterns, allowing for an understanding of the students&#039; strategies and difficulties. It can be concluded that the teaching of geometry should value experimentation, reflective analysis, and the active construction of knowledge.
+Keywords: Analysis of Spatial Visualization and Logical-Mathematical Reasoning in Activities with Geometric Blocks in Elementary Education</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2025-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14721</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2025v18n3p384-391</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 18 n. 3 (2025); 384-391</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v18n3</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14721/7880</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2025 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14744</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">CINEMAT: Aumentando o Engajamento dos Estudantes em Matemática com Cinema</dc:title>
+	<dc:creator xml:lang="pt-BR">Ribeiro-Filho, Nelson</dc:creator>
+	<dc:creator xml:lang="pt-BR">Sousa, Tarcyana do Socorro Figueiredo de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Filho, Leandro Santana da Costa</dc:creator>
+	<dc:description xml:lang="pt-BR">Este trabalho teve como objetivo analisar de que maneira o uso do cinema, como recurso didático, pode contribuir para o engajamento dos estudantes e para a compreensão de conceitos matemáticos no contexto escolar. O projeto CINEMAT envolveu a seleção e exibição de filmes relacionados à matemática, seguidos de discussões em sala de aula, atividades práticas e produção de pequenos vídeos pelos estudantes. Desenvolvido ao longo de oito meses com alunos do ensino médio, o projeto foi avaliado por meio de um questionário composto por nove perguntas, aplicado ao final das atividades. Os resultados indicaram uma percepção positiva dos estudantes em relação à metodologia adotada, com destaque para o aumento do interesse pelas aulas, a maior contextualização dos conteúdos matemáticos e o estímulo à participação nas atividades propostas. A experiência também evidenciou o potencial do cinema para aproximar a matemática do cotidiano dos alunos, favorecer o pensamento crítico e tornar o processo de aprendizagem mais dinâmico e significativo. Conclui-se que o uso de filmes pode constituir uma estratégia pedagógica relevante para o ensino de matemática, especialmente quando articulado a práticas interativas e reflexivas.
+Palavras-chave: Recursos Didáticos. Ensino de Matemática. Educação Matemática. Interdisciplinaridade.
+Abstract
+This study aimed to analyze how the use of cinema as a teaching resource can contribute to student engagement and to the understanding of mathematical concepts in the school context. The CINEMAT project involved the selection and screening of mathematics-related films, followed by classroom discussions, practical activities, and the production of short videos by students. Developed over eight months with high school students, the project was evaluated through a nine-question questionnaire administered at the end of the activities. The results indicated a positive student perception of the adopted methodology, especially regarding increased interest in mathematics classes, better contextualization of mathematical content, and greater participation in the proposed activities. The experience also highlighted the potential of cinema to bring mathematics closer to students’ everyday lives, stimulate critical thinking, and make the learning process more dynamic and meaningful. It is concluded
+that the use of films can be a relevant pedagogical strategy for mathematics teaching, particularly when combined with interactive and reflective practices.
+Keywords: Didactic Resources. Mathematics education. Math teaching. Interdisciplinarity.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14744</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p71-79</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 71-79</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14744/7943</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14768</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Da Prescrição à Percepção: um Estudo da Arte Sobre o Paradigmado  Exercício na Contemporaneidade.</dc:title>
+	<dc:creator xml:lang="pt-BR">Lacerda, Deise Homrich de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Santos, Suelen Assunção</dc:creator>
+	<dc:description xml:lang="pt-BR">Falar sobre as formas de ensinar e aprender é urgente na sociedade contemporânea, e, quando a ciência em foco é a matemática, parece surgir maior necessidade de encontrarem-se meios de torná-la mais acessível, e menos traumática, a partir de discursos que reforçam e potencializam o uso de metodologias variadas em detrimento de outras, consideradas atualmente como tradicionais. Neste estudo, que compõe a pesquisa de doutorado “O paradigma do exercício na contemporaneidade: uma investigação em livros didáticos adotados por escolas públicas do Vale dos Sinos/RS”, buscamos investigar, em pesquisas sobre a educação contemporânea em matemática, como e se o “paradigma do exercício” surge nos exercícios nelas propostos. Neste estudo, utilizamos o Catálogo de Teses e Dissertações (Capes), aplicando o descritor “livro didático”, seguido de filtros para refinamento das escolhas e reposicionamento das lentes utilizadas, excluímos as pesquisas que não se relacionavam à educação matemática. Como resultado, obtivemos 11 teses, que foram analisadas quanto a seus objetivos, problema de pesquisa, teorias adotadas, metodologias e, pela recorrência de palavras-chave relacionadas à referida pesquisa de doutorado, tais como: paradigma do exercício, listas de exercícios, listas. Na análise, verificamos que, apesar de algumas semelhanças nos materiais empíricos utilizados, destoam do percurso da pesquisa em andamento e do olhar referente ao discurso de aula tradicional pautada na resolução de listas de exercícios, pois não direcionam suas lentes à análise do paradigma do exercício, seja no que se refere a suas limitações ou a suas potencialidades como ferramenta de aprendizagem, caracterizando o ineditismo da tese em construção.
+Palavras- chave: Livro Didático. Ensino da Matemática. Paradigma do Exercício. Listas de Exercícios.
+Abstract
+Discussing the ways of teaching and learning is an urgent matter in contemporary society, and when the science in focus is mathematics, we perceive a greater need to find ways to make it more accessible and less traumatic, through discourses that reinforce and enhance the use of varied methodologies rather than others currently considered traditional. In this study, which is part of the doctoral research “The Exercise Paradigm in Contemporary Times: An Investigation in Textbooks Adopted by Public Schools in Vale dos Sinos/RS”, we seek to investigate, within research on contemporary mathematics education, how and whether the “exercise paradigm” appears in the exercises proposed therein. For this purpose, we used the Capes
+Theses and Dissertations Catalog, applying the descriptor “textbook,” followed by filters to refine our selections and reposition our analytical lenses, excluding studies that were not related to mathematics education. As a result, we obtained 11 theses, which we analyzed regarding their objectives, research problems, adopted theories, methodologies, and the recurrence of keywords related to the doctoral research, such as exercise paradigm, exercise lists, and lists. In our analysis, we found that, despite some similarities in the empirical materials used, these studies differ from the path we are developing and from the perspective regarding the traditional classroom discourse based on solving exercise lists, as they do not direct their focus to the analysis of the exercise paradigm—whether in terms of its limitations or its potentialities as a learning tool—thereby highlighting the originality of the thesis under construction.
+Keywords: Textbook. Mathematics Education. Exercise Paradigm. Exercise Lists.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14768</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p95-108</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 95-108</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14768/7946</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14873</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Etnomatemática: uma Estratégia para Superar a Aversão e Promover o Interesse Pela Matemática.</dc:title>
+	<dc:creator xml:lang="pt-BR">Morelo, Ricardo Gonçalves</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo surge da minha experiência profissional no ensino fundamental e médio das escolas estaduais de São Paulo, no período de 2021 a 2025, como professor de Matemática. Considerando a aversão à matemática por parte dos estudantes é um problema comum em muitos sistemas educacionais, procurei examinar a luz dos referenciais teóricos e através da prática pedagógica cotidiana as principais razões pelas quais os alunos rejeitam a matemática como componente curricular, como a falta de conexão com a vida cotidiana, ansiedade em relação à disciplina, crenças negativas e estereótipos, e a abordagem tradicional de ensino. São discutidas estratégias pedagógicas para superar a aversão dos alunos à matemática, incluindo o uso de abordagens inovadoras, como a aprendizagem baseada em problemas e a contextualização dos conceitos matemáticos no mundo real. Além disso, são abordadas a importância do incentivo a uma mentalidade de crescimento, o uso de tecnologia, o suporte às necessidades individuais dos estudantes e a promoção de uma atitude positiva em relação à matemática. É destacada a importância de criar um ambiente inclusivo e acolhedor, onde os alunos se sintam motivados e capacitados para desenvolver habilidades matemáticas importantes para sua vida pessoal e profissional. A matemática é uma disciplina valiosa e é responsabilidade dos educadores e da sociedade promover estratégias eficazes para superar a aversão dos alunos e despertar o interesse pela matemática. É fundamental que educadores e a sociedade como um todo reconheçam os fatores que contribuem para a aversão dos alunos à matemática e implementem estratégias eficazes para promover o interesse e o engajamento dos estudantes na disciplina. Combater estereótipos negativos em relação à disciplina com a implementação de práticas facilitadoras para o processo de ensino e despertar motivação intrínseca dos alunos na matemática, pode ajudar a superação da aversão inicial e desenvolver habilidades matemáticas essenciais ao processo de aprendizagem.
+Palavras-chave: Estudantes. Estratégias Pedagógicas. Tecnologia. Estereótipos. Ansiedade.
+ Abstract
+This article stems from my professional experience teaching Mathematics at elementary and high schools in São Paulo&#039;s state education system from 2021 to 2024. Considering students&#039; aversion to mathematics as a common problem in many educational systems, I aimed to examine, through theoretical references and everyday pedagogical practices, the main reasons why students reject mathematics as a curricular subject. These reasons include the lack of connection with daily life, anxiety about the discipline, negative beliefs and stereotypes, and the traditional teaching approach. Pedagogical strategies to overcome students&#039; aversion to mathematics are discussed, including the use of innovative approaches such as problem-based learning and the contextualization of mathematical concepts in the real world. Additionally, the importance of fostering a growth mindset, using technology, supporting students&#039; individual needs, and promoting a positive attitude toward mathematics are addressed. Emphasis is placed on the importance of creating an inclusive and welcoming environment where students feel motivated and empowered to develop mathematical skills essential for their personal and professional lives. Mathematics is a valuable discipline, and it is the responsibility of educators and society to promote effective strategies to overcome students&#039; aversion and spark their interest in mathematics. It is crucial for educators and society as a whole to recognize the factors contributing to students&#039; aversion to mathematics and implement effective strategies to foster student interest and engagement in the subject. Combating negative stereotypes about mathematics by implementing teaching practices that facilitate learning and fostering students&#039; intrinsic motivation can help overcome initial aversion and develop essential mathematical skills for the learning process.
+Keywords: Students. Pedagogical Strategies. Technology. Stereotypes. Anxiety.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14873</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p119-125</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 119-125</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14873/7948</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14896</identifier>
+				<datestamp>2026-03-23T20:06:13Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Escola como Espaço de Inclusão: uma Revisão de Literatura Sobre Atividades de Matemática para o Desenvolvimento de Alunos com TEA</dc:title>
+	<dc:creator xml:lang="pt-BR"> Angelo, Jamisson da Silva</dc:creator>
+	<dc:creator xml:lang="pt-BR">Carvalho, Diego Fogaça</dc:creator>
+	<dc:creator xml:lang="pt-BR">Batista, Erlinda Martins</dc:creator>
+	<dc:description xml:lang="pt-BR">O presente estudo traz uma abordagem sobre a educação inclusiva na perspectiva do Transtorno do Espectro Autista (TEA), cujo objetivo geral é: identificar o que dizem as pesquisas sobre a inclusão do estudante com TEA na aprendizagem da Matemática. O tema trabalhado se justifica pela contribuição que poderá dar ao se pensar em atividades direcionadas para os alunos com essa especificidade. Tendo como objetivo específico: analisar de que forma as atividades dirigidas podem trazer propostas pedagógicas e didáticas capazes de contribuir para o desenvolvimento de habilidades em alunos com TEA no ambiente escolar. Com a análise dos trabalhos que se aproximaram da proposta temática da pesquisa, foi utilizada uma metodologia de cunho descritivo e analítico. Desenvolveu-se por meio de um viés qualitativo e bibliográfico, que, para tanto, utilizou como método: uma revisão sistemática do conteúdo, usando para essa finalidade os periódicos da CAPES, com os descritores “TEA” e “Atividades Matemáticas”. Como métrica de filtro, colocaram-se os três últimos anos de pesquisas desenvolvidas em relação aos descritores mencionados, e nessa busca o filtro acusou 308 produções, dos quais foram lidos 28 resumos e selecionados cinco trabalhos sobre os quais foram construídas as discussões e computados os dados para análise, que demonstraram os seguintes resultados: existe a necessidade de uma formação para o professor preparar e atuar de forma heterogênea com os estudantes com TEA, pensando nas suas necessidades e individualidades.
+Palavras-chave: Educação Inclusiva. Transtorno do Espectro Autista. Formação de Professores. Ensino de Matemática. Aprendizagem de Matemática.
+Abstract
+The present study offers an approach to inclusive education from the perspective of Autism Spectrum Disorder (ASD), with the general objective of: identifying what research says about the inclusion of students with ASD in Mathematics learning. The subject matter is justified by the contribution it can offer to the creation of activities directed at students with this specific need.The specific objective is to: analyze how directed activities can provide pedagogical and didactic proposals capable of contributing to the development of skills in students with ASD in the school environment.To analyze the works that aligned with the thematic proposal of this research, a descriptive and analytical methodology was used. It was developed through a qualitative and bibliographic approach, employing the method of a systematic content review. For this purpose, journals from CAPES were used with the descriptors &quot;ASD&quot; and &quot;Mathematical Activities&quot;. As a filter metric, the last three years of research developed in relation to the mentioned descriptors were considered. This search yielded 308 productions, from which 28 abstracts were read, and five works were selected to build the discussions and compute the data for analysis.The results demonstrated the following: there is a need for teacher training to prepare and work in a heterogeneous manner with students with ASD, considering their needs and individualities.
+Keywords: Inclusive Education. Autism Spectrum Disorder. Teacher Training. Mathematics Teaching. Mathematics Learning.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2025-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14896</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2025v18n3p338-345</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 18 n. 3 (2025); 338-345</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v18n3</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14896/7883</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2025 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14911</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">A Matemática e as Ciências com Tecnologia: O SuperLogo em Sala de Aula.</dc:title>
+	<dc:creator xml:lang="pt-BR">Santos, Ewelyn Hanna dos</dc:creator>
+	<dc:creator xml:lang="pt-BR">Salvador, Leocádia Filiciani</dc:creator>
+	<dc:creator xml:lang="pt-BR">Souza, Sandra Paulino</dc:creator>
+	<dc:creator xml:lang="pt-BR">Lima, Kátia Andressa Araújo Ferreira de</dc:creator>
+	<dc:creator xml:lang="pt-BR">Batista, Erlinda Martins</dc:creator>
+	<dc:description xml:lang="pt-BR">Este artigo apresenta resultados de pesquisa qualitativa desenvolvida na iniciação científica, cujo projeto aprovado pela FUNADESP, intitulado “A Utilização do SuperLogo no Ensino de Ciências da Educação Básica: Estudo de Caso”, foi aprovado também no Comitê de Ética em Pesquisa sob n. 7.629.136, em 10 de junho de 2025. O objetivo geral foi analisar como o software SuperLogo contribui no ensino de Matemática e Ciências aos estudantes da educação básica. A investigação ocorreu em duas etapas. A primeira foi levantamento bibliográfico em duas bases de dados: Biblioteca Digital de Teses e Dissertações (BDTD), e Google Acadêmico, utilizando os descritores “SuperLogo” e “Software”, do qual identificaram-se 11 estudos, mas apenas dois foram selecionados por apresentarem coerência com a abordagem do projeto e tratarem dos anos finais do Ensino Fundamental. A segunda etapa envolveu uma oficina prática com 12 estudantes com idades de sete e oito anos do Ensino Fundamental de uma escola pública de Campo Grande (MS), todos em período de recuperação, representando parte de uma turma de 30 alunos. Os resultados mostraram que o SuperLogo, ao permitir a digitação e execução de comandos que geram construções geométricas, favorece o raciocínio lógico, a autonomia e o engajamento dos estudantes. Destaca-se também o papel do professor como mediador, organizando situações de aprendizagem que motivam descobertas e o desenvolvimento de habilidades cognitivas. Conclui-se que o uso intencional de tecnologias educacionais, como o SuperLogo, pode enriquecer as práticas pedagógicas, aproximar os conteúdos escolares da realidade dos alunos e tornar o processo de ensino e aprendizagem mais efetivo e conectado às demandas
+contemporâneas.
+Palavras-chave: Software Educacional. Ensino Básico, Ferramenta Digital Pedagógica, Sócio-interacionismo.
+Abstract
+This article presents the results of a qualitative research study developed within a scientific initiation program, whose project was approved by FUNADESP and entitled “The Use of SuperLogo in Science Education in Basic Education: A Case Study,” and that was also approved by the Research Ethics Committee under opinion no. 7,629,136, at june, 10, 2025. The general objective was to analyze how the SuperLogo software contributes to the teaching of Mathematics and Science to students. The investigation occurred in two stages. The first was a bibliographic review in two databases: the Digital Library of Theses and Dissertations (BDTD) and Google Scholar, using the descriptors “SuperLogo” and “software,” through which 11 studies were identified; however, only two were selected because they aligned with the project’s approach and addressed the final years of Elementary School. The second stage involved a practical workshop with 12 Elementary School students with age between seven and eight years, from a public school in Campo Grande (MS), all of whom were in a remediation period, representing part of a class of 30 students. The results show that SuperLogo, by allowing the typing and execution of commands that generate geometric constructions, promotes logical reasoning, autonomy, and student engagement. The role of the teacher as a mediator is also highlighted, as they organizing learning situations that motivate discovery and the development of cognitive skills. It is concluded that the intentional use of educational technologies, such as SuperLogo, can enrich pedagogical practices, bring school content closer to students’ realities, and make the teaching and learning process more effective and more aligned with contemporary demands.
+Keywords: Educational Software. Basic Education, Digital Pedagogical Tool, Socio-interactionism.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14911</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p109-118</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 109-118</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14911/7947</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14925</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Prática Reflexiva Docente Como Proposta na Própria Formação</dc:title>
+	<dc:creator xml:lang="pt-BR">Barros, Ketheryn Leticia Gomes de Barros</dc:creator>
+	<dc:creator xml:lang="pt-BR">Rocha, Zenaide de Fátima Dante Correia</dc:creator>
+	<dc:creator xml:lang="pt-BR">Araman, Eliane Maria de Oliveira</dc:creator>
+	<dc:description xml:lang="pt-BR">Esta pesquisa, de caráter qualitativo, teve como objetivo analisar o modo como a professora mobilizou seus conhecimentos pedagógicos, curriculares, do conteúdo matemático e experienciais para promover a aprendizagem dos estudantes, considerando os princípios da resolução de problemas de Polya. O estudo foi realizado em uma turma de 6º ano de escola pública do interior do estado de São Paulo, tendo a professora regente, autora do trabalho, como mediadora do processo. Inicialmente, aplicou-se uma atividade diagnóstica para identificar os conhecimentos prévios dos estudantes sobre o tema. Após uma breve revisão conceitual, foram propostos um problema baseado nos quatro passos de resolução de problemas de Polya (1995): compreender o problema, elaborar um plano, executar o plano e revisar/refletir sobre o processo. Devido ao tempo disponível, foi possível desenvolver até o terceiro passo. As interações entre os estudantes e a professora foram gravadas, transcritas e analisadas, sendo escolhido uma dupla para estudo detalhado. Os resultados apontam que a abordagem, aliada à mediação docente e à metodologia de resolução de problemas, contribui para a construção de significados matemáticos e para o desenvolvimento do raciocínio dos estudantes, além da contribuição na formação docente reflexiva, a análise da transcrição da situação de ensino evidencia que a professora, ao atuar como mediadora do processo de aprendizagem, mobilizou um conjunto diverso de saberes que vão além do domínio do conteúdo matemático.
+Palavras-chave: Formação Docente. Saberes. Própria Prática.
+Abstract
+This qualitative research aimed to analyze how the teacher mobilized her pedagogical, curricular, mathematical content, and experiential knowledge to promote students’ learning, considering Polya’s principles of problem solving. The study was conducted in a 6th-grade class at a public school in the countryside of São Paulo State, with the classroom teacher, author of this work, acting as the mediator of the process. Initially, a diagnostic activity was applied to identify students’ prior knowledge about the topic. After a brief conceptual review, two problems were proposed based on Polya’s (1995) four steps of problem solving: understanding the problem, devising a plan, carrying out the plan, and reviewing/reflecting on the process. Due to time constraints, it was
+possible to develop up to the third step. The interactions between the students and the teacher were recorded, transcribed, and analyzed, with one pair selected for detailed study. The results indicate that the approach, combined with teacher mediation and the problem-solving methodology, contributes to the construction of mathematical meaning and the development of logical reasoning. Moreover, it fosters reflective teacher education, as the analysis of the teaching situation transcription shows that the teacher, acting as a mediator in the learning process, mobilized a diverse set of knowledge that goes beyond mastery of mathematical content.
+Keywords: Teacher Education. Knowledge. Own Practice.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14925</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p89-94</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 89-94</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14925/7945</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/14959</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Pensamento Matemático e Pensamento Computacional: uma Perspectiva Cognitiva</dc:title>
+	<dc:creator xml:lang="pt-BR">Dobgenski, Jeanne</dc:creator>
+	<dc:creator xml:lang="pt-BR">Silva, Angélica da Fontoura Garcia</dc:creator>
+	<dc:creator xml:lang="pt-BR">Prado, Maria Elisabette Brisola Brito</dc:creator>
+	<dc:description xml:lang="pt-BR">Esta pesquisa segue uma abordagem qualitativa exploratória, com o objetivo principal de analisar como os processos mentais associados ao pensamento geral, ao pensamento matemático e ao pensamento computacional podem contribuir para o desenvolvimento de habilidades cognitivas essenciais para a aprendizagem de matemática e computação. Essa pesquisa utilizou material bibliográfico e o desenvolvimento de mapas conceituais para analisar e comparar conceitos, apoiando-se em teorias educacionais e cognitivas. Entende-se que o ato de pensar está intrinsecamente ligado ao desenvolvimento da inteligência e das capacidades cognitivas, sendo influenciado pela interação com o meio. Apesar de os pensamentos matemático e computacional partilharem processos mentais gerais, eles apresentam especificidades na resolução de problemas. Apresentamos habilidades matemáticas e computacionais no processo de resolução de problemas, com o propósito de auxiliar professores a fortalecerem seus conhecimentos neste contexto.
+Palavras-chave: Pensamento Matemático. Pensamento Computacional. Formação de Professores. Resolução de Problemas.
+ Abstract
+This research follows an exploratory qualitative approach, with the main objective of analyzing how the mental processes associated with general thinking, mathematical thinking, and computational thinking can contribute to the development of cognitive skills essential for learning mathematics and computing. The study draws on bibliographic material and the construction of conceptual maps to analyze and compare concepts, supported by educational and cognitive theories. It is understood that the act of thinking is intrinsically linked to the development of intelligence and cognitive abilities, and is influenced by interaction with the environment. Although mathematical and computational thinking share general mental processes, they each present specific features in problem solving. We present mathematical and computational skills involved in the problem-solving process, with the aim of supporting teachers in strengthening their knowledge within this context.
+ Keywords: Mathematical Thinking. Computational Thinking. Teacher training. Problem Solving.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/14959</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p51-63</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 51-63</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/14959/7941</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/15080</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">O Pensamento Algébrico na Resolução de Equações em Funções do Primeiro Grau e o Uso da Simulação Digital “Explorador da Igualdade” da Plataforma PhET</dc:title>
+	<dc:creator xml:lang="pt-BR">Ewald, Marcos Müllling</dc:creator>
+	<dc:creator xml:lang="pt-BR">Beck, Vinicius Carvalho</dc:creator>
+	<dc:description xml:lang="pt-BR">O objetivo geral deste trabalho foi analisar o impacto do uso da simulação digital Explorador da Igualdade da plataforma PhET na resolução de equações envolvendo funções do primeiro grau. A pesquisa fundamenta-se no referencial teórico construtivista, embasado em Jean Piaget e estudiosos do pensamento algébrico. A metodologia adotada é de natureza qualitativa e exploratória, tendo como participantes 6 estudantes do Ensino Médio de uma escola localizada em um município do interior do Rio Grande do Sul. Os registros da coleta de dados foram obtidos a partir de três fontes: anotações dos alunos (solicitadas pelo professor-pesquisador), diário de campo do professor-pesquisador e fotografias das atividades realizadas. A análise dos dados foi conduzida por meio da análise de conteúdo de Laurence Bardin. Foram estabelecidas quatro categorias, que permitiram organizar as análises de acordo com as dificuldades enfrentadas pelos discentes: C1 - Melhora nas resoluções com um processo; C2 - Assimilação para resoluções com um processo; C3 - Persistência da dificuldade para resoluções com dois processos; C4 - Esquema de acomodação para resoluções com dois processos. Concluímos, a partir deste estudo de caso, que a simulação digital Explorador da Igualdade da plataforma PhET pode auxiliar na criação de esquemas de acomodação por estudantes que possuem dificuldades em identificar a operação inversa para resolver equações, especialmente em equações que demandam apenas um processo (uso de uma única operação aplicada aos dois lados da equação para sua resolução) assim como também pode auxiliar na consolidação das operações entre frações com denominadores diferentes.
+Palavras-chave: PhET. Função do Primeiro Grau. Igualdade.
+Abstract
+The general aim of this paper was to analyze the impact of the use of the Equality Explorer digital simulation, from the PhET platform in the solution involving equations of functions of the first degree. The research is based on the constructivist theoretical framework, based on Jean Piaget and scholars of algebraic thought. The methodology adopted is qualitative and exploratory in nature, with 6 high school students from a school located in a municipality in the interior of Rio Grande do Sul as participants. The data collection records were obtained from three sources: students&#039; notes (requested by the teacher-researcher), the teacher-researcher&#039;s field diary and photographs of the activities carried out. Data analysis was conducted through content analysis by Laurence Bardin. Four categories were established, which allowed the analysis to be organized according to the difficulties faced by the students: C1 - Improvement in resolutions with a process; C2 - Assimilation to resolutions with a process; C3 - Persistence of difficulty for resolutions with two processes; C4 - Accommodation scheme for resolutions with two processes. We conclude, from this case study, that the Equality Explorer digital simulation of the PhET platform can help in the creation of accommodation schemes by students who have difficulties in identifying the inverse operation to solve equations, especially in equations that require only one process (use of a single operation applied to both sides of the equation for its resolution) as well as it can also help in the consolidation of operations between fractions with denominators different.
+ Keywords: PhET. Function of the First Degree. Equality.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/15080</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p28-35</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 28-35</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/15080/7938</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/15102</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Diretrizes de Ensino de Matemática na Educação Básica: uma Análise Bibliográfica</dc:title>
+	<dc:creator xml:lang="pt-BR">Carvalho, Nathan Gabriel Cerqueira</dc:creator>
+	<dc:creator xml:lang="pt-BR">Lima, Jeniffer Malcher da Costa</dc:creator>
+	<dc:creator xml:lang="pt-BR">Dia, Fátima Aparecida da Silva</dc:creator>
+	<dc:description xml:lang="pt-BR">A Base Nacional Comum Curricular (BNCC) estabelece normativas e diretrizes que norteiam a concepção da Educação Básica, considerando o conjunto orgânico e progressivo de aprendizagens essenciais que todo educando deve desenvolver ao longo da Educação Básica. A presente pesquisa se constitui enquanto uma análise acerca das Diretrizes de Ensino de Matemática na Educação Básica; empreendida enquanto uma revisão bibliográfica, de natureza qualitativa e objetivo exploratório. Destarte, procedeu-se com a busca Scientific Electronic Library Online - SciELO Brasil, utilizando as palavras-chave &quot;Ensino de Matemática&quot; AND &quot;Educação Básica&quot;. Desta busca, foram encontrados 20 resultados. Consecutivamente, aplicou-se, então, os filtros de idioma em português, anos de publicação entre 2022 a 2025 (pesquisa empreendida no dia 27 de dezembro de 2025), o que reduziu o número de resultados para seis artigos. Promovido o levantamento de bibliografias, conforme acima exposto. Identificadas as produções científicas em atenção ao descritos, empreendeu-se a análise de conteúdo dos textos encontrados. Por fim, constatou-se que a BNCC abarca competências, habilidades e saberes a serem compostos ao longo dos primeiros anos na vida de um ser humano, desde a mais tenra idade até o início da sua vida adulta. Nesse intervalo, diversas são as necessidades que atravessam a jornada desse ser humano. Por esse motivo, essencial se faz pensar um currículo que considere os desafios da contemporaneidade e que seja construído em colaboração com os agentes diretamente atingidos por essa Base.
+Palavras-chave: Diretrizes Curriculares. Competências. Habilidades e Saberes. Formação Integral. Aprendizagens Essenciais.
+Abstract
+The National Common Core Curriculum (BNCC) establishes standards and guidelines that guide the design of Basic Education, considering the organic and progressive set
+of essential learning that every student must develop throughout Basic Education. This research consists of an analysis of the Guidelines for Teaching Mathematics in Basic Education, undertaken as a qualitative and exploratory bibliographic review. Thus, a search was conducted in the Scientific Electronic Library Online - SciELO Brazil, using the keywords “Teaching Mathematics” AND “Basic Education.” This search yielded 20 results. Subsequently, filters were applied for the Portuguese language and publication years between 2022 and 2025 (search conducted on December 27, 2025), which reduced the number of results to six articles. The bibliographies were surveyed as described above. Once the scientific publications were identified in accordance with the above, the content of the texts found was analyzed. Finally, it was found that the BNCC encompasses competencies, skills, and knowledge to be acquired throughout the early years of a human being&#039;s life, from early childhood to early adulthood. During this period, there are many different needs that arise throughout a person&#039;s journey. For this reason, it is essential to design a curriculum that considers the challenges of the contemporary world and is developed in collaboration with the agents directly affected by this Framework.
+Keywords: Curriculum Guidelines. Competencies, Skills, and Knowledge. Comprehensive Education. Essential Learning.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/15102</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p80-88</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 80-88</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/15102/7944</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:seer.pgsscogna.com.br:article/15210</identifier>
+				<datestamp>2026-06-18T13:58:50Z</datestamp>
+				<setSpec>jieem:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Tecnologias Digitais da Informação e Comunicação (TDIC) como Estratégia Etnomatemática: Saberes e fazeres nos Processos Educacionais de Transformação Social</dc:title>
+	<dc:creator xml:lang="pt-BR">Amaral, Natarsia Camila Luso</dc:creator>
+	<dc:creator xml:lang="pt-BR">Ferreira, Welberth Santos</dc:creator>
+	<dc:description xml:lang="pt-BR">No presente trabalho discutimos o Programa Etnomatemático com ênfase nas tecnologias digitais de informação e comunicação (TDIC), tem como objetivo analisar as contribuições do Programa Etnomatemático articulado às TDIC’s para a transformação social. Trata-se de uma pesquisa de abordagem qualitativa, de natureza bibliográfica e documental, com análise de conteúdo fundamentada em Bardin (2011). O estudo discute como a Etnomatemática, ao valorizar os saberes culturais de diferentes grupos, pode contribuir para uma Educação Matemática mais inclusiva e contextualizada, destacando as tecnologias como ferramentas essenciais para motivar e diversificar o processo de ensino e aprendizagem. Os resultados apontam que as pesquisas e avanços na área da Educação Matemática e Programa Etnomatemática foram ignorados e que seguimos com a reprodução de um Ensino de Matemática conteudista que desconsidera os saberes dos alunos e a realidade na qual estão inseridos. Concluímos tecendo breves ponderações e argumentos na direção de compreender que a sociedade evoluiu e as tecnologias transformaram nosso mundo e a educação precisa acompanhar e viabilizar que essas reformas sejam trabalhadas para melhoria do Ensino de Matemática.
+Palavras-chave: Ensino de Matemática. Programa Etnomatemático. Processo de Ensino.
+Abstract
+This paper discusses the Ethnomathematics Program with an emphasis on digital information and communication technologies (ICTs), aiming to analyze the contributions of the Ethnomathematics Program articulated with ICTs to social transformation. This is a qualitative research study, of a bibliographic and documentary nature, with content analysis based on Bardin (2011). The study discusses how Ethnomathematics, by valuing the cultural knowledge of different groups, can contribute to a more inclusive and contextualized Mathematics Education, highlighting technologies as essential tools to motivate and diversify the teaching and learning process. The results indicate that research and advances in the area of Mathematics Education and the Ethnomathematics Program have been ignored, and that we continue to reproduce a content-based Mathematics teaching that disregards students&#039; knowledge and the reality in which they are embedded. We conclude by offering brief reflections and arguments aimed at understanding that society has evolved and technologies have transformed our world, and education needs to keep pace and enable these reforms to be implemented to improve Mathematics Education.
+Keywords: Teaching Mathematics. Ethnomathematics Program. Teaching Process.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Diretoria de Pós-Graduação Stricto Sensu e Pesquisa da Kroton Educacional</dc:publisher>
+	<dc:date>2026-04-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo avaliado pelos Pares</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jieem.pgsscogna.com.br/jieem/article/view/15210</dc:identifier>
+	<dc:identifier>10.17921/2176-5634.2026v19n1p64-70</dc:identifier>
+	<dc:source xml:lang="pt-BR">Jornal Internacional de Estudos em Educação Matemática; v. 19 n. 1 (2026); 64-70</dc:source>
+	<dc:source>2176-5634</dc:source>
+	<dc:source>10.17921/2176-5634.v19n1</dc:source>
+	<dc:language>pt_BR</dc:language>
+	<dc:relation>https://jieem.pgsscogna.com.br/jieem/article/view/15210/7942</dc:relation>
+	<dc:rights xml:lang="pt-BR">Direitos autorais (c) 2026 Jornal Internacional de Estudos em Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="514" cursor="500" />
+	</ListRecords>
+</OAI-PMH>

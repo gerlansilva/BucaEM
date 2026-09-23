@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://periodicos.ufpe.br/revistas/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:21:53Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc" from="2026-09-21">https://periodicos.ufpe.br/revistas/emteia/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:oai.periodicos.ufpe.br:article/265582</identifier>
+				<datestamp>2026-09-21T19:03:42Z</datestamp>
+				<setSpec>emteia:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en-US">Epistemological Analysis of the construction of the Pythagorean theorem and its contributions to the development of metric relations in right-angled triangles</dc:title>
+	<dc:title xml:lang="pt-BR">Análise Epistemológica da construção do teorema de Pitágoras e suas confluências para o desenvolvimento das relações métricas no triângulo retângulo</dc:title>
+	<dc:creator>Santana, Joalisson Bahia</dc:creator>
+	<dc:creator> Medrado, Jackelyne de Souza</dc:creator>
+	<dc:creator> Fonseca, Laerte Silva da</dc:creator>
+	<dc:subject xml:lang="pt-BR">Relações Métricas no Triângulo Retângulo</dc:subject>
+	<dc:subject xml:lang="pt-BR">Engenharia Didática Clássica</dc:subject>
+	<dc:subject xml:lang="pt-BR">Análise Epistemológica</dc:subject>
+	<dc:subject xml:lang="pt-BR">Obstáculos Epistemológicos</dc:subject>
+	<dc:subject xml:lang="en-US">Metric Relations in the Right Triangle</dc:subject>
+	<dc:subject xml:lang="en-US">Classical Didactic Engineering</dc:subject>
+	<dc:subject xml:lang="en-US">Epistemological Analysis</dc:subject>
+	<dc:subject xml:lang="en-US">Epistemological Obstacles</dc:subject>
+	<dc:description xml:lang="en-US">This article presents a segment of the preliminary analyses from a dissertation research project grounded in Classical Didactic Engineering (CDE). It aims to analyze the epistemological obstacles encountered during the historical development of the Pythagorean theorem, which serves as the foundation for understanding metric relations in right-angled triangles. This phase involves an epistemological analysis of the target teaching content, enabling an investigation into the obstacles faced in the construction of scientific knowledge. To this end, the research draws upon Bachelard’s (1996) epistemology—specifically the concept of epistemological obstacles—to develop a reference matrix used to analyze historical documents regarding the Pythagorean theorem and metric relations in right-angled triangles. This analysis revealed obstacles related to formulating a general expression for the Pythagorean theorem, as well as difficulties concerning its proofs and the description of elements within right-angled triangles.</dc:description>
+	<dc:description xml:lang="pt-BR">Este artigo é um recorte de uma subetapa das análises prévias de uma pesquisa de dissertação alicerçada na Engenharia Didática Clássica (EDC) e tem o objetivo de trazer uma análise acerca dos obstáculos epistemológicos na construção histórica do teorema de Pitágoras como fundamento para a noção das relações métricas no triângulo retângulo. Esta subetapa consiste na análise epistemológica do conteúdo visado para o ensino, por meio da qual é possível investigar os obstáculos enfrentados na construção de um conhecimento científico. Para isso, esta pesquisa apoia-se na epistemologia de Bachelard (1996) com a noção de obstáculos epistemológicos, com a qual foi possível elaborar uma matriz de referência utilizada na análise epistemológica para revisar documentos da história da matemática que envolvem o teorema de Pitágoras e as relações métricas no triângulo retângulo. Através da análise epistemológica, foi possível verificar obstáculos envolvendo uma relação geral para o teorema de Pitágoras, dificuldades com suas demonstrações e com a descrição de elementos dos triângulos retângulos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">Universidade Federal de Pernambuco</dc:publisher>
+	<dc:date>2026-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://periodicos.ufpe.br/revistas/emteia/article/view/265582</dc:identifier>
+	<dc:identifier>10.51359/2177-9309.2026.265582</dc:identifier>
+	<dc:source xml:lang="pt-BR">Em Teia | Revista de Educação Matemática e Tecnológica Iberoamericana; v. 17 n. 1 (2026): Fluxo contínuo; 292-312</dc:source>
+	<dc:source>2177-9309</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://periodicos.ufpe.br/revistas/emteia/article/view/265582/52913</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2026 Joalisson Bahia Santana, Jackelyne de Souza  Medrado, Laerte Silva da  Fonseca</dc:rights>
+	<dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+	</ListRecords>
+</OAI-PMH>

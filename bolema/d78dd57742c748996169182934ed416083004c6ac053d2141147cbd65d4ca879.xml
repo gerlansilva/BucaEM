@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.periodicos.rc.biblioteca.unesp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2026-09-21T23:24:26Z</responseDate>
+	<request verb="ListRecords" metadataPrefix="oai_dc">https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/oai</request>
+	<ListRecords>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11005</identifier>
+				<datestamp>2016-04-15T13:15:17Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">FOLHA DE ROSTO</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11005</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 29 n. 53 (2015); i-ii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11005/7307</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11008</identifier>
+				<datestamp>2016-04-15T13:15:17Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EXPEDIENTE</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11008</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 29 n. 53 (2015)</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11008/7305</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11009</identifier>
+				<datestamp>2016-04-15T13:15:17Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">EDITORIAL</dc:title>
+	<dc:creator>Malheiros, Ana Paula dos Santos</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11009</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 29 n. 53 (2015); viii-ix</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11009/7306</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11010</identifier>
+				<datestamp>2016-04-15T13:15:17Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">LINHA EDITORIAL 53</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11010</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 29 n. 53 (2015); iii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11010/7308</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11011</identifier>
+				<datestamp>2016-04-15T13:15:17Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">SUMÁRIO 53</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2015-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11011</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 29 n. 53 (2015); iv-vii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11011/7309</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2015 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11295</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Folha de Rosto</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11295</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); i-ii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11295/7480</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11296</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Linha Editorial</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11296</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); iii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11296/7482</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11297</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11297</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); iv-v</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11297/7483</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11298</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Nominata 2015</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11298</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); vi-vii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11298/7484</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11299</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11299</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); viii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11299/7485</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11300</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Expediente</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11300</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016)</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11300/7481</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11301</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">El rol del profesor desde la perspectiva de los Espacios de Trabajo Matemático</dc:title>
+	<dc:creator>Gómez-Chacón, Inés M.</dc:creator>
+	<dc:creator>Kuzniak, Alain</dc:creator>
+	<dc:creator>Vivier, Laurent</dc:creator>
+	<dc:subject xml:lang="pt-BR">Espacio de Trabajo Matemático. Conocimiento del Profesor. Desarrollo Profesional del Profesor de Matemáticas. Educación Matemática.</dc:subject>
+	<dc:description xml:lang="pt-BR">En este artículo se presenta el modelo Espacio de Trabajo Matemático (ETM). Se pone de manifiesto el dinamismo de este modelo para reflexionar sobre la acción del profesor en el aula y sobre elementos importante a tener en cuenta en su formación. Los ETM se construyen con base en el conocimiento matemático y la experiencia del sujeto al hacer matemáticas, de ahí que su organización remita a dos planos: el epistemológico y el cognitivo, que serán el centro de la discusión de este trabajo. Se presentan las contribuciones al monográfico en las dinámicas que establecen el rol del docente en los conocimientos y las interacciones en el aula, desde dos puntos de vista en la formación de docente y en el rol del docente con los alumnos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11301</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 1-22</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11301/7486</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11302</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Concepto de Lugar Geométrico. Génesis de Utilización Personal y Profesional con Distintas Herramientas</dc:title>
+	<dc:creator>Gómez-Chacón, Inés M.</dc:creator>
+	<dc:creator>Botana, Francisco</dc:creator>
+	<dc:creator>Escribano, Jesús</dc:creator>
+	<dc:creator>Abánades, Miguel Á.</dc:creator>
+	<dc:subject xml:lang="pt-BR">Lugares Geométricos. Geometría Dinámica. Génesis Instrumental. Razonamiento Geométrico. Espacio de Trabajo Matemático.</dc:subject>
+	<dc:description xml:lang="pt-BR">La finalidad de este artículo es precisar algunos de los elementos que organizan un espacio de trabajo efectivo para problemas de lugares geométricos en entornos tecnológicos. Se explora como 52 futuros profesores de matemáticas progresan en su concepción de lugares geométricos a través de la apropiación de las funcionalidades específicas de cada entorno (herramienta), en relación con su propia práctica como estudiantes y su futuro ejercicio profesional. Con base en sistemas de geometría dinámica se comparan tres herramientas, las diferentes representaciones matemáticas de los lugares geométricos generadas por ellas, tanto desde la perspectiva de su dinámica matemática como de sus funcionalidades didácticas. Las funcionalidades didácticas proporcionadas desde el diseñador se han estudiado desde el modelo Espacio de Trabajo Matemático (ETM). Este modelo pone de relieve la necesidad de articular para el trabajo geométrico los niveles epistemológico y cognitivo a través de diferentes génesis de razonamiento (visual-discursiva, instrumental y discursiva).</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11302</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 67-94</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11302/7488</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11303</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">El Trabajo Matemático de Profesores en el Tránsito de la Geometría Sintética a la Analítica en el Liceo</dc:title>
+	<dc:creator>Henríquez-Rivas, Carolina</dc:creator>
+	<dc:creator>Montoya-Delgadillo, Elizabeth</dc:creator>
+	<dc:subject xml:lang="pt-BR">Espacio de Trabajo Geométrico. Enfoque Sintético. Enfoque Analítico.</dc:subject>
+	<dc:description xml:lang="pt-BR">En esta investigación se muestran resultados de un estudio con profesores de matemática de liceo en Chile, en temáticas de geometría euclidiana que articulan los enfoques sintético y analítico. El estudio presenta una situación de referencia que favorece ciertas rutas de trabajo específicas. La investigación se sustenta en el enfoque Espacio de Trabajo Matemático y estudia el trabajo personal del profesor con un enfoque metodológico cualitativo. La evidencia empírica proporciona elementos que permiten caracterizar los paradigmas en el subdominio cartesiano, lo cual ha sido un aporte al constructo teórico.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11303</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 45-66</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11303/7487</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11304</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Estabilidad Epistemológica del Profesor Debutante y Espacio de Trabajo Matemático</dc:title>
+	<dc:creator>Montoya-Delgadillo, Elizabeth</dc:creator>
+	<dc:creator>Mena-Lorca, Jaime</dc:creator>
+	<dc:creator>Mena-Lorca, Arturo</dc:creator>
+	<dc:subject xml:lang="pt-BR">Estabilidad Epistemológica. Profesores Debutantes. Algebrización.</dc:subject>
+	<dc:description xml:lang="pt-BR">En este trabajo estudiamos la estabilidad epistemológica de profesores debutantes. Para ello, hemos hecho un estudio cualitativo de su ETM-idóneo en el momento en que desarrollan un dominio matemático con sus estudiantes, de modo de clarificar los elementos que ponen en juego cuando despliegan una tarea en el aula. Mostramos resultados relativos al favorecimiento eventual que hacen esos profesores de la concreción de las génesis semiótica, instrumental y discursiva, y de la circulación entre los distintos polos de los planos epistemológico y cognitivo. Del estudio se desprende que la epistemología del profesor debutante no es estable, debido a una tensión entre su ETM-personal y su ETM-idóneo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11304</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 188-203</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11304/7492</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11305</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">El Papel del MTSK como Modelo de Conocimiento del Profesor en las Interrelaciones entre los Espacios de Trabajo Matemático</dc:title>
+	<dc:creator>Flores-Medrano, Eric</dc:creator>
+	<dc:creator>Montes, Miguel</dc:creator>
+	<dc:creator>Carrillo, José</dc:creator>
+	<dc:creator>Contreras, Luis C.</dc:creator>
+	<dc:creator>Muñoz-Catalán, Mª Cinta</dc:creator>
+	<dc:creator>Liñán, Mª Mar</dc:creator>
+	<dc:subject xml:lang="pt-BR">Espacios de Trabajo Matemático. Conocimiento Especializado del Profesor de Matemáticas. Relaciones entre ETM y MTSK.</dc:subject>
+	<dc:description xml:lang="pt-BR">El profesor desempeña un papel crucial en la articulación de los Espacios de Trabajo Matemático. El modelo de conocimiento del profesor que aquí se presenta (denominado Mathematics Teacher’s Specialised Knowledge) propone una estructuración de dicho conocimiento basada en la noción de ‘especialización’. Esta estructuración, particularmente la consideración de sus componentes (subdominios), permite comprender el conocimiento que el profesor pone en juego en la transición entre los distintos Espacios (idóneo, personal y de referencia) de Trabajo Matemático, así como las relaciones entre estos.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11305</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 204-221</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11305/7493</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11306</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Conocimiento Especializado de un Profesor de Álgebra Lineal y Espacios de Trabajo Matemático</dc:title>
+	<dc:creator>Mora, Diana Vasco</dc:creator>
+	<dc:creator>Climent, Nuria</dc:creator>
+	<dc:creator>Escudero-Ávila, Dinazar</dc:creator>
+	<dc:creator>Montes, Miguel</dc:creator>
+	<dc:creator>Ribeiro, Miguel</dc:creator>
+	<dc:subject xml:lang="pt-BR">Espacios de Trabajo Matemático. Conocimiento Especializado del Profesor de Matemáticas. Álgebra Lineal. Matrices. Estudio de Caso.</dc:subject>
+	<dc:description xml:lang="pt-BR">En este trabajo indagamos sobre las posibles relaciones entre los resultados del análisis de una sesión de clase con dos modelos teóricos: el modelo Mathematics Teacher’s Specialised Knowledge (MTSK) y los Espacios de Trabajo Matemático (ETM). De este modo, discutimos el conocimiento especializado (MTSK) que evidencia en una sesión sobre la multiplicación de matrices un profesor universitario de álgebra lineal y el espacio de trabajo matemático (ETM) idóneo del profesor en esta sesión. El conocimiento evidenciado por el profesor parece explicar las génesis que el profesor prima en el trabajo matemático que propone. Así, el análisis con ambos modelos permite comprender mejor la actividad matemática que propicia el profesor y cómo se explica desde su conocimiento.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11306</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 222-239</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11306/7494</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11307</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Entornos Tecnológicos y su Influencia en los Espacios de Trabajo Matemático</dc:title>
+	<dc:creator>Codina Sánchez, Antonio</dc:creator>
+	<dc:creator>Albaladejo, Isabel Mª Romero</dc:creator>
+	<dc:subject xml:lang="pt-BR">Espacios de Trabajo Matemático. Entornos Tecnológicos. Interactividad. Trabajo Colaborativo. Resolución de Problemas.</dc:subject>
+	<dc:description xml:lang="pt-BR">Este trabajo analiza la influencia de contextos ricos en tecnología digital sobre los Espacios de Trabajo Matemático (ETM). En particular, pretende poner de manifiesto cómo el uso de la tecnología propicia, por una parte, la modificación de roles en los agentes implicados en el proceso de enseñanza-aprendizaje y, por otra, la aparición de ETM compartidos. Utilizando el enfoque de la metodología observacional y el trabajo colaborativo en resolución de problemas como estrategia didáctica con estudiantes para maestro, se ilustrará: (a) cómo influye la interactividad con una i-actividad y el uso de herramientas de comunicación asincrónicas en la construcción de ETM compartidos, y (b) cómo la i-actividad y los estudiantes asumen parcialmente el rol del docente en la gestión de ETM personales y compartidos, ayudados éstos por la tecnología digital.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11307</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 95-119</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11307/7489</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11308</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Génesis Semiótica de los Enteros</dc:title>
+	<dc:creator>Pluvinage, François</dc:creator>
+	<dc:creator>Flores, Patricia</dc:creator>
+	<dc:subject xml:lang="pt-BR">Producto de Números. Regla de los Signos. Distributividad. Geometría del Plano. Espacio de Trabajo Matemático. Génesis Semiótica. Homotecia.</dc:subject>
+	<dc:description xml:lang="pt-BR">La presentación tradicional del anillo de los enteros se enfrenta a dificultades de comprensión del producto por parte de los alumnos, con la famosa regla de los signos. Nuestra hipótesis de trabajo es que la sola representación del producto de dos naturales como área de un rectángulo puede dificultar la visión del producto de dos enteros, y que entonces, en el esquema de los Espacios de Trabajo Matemático, se necesita otro soporte visual para la génesis semiótica de los enteros. Experimentamos un recurso didáctico vinculado con una construcción publicada por Descartes en su suplemento geométrico del Discurso del Método. Observamos que este acercamiento geométrico del producto puede generar dificultades, en particular relacionadas con la propiedad distributiva del producto sobre la suma. Una explicación resulta de la consideración del producto de enteros como procept. De donde surge la propuesta de tomar en cuenta la homotecia para la elaboración de una progresión didáctica al servicio de la enseñanza de los enteros y más generalmente de los números con signo.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11308</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 120-141</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11308/7490</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11309</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Transitioning from “It Looks Like” to “It Has To Be” in Geometrical Workspaces: affect and near-to-me attention</dc:title>
+	<dc:creator>Rodd, Melissa</dc:creator>
+	<dc:subject xml:lang="pt-BR">Geometría. Espacio de Trabajo Geométrico. Arriba-abajo Atención. Afecto. Investigación práctica.</dc:subject>
+	<dc:description xml:lang="pt-BR">Within a practitioner researcher framework, this paper draws on a particular mathematics education theory and aspects of neuroscience to show that, from a learner’s perspective, moving to a deductive reasoning style appropriate to basic Euclidean geometry, can be facilitated, or impeded, by emotion and/or directed attention. This shows that the issue of a person’s deductive reasoning is not a merely cognitive one, but can involve affective aspects related to perception – particularly perception of nearby sense data – and emotion. The mathematics education theory that has been used is that of the Espace de Travail Mathématique, the English translation of which is known as Mathematical Working Spaces (MWS). The aspects of neuroscience that have been used pertain to the distinct processing streams known as top-down and bottom-up attention. The practitioner research perspective is aligned with Mason’s teaching-practice-based ‘noticing’; qualitative data analysed in this report include individual interviews with school teachers on in-service courses and reflective notes from teaching. Basic Euclidean geometry is used as the medium for investigating transition from ‘it looks like’ to a reasoned ‘it has to be’.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11309</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 142-164</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11309/7491</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11310</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Pensamiento Aritmético-Algebraico a través de un Espacio de Trabajo Matemático en un Ambiente de Papel, Lápiz y Tecnología en la Escuela Secundaria</dc:title>
+	<dc:creator>Cortés, José Carlos</dc:creator>
+	<dc:creator>Hitt, Fernando</dc:creator>
+	<dc:creator>Saboya, Mireille</dc:creator>
+	<dc:subject xml:lang="pt-BR">ACODESA. Espacios de Trabajo Matemático. Pensamiento aritmético-algebraico.</dc:subject>
+	<dc:description xml:lang="pt-BR">En este documento nos interesa abordar el problema de la enseñanza del álgebra bajo el punto de vista del marco teórico de los Espacios de Trabajo Matemático (ETM). En nuestro estudio, realizamos dos experimentaciones, una en Québec y otra en México. En la investigación, hemos considerando la visualización que se pone en marcha, una vez que el individuo comunica sus ideas a otros (o a sí mismo), y construye relaciones entre los elementos en juego, incluyendo articulaciones entre representaciones. La evolución de estas construcciones cognitivas dentro de una perspectiva de los procesos de significación, necesita de experiencias compartidas, en lo que nosotros hemos designado como una enseñanza y aprendizaje en colaboración, debate científico y autorreflexión (ACODESA), bajo el punto de vista de la teoría de la actividad. Específicamente, se investiga en torno a los números poligonales (en especial los números triangulares), en un ambiente de papel, lápiz y tecnología. Nuestra interpretación sobre los procesos cognitivos de una población de alumnos (14-15 años) de una escuela secundaria en México siguen el marco teórico de los ETM. Esta interpretación se centra en el paso de un plano epistemológico hacia un plano cognitivo en donde la actividad matemática permite una articulación de procesos de visualización, producción y procesos de validación aritmético-algebraicos que proporcionan un suporte precisamente a un pensamiento aritmético-algebraico.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11310</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 240-264</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11310/7495</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11311</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">The Mathematical Work with the Derivative of a Function: Teachers’ Practices with the Idea of “Generic”</dc:title>
+	<dc:creator>Panero, Monica</dc:creator>
+	<dc:creator>Arzarello, Ferdinando</dc:creator>
+	<dc:creator>Sabena, Cristina</dc:creator>
+	<dc:subject xml:lang="pt-BR">Derivative Function. Generic. Perspectives on Functions. Calculus.</dc:subject>
+	<dc:description xml:lang="pt-BR">This paper investigates the introduction of the derivative notion and, specifically, the introduction of the derivative function, as a significant moment in the development of mathematical work on functions. In particular, we analyse the process of genericization that two Italian teachers conducted with their grade 13 students, in order to make them shift from the derivative at a specific point x0 to the derivative as a global function in the x variable. Specifically, we analyse the role of the teacher in the semiotic genesis of this process and investigate the role of semiotic resources therein. As a result, we highlight the importance of conducting carefully this shift from the pointwise x0 sign to the global x sign, in order to gain an actual shift in the perceived properties of the derivative function, which depends on the x sign as a variable. In conclusion, we connect our findings to the model of the Mathematical Working Space of functions, with particular regard to the “visualisation” process and the semiotic axis.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11311</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 265-286</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11311/7496</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11312</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Fostering Representational Flexibility in the Mathematical Working Space of Rational Numbers</dc:title>
+	<dc:creator>Gagatsis, Athanasios</dc:creator>
+	<dc:creator>Deliyianni, Eleni</dc:creator>
+	<dc:creator>Elia, Iliada</dc:creator>
+	<dc:creator>Panaoura, Areti</dc:creator>
+	<dc:creator>Michael-Chrysanthou, Paraskevi</dc:creator>
+	<dc:subject xml:lang="pt-BR">Representational Flexibility. Mathematical Working Space. Fractions. Decimals.</dc:subject>
+	<dc:description xml:lang="pt-BR">The study focuses on the cognitive level of Mathematical Working Space (MWS) and the component of the epistemological level related to semiotic representations in two mathematical domains of rational numbers: fraction and decimal number addition. Within this scope, it aims to explore how representational flexibility develops over time. A similar developmental pattern of four distinct hierarchical levels of student representational flexibility in both domains is identified. The findings indicate that the genesis of the semiotic axis in fraction and decimal addition is not automatic, but a long process of developmental steps that could be referred to as MWS1, MWS2, MWS3, MWS4 (final). There is not a clear and stable correspondence between developmental levels of representational flexibility and school grades. Didactical implications in order to foster representational flexibility in the MWS of fraction and decimal addition are discussed.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11312</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 287-307</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11312/7497</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11313</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">El ETM de Futuros Profesores de Primaria en un Trabajo sobre los Números Naturales en Cualquier Base</dc:title>
+	<dc:creator>Nikolantonakis, Kostas</dc:creator>
+	<dc:creator>Vivier, Laurent</dc:creator>
+	<dc:subject xml:lang="pt-BR">Espacio de Trabajo Matemático. Números Naturales. Sistema Posicional. Formación Inicial de Docentes.</dc:subject>
+	<dc:description xml:lang="pt-BR">La formación de profesores de primaria, en Francia como en Grecia, pone el acento en los números naturales y el sistema posicional. La introducción de bases diferentes de diez muestra que los Espacio de Trabajo Matemático (ETM) personales son guiadados por el componente semiótico (representamen) reducido a la base diez y que una parte del trabajo se puede interpretar como un cambio de dominio, entre la base diez y las otras bases. Proponemos retomar los análisis semióticos y estadísticos de una experimentación realizada en Francia y en Grecia con el modelo de los ETM que permite tomar en cuenta los diferentes componentes del trabajo matemático. El estudio finaliza con una experimentación elaborada en base siete que parece ayudar a la conceptualización y a la coordinación de los ETM relativos a los números en diferentes bases.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11313</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 23-44</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11313/7498</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11315</identifier>
+				<datestamp>2016-05-25T02:03:48Z</datestamp>
+				<setSpec>bolema:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Mathematics Teachers’ Professional Identity Development in Communities of Practice: Reifications of Proportional Reasoning Teaching</dc:title>
+	<dc:creator>Cyrino, Márcia Cristina de Costa Trindade</dc:creator>
+	<dc:subject xml:lang="pt-BR">Teachers’ Professional Identity. Mathematics Teachers Education. Communities of Practice. Proportional Reasoning.</dc:subject>
+	<dc:description xml:lang="pt-BR">In the last decade, the Study and Research Group on the Education of Teachers who teach Math – GEPEFOPEM (Brazil) investigated teacher education groups constituted as Communities of Practice – CoPs.  The objective of this paper is to discuss the focus of one of these CoPs when working with Proportional Reasoning and the practice elements of four CoPs, which promoted the development of their members’ professional identity. The data was collected through an analysis of meaning negotiation processes, mobilized knowledge and the CoPs dynamics based on different groups interactions and written production of their members. The analysis showed that self-knowledge, beliefs and concepts, professional knowledge, vulnerability, and the sense of agency became the focal points of the CoPs during the study of proportional reasoning as well as the practice elements of the four CoPs that promoted the professional identity development of, namely: shared repertoires, reports and discussions on their pedagogical practices, the existence of an open and flexible work plan, the opportunity to discuss their written productions, vulnerability experiences, the search for a sense of agency balance, connections among observations and empirical interpretations and a broader theoretical background, reports and discussions on previous meetings. Factors such as respect, trust, challenge, solidarity, projects negotiations, dynamics and actions, valorization of the singularities, and professional practices of teachers are essential for the constitution of the professional identity of these professionals and for the cultivation and maintenance of these groups.</dc:description>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-04-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Pesquisa Qualitativa</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11315</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 54 (2016); 165-187</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11315/7499</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11404</identifier>
+				<datestamp>2016-12-01T20:00:55Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">PRATES, E. M. de O. R. Narrativas de graduandos do curso de pedagogia: representações sobre a profissão docente e o silenciamento sobre a matemática. 2014. 196p. Tese (Doutorado) - Universidade São Francisco, Itatiba, 2014.</dc:title>
+	<dc:creator>Severino, Augusta Teresa Barbosa</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-06-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11404</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 55 (2016); 862-867</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11404/7597</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11432</identifier>
+				<datestamp>2016-12-01T20:00:55Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Expediente</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-06-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11432</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 55 (2016)</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11432/7972</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11433</identifier>
+				<datestamp>2016-12-01T20:00:55Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Folha de Rosto</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-06-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11433</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 55 (2016); i-ii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11433/7565</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11434</identifier>
+				<datestamp>2016-12-01T20:00:55Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Linha Editorial</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-06-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11434</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 55 (2016); iii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11434/7566</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11435</identifier>
+				<datestamp>2016-12-01T20:00:55Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-06-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11435</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 55 (2016); iv-vii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11435/7567</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11436</identifier>
+				<datestamp>2016-12-01T20:00:55Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-06-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11436</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 55 (2016); viii-ix</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11436/7568</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11439</identifier>
+				<datestamp>2016-12-01T20:00:55Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">FERNANDES, F. S. A Quinta História: composições da Educação Matemática como área de pesquisa. 2014. 233f. Tese (Doutorado em Educação Matemática) – Instituto de Geociências e Ciências Exatas, Universidade Estadual Paulista Júlio Mesquita Filho, Rio Claro, 2014.</dc:title>
+	<dc:creator>Gonzales, Katia Guerchi</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-06-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11439</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 55 (2016); 849-856</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11439/7595</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11987</identifier>
+				<datestamp>2017-05-03T09:56:16Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Expediente</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-12-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11987</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 56 (2016)</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11987/7966</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11988</identifier>
+				<datestamp>2017-05-03T09:56:16Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Folha de Rosto</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-12-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11988</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 56 (2016); i - ii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11988/7967</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11989</identifier>
+				<datestamp>2017-05-03T09:56:16Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Linha Editorial</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-12-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11989</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 56 (2016); iii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11989/7968</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11990</identifier>
+				<datestamp>2017-05-03T09:56:16Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Errata</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-12-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11990</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 56 (2016); iv</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11990/7991</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11991</identifier>
+				<datestamp>2017-05-03T09:56:16Z</datestamp>
+				<setSpec>bolema:EXP</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Sumário</dc:title>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-12-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11991</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 56 (2016); v - viii</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11991/7990</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/11992</identifier>
+				<datestamp>2017-05-03T09:56:16Z</datestamp>
+				<setSpec>bolema:RES</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">ANDRADE, M. M. Ensaios sobre o Ensino em Geral e o de Matemática em particular, de Lacroix: Análise de uma forma simbólica à luz do referencial metodológico da Hermenêutica de Profundidade. 2012. Tese (Doutorado em Educação Matemática) – Instituto de Geociências e Ciências Exatas do Campus de Rio Claro, Universidade Estadual Paulista Júlio de Mesquita Filho, Rio Claro, 2012.</dc:title>
+	<dc:creator>Souza, Leandro Josué de</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-12-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11992</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 56 (2016); 1319 - 1324</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/11992/7974</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<record>
+			<header>
+				<identifier>oai:periodicos.rc.biblioteca.unesp.br:article/12009</identifier>
+				<datestamp>2017-05-03T09:56:16Z</datestamp>
+				<setSpec>bolema:EDIT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc
+	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+	http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="pt-BR">Editorial</dc:title>
+	<dc:creator>Garnica, Antonio Vicente Marafioti</dc:creator>
+	<dc:creator>Miarka, Roger</dc:creator>
+	<dc:publisher xml:lang="pt-BR">UNESP - Campus de Rio Claro - Instituto de Geociências e Ciências Exatas</dc:publisher>
+	<dc:date>2016-12-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="pt-BR">Artigo Solicitado</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/12009</dc:identifier>
+	<dc:source xml:lang="pt-BR">Bolema: Boletim de Educação Matemática; v. 30 n. 56 (2016); ix - x</dc:source>
+	<dc:source>1980-4415</dc:source>
+	<dc:source>0103-636X</dc:source>
+	<dc:language>por</dc:language>
+	<dc:relation>https://www.periodicos.rc.biblioteca.unesp.br/index.php/bolema/article/view/12009/7988</dc:relation>
+	<dc:rights xml:lang="pt-BR">Copyright (c) 2016 Bolema - Boletim de Educação Matemática</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		<resumptionToken completeListSize="1039" cursor="1000" />
+	</ListRecords>
+</OAI-PMH>
