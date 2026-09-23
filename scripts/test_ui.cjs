@@ -44,6 +44,6 @@ const root=path.resolve(__dirname,'../dist');
  w.location.hash='#revistas';await tick();assert.ok(q('[data-journal]'));
  q('[data-journal]').click();await tick();assert.equal(all('[data-field="journal"]:checked').length,1);
  w.location.hash='#dados';await tick();assert.ok(q('table'));assert.match(q('table').textContent,/Coleta/);
- w.location.hash='#sobre';await tick();assert.match(q('main').textContent,/Não são feitas traduções/);
+ w.location.hash='#sobre';await tick();assert.match(q('main').textContent,/Gerlan Silva da Silva/);
  dom.window.close();console.log('OK: cards, etiquetas, alternância de colunas, busca, paginação, filtros, registro, exportações e navegação.');
 })().catch(e=>{console.error(e);process.exitCode=1});

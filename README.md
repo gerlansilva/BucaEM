@@ -2,6 +2,10 @@
 
 Busca integrada em periódicos brasileiros de Educação Matemática. Site estático para GitHub + Cloudflare Pages, sem contas ou recursos de rede social.
 
+## Correção da distribuição das colunas
+
+Se os filtros apareceram na coluna larga e os cards ficaram estreitos, substitua somente `dist/styles.css` por este arquivo atualizado. O conflito entre `.btn` e `.filter-toggle` foi corrigido e as colunas receberam áreas explícitas. Os dados e as configurações do Cloudflare não precisam ser alterados.
+
 ## Atualizar apenas o visual, preservando seus dados atuais
 
 Se você já publicou a versão 2, substitua somente estes cinco arquivos da pasta `dist`: `index.html`, `styles.css`, `app.js`, `icons.svg` e `LUCIDE-LICENSE.txt`. Os dois últimos são novos. Não precisa substituir `dist/data` nem executar a coleta para aplicar o redesign. A configuração do Cloudflare permanece igual.
@@ -112,3 +116,8 @@ Os XMLs com caracteres de controle inválidos são mantidos intactos; apenas a c
 A busca é nos metadados, não dentro de PDFs. PDFs não são copiados. Não inclui servidor OAI-PMH de saída, API externa ou garantia de indexação pelo Google Scholar. O navegador carrega os lotes do catálogo para pesquisar; volumes muito maiores exigem medir desempenho e avaliar um índice no servidor.
 
 Esta entrega contém código e dados: não altera automaticamente seu repositório nem a publicação existente.
+
+
+## International metadata model (v4)
+
+BuscaEM now keeps original-language metadata and dedicated English fields (`titleEn`, `abstractEn`, `keywordsEn`). The public search indexes both layers and supports `AND`, `OR`, `NOT`, quoted phrases and parentheses. The journal registry includes integrated and catalogued sources; catalogued sources are never counted as indexed until an ingestion adapter succeeds.

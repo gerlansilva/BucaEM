@@ -2,6 +2,10 @@
   "name": "buscaem",
   "private": true,
   "version": "3.0.0",
-  "scripts": {"test": "node scripts/test_ui.cjs"},
-  "devDependencies": {"jsdom": "26.1.0"}
+  "scripts": {
+    "test": "node scripts/test_layout.cjs && node scripts/test_ui.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
 }

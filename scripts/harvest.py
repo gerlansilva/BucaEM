@@ -48,6 +48,36 @@ def portuguese_fields(dc, name):
 def clean(value):
     return re.sub(r'\s+', ' ', re.sub(r'<[^>]*>', '', html.unescape(value or ''))).strip()
 
+
+def declared_language(element, text=''):
+    declared = element.attrib.get('{http://www.w3.org/XML/1998/namespace}lang', '').lower().replace('_','-')
+    aliases = {'por':'pt','pt-br':'pt','pt':'pt','eng':'en','en-us':'en','en-gb':'en','en':'en','spa':'es','es':'es','fra':'fr','fr':'fr','deu':'de','ger':'de','de':'de'}
+    if declared:
+        base=declared.split('-')[0]
+        return aliases.get(declared, aliases.get(base, base))
+    detected = DETECTOR.detect_language_of(text) if text else None
+    return {Language.PORTUGUESE:'pt',Language.ENGLISH:'en',Language.SPANISH:'es',Language.FRENCH:'fr'}.get(detected,'')
+
+def multilingual_fields(dc, name, split_subject=False):
+    out=[]
+    for e in dc.findall('.//dc:'+name, NS):
+        raw=clean(''.join(e.itertext()))
+        if not raw: continue
+        values = re.split(r';|[-–—]{3,}', raw) if split_subject else [raw]
+        for value in values:
+            value=value.strip()
+            if value:
+                out.append({'text':value,'lang':declared_language(e,value)})
+    seen=set(); result=[]
+    for item in out:
+        key=(item['text'],item['lang'])
+        if key not in seen:
+            seen.add(key); result.append(item)
+    return result
+
+def pick_language(items, lang):
+    return next((x['text'] for x in items if x.get('lang')==lang and x.get('text')), '')
+
 def parse_xml(raw):
     # OJS occasionally emits XML 1.0 forbidden control characters from Word.
     # Keep the raw file unchanged; replace only these invalid bytes for parsing.
@@ -100,28 +130,48 @@ def parse_record(node, journal, now):
         return None
     def fields(name):
         return list(dict.fromkeys(clean(''.join(e.itertext())) for e in dc.findall('.//dc:' + name, NS) if clean(''.join(e.itertext()))))
-    def preferred(name):
-        values = dc.findall('.//dc:' + name, NS)
-        # Retain every language variant below; prefer Portuguese only for display.
-        values.sort(key=lambda e: 0 if e.attrib.get('{http://www.w3.org/XML/1998/namespace}lang', '').lower().startswith('pt') else 1)
-        return next((clean(''.join(e.itertext())) for e in values if clean(''.join(e.itertext()))), '')
-    title = preferred('title')
-    if not title:
+    titles_ml = multilingual_fields(dc,'title')
+    abstracts_ml = multilingual_fields(dc,'description')
+    keywords_ml = multilingual_fields(dc,'subject',split_subject=True)
+    title_en = pick_language(titles_ml,'en')
+    title_original = titles_ml[0]['text'] if titles_ml else ''
+    if not title_original:
         return None
+    abstract_en = pick_language(abstracts_ml,'en')
+    abstract_original = abstracts_ml[0]['text'] if abstracts_ml else ''
+    keywords_en = list(dict.fromkeys(x['text'] for x in keywords_ml if x.get('lang')=='en'))
+    keywords_original = list(dict.fromkeys(x['text'] for x in keywords_ml))
+    # English fields are source-derived only. Missing translations remain explicit pending values.
+    display_title = title_en or title_original
+    display_abstract = abstract_en or abstract_original
+    display_keywords = keywords_en or keywords_original
     identifiers = fields('identifier')
-    urls = [s for s in identifiers if urllib.parse.urlparse(s).scheme in ('http', 'https')]
-    doi = next((m.group(0).rstrip('.,;') for s in identifiers if (m := re.search(r'10\.\d{4,9}/[^\s<>]+', s, re.I))), '')
+    urls = [u for u in identifiers if urllib.parse.urlparse(u).scheme in ('http','https')]
+    doi = next((m.group(0).rstrip('.,;') for value in identifiers if (m:=re.search(r'10\.\d{4,9}/[^\s<>]+',value,re.I))), '')
     landing = next((u for u in urls if '/article/view/' in u), next((u for u in urls if 'doi.org/' not in u), ''))
-    pdf = next((u for u in urls + fields('relation') if urllib.parse.urlparse(u).scheme in ('https', 'http') and (u.lower().endswith('.pdf') or '/article/download/' in u)), '')
-    years = [m.group(0) for s in fields('date') if (m := re.search(r'\b(?:19|20)\d{2}\b', s))]
-    languages = fields('language')
-    language = languages[0] if languages else ''
-    lang_map = {'pt': 'Português', 'por': 'Português', 'pt-br': 'Português', 'en': 'Inglês', 'eng': 'Inglês', 'es': 'Espanhol', 'spa': 'Espanhol'}
-    keywords = list(dict.fromkeys(k.strip() for subject in portuguese_fields(dc, 'subject') for k in subject.split(';') if k.strip()))
-    pt_abstracts = portuguese_fields(dc, 'description')
-    types = fields('type')
-    rights = fields('rights')
-    return {'id': item_id, 'journal': journal['id'], 'title': title, 'titles': fields('title'), 'authors': fields('creator'), 'abstract': pt_abstracts[0] if pt_abstracts else '', 'abstracts': fields('description'), 'keywords': keywords, 'year': int(years[0]) if years else 0, 'dates': fields('date'), 'language': lang_map.get(language.lower(), language), 'languages': languages, 'type': types[0] if types else 'Não informado', 'types': types, 'doi': doi, 'url': landing or ('https://doi.org/' + doi if doi else ''), 'pdf': pdf, 'rights': rights, 'openAccess': True if any('creativecommons.org/licenses/' in r or 'creativecommons.org/publicdomain/' in r for r in rights) else None, 'source': journal['oai'], 'oaiIdentifier': identifier, 'oaiDatestamp': header.findtext('o:datestamp', '', NS), 'harvestedAt': now}
+    pdf = next((u for u in urls + fields('relation') if urllib.parse.urlparse(u).scheme in ('https','http') and (u.lower().endswith('.pdf') or '/article/download/' in u)), '')
+    years=[m.group(0) for value in fields('date') if (m:=re.search(r'\b(?:19|20)\d{2}\b',value))]
+    languages=fields('language')
+    primary_lang=(titles_ml[0].get('lang') if titles_ml else '') or (languages[0] if languages else '')
+    lang_map={'pt':'Portuguese','por':'Portuguese','pt-br':'Portuguese','en':'English','eng':'English','es':'Spanish','spa':'Spanish','fr':'French','fra':'French','de':'German','deu':'German','ger':'German'}
+    language_code=str(primary_lang).lower().replace('_','-').split('-')[0]
+    language=lang_map.get(str(primary_lang).lower(),lang_map.get(language_code,str(primary_lang)))
+    types=fields('type'); rights=fields('rights')
+    metadata_status='source' if title_en and (not abstract_original or abstract_en) else 'pending_translation'
+    return {
+      'id':item_id,'journal':journal['id'],
+      'title':display_title,'titleOriginal':title_original,'titleEn':title_en,'titles':fields('title'),'titleVariants':titles_ml,
+      'authors':fields('creator'),'contributors':fields('contributor'),'institutions':[],
+      'abstract':display_abstract,'abstractOriginal':abstract_original,'abstractEn':abstract_en,'abstracts':fields('description'),'abstractVariants':abstracts_ml,
+      'keywords':display_keywords,'keywordsOriginal':keywords_original,'keywordsEn':keywords_en,'keywordVariants':keywords_ml,
+      'metadataEnglishStatus':metadata_status,
+      'year':int(years[0]) if years else 0,'dates':fields('date'),
+      'language':language,'languageCode':language_code,'languages':languages,
+      'type':types[0] if types else 'Not informed','types':types,
+      'doi':doi,'url':landing or ('https://doi.org/'+doi if doi else ''),'pdf':pdf,'rights':rights,
+      'openAccess':True if any('creativecommons.org/licenses/' in r or 'creativecommons.org/publicdomain/' in r for r in rights) else None,
+      'source':journal.get('oai',''),'oaiIdentifier':identifier,'oaiDatestamp':header.findtext('o:datestamp','',NS),'harvestedAt':now
+    }
 
 def load_json(path):
     if path.suffix == '.gz':
