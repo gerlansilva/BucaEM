@@ -12,13 +12,13 @@
   },
   "educacion-matematica": {
     "crossref": {
-      "cursor": "MTc2NDU0NzMxNzAwMCwxMC4yNDg0NCUyRmVtMzcwMy4wOA==",
-      "pages": 1,
-      "itemsSeen": 1000,
-      "lastRun": "2026-09-23T10:29:04.351765+00:00",
-      "complete": false,
+      "cursor": "MTc4NTU0MzEyODAwMCwxMC4yNDg0NCUyRmVtMzgwMi4wNg==",
+      "pages": 2,
+      "itemsSeen": 1020,
+      "lastRun": "2026-09-23T15:05:43.974116+00:00",
+      "complete": true,
       "issn": "2448-8089",
-      "completedAt": null
+      "completedAt": "2026-09-23T15:05:44.040026+00:00"
     }
   }
 }
