@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T08:24:45.947840+00:00",
+  "generatedAt": "2026-09-23T10:29:04.419710+00:00",
   "definition": "complete=true only after source exhaustion; folders and seed records do not count as complete",
   "journals": {
     "bolema": {
@@ -150,9 +150,11 @@
     },
     "educacion-matematica": {
       "id": "educacion-matematica",
+      "method": "crossref+publisher",
       "complete": false,
-      "rawFilesPresent": 0,
-      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+      "pagesThisRun": 1,
+      "itemsSeen": 1000,
+      "issn": "2448-8089"
     },
     "redimat": {
       "id": "redimat",

@@ -9,5 +9,16 @@
       "issn": "2007-6819",
       "completedAt": "2026-09-23T08:24:45.947822+00:00"
     }
+  },
+  "educacion-matematica": {
+    "crossref": {
+      "cursor": "MTc2NDU0NzMxNzAwMCwxMC4yNDg0NCUyRmVtMzcwMy4wOA==",
+      "pages": 1,
+      "itemsSeen": 1000,
+      "lastRun": "2026-09-23T10:29:04.351765+00:00",
+      "complete": false,
+      "issn": "2448-8089",
+      "completedAt": null
+    }
   }
 }
