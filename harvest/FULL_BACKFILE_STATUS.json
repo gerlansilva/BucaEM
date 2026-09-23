@@ -1,0 +1,384 @@
+{
+  "generatedAt": "2026-09-22T00:00:00Z",
+  "definition": "complete=true only after source exhaustion; folders and seed records do not count as complete",
+  "journals": {
+    "bolema": {
+      "id": "bolema",
+      "complete": false,
+      "rawFilesPresent": 12,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "zetetike": {
+      "id": "zetetike",
+      "complete": false,
+      "rawFilesPresent": 9,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "emp": {
+      "id": "emp",
+      "complete": false,
+      "rawFilesPresent": 16,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "revemat": {
+      "id": "revemat",
+      "complete": false,
+      "rawFilesPresent": 7,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "ripem": {
+      "id": "ripem",
+      "complete": false,
+      "rawFilesPresent": 6,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "emr": {
+      "id": "emr",
+      "complete": false,
+      "rawFilesPresent": 12,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "remat": {
+      "id": "remat",
+      "complete": false,
+      "rawFilesPresent": 5,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "pem": {
+      "id": "pem",
+      "complete": false,
+      "rawFilesPresent": 8,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "rpem": {
+      "id": "rpem",
+      "complete": false,
+      "rawFilesPresent": 8,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "boem": {
+      "id": "boem",
+      "complete": false,
+      "rawFilesPresent": 4,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "emteia": {
+      "id": "emteia",
+      "complete": false,
+      "rawFilesPresent": 7,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "jieem": {
+      "id": "jieem",
+      "complete": false,
+      "rawFilesPresent": 6,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "rematec": {
+      "id": "rematec",
+      "complete": false,
+      "rawFilesPresent": 8,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "tangram": {
+      "id": "tangram",
+      "complete": false,
+      "rawFilesPresent": 4,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "histemat": {
+      "id": "histemat",
+      "complete": false,
+      "rawFilesPresent": 5,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "emd": {
+      "id": "emd",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "emfoco": {
+      "id": "emfoco",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "capp": {
+      "id": "capp",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "reviem": {
+      "id": "reviem",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "revemop": {
+      "id": "revemop",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "rsermat": {
+      "id": "rsermat",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "baianaem": {
+      "id": "baianaem",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "emr-rs": {
+      "id": "emr-rs",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "relime": {
+      "id": "relime",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "educacion-matematica": {
+      "id": "educacion-matematica",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "redimat": {
+      "id": "redimat",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "pna": {
+      "id": "pna",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "aiem": {
+      "id": "aiem",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "union": {
+      "id": "union",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "numeros": {
+      "id": "numeros",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "epsilon": {
+      "id": "epsilon",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "quadrante": {
+      "id": "quadrante",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "zdm": {
+      "id": "zdm",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "esm": {
+      "id": "esm",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "jrme": {
+      "id": "jrme",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "jmte": {
+      "id": "jmte",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "merj": {
+      "id": "merj",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "mtl": {
+      "id": "mtl",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "jmb": {
+      "id": "jmb",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "rme": {
+      "id": "rme",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "flm": {
+      "id": "flm",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "ijmest": {
+      "id": "ijmest",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "iejme": {
+      "id": "iejme",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "tmma": {
+      "id": "tmma",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "mted": {
+      "id": "mted",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "jume": {
+      "id": "jume",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "alm": {
+      "id": "alm",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "serj": {
+      "id": "serj",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "jmd": {
+      "id": "jmd",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "gepem": {
+      "id": "gepem",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "caminhos-em": {
+      "id": "caminhos-em",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "emsf": {
+      "id": "emsf",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "modelagem-em": {
+      "id": "modelagem-em",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "geogebra-sp": {
+      "id": "geogebra-sp",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "coinspiracao": {
+      "id": "coinspiracao",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "ijtme": {
+      "id": "ijtme",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "dem": {
+      "id": "dem",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "iml": {
+      "id": "iml",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "tme": {
+      "id": "tme",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "mathematica-didactica": {
+      "id": "mathematica-didactica",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "zmfp": {
+      "id": "zmfp",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "educacao-matematica-pt": {
+      "id": "educacao-matematica-pt",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    },
+    "suma": {
+      "id": "suma",
+      "complete": false,
+      "rawFilesPresent": 0,
+      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+    }
+  }
+}
