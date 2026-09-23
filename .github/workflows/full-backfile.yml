@@ -1,123 +1,1918 @@
-name: BuscaEM — Backfile internacional
+#!/usr/bin/env python3
+"""BuscaEM complete backfile harvester.
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "17 * * * *"
+Goal
+----
+Exhaust each configured journal, not sample it.
 
-permissions:
-  contents: write
+Priority
+--------
+1. Configured OAI-PMH / SciELO official adapters
+2. Crossref journal backfile
+3. Publisher landing-page enrichment per DOI
 
-concurrency:
-  group: buscaem-backfile
-  cancel-in-progress: false
+OpenAlex is never used as the bibliographic authority here.
 
-jobs:
-  harvest:
-    runs-on: ubuntu-latest
-    timeout-minutes: 330
+Multilingual policy
+-------------------
+- Original metadata is preserved.
+- English metadata is stored only when the official source or
+  publisher metadata explicitly provides it.
+- No automatic translation is performed here.
+- titleEn / abstractEn / keywordsEn are source-derived only.
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+The script is resumable and writes raw pages before normalization so
+every field can be audited. It never marks a journal complete unless
+the source itself is exhausted without errors.
+"""
 
-      - name: Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: pip
+from __future__ import annotations
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+import argparse
+import hashlib
+import json
+import re
+import sys
+import time
+import unicodedata
+import urllib.parse
 
-      - name: Select next incomplete journal
-        id: select
-        shell: bash
-        run: |
-          JOURNAL=$(python - <<'PY'
-          import json
-          from pathlib import Path
+from datetime import datetime, timezone
+from pathlib import Path
 
-          journals = json.loads(
-              Path("dist/data/journals.json").read_text(encoding="utf-8")
-          )
 
-          state_path = Path("harvest/backfile_state.json")
+ROOT = Path(__file__).resolve().parents[1]
 
-          if state_path.exists():
-              state = json.loads(
-                  state_path.read_text(encoding="utf-8")
-              )
-          else:
-              state = {}
+sys.path.insert(
+    0,
+    str(ROOT / "scripts"),
+)
 
-          for j in journals:
-              if not j.get("enabled"):
-                  continue
+from official_metadata import (
+    normalize_crossref,
+    parse_publisher_html,
+    normalize_doi,
+    _request,
+)
 
-              # As revistas já integradas são atualizadas
-              # pelos coletores oficiais OAI/SciELO.
-              if j.get("collectionStatus") == "integrated":
-                  continue
 
-              # Este workflow é para as novas revistas
-              # internacionais e ibero-americanas.
-              if j.get("country") == "Brazil":
-                  continue
+CROSSREF = "https://api.crossref.org"
 
-              jid = j["id"]
 
-              complete = (
-                  state
-                  .get(jid, {})
-                  .get("crossref", {})
-                  .get("complete", False)
-              )
+# ---------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------
 
-              if not complete:
-                  print(jid)
-                  break
-          PY
-          )
+def clean(value):
+    return re.sub(
+        r"\s+",
+        " ",
+        str(value or ""),
+    ).strip()
 
-          echo "journal=$JOURNAL" >> "$GITHUB_OUTPUT"
-          echo "Next journal: $JOURNAL"
 
-      - name: Harvest one resumable page with official enrichment
-        if: steps.select.outputs.journal != ''
-        run: |
-          python scripts/harvest_backfiles.py \
-            --journal "${{ steps.select.outputs.journal }}" \
-            --max-pages 1
+def norm(value):
+    value = unicodedata.normalize(
+        "NFKD",
+        clean(value),
+    )
 
-      - name: Rebuild public index
-        if: steps.select.outputs.journal != ''
-        run: |
-          python scripts/reprocess.py || true
-          python scripts/publish.py
-          python scripts/validate.py || true
+    value = (
+        value
+        .encode(
+            "ascii",
+            "ignore",
+        )
+        .decode()
+        .casefold()
+    )
 
-      - name: Commit checkpoint and harvested files
-        if: steps.select.outputs.journal != ''
-        shell: bash
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    return re.sub(
+        r"[^a-z0-9]+",
+        " ",
+        value,
+    ).strip()
 
-          git add harvest dist/data
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "harvest: backfile ${{ steps.select.outputs.journal }}"
-            git push
-          fi
+def normalize_lang(value):
+    value = clean(
+        value
+    ).lower().replace(
+        "_",
+        "-",
+    )
 
-      - name: No incomplete international journal found
-        if: steps.select.outputs.journal == ''
-        run: |
-          echo "No incomplete international journal was found."
+    aliases = {
+        "eng": "en",
+        "english": "en",
+
+        "por": "pt",
+        "portuguese": "pt",
+        "português": "pt",
+        "portugues": "pt",
+
+        "spa": "es",
+        "spanish": "es",
+        "español": "es",
+        "espanol": "es",
+
+        "fra": "fr",
+        "fre": "fr",
+        "french": "fr",
+
+        "deu": "de",
+        "ger": "de",
+        "german": "de",
+
+        "ita": "it",
+        "italian": "it",
+    }
+
+    if value in aliases:
+        return aliases[value]
+
+    return (
+        value.split("-")[0]
+        if value
+        else ""
+    )
+
+
+def unique(values):
+    result = []
+    seen = set()
+
+    for value in values:
+        if value in (
+            None,
+            "",
+            [],
+            {},
+        ):
+            continue
+
+        if isinstance(
+            value,
+            str,
+        ):
+            key = (
+                "str",
+                value.strip().casefold(),
+            )
+
+        else:
+            key = (
+                type(value).__name__,
+                json.dumps(
+                    value,
+                    ensure_ascii=False,
+                    sort_keys=True,
+                ),
+            )
+
+        if key in seen:
+            continue
+
+        seen.add(
+            key
+        )
+
+        result.append(
+            value
+        )
+
+    return result
+
+
+def merge_variants(
+    first,
+    second,
+):
+    result = []
+    seen = set()
+
+    for group in (
+        first or [],
+        second or [],
+    ):
+        for item in group:
+            if not isinstance(
+                item,
+                dict,
+            ):
+                continue
+
+            text = clean(
+                item.get(
+                    "text"
+                )
+            )
+
+            if not text:
+                continue
+
+            lang = normalize_lang(
+                item.get(
+                    "lang"
+                )
+            )
+
+            key = (
+                text.casefold(),
+                lang,
+            )
+
+            if key in seen:
+                continue
+
+            seen.add(
+                key
+            )
+
+            result.append(
+                {
+                    "text": text,
+                    "lang": lang,
+                }
+            )
+
+    return result
+
+
+def values_for_language(
+    variants,
+    language,
+):
+    language = normalize_lang(
+        language
+    )
+
+    return unique(
+        [
+            item.get(
+                "text"
+            )
+            for item in (
+                variants or []
+            )
+            if isinstance(
+                item,
+                dict,
+            )
+            and normalize_lang(
+                item.get(
+                    "lang"
+                )
+            ) == language
+            and clean(
+                item.get(
+                    "text"
+                )
+            )
+        ]
+    )
+
+
+def load(
+    path,
+    default,
+):
+    try:
+        return json.loads(
+            path.read_text(
+                encoding="utf-8"
+            )
+        )
+
+    except Exception:
+        return default
+
+
+def save(
+    path,
+    value,
+):
+    path.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    tmp = path.with_suffix(
+        path.suffix
+        + ".tmp"
+    )
+
+    tmp.write_text(
+        json.dumps(
+            value,
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+    tmp.replace(
+        path
+    )
+
+
+def fetch_json(
+    url,
+    timeout=90,
+):
+    raw = _request(
+        url,
+        accept="application/json",
+        timeout=timeout,
+        retries=5,
+    )
+
+    return (
+        raw,
+        json.loads(raw),
+    )
+
+
+# ---------------------------------------------------------------------
+# Crossref journal resolution
+# ---------------------------------------------------------------------
+
+def journal_candidates(
+    title,
+):
+    q = urllib.parse.quote(
+        title
+    )
+
+    _, data = fetch_json(
+        f"{CROSSREF}/journals?query={q}&rows=20"
+    )
+
+    return (
+        data
+        .get(
+            "message",
+            {},
+        )
+        .get(
+            "items",
+            [],
+        )
+    )
+
+
+def score_candidate(
+    title,
+    candidate,
+):
+    target = norm(
+        title
+    )
+
+    names = [
+        candidate.get(
+            "title",
+            "",
+        )
+    ]
+
+    if candidate.get(
+        "publisher"
+    ):
+        names.append(
+            candidate[
+                "publisher"
+            ]
+        )
+
+    best = 0.0
+
+    target_words = set(
+        target.split()
+    )
+
+    for name in names:
+        candidate_words = set(
+            norm(name).split()
+        )
+
+        if (
+            not target_words
+            or not candidate_words
+        ):
+            continue
+
+        intersection = len(
+            target_words
+            & candidate_words
+        )
+
+        score = (
+            2
+            * intersection
+            / (
+                len(
+                    target_words
+                )
+                + len(
+                    candidate_words
+                )
+            )
+        )
+
+        if norm(
+            name
+        ) == target:
+            score = 1.0
+
+        best = max(
+            best,
+            score,
+        )
+
+    return best
+
+
+def resolve_crossref_journal(
+    journal,
+    registry,
+):
+    jid = journal[
+        "id"
+    ]
+
+    cached = registry.get(
+        jid,
+        {},
+    )
+
+    if cached.get(
+        "issn"
+    ):
+        return cached
+
+    candidates = journal_candidates(
+        journal[
+            "name"
+        ]
+    )
+
+    ranked = sorted(
+        (
+            (
+                score_candidate(
+                    journal["name"],
+                    candidate,
+                ),
+                candidate,
+            )
+            for candidate in candidates
+        ),
+        reverse=True,
+        key=lambda x: x[0],
+    )
+
+    if (
+        not ranked
+        or ranked[0][0]
+        < 0.72
+    ):
+        raise RuntimeError(
+            "Crossref journal identity unresolved for "
+            + journal[
+                "name"
+            ]
+        )
+
+    score, candidate = ranked[
+        0
+    ]
+
+    issns = (
+        candidate.get(
+            "ISSN"
+        )
+        or []
+    )
+
+    if not issns:
+        raise RuntimeError(
+            "Crossref candidate has no ISSN"
+        )
+
+    out = {
+        "issn": issns[0],
+        "issns": issns,
+        "title": candidate.get(
+            "title",
+            "",
+        ),
+        "publisher": candidate.get(
+            "publisher",
+            "",
+        ),
+        "matchScore": score,
+        "resolvedAt": datetime.now(
+            timezone.utc
+        ).isoformat(),
+    }
+
+    registry[
+        jid
+    ] = out
+
+    return out
+
+
+# ---------------------------------------------------------------------
+# Crossref record
+# ---------------------------------------------------------------------
+
+def record_from_crossref(
+    item,
+    journal,
+):
+    normalized = normalize_crossref(
+        item
+    )
+
+    doi = normalize_doi(
+        normalized.get(
+            "doi"
+        )
+    )
+
+    if (
+        not doi
+        or not normalized.get(
+            "title"
+        )
+    ):
+        return None
+
+    lang = normalize_lang(
+        normalized.get(
+            "languageCode"
+        )
+    )
+
+    title_original = (
+        normalized.get(
+            "titleOriginal"
+        )
+        or normalized.get(
+            "title"
+        )
+        or ""
+    )
+
+    title_en = (
+        normalized.get(
+            "titleEn"
+        )
+        or ""
+    )
+
+    abstract_original = (
+        normalized.get(
+            "abstractOriginal"
+        )
+        or normalized.get(
+            "abstract"
+        )
+        or ""
+    )
+
+    abstract_en = (
+        normalized.get(
+            "abstractEn"
+        )
+        or ""
+    )
+
+    keywords_original = (
+        normalized.get(
+            "keywordsOriginal"
+        )
+        or normalized.get(
+            "keywords"
+        )
+        or []
+    )
+
+    keywords_en = (
+        normalized.get(
+            "keywordsEn"
+        )
+        or []
+    )
+
+    title_variants = (
+        normalized.get(
+            "titleVariants"
+        )
+        or []
+    )
+
+    abstract_variants = (
+        normalized.get(
+            "abstractVariants"
+        )
+        or []
+    )
+
+    keyword_variants = (
+        normalized.get(
+            "keywordVariants"
+        )
+        or []
+    )
+
+    rid = hashlib.sha256(
+        (
+            journal[
+                "id"
+            ]
+            + "|doi|"
+            + doi.lower()
+        ).encode()
+    ).hexdigest()[:24]
+
+    if (
+        title_en
+        or abstract_en
+        or keywords_en
+        or lang == "en"
+    ):
+        english_status = (
+            "source"
+        )
+
+    else:
+        english_status = (
+            "pending_translation"
+        )
+
+    languages = unique(
+        [
+            lang,
+            *[
+                normalize_lang(
+                    item.get(
+                        "lang"
+                    )
+                )
+                for item
+                in title_variants
+                if isinstance(
+                    item,
+                    dict,
+                )
+            ],
+            *[
+                normalize_lang(
+                    item.get(
+                        "lang"
+                    )
+                )
+                for item
+                in abstract_variants
+                if isinstance(
+                    item,
+                    dict,
+                )
+            ],
+        ]
+    )
+
+    return {
+        "id": rid,
+
+        "journal": journal[
+            "id"
+        ],
+
+        "title": title_original,
+
+        "titleOriginal": (
+            title_original
+        ),
+
+        "titleEn": (
+            title_en
+        ),
+
+        "titles": unique(
+            [
+                title_original,
+                title_en,
+                *[
+                    item.get(
+                        "text"
+                    )
+                    for item
+                    in title_variants
+                    if isinstance(
+                        item,
+                        dict,
+                    )
+                ],
+            ]
+        ),
+
+        "titleVariants": (
+            title_variants
+        ),
+
+        "authors": (
+            normalized.get(
+                "authors"
+            )
+            or []
+        ),
+
+        "contributors": [],
+
+        "institutions": [],
+
+        "abstract": (
+            abstract_original
+        ),
+
+        "abstractOriginal": (
+            abstract_original
+        ),
+
+        "abstractEn": (
+            abstract_en
+        ),
+
+        "abstracts": unique(
+            [
+                abstract_original,
+                abstract_en,
+                *[
+                    item.get(
+                        "text"
+                    )
+                    for item
+                    in abstract_variants
+                    if isinstance(
+                        item,
+                        dict,
+                    )
+                ],
+            ]
+        ),
+
+        "abstractVariants": (
+            abstract_variants
+        ),
+
+        "keywords": (
+            keywords_original
+        ),
+
+        "keywordsOriginal": (
+            keywords_original
+        ),
+
+        "keywordsEn": (
+            keywords_en
+        ),
+
+        "keywordVariants": (
+            keyword_variants
+        ),
+
+        "metadataEnglishStatus": (
+            english_status
+        ),
+
+        "year": (
+            normalized.get(
+                "year"
+            )
+            or 0
+        ),
+
+        "dates": (
+            [
+                normalized.get(
+                    "date"
+                )
+            ]
+            if normalized.get(
+                "date"
+            )
+            else []
+        ),
+
+        "language": {
+            "en": "English",
+            "pt": "Portuguese",
+            "es": "Spanish",
+            "fr": "French",
+            "de": "German",
+            "it": "Italian",
+        }.get(
+            lang,
+            lang,
+        ),
+
+        "languageCode": (
+            lang
+        ),
+
+        "languages": (
+            languages
+        ),
+
+        "type": (
+            item.get(
+                "type"
+            )
+            or "journal-article"
+        ),
+
+        "types": [
+            item.get(
+                "type"
+            )
+            or "journal-article"
+        ],
+
+        "doi": doi,
+
+        "url": (
+            normalized.get(
+                "url"
+            )
+            or (
+                "https://doi.org/"
+                + doi
+            )
+        ),
+
+        "pdf": "",
+
+        "volume": (
+            normalized.get(
+                "volume"
+            )
+            or ""
+        ),
+
+        "issue": (
+            normalized.get(
+                "issue"
+            )
+            or ""
+        ),
+
+        "pages": (
+            normalized.get(
+                "pages"
+            )
+            or ""
+        ),
+
+        "rights": [],
+
+        "openAccess": None,
+
+        "source": (
+            "Crossref publisher deposit"
+        ),
+
+        "provenance": [
+            "Crossref publisher deposit"
+        ],
+
+        "metadataAuthority": (
+            "crossref"
+        ),
+
+        "harvestedAt": datetime.now(
+            timezone.utc
+        ).isoformat(),
+    }
+
+
+# ---------------------------------------------------------------------
+# Official publisher enrichment
+# ---------------------------------------------------------------------
+
+def enrich_official(
+    record,
+    journal,
+    delay=0.15,
+):
+    doi = record.get(
+        "doi"
+    )
+
+    if not doi:
+        return record
+
+    url = (
+        record.get(
+            "url"
+        )
+        or (
+            "https://doi.org/"
+            + doi
+        )
+    )
+
+    try:
+        raw = _request(
+            url,
+            accept=(
+                "text/html,"
+                "application/xhtml+xml"
+            ),
+            timeout=60,
+            retries=3,
+        )
+
+        base = (
+            ROOT
+            / "harvest/raw"
+            / journal["id"]
+            / "official"
+        )
+
+        base.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        filename = (
+            hashlib.sha256(
+                doi.encode()
+            ).hexdigest()[:24]
+            + ".html"
+        )
+
+        (
+            base
+            / filename
+        ).write_bytes(
+            raw
+        )
+
+        publisher = (
+            parse_publisher_html(
+                raw,
+                url,
+            )
+        )
+
+
+        # ---------------------------------------------------------
+        # Core bibliographic fields
+        # ---------------------------------------------------------
+
+        mapping = {
+            "authors": "authors",
+            "volume": "volume",
+            "issue": "issue",
+            "pages": "pages",
+            "pdf": "pdf",
+            "url": "url",
+            "year": "year",
+            "languageCode": "languageCode",
+        }
+
+        for source_key, target_key in mapping.items():
+            value = publisher.get(
+                source_key
+            )
+
+            if value not in (
+                None,
+                "",
+                [],
+                {},
+                0,
+            ):
+                record[
+                    target_key
+                ] = value
+
+
+        # ---------------------------------------------------------
+        # Original title
+        # ---------------------------------------------------------
+
+        official_title = (
+            publisher.get(
+                "titleOriginal"
+            )
+            or publisher.get(
+                "title"
+            )
+            or ""
+        )
+
+        if official_title:
+            record[
+                "title"
+            ] = official_title
+
+            record[
+                "titleOriginal"
+            ] = official_title
+
+
+        # ---------------------------------------------------------
+        # English title
+        # ---------------------------------------------------------
+
+        official_title_en = (
+            publisher.get(
+                "titleEn"
+            )
+            or ""
+        )
+
+        if official_title_en:
+            record[
+                "titleEn"
+            ] = official_title_en
+
+
+        # ---------------------------------------------------------
+        # Title variants
+        # ---------------------------------------------------------
+
+        record[
+            "titleVariants"
+        ] = merge_variants(
+            publisher.get(
+                "titleVariants"
+            ),
+            record.get(
+                "titleVariants"
+            ),
+        )
+
+        record[
+            "titles"
+        ] = unique(
+            [
+                record.get(
+                    "titleOriginal"
+                ),
+                record.get(
+                    "titleEn"
+                ),
+                *[
+                    item.get(
+                        "text"
+                    )
+                    for item
+                    in record.get(
+                        "titleVariants",
+                        [],
+                    )
+                    if isinstance(
+                        item,
+                        dict,
+                    )
+                ],
+            ]
+        )
+
+
+        # ---------------------------------------------------------
+        # Original abstract
+        # ---------------------------------------------------------
+
+        official_abstract = (
+            publisher.get(
+                "abstractOriginal"
+            )
+            or publisher.get(
+                "abstract"
+            )
+            or ""
+        )
+
+        if official_abstract:
+            record[
+                "abstract"
+            ] = official_abstract
+
+            record[
+                "abstractOriginal"
+            ] = official_abstract
+
+
+        # ---------------------------------------------------------
+        # English abstract
+        # ---------------------------------------------------------
+
+        official_abstract_en = (
+            publisher.get(
+                "abstractEn"
+            )
+            or ""
+        )
+
+        if official_abstract_en:
+            record[
+                "abstractEn"
+            ] = official_abstract_en
+
+
+        # ---------------------------------------------------------
+        # Abstract variants
+        # ---------------------------------------------------------
+
+        record[
+            "abstractVariants"
+        ] = merge_variants(
+            publisher.get(
+                "abstractVariants"
+            ),
+            record.get(
+                "abstractVariants"
+            ),
+        )
+
+        record[
+            "abstracts"
+        ] = unique(
+            [
+                record.get(
+                    "abstractOriginal"
+                ),
+                record.get(
+                    "abstractEn"
+                ),
+                *[
+                    item.get(
+                        "text"
+                    )
+                    for item
+                    in record.get(
+                        "abstractVariants",
+                        [],
+                    )
+                    if isinstance(
+                        item,
+                        dict,
+                    )
+                ],
+            ]
+        )
+
+
+        # ---------------------------------------------------------
+        # Original keywords
+        # ---------------------------------------------------------
+
+        official_keywords = (
+            publisher.get(
+                "keywordsOriginal"
+            )
+            or publisher.get(
+                "keywords"
+            )
+            or []
+        )
+
+        if official_keywords:
+            record[
+                "keywords"
+            ] = official_keywords
+
+            record[
+                "keywordsOriginal"
+            ] = official_keywords
+
+
+        # ---------------------------------------------------------
+        # English keywords
+        # ---------------------------------------------------------
+
+        official_keywords_en = (
+            publisher.get(
+                "keywordsEn"
+            )
+            or []
+        )
+
+        if official_keywords_en:
+            record[
+                "keywordsEn"
+            ] = official_keywords_en
+
+
+        # ---------------------------------------------------------
+        # Keyword variants
+        # ---------------------------------------------------------
+
+        record[
+            "keywordVariants"
+        ] = merge_variants(
+            publisher.get(
+                "keywordVariants"
+            ),
+            record.get(
+                "keywordVariants"
+            ),
+        )
+
+
+        # If English keywords were not explicitly separated,
+        # recover them from language-tagged variants.
+        if not record.get(
+            "keywordsEn"
+        ):
+            record[
+                "keywordsEn"
+            ] = values_for_language(
+                record.get(
+                    "keywordVariants"
+                ),
+                "en",
+            )
+
+
+        # ---------------------------------------------------------
+        # Language
+        # ---------------------------------------------------------
+
+        lang = normalize_lang(
+            record.get(
+                "languageCode"
+            )
+        )
+
+        record[
+            "languageCode"
+        ] = lang
+
+        record[
+            "language"
+        ] = {
+            "en": "English",
+            "pt": "Portuguese",
+            "es": "Spanish",
+            "fr": "French",
+            "de": "German",
+            "it": "Italian",
+        }.get(
+            lang,
+            lang,
+        )
+
+        record[
+            "languages"
+        ] = unique(
+            [
+                lang,
+                *[
+                    normalize_lang(
+                        item.get(
+                            "lang"
+                        )
+                    )
+                    for item
+                    in record.get(
+                        "titleVariants",
+                        [],
+                    )
+                    if isinstance(
+                        item,
+                        dict,
+                    )
+                ],
+                *[
+                    normalize_lang(
+                        item.get(
+                            "lang"
+                        )
+                    )
+                    for item
+                    in record.get(
+                        "abstractVariants",
+                        [],
+                    )
+                    if isinstance(
+                        item,
+                        dict,
+                    )
+                ],
+                *[
+                    normalize_lang(
+                        item.get(
+                            "lang"
+                        )
+                    )
+                    for item
+                    in record.get(
+                        "keywordVariants",
+                        [],
+                    )
+                    if isinstance(
+                        item,
+                        dict,
+                    )
+                ],
+            ]
+        )
+
+
+        # ---------------------------------------------------------
+        # English metadata status
+        # ---------------------------------------------------------
+
+        if (
+            record.get(
+                "titleEn"
+            )
+            or record.get(
+                "abstractEn"
+            )
+            or record.get(
+                "keywordsEn"
+            )
+            or lang == "en"
+        ):
+            record[
+                "metadataEnglishStatus"
+            ] = "source"
+
+        else:
+            record[
+                "metadataEnglishStatus"
+            ] = (
+                "pending_translation"
+            )
+
+
+        # ---------------------------------------------------------
+        # Authority and provenance
+        # ---------------------------------------------------------
+
+        if publisher.get(
+            "title"
+        ):
+            record[
+                "metadataAuthority"
+            ] = "publisher"
+
+        record[
+            "provenance"
+        ] = [
+            "Publisher landing page",
+            "Crossref publisher deposit",
+        ]
+
+        record[
+            "source"
+        ] = "; ".join(
+            record[
+                "provenance"
+            ]
+        )
+
+    except Exception as exc:
+        record[
+            "publisherMetadataError"
+        ] = str(
+            exc
+        )
+
+    if delay:
+        time.sleep(
+            delay
+        )
+
+    return record
+
+
+# ---------------------------------------------------------------------
+# Crossref backfile
+# ---------------------------------------------------------------------
+
+def crossref_backfile(
+    journal,
+    registry,
+    state,
+    records,
+    enrich,
+    max_pages=0,
+):
+    jid = journal[
+        "id"
+    ]
+
+    identity = resolve_crossref_journal(
+        journal,
+        registry,
+    )
+
+    issn = identity[
+        "issn"
+    ]
+
+    journal_state = (
+        state
+        .setdefault(
+            jid,
+            {},
+        )
+        .setdefault(
+            "crossref",
+            {},
+        )
+    )
+
+    cursor = (
+        journal_state.get(
+            "cursor"
+        )
+        or "*"
+    )
+
+    page = int(
+        journal_state.get(
+            "pages",
+            0,
+        )
+    )
+
+    complete = False
+
+    processed_pages = 0
+
+
+    while True:
+
+        if (
+            max_pages
+            and processed_pages
+            >= max_pages
+        ):
+            break
+
+
+        params = {
+            "rows": "1000",
+            "cursor": cursor,
+            "filter": (
+                "type:journal-article"
+            ),
+        }
+
+
+        url = (
+            f"{CROSSREF}/journals/"
+            f"{urllib.parse.quote(issn)}"
+            "/works?"
+            + urllib.parse.urlencode(
+                params
+            )
+        )
+
+
+        raw, data = fetch_json(
+            url,
+            timeout=120,
+        )
+
+
+        message = data.get(
+            "message",
+            {},
+        )
+
+
+        items = (
+            message.get(
+                "items"
+            )
+            or []
+        )
+
+
+        # ---------------------------------------------------------
+        # Archive raw Crossref page
+        # ---------------------------------------------------------
+
+        outdir = (
+            ROOT
+            / "harvest/raw"
+            / jid
+            / "crossref-backfile"
+        )
+
+        outdir.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+
+        digest = hashlib.sha256(
+            raw
+        ).hexdigest()
+
+
+        raw_file = (
+            outdir
+            / (
+                f"{page:06d}-"
+                f"{digest[:16]}.json"
+            )
+        )
+
+
+        raw_file.write_bytes(
+            raw
+        )
+
+
+        # ---------------------------------------------------------
+        # Normalize records
+        # ---------------------------------------------------------
+
+        for item in items:
+
+            record = record_from_crossref(
+                item,
+                journal,
+            )
+
+            if not record:
+                continue
+
+
+            if enrich:
+                record = enrich_official(
+                    record,
+                    journal,
+                )
+
+
+            records[
+                record["id"]
+            ] = record
+
+
+        # ---------------------------------------------------------
+        # Cursor / state
+        # ---------------------------------------------------------
+
+        next_cursor = (
+            message.get(
+                "next-cursor"
+            )
+            or ""
+        )
+
+
+        page += 1
+        processed_pages += 1
+
+
+        journal_state.update(
+            {
+                "cursor": next_cursor,
+
+                "pages": page,
+
+                "itemsSeen": (
+                    journal_state.get(
+                        "itemsSeen",
+                        0,
+                    )
+                    + len(
+                        items
+                    )
+                ),
+
+                "lastRun": datetime.now(
+                    timezone.utc
+                ).isoformat(),
+
+                "complete": False,
+
+                "issn": issn,
+            }
+        )
+
+
+        save(
+            ROOT
+            / "harvest/backfile_state.json",
+            state,
+        )
+
+
+        save(
+            ROOT
+            / "harvest/source_registry.json",
+            registry,
+        )
+
+
+        save(
+            ROOT
+            / "harvest/backfile_catalog.json",
+            {
+                "articles": list(
+                    records.values()
+                )
+            },
+        )
+
+
+        # ---------------------------------------------------------
+        # Source exhausted
+        # ---------------------------------------------------------
+
+        if (
+            len(
+                items
+            )
+            < 1000
+            or not next_cursor
+            or next_cursor
+            == cursor
+        ):
+            complete = True
+            break
+
+
+        cursor = next_cursor
+
+
+    journal_state[
+        "complete"
+    ] = complete
+
+
+    if complete:
+        journal_state[
+            "completedAt"
+        ] = datetime.now(
+            timezone.utc
+        ).isoformat()
+
+
+    return {
+        "id": jid,
+
+        "method": (
+            "crossref+publisher"
+            if enrich
+            else "crossref"
+        ),
+
+        "complete": complete,
+
+        "pagesThisRun": (
+            processed_pages
+        ),
+
+        "itemsSeen": (
+            journal_state.get(
+                "itemsSeen",
+                0,
+            )
+        ),
+
+        "issn": issn,
+    }
+
+
+# ---------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------
+
+def main():
+
+    parser = argparse.ArgumentParser()
+
+
+    parser.add_argument(
+        "--journal",
+        help=(
+            "comma-separated ids; "
+            "default all enabled journals"
+        ),
+    )
+
+
+    parser.add_argument(
+        "--max-pages",
+        type=int,
+        default=0,
+        help=(
+            "0 = exhaust source; "
+            "positive = checkpointed batch"
+        ),
+    )
+
+
+    parser.add_argument(
+        "--no-official-enrichment",
+        action="store_true",
+        help=(
+            "skip DOI landing-page enrichment "
+            "(Crossref publisher deposit remains "
+            "canonical fallback)"
+        ),
+    )
+
+
+    parser.add_argument(
+        "--crossref-only",
+        action="store_true",
+        help=(
+            "use Crossref for every selected journal; "
+            "otherwise configured OAI/SciELO should "
+            "be run first by collect_all.sh"
+        ),
+    )
+
+
+    args = parser.parse_args()
+
+
+    journals = load(
+        ROOT
+        / "dist/data/journals.json",
+        [],
+    )
+
+
+    wanted = (
+        set(
+            args.journal.split(
+                ","
+            )
+        )
+        if args.journal
+        else None
+    )
+
+
+    selected = [
+        journal
+        for journal
+        in journals
+        if journal.get(
+            "enabled"
+        )
+        and (
+            wanted is None
+            or journal[
+                "id"
+            ] in wanted
+        )
+    ]
+
+
+    registry = load(
+        ROOT
+        / "harvest/source_registry.json",
+        {},
+    )
+
+
+    state = load(
+        ROOT
+        / "harvest/backfile_state.json",
+        {},
+    )
+
+
+    catalog = load(
+        ROOT
+        / "harvest/backfile_catalog.json",
+        {
+            "articles": []
+        },
+    )
+
+
+    records = {
+        article[
+            "id"
+        ]: article
+        for article
+        in catalog.get(
+            "articles",
+            [],
+        )
+        if article.get(
+            "id"
+        )
+    }
+
+
+    status = load(
+        ROOT
+        / "harvest/FULL_BACKFILE_STATUS.json",
+        {
+            "generatedAt": "",
+            "journals": {},
+        },
+    )
+
+
+    for journal in selected:
+
+        try:
+
+            report = crossref_backfile(
+                journal,
+                registry,
+                state,
+                records,
+                not args.no_official_enrichment,
+                args.max_pages,
+            )
+
+        except Exception as exc:
+
+            report = {
+                "id": journal[
+                    "id"
+                ],
+
+                "method": (
+                    "crossref"
+                ),
+
+                "complete": False,
+
+                "error": str(
+                    exc
+                ),
+            }
+
+
+        status[
+            "journals"
+        ][
+            journal["id"]
+        ] = report
+
+
+        status[
+            "generatedAt"
+        ] = datetime.now(
+            timezone.utc
+        ).isoformat()
+
+
+        save(
+            ROOT
+            / "harvest/FULL_BACKFILE_STATUS.json",
+            status,
+        )
+
+
+        print(
+            json.dumps(
+                report,
+                ensure_ascii=False,
+            )
+        )
+
+
+    save(
+        ROOT
+        / "harvest/source_registry.json",
+        registry,
+    )
+
+
+    save(
+        ROOT
+        / "harvest/backfile_state.json",
+        state,
+    )
+
+
+    save(
+        ROOT
+        / "harvest/backfile_catalog.json",
+        {
+            "articles": list(
+                records.values()
+            )
+        },
+    )
+
+
+if __name__ == "__main__":
+    main()
