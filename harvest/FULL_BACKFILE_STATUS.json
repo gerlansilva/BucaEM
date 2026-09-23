@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:00:00Z",
+  "generatedAt": "2026-09-23T04:31:07.099019+00:00",
   "definition": "complete=true only after source exhaustion; folders and seed records do not count as complete",
   "journals": {
     "bolema": {
@@ -142,9 +142,9 @@
     },
     "relime": {
       "id": "relime",
+      "method": "crossref",
       "complete": false,
-      "rawFilesPresent": 0,
-      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+      "error": "Crossref journal identity unresolved for RELIME — Revista Latinoamericana de Investigación en Matemática Educativa"
     },
     "educacion-matematica": {
       "id": "educacion-matematica",
