@@ -24,3 +24,5 @@ footer{width:var(--shell);margin:35px auto 0;padding:24px 0 30px;border-top:1px 
   .workspace{grid-template-areas:none}
   .workspace>.filter-toggle{display:flex}
 }
+
+.search-help{margin-top:.65rem;color:var(--muted,#5f6b76);font-size:.9rem}.search-help code{background:#f3f5f7;border:1px solid #e4e8ec;border-radius:4px;padding:.05rem .3rem}.journal .count-pill{display:inline-block}
