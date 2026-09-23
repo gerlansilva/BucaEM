@@ -1,0 +1,443 @@
+[
+  {
+    "id": "bolema",
+    "name": "Bolema: Boletim de Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "zetetike",
+    "name": "Zetetiké",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "emp",
+    "name": "Educação Matemática Pesquisa",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "revemat",
+    "name": "Revista Eletrônica de Educação Matemática — REVEMAT",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "ripem",
+    "name": "Revista Internacional de Pesquisa em Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "emr",
+    "name": "Educação Matemática em Revista",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "remat",
+    "name": "Revista de Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "pem",
+    "name": "Perspectivas da Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "rpem",
+    "name": "Revista Paranaense de Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "boem",
+    "name": "Boletim Online de Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "emteia",
+    "name": "EM TEIA — Revista de Educação Matemática e Tecnológica Iberoamericana",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "jieem",
+    "name": "Jornal Internacional de Estudos em Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "rematec",
+    "name": "REMATEC — Revista de Matemática, Ensino e Cultura",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "tangram",
+    "name": "Tangram — Revista de Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "histemat",
+    "name": "HISTEMAT — Revista de História da Educação Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": false,
+    "collectionStatus": "integrated"
+  },
+  {
+    "id": "emd",
+    "name": "Educação Matemática Debate",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "emfoco",
+    "name": "Educação Matemática em Foco",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "capp",
+    "name": "Com a Palavra, o Professor",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "reviem",
+    "name": "Revista de Investigação e Divulgação em Educação Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "revemop",
+    "name": "Revemop — Revista de Educação Matemática de Ouro Preto",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "rsermat",
+    "name": "Revista Sergipana de Matemática e Educação Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "baianaem",
+    "name": "Revista Baiana de Educação Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "emr-rs",
+    "name": "Educação Matemática em Revista — RS",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "relime",
+    "name": "RELIME — Revista Latinoamericana de Investigación en Matemática Educativa",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "educacion-matematica",
+    "name": "Educación Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "redimat",
+    "name": "REDIMAT — Journal of Research in Mathematics Education",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "pna",
+    "name": "PNA — Revista de Investigación en Didáctica de la Matemática",
+    "rawPresent": true,
+    "officialSeedPresent": true,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "aiem",
+    "name": "AIEM — Avances de Investigación en Educación Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "union",
+    "name": "UNIÓN — Revista Iberoamericana de Educación Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "numeros",
+    "name": "Números — Revista de Didáctica de las Matemáticas",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "epsilon",
+    "name": "Épsilon — Revista de Educación Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "quadrante",
+    "name": "Quadrante — Revista de Investigação em Educação Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "zdm",
+    "name": "ZDM — Mathematics Education",
+    "rawPresent": true,
+    "officialSeedPresent": true,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "esm",
+    "name": "Educational Studies in Mathematics",
+    "rawPresent": true,
+    "officialSeedPresent": true,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "jrme",
+    "name": "Journal for Research in Mathematics Education",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "jmte",
+    "name": "Journal of Mathematics Teacher Education",
+    "rawPresent": true,
+    "officialSeedPresent": true,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "merj",
+    "name": "Mathematics Education Research Journal",
+    "rawPresent": true,
+    "officialSeedPresent": true,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "mtl",
+    "name": "Mathematical Thinking and Learning",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "jmb",
+    "name": "The Journal of Mathematical Behavior",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "rme",
+    "name": "Research in Mathematics Education",
+    "rawPresent": true,
+    "officialSeedPresent": true,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "flm",
+    "name": "For the Learning of Mathematics",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "ijmest",
+    "name": "International Journal of Mathematical Education in Science and Technology",
+    "rawPresent": true,
+    "officialSeedPresent": true,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "iejme",
+    "name": "International Electronic Journal of Mathematics Education",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "tmma",
+    "name": "Teaching Mathematics and its Applications: An International Journal of the IMA",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "mted",
+    "name": "Mathematics Teacher Education and Development",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "jume",
+    "name": "Journal of Urban Mathematics Education",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "alm",
+    "name": "Adults Learning Mathematics: An International Journal",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "serj",
+    "name": "Statistics Education Research Journal",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "jmd",
+    "name": "Journal für Mathematik-Didaktik",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "gepem",
+    "name": "Boletim GEPEM",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "caminhos-em",
+    "name": "Caminhos da Educação Matemática em Revista",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "emsf",
+    "name": "Educação Matemática Sem Fronteiras",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "modelagem-em",
+    "name": "Modelagem na Educação Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "geogebra-sp",
+    "name": "Revista do Instituto GeoGebra Internacional de São Paulo",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "coinspiracao",
+    "name": "CoInspiração — Revista de Professores que Ensinam Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "ijtme",
+    "name": "International Journal for Technology in Mathematics Education",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "dem",
+    "name": "Digital Experiences in Mathematics Education",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "iml",
+    "name": "Investigations in Mathematics Learning",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "tme",
+    "name": "The Mathematics Educator",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "mathematica-didactica",
+    "name": "mathematica didactica",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "zmfp",
+    "name": "Zeitschrift für Mathematikdidaktik in Forschung und Praxis",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "educacao-matematica-pt",
+    "name": "Educação e Matemática",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  },
+  {
+    "id": "suma",
+    "name": "SUMA — Revista sobre Enseñanza y Aprendizaje de las Matemáticas",
+    "rawPresent": false,
+    "officialSeedPresent": false,
+    "collectionStatus": "configured"
+  }
+]
