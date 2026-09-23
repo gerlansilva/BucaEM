@@ -1,1 +1,206 @@
-{}
+{
+  "relime": {
+    "issn": "2007-6819",
+    "issns": ["2007-6819", "1665-2436"],
+    "title": "Revista Latinoamericana de Investigación en Matemática Educativa",
+    "publisher": "CLAME"
+  },
+  "educacion-matematica": {
+    "issn": "2448-8089",
+    "issns": ["2448-8089", "0187-8298"],
+    "title": "Educación Matemática",
+    "publisher": "Sociedad Mexicana de Investigación y Divulgación de la Educación Matemática"
+  },
+  "redimat": {
+    "issn": "2014-3621",
+    "issns": ["2014-3621"],
+    "title": "REDIMAT — Journal of Research in Mathematics Education",
+    "publisher": "Hipatia Press"
+  },
+  "pna": {
+    "issn": "1887-3987",
+    "issns": ["1887-3987", "1886-1350"],
+    "title": "PNA — Revista de Investigación en Didáctica de la Matemática",
+    "publisher": "Universidad de Granada"
+  },
+  "aiem": {
+    "issn": "2254-4313",
+    "issns": ["2254-4313"],
+    "title": "Avances de Investigación en Educación Matemática",
+    "publisher": "SEIEM"
+  },
+  "union": {
+    "issn": "1815-0640",
+    "issns": ["1815-0640"],
+    "title": "UNIÓN — Revista Iberoamericana de Educación Matemática",
+    "publisher": "FISEM"
+  },
+  "numeros": {
+    "issn": "1887-1984",
+    "issns": ["1887-1984"],
+    "title": "Números — Revista de Didáctica de las Matemáticas",
+    "publisher": "Sociedad Canaria Isaac Newton de Profesores de Matemáticas"
+  },
+  "epsilon": {
+    "issn": "2340-714X",
+    "issns": ["2340-714X", "1131-9321"],
+    "title": "Épsilon — Revista de Educación Matemática",
+    "publisher": "Sociedad Andaluza de Educación Matemática Thales"
+  },
+  "quadrante": {
+    "issn": "2183-2838",
+    "issns": ["2183-2838", "0872-3915"],
+    "title": "Quadrante — Revista de Investigação em Educação Matemática",
+    "publisher": "Associação de Professores de Matemática"
+  },
+  "zdm": {
+    "issn": "1863-9704",
+    "issns": ["1863-9704", "1863-9690"],
+    "title": "ZDM — Mathematics Education",
+    "publisher": "Springer Nature"
+  },
+  "esm": {
+    "issn": "1573-0816",
+    "issns": ["1573-0816", "0013-1954"],
+    "title": "Educational Studies in Mathematics",
+    "publisher": "Springer Nature"
+  },
+  "jrme": {
+    "issn": "1945-2306",
+    "issns": ["1945-2306", "0021-8251"],
+    "title": "Journal for Research in Mathematics Education",
+    "publisher": "National Council of Teachers of Mathematics"
+  },
+  "jmte": {
+    "issn": "1573-1820",
+    "issns": ["1573-1820", "1386-4416"],
+    "title": "Journal of Mathematics Teacher Education",
+    "publisher": "Springer Nature"
+  },
+  "merj": {
+    "issn": "2211-050X",
+    "issns": ["2211-050X", "1033-2170"],
+    "title": "Mathematics Education Research Journal",
+    "publisher": "Springer Nature"
+  },
+  "mtl": {
+    "issn": "1532-7833",
+    "issns": ["1532-7833", "1098-6065"],
+    "title": "Mathematical Thinking and Learning",
+    "publisher": "Taylor & Francis"
+  },
+  "jmb": {
+    "issn": "1873-8028",
+    "issns": ["1873-8028", "0732-3123"],
+    "title": "The Journal of Mathematical Behavior",
+    "publisher": "Elsevier"
+  },
+  "rme": {
+    "issn": "1754-0178",
+    "issns": ["1754-0178", "1479-4802"],
+    "title": "Research in Mathematics Education",
+    "publisher": "Taylor & Francis"
+  },
+  "flm": {
+    "issn": "0228-0671",
+    "issns": ["0228-0671"],
+    "title": "For the Learning of Mathematics",
+    "publisher": "FLM Publishing Association"
+  },
+  "ijmest": {
+    "issn": "1464-5211",
+    "issns": ["1464-5211", "0020-739X"],
+    "title": "International Journal of Mathematical Education in Science and Technology",
+    "publisher": "Taylor & Francis"
+  },
+  "iejme": {
+    "issn": "1306-3030",
+    "issns": ["1306-3030"],
+    "title": "International Electronic Journal of Mathematics Education",
+    "publisher": "Modestum"
+  },
+  "tmma": {
+    "issn": "1471-6976",
+    "issns": ["1471-6976", "0268-3679"],
+    "title": "Teaching Mathematics and its Applications",
+    "publisher": "Oxford University Press"
+  },
+  "mted": {
+    "issn": "2203-1499",
+    "issns": ["2203-1499", "1442-3901"],
+    "title": "Mathematics Teacher Education and Development",
+    "publisher": "MERGA"
+  },
+  "jume": {
+    "issn": "2151-2612",
+    "issns": ["2151-2612"],
+    "title": "Journal of Urban Mathematics Education",
+    "publisher": "Texas A&M University / Aggie STEM"
+  },
+  "alm": {
+    "issn": "1744-1803",
+    "issns": ["1744-1803"],
+    "title": "Adults Learning Mathematics",
+    "publisher": "Adults Learning Mathematics"
+  },
+  "serj": {
+    "issn": "1570-1824",
+    "issns": ["1570-1824"],
+    "title": "Statistics Education Research Journal",
+    "publisher": "International Association for Statistical Education"
+  },
+  "jmd": {
+    "issn": "1869-2699",
+    "issns": ["1869-2699", "0173-5322"],
+    "title": "Journal für Mathematik-Didaktik",
+    "publisher": "Springer Nature"
+  },
+  "ijtme": {
+    "issn": "2045-2519",
+    "issns": ["2045-2519", "1744-2710"],
+    "title": "International Journal for Technology in Mathematics Education",
+    "publisher": "Research Information Ltd"
+  },
+  "dem": {
+    "issn": "2199-3254",
+    "issns": ["2199-3254", "2199-3246"],
+    "title": "Digital Experiences in Mathematics Education",
+    "publisher": "Springer Nature"
+  },
+  "iml": {
+    "issn": "2472-7466",
+    "issns": ["2472-7466", "1947-7503"],
+    "title": "Investigations in Mathematics Learning",
+    "publisher": "Taylor & Francis"
+  },
+  "tme": {
+    "issn": "2331-4451",
+    "issns": ["2331-4451", "1062-9017"],
+    "title": "The Mathematics Educator",
+    "publisher": "University of Georgia"
+  },
+  "mathematica-didactica": {
+    "issn": "2750-3755",
+    "issns": ["2750-3755", "0172-8407"],
+    "title": "mathematica didactica",
+    "publisher": "University of Cologne"
+  },
+  "zmfp": {
+    "issn": "2701-9012",
+    "issns": ["2701-9012"],
+    "title": "Zeitschrift für Mathematikdidaktik in Forschung und Praxis",
+    "publisher": ""
+  },
+  "educacao-matematica-pt": {
+    "issn": "2795-4730",
+    "issns": ["2795-4730", "0871-7222"],
+    "title": "Educação e Matemática",
+    "publisher": "Associação de Professores de Matemática"
+  },
+  "suma": {
+    "issn": "1130-488X",
+    "issns": ["1130-488X"],
+    "title": "SUMA — Revista sobre Enseñanza y Aprendizaje de las Matemáticas",
+    "publisher": "Federación Española de Sociedades de Profesores de Matemáticas"
+  }
+}
