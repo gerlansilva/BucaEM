@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:32:24.071139+00:00",
+  "generatedAt": "2026-09-23T08:24:45.947840+00:00",
   "definition": "complete=true only after source exhaustion; folders and seed records do not count as complete",
   "journals": {
     "bolema": {
@@ -142,9 +142,11 @@
     },
     "relime": {
       "id": "relime",
-      "method": "crossref",
-      "complete": false,
-      "error": "Crossref journal identity unresolved for RELIME — Revista Latinoamericana de Investigación en Matemática Educativa"
+      "method": "crossref+publisher",
+      "complete": true,
+      "pagesThisRun": 1,
+      "itemsSeen": 231,
+      "issn": "2007-6819"
     },
     "educacion-matematica": {
       "id": "educacion-matematica",

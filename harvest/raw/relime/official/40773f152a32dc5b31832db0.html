@@ -1,0 +1,1887 @@
+
+
+<!DOCTYPE html>
+
+<html lang="es" xml:lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		
+							| Revista Latinoamericana de Investigación en Matemática Educativa
+			</title>
+
+	
+<link rel="icon" href="https://relime.org/public/journals/1/favicon_es_ES.png" />
+<meta name="csrf-token" content="GWIOqBL5ShbipMeAjaRw3Ul3NyohjCrvPGR5gdBm" />
+<meta name="generator" content="Open Journal Systems 3.5.0.5" />
+<link rel='alternate' hreflang='en' href='https://relime.org/index.php/relime/en/article/view/210' />
+<link rel='alternate' hreflang='es' href='https://relime.org/index.php/relime/es/article/view/210' />
+<link rel='alternate' hreflang='pt' href='https://relime.org/index.php/relime/pt/article/view/210' />
+<link rel='alternate' hreflang='fr' href='https://relime.org/index.php/relime/fr/article/view/210' />
+<link rel='alternate' hreflang='x-default' href='https://relime.org/index.php/relime/article/view/210' />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Paul Leger"/>
+<meta name="DC.Creator.PersonalName" content="Grecia Gálvez"/>
+<meta name="DC.Creator.PersonalName" content="Milton Inostroza"/>
+<meta name="DC.Creator.PersonalName" content="Lino Cubillos"/>
+<meta name="DC.Creator.PersonalName" content="Gina Luci"/>
+<meta name="DC.Creator.PersonalName" content="Éric Tanter"/>
+<meta name="DC.Creator.PersonalName" content="Diego Cosmelli"/>
+<meta name="DC.Creator.PersonalName" content="Jorge Soto - Andrade"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2023-07-13"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2023-07-12"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2014-03-31"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2026-08-18"/>
+<meta name="DC.Description" xml:lang="en" content="Based on our previous work on cognitive strategies for mental calculation, we present the design of a context sensitive computational system called ECOCAM, which aims to promote strategies for mental calculation in primary school students. We carry out a first test of our proposal through a specific implementation of the ECOCAM for an addition strategy task, that is to say the “transfer” strategy, in a pilot experiment and study case with boys and girls from different grades in basic education. We discussed the results and its implications for a future development and implementation of the ECOCAM.
+&amp;nbsp;"/>
+<meta name="DC.Description" xml:lang="es" content="Basado en nuestro trabajo previo sobre estrategias cognitivas para el cálculo mental, presentamos el diseño de un sistema computacional adaptable al contexto, denominado ECOCAM, que apunta a promover estrategias de cálculo mental en alumnos de educación básica. Realizamos un primer testeo de nuestra propuesta a través de la implementación concreta de ECOCAM para promover una estrategia de sumas, a saber la de “trasvasije”, mediante un experimento piloto y estudio de casos, con niñas y niños en varios niveles de educación básica. Discutimos los resultados y las implicaciones para un desarrollo futuro e implementación de ECOCAM.
+&amp;nbsp;"/>
+<meta name="DC.Description" xml:lang="fr" content="Sur la base de notre travail précédant sur les stratégies cognitives pour le calcul mental, on présente ici la conception d’un système informatique sensible au contexte qu’on appelle ECOCAM, visant à promouvoir des stratégies de calcul mental chez les élèves de l’école primaire. On a réalisé un premier test de ce système à travers l’implémentation concrète du système ECOCAM pour promouvoir une stratégie des opérations d’addition, à savoir celle de « transfert », par le moyen d’une expérience pilote et des études de cas avec des élèves de l’école primaire dans plusieurs niveaux. On discute les résultats et les implications pour un développement futur et l’implémentation du système ECOCAM.
+&amp;nbsp;"/>
+<meta name="DC.Description" xml:lang="pt" content="Baseado em nosso trabalho prévio sobre estratégias cognitivas para o cálculo mental, apresentamos o projeto de um sistema computacional adaptável ao contexto, denominado ECOCAM, que procura promover estratégias de cálculo mental em alunos de educação básica. Realizamos um primeiro teste de nossa proposta através da implementação concreta de ECOCAM para promover uma estratégia de somas, a saber: a de “trasvasije”, mediante um experimento piloto e estudo de casos, com meninos e meninas em vários níveis de educação básica. Discutimos os resultados e as implicações para um desenvolvimento futuro e implementação de ECOCAM.
+&amp;nbsp;"/>
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="210"/>
+<meta name="DC.Identifier.pageNumber" content="33 - 58"/>
+<meta name="DC.Identifier.DOI" content="10.12802/relime.13.1712"/>
+<meta name="DC.Identifier.URI" content="https://relime.org/index.php/relime/article/view/210"/>
+<meta name="DC.Language" scheme="rfc5646" content="es"/>
+<meta name="DC.Rights" content="Derechos de autor 2014 Revista Latinoamericana de Investigación en Matemática Educativa"/>
+<meta name="DC.Rights" content="https://creativecommons.org/licenses/by-nc/4.0/"/>
+<meta name="DC.Source" content="Revista Latinoamericana de Investigación en Matemática Educativa"/>
+<meta name="DC.Source.ISSN" content="2007-6819"/>
+<meta name="DC.Source.Issue" content="1"/>
+<meta name="DC.Source.Volume" content="17"/>
+<meta name="DC.Source.URI" content="https://relime.org/index.php/relime/relime"/>
+<meta name="DC.Subject" xml:lang="pt" content="Cálculo mental"/>
+<meta name="DC.Subject" xml:lang="pt" content="estratégias cognitivas"/>
+<meta name="DC.Subject" xml:lang="pt" content="sistema computacional adaptável ao contexto"/>
+<meta name="DC.Subject" xml:lang="pt" content="metáforas"/>
+<meta name="DC.Subject" xml:lang="pt" content="tempo de resposta"/>
+<meta name="DC.Subject" xml:lang="fr" content="Calcul mental"/>
+<meta name="DC.Subject" xml:lang="fr" content="stratégies cognitives"/>
+<meta name="DC.Subject" xml:lang="fr" content="système informatique sensible"/>
+<meta name="DC.Subject" xml:lang="fr" content="métaphores"/>
+<meta name="DC.Subject" xml:lang="fr" content="temps de réponse"/>
+<meta name="DC.Subject" xml:lang="en" content="Mental calculation"/>
+<meta name="DC.Subject" xml:lang="en" content="cognitive strategies"/>
+<meta name="DC.Subject" xml:lang="en" content="a context sensitive computational system"/>
+<meta name="DC.Subject" xml:lang="en" content="metaphors"/>
+<meta name="DC.Subject" xml:lang="en" content="response time"/>
+<meta name="DC.Subject" xml:lang="es" content="Cálculo mental"/>
+<meta name="DC.Subject" xml:lang="es" content="estrategias cognitivas"/>
+<meta name="DC.Subject" xml:lang="es" content="sistema computacional adaptable al contexto"/>
+<meta name="DC.Subject" xml:lang="es" content="metáforas"/>
+<meta name="DC.Subject" xml:lang="es" content="tiempo de respuesta"/>
+<meta name="DC.Title" content="ECOCAM, un sistema computacional adaptable al contexto para promover estrategias de cálculo mental: Características de su diseño y resultados preliminares"/>
+<meta name="DC.Title.Alternative" xml:lang="en" content="ECOCAM, a context sensitive computational system to promote mentalcalculation strategies: Design characteristics and preliminary results"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type.articleType" content="Artículos"/>
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="Revista Latinoamericana de Investigación en Matemática Educativa"/>
+<meta name="citation_journal_abbrev" content="RELIME"/>
+<meta name="citation_issn" content="2007-6819"/> 
+<meta name="citation_author" content="Paul Leger"/>
+<meta name="citation_author_institution" content="Universidad Católica del Norte"/>
+<meta name="citation_author" content="Grecia Gálvez"/>
+<meta name="citation_author_institution" content="Sociedad Educacional Compumat"/>
+<meta name="citation_author" content="Milton Inostroza"/>
+<meta name="citation_author_institution" content="Universidad de Chile"/>
+<meta name="citation_author" content="Lino Cubillos"/>
+<meta name="citation_author_institution" content="Pontificia Universidad Católica de Valparaíso"/>
+<meta name="citation_author" content="Gina Luci"/>
+<meta name="citation_author_institution" content="Universidad de Chile"/>
+<meta name="citation_author" content="Éric Tanter"/>
+<meta name="citation_author_institution" content="Universidad de Chile"/>
+<meta name="citation_author" content="Diego Cosmelli"/>
+<meta name="citation_author_institution" content="Pontificia Universidad Católica de Chile"/>
+<meta name="citation_author" content="Jorge Soto - Andrade"/>
+<meta name="citation_author_institution" content="Universidad de Chile"/>
+<meta name="citation_title" content="ECOCAM, un sistema computacional adaptable al contexto para promover estrategias de cálculo mental: Características de su diseño y resultados preliminares"/>
+<meta name="citation_language" content="es"/>
+<meta name="citation_date" content="2014"/>
+<meta name="citation_volume" content="17"/>
+<meta name="citation_issue" content="1"/>
+<meta name="citation_firstpage" content="33"/>
+<meta name="citation_lastpage" content="58"/>
+<meta name="citation_doi" content="10.12802/relime.13.1712"/>
+<meta name="citation_abstract_html_url" content="https://relime.org/index.php/relime/article/view/210"/>
+<meta name="citation_abstract" xml:lang="es" content="Basado en nuestro trabajo previo sobre estrategias cognitivas para el cálculo mental, presentamos el diseño de un sistema computacional adaptable al contexto, denominado ECOCAM, que apunta a promover estrategias de cálculo mental en alumnos de educación básica. Realizamos un primer testeo de nuestra propuesta a través de la implementación concreta de ECOCAM para promover una estrategia de sumas, a saber la de “trasvasije”, mediante un experimento piloto y estudio de casos, con niñas y niños en varios niveles de educación básica. Discutimos los resultados y las implicaciones para un desarrollo futuro e implementación de ECOCAM.
+&amp;nbsp;"/>
+<meta name="citation_keywords" xml:lang="es" content="Cálculo mental"/>
+<meta name="citation_keywords" xml:lang="es" content="estrategias cognitivas"/>
+<meta name="citation_keywords" xml:lang="es" content="sistema computacional adaptable al contexto"/>
+<meta name="citation_keywords" xml:lang="es" content="metáforas"/>
+<meta name="citation_keywords" xml:lang="es" content="tiempo de respuesta"/>
+<meta name="citation_pdf_url" content="https://relime.org/index.php/relime/article/download/210/178"/>
+<meta name="citation_reference" content="Abowd, G. (1999). Classroom 2000: An experiment with the instrumentation of a living educational environment. IBM Systems Journal, 38(4), 508-530."/>
+<meta name="citation_reference" content="Allan, C., Avgustinov, P., Christensen, A. S., Hendren, L., Kuzins, S., Lhoták, O., Moor, O, Sereni, G., Sittampalam G., &amp; Tibble, J. (2005). Adding trace matching with free variables to AspectJ. ACM SIGPLAN Notices, 40(10), 345-364."/>
+<meta name="citation_reference" content="Anselmo, B,. Evesque-Sagnard, S., Fenoy, K., Planchette, P., &amp; Zuchetta, H. (2008). Calcul mental au collège: Nostalgie ou innovation? Lyon, France: IREM de Lyon."/>
+<meta name="citation_reference" content="Askew, M. (2004). El CM, piedra angular del aprendizaje matemático inicial (entrevista). Revista de Educación, Ministerio de Educación de Chile, 310-311, 23-25."/>
+<meta name="citation_reference" content="Askew, M., Ebbutt, S., &amp; Mosley, F. (2006). Enseñanza de Estrategias de CM. 3° y 4° de Enseñanza Básica. Santiago, Chile: Galileo Libros."/>
+<meta name="citation_reference" content="Baroody, A. J. (1987). The development of counting strategies for single-digit addition. Journal for Research in Mathematics Education, 18(2), 141-157."/>
+<meta name="citation_reference" content="Beishuizen, M. (1993). Mental Strategies and Materials or Models for Addition and Subtraction up to 100 in Dutch Second Grades. Journal for Research in Mathematics Education, 24(4), 294-323."/>
+<meta name="citation_reference" content="Braten, I. (1998). Cognitive strategies in mathematics, Part I: on children’s strategies for solving simple addition problems. Scandinavian Journal of Educational Research, 42(1), 5-24."/>
+<meta name="citation_reference" content="Brissiaud, R. (2003). Comment les enfants apprennent à calculer. Paris, France: Retz."/>
+<meta name="citation_reference" content="Bruner, J. (1996). The Culture of Education. Cambridge, EEUU: Harvard University Press."/>
+<meta name="citation_reference" content="Butlen, D. &amp; Pezard, M. (1992). Calcul mental et résolution de problèmes multiplicatifs. Recherche en Didactique des Mathématiques, 12(2/3), 319-368."/>
+<meta name="citation_reference" content="Butlen, D. (2007). Le calcul mental entre sens et technique: recherches sur l’enseignement des mathématiques aux élèves en difficulté, du calcul mental à la résolution des problèmes numériques. Besançon, France: Presses de l’Université du Franche-Comté."/>
+<meta name="citation_reference" content="Carpenter, T. P. &amp; Moser, J. M. (1982). The development of addition and subtraction problem-solving skills. In T. P. Carpenter, J. M. Moser &amp; T. A. Romberg (Eds.), Addition and subtraction: A cognitive perspective (pp. 9-24). Hillsdale, EEUU: Lawrence Erlbaum Associates."/>
+<meta name="citation_reference" content="Christensen, C. A. &amp; Cooper, T. J. (1991). Children’s solution strategies to single-digit addition problems: Some Australian data. Educational Research and Perspectives, 18(2), 62-70."/>
+<meta name="citation_reference" content="Cook, D. (2006). Health Monitoring and Assistance to Support Aging in Place. Journal of Universal Computer Science, 12(1), 15-29. doi: 10.3217/jucs-012-01-0015"/>
+<meta name="citation_reference" content="Duval, R. (1995). Sémiosis et pensée humaine. Berna, Suiza: Peter Lang AG."/>
+<meta name="citation_reference" content="Ebbutt, S., Mosley, F., &amp; Skinner, C. (2005). Enseñanza de Estrategias de CM 1º y 2º Enseñanza Básica, Santiago, Chile: Galileo Libros."/>
+<meta name="citation_reference" content="Ecocam (2010). http://www.pleger.cl/research/ecocam2. Recuperado el 20 de Septiembre del 2010, de http://pleger.cl/research/ecocam2"/>
+<meta name="citation_reference" content="English, L. (Ed.) (1997). Mathematical reasoning: Analogies, metaphors, and images. London, UK: Lawrence Erlbaum."/>
+<meta name="citation_reference" content="Fernández, A. (2005). Avatares y estereotipos sobre la enseñanza de los algoritmos en matemáticas. Revista de Iberoamericana de Educación Matemática, 4, 31-46."/>
+<meta name="citation_reference" content="Gallese, V. &amp; Lakoff, G. (2005). The Brain’s concepts: the role of the Sensory-motor system in conceptual knowledge. Cognitive Neuropsychology, 22 (3), 455-479. doi: 10.1080/ 02643290442000310."/>
+<meta name="citation_reference" content="Gálvez, G. (2009). CM: pensado, reflexionado, simplificado. Santiago, Chile: Fundación Arauco."/>
+<meta name="citation_reference" content="Gálvez, G., Cubillos, L., Cosmelli, D., Léger, P., Mena, A., Tanter, É., Flores, X., Luci, G., Montoya, S., &amp; Soto Andrade, J. (2011). Estrategias cognitivas para el Cálculo Mental. Revista Latinoamericana de Investigación en Matemática Educativa, 14(1), 9-40."/>
+<meta name="citation_reference" content="Godino, J. D. (1993). Paradigmas, problemas y metodologías en didáctica de la matemática. Quadrante, 2(1), 9-22."/>
+<meta name="citation_reference" content="Heirdsfield, A. (2000). Mental computation: Is it more than mental architecture? Annual Meeting of the Australian Association for Research in Education. Recuperado el 15 de Enero de 2010, de http://www.aare.edu.au/00pap/hei00259.htm"/>
+<meta name="citation_reference" content="Hirschfeld, R., Constanza, P., &amp; Nierstrasz, O. (2008). Context-Oriented Programming. Journal of Object Technology, 7(3), 125-151."/>
+<meta name="citation_reference" content="Houlihan, D. M. &amp; Ginsburg, H. P. (1981). The addition methods of first and second-grade children. Journal for Research in Mathematics Education, 12(2), 95-106."/>
+<meta name="citation_reference" content="Isoda, M., Arcavi, A. &amp; Mena, A. (Eds) (2008). El Estudio de Clases japonés en Matemáticas (2da ed.). Valparaíso, Chile: Ediciones Universitarias de Valparaíso."/>
+<meta name="citation_reference" content="Johnson, M. &amp; Lakoff, G. (2003). Metaphors we live by. New York, EEUU: The University of Chicago Press."/>
+<meta name="citation_reference" content="Kamii, C., Lewis, B. A., &amp; Livingston, S. J. (1993). Primary arithmetic: Children inventing their own procedures. Arithmetic Teacher, 41(4), 200-203."/>
+<meta name="citation_reference" content="Kamii, C. &amp; Dominick, A. (1998). The harmful effects of algorithms in grades 1-4. In L.J. Morrow &amp; M. J. Kenney (Eds.), The teaching and learning of algorithms in school mathematics, 1998 yearbook (pp. 130-140). Reston, EEUU: NCTM."/>
+<meta name="citation_reference" content="Klein, T. &amp; Beishuizen, M. (1994). Assessment of flexibility in mental arithmetic. In J.E.H. Van Luit (Ed.), Research on learning and instruction of mathematics in kindergarten and primary schools (pp. 125-152). Doetinchem, The Netherlands: Graviatt Publishing Company."/>
+<meta name="citation_reference" content="Knops, A., Thirion, B., Hubbard, E., Michel, V., &amp; Dehaene, S. (2009). Recruitment of an area involved in eye movements during mental arithmetic. Science 1, 324 (5934), 1583-1585. doi: 10.1126/science.1171599"/>
+<meta name="citation_reference" content="Lakoff, G. &amp; Núñez, R. (2000). Where Mathematics comes from. New York, EEUU: Basic Books."/>
+<meta name="citation_reference" content="Leger, P. &amp; Tanter, É. (2010). An open trace-based mechanism. In J. Aldrich &amp; R. Massa (Eds.), Proceedings of SBLP 2010: 14 th Brazilian Symposium on Programming Languages. (pp. 123-138). Salvador de Bahia, Brasil: Brazilian Conference on Software: Theory and Practice."/>
+<meta name="citation_reference" content="Lethielleux, C. (2005), Le calcul mental au cycle des apprentissages fondamentaux (Vol. 1). Paris, France: Bordas/Séjer"/>
+<meta name="citation_reference" content="Masciotra, D., Roth, W. M., &amp; Morel, D. (2007). Enaction: toward a Zen mind in learning and teaching. Twente, The Netherlands: Sense Publishers."/>
+<meta name="citation_reference" content="Ortega, T. y Ortiz, M. (2002). Diseño de una intervención para la enseñanza-aprendizaje del CM en el aula. Revista Latinoamericana de Investigación en Matemática Educativa, 5(3), 271-291."/>
+<meta name="citation_reference" content="Parra, C. (1993). CM en la escuela primaria. En C. Parra e I. Sáiz (Eds.), Didáctica de matemáticas. Aportes y reflexiones (pp. 219-272). Buenos Aires, Argentina: Paidós."/>
+<meta name="citation_reference" content="Pochon, L-O. (1997). Regard sur le calcul mental. Math Ecole, 36(179), 19-27."/>
+<meta name="citation_reference" content="Postlewait, K. B., Adams, M. R., &amp; Shih, J. C. (2003). Promoting meaningful mastery of addition and subtraction. Teaching Children Mathematics, 9(6), 354-357."/>
+<meta name="citation_reference" content="Presmeg, N. C.(1997). Reasoning with metaphors and metonymies in mathematics learning. In L. English (Ed.), Mathematical reasoning: Analogies, metaphors, and images, (pp. 267-279). London,UK: Lawrence Erlbaum Associates."/>
+<meta name="citation_reference" content="Radford, L. &amp; André, M. (2009). Cerebro, cognición y matemáticas. Revista Latinoamericana de Investigación en Matemática Educativa, 12(2), 215-250."/>
+<meta name="citation_reference" content="Reys, R. E., Reys, B. J., Nohda, N., &amp; Emori, H. (1995). Mental computation performance and strategy use of Japanese students in grades 2, 4, 6, and 8. Journal for Research in Mathematics Education, 26(4), 304-326."/>
+<meta name="citation_reference" content="Riveros, M., Gálvez, G., Navarro, S., &amp; Zanocco, P. (1996). Tilín-Tilón. Actividades para el desarrollo de la capacidad de calcular. Programa de las 900 Escuelas. Santiago, Chile: MINEDUC."/>
+<meta name="citation_reference" content="Sfard, A. (1994). Reification as the birth of metaphor. For the Learning of Mathematics, 14(1),44-55."/>
+<meta name="citation_reference" content="Sfard, A. (1997). Commentary: On metaphorical roots of conceptual growth. In L. English (Ed.), Mathematical reasoning: Analogies, metaphors, and images (pp. 339-371). London, UK: Lawrence Erlbaum Associates."/>
+<meta name="citation_reference" content="Shrager, J. &amp; Siegler, R. S. (1998), SCADS: A model of children’s strategy choices and strategy discoveries. Psychological Science, 9(5), 405-410. doi: 10.1111/1467-9280.00076"/>
+<meta name="citation_reference" content="Siegler, R. S. &amp; Campbell, J. (1989). Individual differences in children’s strategy choices. In P. L. Ackerman, R. J. Sternberg, &amp; R. Glaser (Eds.), Learning and individual differences: Advances in theory and research (pp. 219-254). New York, EEUU: Freeman."/>
+<meta name="citation_reference" content="Siegler, R. S. &amp; Jenkins, E. (1989). How children discover new strategies. Hillsdale, EEUU: Lawrence Erlbaum Associates."/>
+<meta name="citation_reference" content="Siegler, R. S. &amp; Shrager, J. (1984). Strategy choices in addition and subtraction: How do children know what to do? In C. Sophian (Ed.), The origins of cognitive skills (pp. 229-293). Hillsdale, EEUU: Lawrence Erlbaum Associates."/>
+<meta name="citation_reference" content="Soto-Andrade, J. (2006). Un monde dans un grain de sable: Métaphores et analogies dans l’apprentissage des mathématiques. Annales de Didactique et de Sciences Cognitives, 11, 123-147."/>
+<meta name="citation_reference" content="Soto-Andrade, J. (2007a). Metaphors and cognitive styles in the teaching-learning of mathematics. In D. Pitta-Pantazi, &amp; J. Philippou (Eds.), Proceedings Congress of European Research in Mathematics Education 5 (pp. 191-200). Larnaca, Cyprus."/>
+<meta name="citation_reference" content="Soto-Andrade, J. (2007a). Metaphors and cognitive styles in the teaching-learning of mathematics. In D. Pitta-Pantazi, &amp; J. Philippou (Eds.), Proceedings Congress of European Research in Mathematics Education 5 (pp. 191-200). Recuperado de http://ermeweb.free.fr/CERME5b/"/>
+<meta name="citation_reference" content="Soto-Andrade, J. (2007b), La cognición hecha cuerpo florece en metáforas…. En A. Ibáñez &amp; D. Cosmelli, (Eds.), Nuevos Enfoques de la Cognición : Redescubriendo la dinámica de la acción, la intención y la intersubjetividad (pp. 71-90). Santiago, Chile: Universidad Diego Portales."/>
+<meta name="citation_reference" content="Soto-Andrade, J. (2008, July). Mathematics as the art of seeing the invisible…. Paper presented at 11th International Congress in Mathematics Education, Monterrey, México."/>
+<meta name="citation_reference" content="Stewart, J. R., Gapenne, O., &amp; Di Paolo, E. A. (2010). Enaction: Towards a New Paradigm for Cognitive Science. Cambridge, EEUU: MIT Press."/>
+<meta name="citation_reference" content="Sun, H. (2008). Chinese young children’s strategies on basic addition facts. In M. Goos, R. Brown, K. Makar (Eds.), Proceedings of the 31th annual conference of the Mathematics Education Research Group of Australasia (pp. 499-505). Brisbane, Australia: MERGA"/>
+<meta name="citation_reference" content="Taton, R. (1953). Le calcul mental, Coll. Que sais-je, No 605. Paris, France: P.U.F."/>
+<meta name="citation_reference" content="Varela, F. J., Thomson, E., &amp; Rosch, E. (1991). The Embodied Mind: Cognitive Science and Human Experience. Cambridge, EEUU: MIT Press."/>
+<meta name="citation_reference" content="Williamson, V. (2007). Mental Maths – Passive to Active. Mathematics Teaching, 201, 12-15."/>
+<meta name="citation_reference" content="Yeap, B. H. (2005). Helping every student to develop the ability in mathematical problem solving: The Singapore experience. In S. Chaiyasang, P. Wongyai &amp; R. Janjaruporn, (Eds.). The Proceedings of Symposium on Mathematics Education: Mathematical Problem Solving (pp. 3-12). Bangkok, Thailand: Srinakharinwirot University."/>
+<link rel="alternate" type="application/atom+xml" href="https://relime.org/index.php/relime/es/gateway/plugin/AnnouncementFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://relime.org/index.php/relime/es/gateway/plugin/AnnouncementFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://relime.org/index.php/relime/es/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2">
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//relime.org/matomo/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+	<link rel="stylesheet" href="https://relime.org/plugins/themes/immersion/resources/dist/app.min.css?v=3.5.0.5" type="text/css" /><link rel="stylesheet" href="https://relime.org/index.php/relime/$$$call$$$/page/page/css?name=less" type="text/css" /><link rel="stylesheet" href="https://relime.org/plugins/generic/webOfScience/styles/wos.css?v=3.5.0.5" type="text/css" /><link rel="stylesheet" href="https://relime.org/public/journals/1/styleSheet.css?d=2023-06-07+20%3A52%3A40" type="text/css" /><link rel="stylesheet" href="https://relime.org/plugins/generic/citationStyleLanguage/css/citationStyleLanguagePlugin.css?v=3.5.0.5" type="text/css" />
+</head>
+<body class="page_article op_view has_site_logo"
+      dir="ltr">
+
+<div class="cmp_skip_to_content">
+	<a class="visually-hidden" href="#immersion_content_header">Ir al menú de navegación principal</a>
+	<a class="visually-hidden" href="#immersion_content_main">Ir al contenido principal</a>
+	<a class="visually-hidden" href="#immersion_content_footer">Ir al pie de página del sitio</a>
+</div>
+
+<header class="main-header"
+        id="immersion_content_header" style="background-image: url('https://relime.org/public/journals/1/homepageImage_es_ES.jpg')">
+	<div class="container-fluid">
+		<nav class="main-header__admin locale-enabled">
+
+						
+										<ul id="languageNav" class="language-toggle nav">
+	<li class="nav-item dropdown">
+		<a href="#" role="button" tabindex="0" class="main-header__lang-link dropdown-toggle" id="languageToggleMenulanguageNav" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			<span class="visually-hidden">Cambiar el idioma. El idioma actual es:</span>
+			español
+		</a>
+
+		<ul class="dropdown-menu dropdown-menu-left" aria-labelledby="languageToggleMenulanguageNav">
+												<li class="dropdown-item">
+						<a class="nav-link" href="https://relime.org/index.php/relime/es/user/setLocale/en">
+							inglés
+						</a>
+					</li>
+																							<li class="dropdown-item">
+						<a class="nav-link" href="https://relime.org/index.php/relime/es/user/setLocale/fr">
+							francés
+						</a>
+					</li>
+																<li class="dropdown-item">
+						<a class="nav-link" href="https://relime.org/index.php/relime/es/user/setLocale/pt">
+							portugués
+						</a>
+					</li>
+									</ul>
+	</li>
+</ul>
+			
+							<h2 class="visually-hidden">Menú de administración</h2>
+									<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+					
+																	<li class=" nmi_type_user_register nav-item">
+					<a class="main-header__admin-link"
+					   href="https://relime.org/index.php/relime/es/user/register">
+						Registrarse
+					</a>
+									</li>
+								
+																	<li class=" nmi_type_user_login nav-item">
+					<a class="main-header__admin-link"
+					   href="https://relime.org/index.php/relime/es/login">
+						Entrar
+					</a>
+									</li>
+													</ul>
+
+			
+			
+		</nav>
+
+					<div class="main-header__title">
+		
+		
+					<a href="			https://relime.org/index.php/relime/es/index
+		" class="is_img">
+				<img src="https://relime.org/public/journals/1/pageHeaderLogoImage_es_ES.png" width="1388" height="354" alt="Logo Revista Latinoamericana de Investigación en Matemática Educativa" />
+			</a>
+		
+					</div>
+		
+						
+						<nav class="navbar navbar-expand-sm main-header__nav">
+				<button class="navbar-toggler mx-auto hamburger" data-bs-target="#main-menu" data-bs-toggle="collapse"
+				        type="button"
+				        aria-label="Menu" aria-controls="navigation">
+					<span class="hamburger__wrapper">
+		                <span class="hamburger__icon"></span>
+		            </span>
+				</button>
+				<h2 class="visually-hidden">Menú principal</h2>
+				<div class="collapse navbar-collapse" id="main-menu">
+										<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list navbar-nav mx-auto">
+					
+																	<li class=" nmi_type_remote_url nav-item">
+					<a class="main-header__nav-link"
+					   href="https://relime.org/index.php/relime">
+						Inicio
+					</a>
+									</li>
+								
+																	<li class=" nmi_type_about nav-item dropdown">
+					<a class="main-header__nav-link dropdown-toggle"
+					   href="https://relime.org/index.php/relime/es/about" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Sobre la revista
+					</a>
+											<ul class="dropdown-menu">
+																								<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/enfoque-y-alcance">
+											Enfoque y alcance
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/proceso-de-evaluacion-por-pares">
+											Proceso de evaluación por pares
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/frecuencia-de-publicacion">
+											Frecuencia de publicación
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/fuentes-de-ingreso">
+											Fuentes de ingreso
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/indices">
+											Índices y catálogos
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/about/privacy">
+											Declaración de privacidad
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/directorio">
+											Directorio
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/contacto">
+											Contacto
+										</a>
+									</li>
+																					</ul>
+									</li>
+								
+																	<li class=" nmi_type_custom nav-item dropdown">
+					<a class="main-header__nav-link dropdown-toggle"
+					   href="https://relime.org/index.php/relime/es/numeros" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Números
+					</a>
+											<ul class="dropdown-menu">
+																								<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/issue/current">
+											Número actual
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/issue/archive">
+											Números anteriores
+										</a>
+									</li>
+																					</ul>
+									</li>
+								
+																	<li class=" nmi_type_custom nav-item dropdown">
+					<a class="main-header__nav-link dropdown-toggle"
+					   href="https://relime.org/index.php/relime/es/publicacion" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Cómo publicar
+					</a>
+											<ul class="dropdown-menu">
+																								<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/propuesta">
+											Enviar una propuesta
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/normas-de-publicacion">
+											Normas para publicación
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/about/submissions">
+											Lista de comprobación
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/derechos-de-autor">
+											Derechos de autor y licencias
+										</a>
+									</li>
+																					</ul>
+									</li>
+								
+																	<li class=" nmi_type_custom nav-item dropdown">
+					<a class="main-header__nav-link dropdown-toggle"
+					   href="https://relime.org/index.php/relime/es/politicas" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Políticas editoriales
+					</a>
+											<ul class="dropdown-menu">
+																								<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/politica-de-acceso-abierto">
+											Política de acceso abierto
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/politica-de-secciones">
+											Política de sección
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/PCUIA">
+											Políticas de coincidencias y de uso de Inteligencia Artificial
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/politica-de-identificador-persistente">
+											Política de identificadores persistentes
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/politica-de-preservacion-digital">
+											Política de preservación digital y de autoarchivo
+										</a>
+									</li>
+																																<li class=" dropdown-item">
+										<a class="nav-link"
+										   href="https://relime.org/index.php/relime/es/politica-de-supervision-etica">
+											Política de supervisión ética
+										</a>
+									</li>
+																					</ul>
+									</li>
+								
+																	<li class=" nmi_type_remote_url nav-item">
+					<a class="main-header__nav-link"
+					   href="https://relime.org/index.php/relime/matomo">
+						Estadísticas
+					</a>
+									</li>
+								
+																	<li class=" nmi_type_search nav-item">
+					<a class="main-header__nav-link"
+					   href="https://relime.org/index.php/relime/es/search">
+						Buscar
+					</a>
+									</li>
+						</ul>
+
+			
+				</div>
+			</nav>
+				</div> </header>
+
+<main class="container" id="immersion_content_main">
+	<div class="row">
+
+				<section class="col-md-8 article-page">
+	<header class="article-page__header">
+				    			
+					<p class="article-page__meta">Artículos</p>
+		
+					<p class="article-page__meta">
+				<a href="https://relime.org/index.php/relime/es/issue/view/30">Vol. 17 Núm. 1 (2014): Marzo</a>
+			</p>
+		
+		<h1 class="article-page__title">
+			<span>ECOCAM, un sistema computacional adaptable al contexto para promover estrategias de cálculo mental: Características de su diseño y resultados preliminares</span>
+		</h1>
+
+										<div class="article-page__meta">
+				<ul class="authors-string">
+											<li class="authors-string__item"><a class="author-string__href" href="#author-1"><span>Paul Leger</span><sup class="author-symbol author-plus">&ThinSpace;&rtrif;</sup><sup class="author-symbol author-minus hidden">&ThinSpace;&dtrif;</sup></a><a class="orcidImage img-wrapper" href="https://orcid.org/0000-0003-0969-5139"><svg class="orcid_icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.474 16c0 7.442-6.032 13.474-13.474 13.474S2.526 23.442 2.526 16 8.558 2.526 16 2.526 29.474 8.558 29.474 16Z" fill="#fff"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16ZM16 29.474c7.442 0 13.474-6.032 13.474-13.474S23.442 2.526 16 2.526 2.526 8.558 2.526 16 8.558 29.474 16 29.474Z" fill="#7FAA26"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M18.22 10.973h-4.547v11.6h4.569c3.8 0 6.133-2.82 6.133-5.8 0-1.365-.469-2.815-1.478-3.925-1.013-1.115-2.557-1.875-4.676-1.875Zm-.177 9.732h-2.347v-7.864h2.264c1.521 0 2.603.46 3.304 1.167.703.709 1.046 1.688 1.046 2.765 0 .654-.2 1.641-.83 2.46-.621.808-1.677 1.473-3.437 1.473Zm-.083-8.073c3.13 0 4.558 1.898 4.558 4.141 0-2.243-1.429-4.141-4.558-4.141h-2.472 2.472Zm6.205 4.017.001.124c0 2.869-2.242 5.591-5.924 5.591h-4.36V11.182v11.182h4.36c3.682 0 5.924-2.722 5.924-5.591l-.001-.124ZM9.5 11.005v11.588h2.024V11.005H9.5Zm1.815.208v11.172-11.172H9.71h1.606ZM10.512 10.15c.7 0 1.262-.575 1.262-1.263 0-.687-.561-1.262-1.262-1.262-.7 0-1.262.563-1.262 1.262 0 .688.561 1.262 1.262 1.262Zm.614-.408a1.044 1.044 0 0 0 0 0Z" fill="#7FAA26"/>
+</svg>
+</a></li>
+											<li class="authors-string__item"><a class="author-string__href" href="#author-2"><span>Grecia Gálvez</span><sup class="author-symbol author-plus">&ThinSpace;&rtrif;</sup><sup class="author-symbol author-minus hidden">&ThinSpace;&dtrif;</sup></a></li>
+											<li class="authors-string__item"><a class="author-string__href" href="#author-3"><span>Milton Inostroza</span><sup class="author-symbol author-plus">&ThinSpace;&rtrif;</sup><sup class="author-symbol author-minus hidden">&ThinSpace;&dtrif;</sup></a></li>
+											<li class="authors-string__item"><a class="author-string__href" href="#author-4"><span>Lino Cubillos</span><sup class="author-symbol author-plus">&ThinSpace;&rtrif;</sup><sup class="author-symbol author-minus hidden">&ThinSpace;&dtrif;</sup></a></li>
+											<li class="authors-string__item"><a class="author-string__href" href="#author-5"><span>Gina Luci</span><sup class="author-symbol author-plus">&ThinSpace;&rtrif;</sup><sup class="author-symbol author-minus hidden">&ThinSpace;&dtrif;</sup></a></li>
+											<li class="authors-string__item"><a class="author-string__href" href="#author-6"><span>Éric Tanter</span><sup class="author-symbol author-plus">&ThinSpace;&rtrif;</sup><sup class="author-symbol author-minus hidden">&ThinSpace;&dtrif;</sup></a><a class="orcidImage img-wrapper" href="https://orcid.org/0000-0002-7359-890X"><svg class="orcid_icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.474 16c0 7.442-6.032 13.474-13.474 13.474S2.526 23.442 2.526 16 8.558 2.526 16 2.526 29.474 8.558 29.474 16Z" fill="#fff"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16ZM16 29.474c7.442 0 13.474-6.032 13.474-13.474S23.442 2.526 16 2.526 2.526 8.558 2.526 16 8.558 29.474 16 29.474Z" fill="#7FAA26"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M18.22 10.973h-4.547v11.6h4.569c3.8 0 6.133-2.82 6.133-5.8 0-1.365-.469-2.815-1.478-3.925-1.013-1.115-2.557-1.875-4.676-1.875Zm-.177 9.732h-2.347v-7.864h2.264c1.521 0 2.603.46 3.304 1.167.703.709 1.046 1.688 1.046 2.765 0 .654-.2 1.641-.83 2.46-.621.808-1.677 1.473-3.437 1.473Zm-.083-8.073c3.13 0 4.558 1.898 4.558 4.141 0-2.243-1.429-4.141-4.558-4.141h-2.472 2.472Zm6.205 4.017.001.124c0 2.869-2.242 5.591-5.924 5.591h-4.36V11.182v11.182h4.36c3.682 0 5.924-2.722 5.924-5.591l-.001-.124ZM9.5 11.005v11.588h2.024V11.005H9.5Zm1.815.208v11.172-11.172H9.71h1.606ZM10.512 10.15c.7 0 1.262-.575 1.262-1.263 0-.687-.561-1.262-1.262-1.262-.7 0-1.262.563-1.262 1.262 0 .688.561 1.262 1.262 1.262Zm.614-.408a1.044 1.044 0 0 0 0 0Z" fill="#7FAA26"/>
+</svg>
+</a></li>
+											<li class="authors-string__item"><a class="author-string__href" href="#author-7"><span>Diego Cosmelli</span><sup class="author-symbol author-plus">&ThinSpace;&rtrif;</sup><sup class="author-symbol author-minus hidden">&ThinSpace;&dtrif;</sup></a><a class="orcidImage img-wrapper" href="https://orcid.org/0000-0002-0012-4543"><svg class="orcid_icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.474 16c0 7.442-6.032 13.474-13.474 13.474S2.526 23.442 2.526 16 8.558 2.526 16 2.526 29.474 8.558 29.474 16Z" fill="#fff"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16ZM16 29.474c7.442 0 13.474-6.032 13.474-13.474S23.442 2.526 16 2.526 2.526 8.558 2.526 16 8.558 29.474 16 29.474Z" fill="#7FAA26"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M18.22 10.973h-4.547v11.6h4.569c3.8 0 6.133-2.82 6.133-5.8 0-1.365-.469-2.815-1.478-3.925-1.013-1.115-2.557-1.875-4.676-1.875Zm-.177 9.732h-2.347v-7.864h2.264c1.521 0 2.603.46 3.304 1.167.703.709 1.046 1.688 1.046 2.765 0 .654-.2 1.641-.83 2.46-.621.808-1.677 1.473-3.437 1.473Zm-.083-8.073c3.13 0 4.558 1.898 4.558 4.141 0-2.243-1.429-4.141-4.558-4.141h-2.472 2.472Zm6.205 4.017.001.124c0 2.869-2.242 5.591-5.924 5.591h-4.36V11.182v11.182h4.36c3.682 0 5.924-2.722 5.924-5.591l-.001-.124ZM9.5 11.005v11.588h2.024V11.005H9.5Zm1.815.208v11.172-11.172H9.71h1.606ZM10.512 10.15c.7 0 1.262-.575 1.262-1.263 0-.687-.561-1.262-1.262-1.262-.7 0-1.262.563-1.262 1.262 0 .688.561 1.262 1.262 1.262Zm.614-.408a1.044 1.044 0 0 0 0 0Z" fill="#7FAA26"/>
+</svg>
+</a></li>
+											<li class="authors-string__item"><a class="author-string__href" href="#author-8"><span>Jorge Soto - Andrade</span><sup class="author-symbol author-plus">&ThinSpace;&rtrif;</sup><sup class="author-symbol author-minus hidden">&ThinSpace;&dtrif;</sup></a><a class="orcidImage img-wrapper" href="https://orcid.org/0000-0003-1120-2911"><svg class="orcid_icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.474 16c0 7.442-6.032 13.474-13.474 13.474S2.526 23.442 2.526 16 8.558 2.526 16 2.526 29.474 8.558 29.474 16Z" fill="#fff"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16ZM16 29.474c7.442 0 13.474-6.032 13.474-13.474S23.442 2.526 16 2.526 2.526 8.558 2.526 16 8.558 29.474 16 29.474Z" fill="#7FAA26"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M18.22 10.973h-4.547v11.6h4.569c3.8 0 6.133-2.82 6.133-5.8 0-1.365-.469-2.815-1.478-3.925-1.013-1.115-2.557-1.875-4.676-1.875Zm-.177 9.732h-2.347v-7.864h2.264c1.521 0 2.603.46 3.304 1.167.703.709 1.046 1.688 1.046 2.765 0 .654-.2 1.641-.83 2.46-.621.808-1.677 1.473-3.437 1.473Zm-.083-8.073c3.13 0 4.558 1.898 4.558 4.141 0-2.243-1.429-4.141-4.558-4.141h-2.472 2.472Zm6.205 4.017.001.124c0 2.869-2.242 5.591-5.924 5.591h-4.36V11.182v11.182h4.36c3.682 0 5.924-2.722 5.924-5.591l-.001-.124ZM9.5 11.005v11.588h2.024V11.005H9.5Zm1.815.208v11.172-11.172H9.71h1.606ZM10.512 10.15c.7 0 1.262-.575 1.262-1.263 0-.687-.561-1.262-1.262-1.262-.7 0-1.262.563-1.262 1.262 0 .688.561 1.262 1.262 1.262Zm.614-.408a1.044 1.044 0 0 0 0 0Z" fill="#7FAA26"/>
+</svg>
+</a></li>
+									</ul>
+			</div>
+												<div class="article-page__meta">
+				<div class="article-details__authors">
+											<div class="article-details__author hidden" id="author-1">
+																								<div class="article-details__author-affiliation">
+										Universidad Católica del Norte
+																					<a class="rorImage" href="https://ror.org/02akpm128"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 23.4225 16.696501"
+   xml:space="preserve"
+   sodipodi:docname="rorId.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="23.422501"
+   height="16.696501"><metadata
+   id="metadata93"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs91" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1880"
+   inkscape:window-height="1016"
+   id="namedview89"
+   showgrid="true"
+   showguides="false"
+   inkscape:zoom="1"
+   inkscape:cx="-177.76975"
+   inkscape:cy="13.962506"
+   inkscape:window-x="40"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<switch
+   id="switch86"
+   transform="matrix(0.15,0,0,0.15,-0.7305,-0.624)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g84">
+		<polygon
+   class="strorId0"
+   points="68.65,4.16 56.52,22.74 44.38,4.16 "
+   id="polygon72"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="119.41,4.16 107.28,22.74 95.14,4.16 "
+   id="polygon74"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="44.38,115.47 56.52,96.88 68.65,115.47 "
+   id="polygon76"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="95.14,115.47 107.28,96.88 119.41,115.47 "
+   id="polygon78"
+   style="fill:#53baa1" />
+		<g
+   id="g82">
+			<path
+   class="st1"
+   d="m 145.53,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 2.24,-3.01 3.35,-6.67 3.35,-10.96 0,-3.56 -0.62,-6.52 -1.85,-8.9 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 h -23.56 v 18.83 c -0.19,-0.55 -0.39,-1.09 -0.61,-1.63 -1.63,-3.95 -3.91,-7.32 -6.84,-10.1 -2.93,-2.78 -6.39,-4.92 -10.41,-6.41 -4.01,-1.49 -8.4,-2.24 -13.16,-2.24 -4.76,0 -9.14,0.75 -13.16,2.24 -4.01,1.49 -7.48,3.63 -10.41,6.41 -2.62,2.49 -4.72,5.46 -6.3,8.9 -0.23,-2.47 -0.81,-4.61 -1.74,-6.41 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 H 4.87 V 89.42 H 18.28 V 65.08 H 24.9 L 37.63,89.42 H 53.71 L 38.24,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 0.1,-0.14 0.19,-0.29 0.29,-0.43 -0.02,0.47 -0.03,0.94 -0.03,1.42 0,4.87 0.82,9.29 2.45,13.24 1.63,3.95 3.91,7.32 6.84,10.1 2.92,2.78 6.39,4.92 10.41,6.41 4.01,1.49 8.4,2.24 13.16,2.24 4.76,0 9.14,-0.75 13.16,-2.24 4.01,-1.49 7.48,-3.63 10.41,-6.41 2.92,-2.78 5.2,-6.15 6.84,-10.1 0.22,-0.53 0.42,-1.08 0.61,-1.63 v 18.83 h 13.41 V 65.08 h 6.62 l 12.73,24.34 h 16.08 z M 36.39,50.81 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 H 18.29 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z m 62.35,16.04 c -0.89,2.38 -2.16,4.44 -3.83,6.19 -1.66,1.75 -3.65,3.11 -5.98,4.09 -2.32,0.98 -4.92,1.46 -7.78,1.46 -2.87,0 -5.46,-0.49 -7.78,-1.46 -2.32,-0.97 -4.31,-2.34 -5.98,-4.09 -1.66,-1.75 -2.94,-3.81 -3.83,-6.19 -0.89,-2.38 -1.33,-5 -1.33,-7.87 0,-2.81 0.44,-5.42 1.33,-7.83 0.89,-2.41 2.16,-4.48 3.83,-6.23 1.66,-1.75 3.65,-3.11 5.98,-4.09 2.32,-0.97 4.91,-1.46 7.78,-1.46 2.87,0 5.46,0.49 7.78,1.46 2.32,0.97 4.31,2.34 5.98,4.09 1.66,1.75 2.94,3.83 3.83,6.23 0.89,2.41 1.33,5.02 1.33,7.83 0,2.87 -0.44,5.49 -1.33,7.87 z m 44.94,-16.04 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 h -7.91 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z"
+   id="path80"
+   inkscape:connector-curvature="0"
+   style="fill:#202826" />
+		</g>
+	</g>
+</switch>
+</svg>
+</a>
+																			</div>
+																														<div class="article-details__author-orcid">
+									<a href="https://orcid.org/0000-0003-0969-5139" target="_blank">
+																					<svg class="orcid_icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.474 16c0 7.442-6.032 13.474-13.474 13.474S2.526 23.442 2.526 16 8.558 2.526 16 2.526 29.474 8.558 29.474 16Z" fill="#fff"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16ZM16 29.474c7.442 0 13.474-6.032 13.474-13.474S23.442 2.526 16 2.526 2.526 8.558 2.526 16 8.558 29.474 16 29.474Z" fill="#7FAA26"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M18.22 10.973h-4.547v11.6h4.569c3.8 0 6.133-2.82 6.133-5.8 0-1.365-.469-2.815-1.478-3.925-1.013-1.115-2.557-1.875-4.676-1.875Zm-.177 9.732h-2.347v-7.864h2.264c1.521 0 2.603.46 3.304 1.167.703.709 1.046 1.688 1.046 2.765 0 .654-.2 1.641-.83 2.46-.621.808-1.677 1.473-3.437 1.473Zm-.083-8.073c3.13 0 4.558 1.898 4.558 4.141 0-2.243-1.429-4.141-4.558-4.141h-2.472 2.472Zm6.205 4.017.001.124c0 2.869-2.242 5.591-5.924 5.591h-4.36V11.182v11.182h4.36c3.682 0 5.924-2.722 5.924-5.591l-.001-.124ZM9.5 11.005v11.588h2.024V11.005H9.5Zm1.815.208v11.172-11.172H9.71h1.606ZM10.512 10.15c.7 0 1.262-.575 1.262-1.263 0-.687-.561-1.262-1.262-1.262-.7 0-1.262.563-1.262 1.262 0 .688.561 1.262 1.262 1.262Zm.614-.408a1.044 1.044 0 0 0 0 0Z" fill="#7FAA26"/>
+</svg>
+
+																				https://orcid.org/0000-0003-0969-5139 (no autenticado)
+									</a>
+								</div>
+																				</div>
+											<div class="article-details__author hidden" id="author-2">
+																								<div class="article-details__author-affiliation">
+										Sociedad Educacional Compumat
+																			</div>
+																																			</div>
+											<div class="article-details__author hidden" id="author-3">
+																								<div class="article-details__author-affiliation">
+										Universidad de Chile
+																					<a class="rorImage" href="https://ror.org/047gc3g35"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 23.4225 16.696501"
+   xml:space="preserve"
+   sodipodi:docname="rorId.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="23.422501"
+   height="16.696501"><metadata
+   id="metadata93"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs91" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1880"
+   inkscape:window-height="1016"
+   id="namedview89"
+   showgrid="true"
+   showguides="false"
+   inkscape:zoom="1"
+   inkscape:cx="-177.76975"
+   inkscape:cy="13.962506"
+   inkscape:window-x="40"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<switch
+   id="switch86"
+   transform="matrix(0.15,0,0,0.15,-0.7305,-0.624)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g84">
+		<polygon
+   class="strorId0"
+   points="68.65,4.16 56.52,22.74 44.38,4.16 "
+   id="polygon72"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="119.41,4.16 107.28,22.74 95.14,4.16 "
+   id="polygon74"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="44.38,115.47 56.52,96.88 68.65,115.47 "
+   id="polygon76"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="95.14,115.47 107.28,96.88 119.41,115.47 "
+   id="polygon78"
+   style="fill:#53baa1" />
+		<g
+   id="g82">
+			<path
+   class="st1"
+   d="m 145.53,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 2.24,-3.01 3.35,-6.67 3.35,-10.96 0,-3.56 -0.62,-6.52 -1.85,-8.9 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 h -23.56 v 18.83 c -0.19,-0.55 -0.39,-1.09 -0.61,-1.63 -1.63,-3.95 -3.91,-7.32 -6.84,-10.1 -2.93,-2.78 -6.39,-4.92 -10.41,-6.41 -4.01,-1.49 -8.4,-2.24 -13.16,-2.24 -4.76,0 -9.14,0.75 -13.16,2.24 -4.01,1.49 -7.48,3.63 -10.41,6.41 -2.62,2.49 -4.72,5.46 -6.3,8.9 -0.23,-2.47 -0.81,-4.61 -1.74,-6.41 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 H 4.87 V 89.42 H 18.28 V 65.08 H 24.9 L 37.63,89.42 H 53.71 L 38.24,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 0.1,-0.14 0.19,-0.29 0.29,-0.43 -0.02,0.47 -0.03,0.94 -0.03,1.42 0,4.87 0.82,9.29 2.45,13.24 1.63,3.95 3.91,7.32 6.84,10.1 2.92,2.78 6.39,4.92 10.41,6.41 4.01,1.49 8.4,2.24 13.16,2.24 4.76,0 9.14,-0.75 13.16,-2.24 4.01,-1.49 7.48,-3.63 10.41,-6.41 2.92,-2.78 5.2,-6.15 6.84,-10.1 0.22,-0.53 0.42,-1.08 0.61,-1.63 v 18.83 h 13.41 V 65.08 h 6.62 l 12.73,24.34 h 16.08 z M 36.39,50.81 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 H 18.29 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z m 62.35,16.04 c -0.89,2.38 -2.16,4.44 -3.83,6.19 -1.66,1.75 -3.65,3.11 -5.98,4.09 -2.32,0.98 -4.92,1.46 -7.78,1.46 -2.87,0 -5.46,-0.49 -7.78,-1.46 -2.32,-0.97 -4.31,-2.34 -5.98,-4.09 -1.66,-1.75 -2.94,-3.81 -3.83,-6.19 -0.89,-2.38 -1.33,-5 -1.33,-7.87 0,-2.81 0.44,-5.42 1.33,-7.83 0.89,-2.41 2.16,-4.48 3.83,-6.23 1.66,-1.75 3.65,-3.11 5.98,-4.09 2.32,-0.97 4.91,-1.46 7.78,-1.46 2.87,0 5.46,0.49 7.78,1.46 2.32,0.97 4.31,2.34 5.98,4.09 1.66,1.75 2.94,3.83 3.83,6.23 0.89,2.41 1.33,5.02 1.33,7.83 0,2.87 -0.44,5.49 -1.33,7.87 z m 44.94,-16.04 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 h -7.91 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z"
+   id="path80"
+   inkscape:connector-curvature="0"
+   style="fill:#202826" />
+		</g>
+	</g>
+</switch>
+</svg>
+</a>
+																			</div>
+																																			</div>
+											<div class="article-details__author hidden" id="author-4">
+																								<div class="article-details__author-affiliation">
+										Pontificia Universidad Católica de Valparaíso
+																					<a class="rorImage" href="https://ror.org/02cafbr77"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 23.4225 16.696501"
+   xml:space="preserve"
+   sodipodi:docname="rorId.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="23.422501"
+   height="16.696501"><metadata
+   id="metadata93"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs91" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1880"
+   inkscape:window-height="1016"
+   id="namedview89"
+   showgrid="true"
+   showguides="false"
+   inkscape:zoom="1"
+   inkscape:cx="-177.76975"
+   inkscape:cy="13.962506"
+   inkscape:window-x="40"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<switch
+   id="switch86"
+   transform="matrix(0.15,0,0,0.15,-0.7305,-0.624)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g84">
+		<polygon
+   class="strorId0"
+   points="68.65,4.16 56.52,22.74 44.38,4.16 "
+   id="polygon72"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="119.41,4.16 107.28,22.74 95.14,4.16 "
+   id="polygon74"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="44.38,115.47 56.52,96.88 68.65,115.47 "
+   id="polygon76"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="95.14,115.47 107.28,96.88 119.41,115.47 "
+   id="polygon78"
+   style="fill:#53baa1" />
+		<g
+   id="g82">
+			<path
+   class="st1"
+   d="m 145.53,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 2.24,-3.01 3.35,-6.67 3.35,-10.96 0,-3.56 -0.62,-6.52 -1.85,-8.9 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 h -23.56 v 18.83 c -0.19,-0.55 -0.39,-1.09 -0.61,-1.63 -1.63,-3.95 -3.91,-7.32 -6.84,-10.1 -2.93,-2.78 -6.39,-4.92 -10.41,-6.41 -4.01,-1.49 -8.4,-2.24 -13.16,-2.24 -4.76,0 -9.14,0.75 -13.16,2.24 -4.01,1.49 -7.48,3.63 -10.41,6.41 -2.62,2.49 -4.72,5.46 -6.3,8.9 -0.23,-2.47 -0.81,-4.61 -1.74,-6.41 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 H 4.87 V 89.42 H 18.28 V 65.08 H 24.9 L 37.63,89.42 H 53.71 L 38.24,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 0.1,-0.14 0.19,-0.29 0.29,-0.43 -0.02,0.47 -0.03,0.94 -0.03,1.42 0,4.87 0.82,9.29 2.45,13.24 1.63,3.95 3.91,7.32 6.84,10.1 2.92,2.78 6.39,4.92 10.41,6.41 4.01,1.49 8.4,2.24 13.16,2.24 4.76,0 9.14,-0.75 13.16,-2.24 4.01,-1.49 7.48,-3.63 10.41,-6.41 2.92,-2.78 5.2,-6.15 6.84,-10.1 0.22,-0.53 0.42,-1.08 0.61,-1.63 v 18.83 h 13.41 V 65.08 h 6.62 l 12.73,24.34 h 16.08 z M 36.39,50.81 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 H 18.29 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z m 62.35,16.04 c -0.89,2.38 -2.16,4.44 -3.83,6.19 -1.66,1.75 -3.65,3.11 -5.98,4.09 -2.32,0.98 -4.92,1.46 -7.78,1.46 -2.87,0 -5.46,-0.49 -7.78,-1.46 -2.32,-0.97 -4.31,-2.34 -5.98,-4.09 -1.66,-1.75 -2.94,-3.81 -3.83,-6.19 -0.89,-2.38 -1.33,-5 -1.33,-7.87 0,-2.81 0.44,-5.42 1.33,-7.83 0.89,-2.41 2.16,-4.48 3.83,-6.23 1.66,-1.75 3.65,-3.11 5.98,-4.09 2.32,-0.97 4.91,-1.46 7.78,-1.46 2.87,0 5.46,0.49 7.78,1.46 2.32,0.97 4.31,2.34 5.98,4.09 1.66,1.75 2.94,3.83 3.83,6.23 0.89,2.41 1.33,5.02 1.33,7.83 0,2.87 -0.44,5.49 -1.33,7.87 z m 44.94,-16.04 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 h -7.91 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z"
+   id="path80"
+   inkscape:connector-curvature="0"
+   style="fill:#202826" />
+		</g>
+	</g>
+</switch>
+</svg>
+</a>
+																			</div>
+																																			</div>
+											<div class="article-details__author hidden" id="author-5">
+																								<div class="article-details__author-affiliation">
+										Universidad de Chile
+																					<a class="rorImage" href="https://ror.org/047gc3g35"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 23.4225 16.696501"
+   xml:space="preserve"
+   sodipodi:docname="rorId.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="23.422501"
+   height="16.696501"><metadata
+   id="metadata93"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs91" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1880"
+   inkscape:window-height="1016"
+   id="namedview89"
+   showgrid="true"
+   showguides="false"
+   inkscape:zoom="1"
+   inkscape:cx="-177.76975"
+   inkscape:cy="13.962506"
+   inkscape:window-x="40"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<switch
+   id="switch86"
+   transform="matrix(0.15,0,0,0.15,-0.7305,-0.624)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g84">
+		<polygon
+   class="strorId0"
+   points="68.65,4.16 56.52,22.74 44.38,4.16 "
+   id="polygon72"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="119.41,4.16 107.28,22.74 95.14,4.16 "
+   id="polygon74"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="44.38,115.47 56.52,96.88 68.65,115.47 "
+   id="polygon76"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="95.14,115.47 107.28,96.88 119.41,115.47 "
+   id="polygon78"
+   style="fill:#53baa1" />
+		<g
+   id="g82">
+			<path
+   class="st1"
+   d="m 145.53,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 2.24,-3.01 3.35,-6.67 3.35,-10.96 0,-3.56 -0.62,-6.52 -1.85,-8.9 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 h -23.56 v 18.83 c -0.19,-0.55 -0.39,-1.09 -0.61,-1.63 -1.63,-3.95 -3.91,-7.32 -6.84,-10.1 -2.93,-2.78 -6.39,-4.92 -10.41,-6.41 -4.01,-1.49 -8.4,-2.24 -13.16,-2.24 -4.76,0 -9.14,0.75 -13.16,2.24 -4.01,1.49 -7.48,3.63 -10.41,6.41 -2.62,2.49 -4.72,5.46 -6.3,8.9 -0.23,-2.47 -0.81,-4.61 -1.74,-6.41 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 H 4.87 V 89.42 H 18.28 V 65.08 H 24.9 L 37.63,89.42 H 53.71 L 38.24,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 0.1,-0.14 0.19,-0.29 0.29,-0.43 -0.02,0.47 -0.03,0.94 -0.03,1.42 0,4.87 0.82,9.29 2.45,13.24 1.63,3.95 3.91,7.32 6.84,10.1 2.92,2.78 6.39,4.92 10.41,6.41 4.01,1.49 8.4,2.24 13.16,2.24 4.76,0 9.14,-0.75 13.16,-2.24 4.01,-1.49 7.48,-3.63 10.41,-6.41 2.92,-2.78 5.2,-6.15 6.84,-10.1 0.22,-0.53 0.42,-1.08 0.61,-1.63 v 18.83 h 13.41 V 65.08 h 6.62 l 12.73,24.34 h 16.08 z M 36.39,50.81 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 H 18.29 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z m 62.35,16.04 c -0.89,2.38 -2.16,4.44 -3.83,6.19 -1.66,1.75 -3.65,3.11 -5.98,4.09 -2.32,0.98 -4.92,1.46 -7.78,1.46 -2.87,0 -5.46,-0.49 -7.78,-1.46 -2.32,-0.97 -4.31,-2.34 -5.98,-4.09 -1.66,-1.75 -2.94,-3.81 -3.83,-6.19 -0.89,-2.38 -1.33,-5 -1.33,-7.87 0,-2.81 0.44,-5.42 1.33,-7.83 0.89,-2.41 2.16,-4.48 3.83,-6.23 1.66,-1.75 3.65,-3.11 5.98,-4.09 2.32,-0.97 4.91,-1.46 7.78,-1.46 2.87,0 5.46,0.49 7.78,1.46 2.32,0.97 4.31,2.34 5.98,4.09 1.66,1.75 2.94,3.83 3.83,6.23 0.89,2.41 1.33,5.02 1.33,7.83 0,2.87 -0.44,5.49 -1.33,7.87 z m 44.94,-16.04 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 h -7.91 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z"
+   id="path80"
+   inkscape:connector-curvature="0"
+   style="fill:#202826" />
+		</g>
+	</g>
+</switch>
+</svg>
+</a>
+																			</div>
+																																			</div>
+											<div class="article-details__author hidden" id="author-6">
+																								<div class="article-details__author-affiliation">
+										Universidad de Chile
+																					<a class="rorImage" href="https://ror.org/047gc3g35"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 23.4225 16.696501"
+   xml:space="preserve"
+   sodipodi:docname="rorId.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="23.422501"
+   height="16.696501"><metadata
+   id="metadata93"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs91" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1880"
+   inkscape:window-height="1016"
+   id="namedview89"
+   showgrid="true"
+   showguides="false"
+   inkscape:zoom="1"
+   inkscape:cx="-177.76975"
+   inkscape:cy="13.962506"
+   inkscape:window-x="40"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<switch
+   id="switch86"
+   transform="matrix(0.15,0,0,0.15,-0.7305,-0.624)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g84">
+		<polygon
+   class="strorId0"
+   points="68.65,4.16 56.52,22.74 44.38,4.16 "
+   id="polygon72"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="119.41,4.16 107.28,22.74 95.14,4.16 "
+   id="polygon74"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="44.38,115.47 56.52,96.88 68.65,115.47 "
+   id="polygon76"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="95.14,115.47 107.28,96.88 119.41,115.47 "
+   id="polygon78"
+   style="fill:#53baa1" />
+		<g
+   id="g82">
+			<path
+   class="st1"
+   d="m 145.53,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 2.24,-3.01 3.35,-6.67 3.35,-10.96 0,-3.56 -0.62,-6.52 -1.85,-8.9 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 h -23.56 v 18.83 c -0.19,-0.55 -0.39,-1.09 -0.61,-1.63 -1.63,-3.95 -3.91,-7.32 -6.84,-10.1 -2.93,-2.78 -6.39,-4.92 -10.41,-6.41 -4.01,-1.49 -8.4,-2.24 -13.16,-2.24 -4.76,0 -9.14,0.75 -13.16,2.24 -4.01,1.49 -7.48,3.63 -10.41,6.41 -2.62,2.49 -4.72,5.46 -6.3,8.9 -0.23,-2.47 -0.81,-4.61 -1.74,-6.41 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 H 4.87 V 89.42 H 18.28 V 65.08 H 24.9 L 37.63,89.42 H 53.71 L 38.24,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 0.1,-0.14 0.19,-0.29 0.29,-0.43 -0.02,0.47 -0.03,0.94 -0.03,1.42 0,4.87 0.82,9.29 2.45,13.24 1.63,3.95 3.91,7.32 6.84,10.1 2.92,2.78 6.39,4.92 10.41,6.41 4.01,1.49 8.4,2.24 13.16,2.24 4.76,0 9.14,-0.75 13.16,-2.24 4.01,-1.49 7.48,-3.63 10.41,-6.41 2.92,-2.78 5.2,-6.15 6.84,-10.1 0.22,-0.53 0.42,-1.08 0.61,-1.63 v 18.83 h 13.41 V 65.08 h 6.62 l 12.73,24.34 h 16.08 z M 36.39,50.81 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 H 18.29 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z m 62.35,16.04 c -0.89,2.38 -2.16,4.44 -3.83,6.19 -1.66,1.75 -3.65,3.11 -5.98,4.09 -2.32,0.98 -4.92,1.46 -7.78,1.46 -2.87,0 -5.46,-0.49 -7.78,-1.46 -2.32,-0.97 -4.31,-2.34 -5.98,-4.09 -1.66,-1.75 -2.94,-3.81 -3.83,-6.19 -0.89,-2.38 -1.33,-5 -1.33,-7.87 0,-2.81 0.44,-5.42 1.33,-7.83 0.89,-2.41 2.16,-4.48 3.83,-6.23 1.66,-1.75 3.65,-3.11 5.98,-4.09 2.32,-0.97 4.91,-1.46 7.78,-1.46 2.87,0 5.46,0.49 7.78,1.46 2.32,0.97 4.31,2.34 5.98,4.09 1.66,1.75 2.94,3.83 3.83,6.23 0.89,2.41 1.33,5.02 1.33,7.83 0,2.87 -0.44,5.49 -1.33,7.87 z m 44.94,-16.04 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 h -7.91 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z"
+   id="path80"
+   inkscape:connector-curvature="0"
+   style="fill:#202826" />
+		</g>
+	</g>
+</switch>
+</svg>
+</a>
+																			</div>
+																														<div class="article-details__author-orcid">
+									<a href="https://orcid.org/0000-0002-7359-890X" target="_blank">
+																					<svg class="orcid_icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.474 16c0 7.442-6.032 13.474-13.474 13.474S2.526 23.442 2.526 16 8.558 2.526 16 2.526 29.474 8.558 29.474 16Z" fill="#fff"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16ZM16 29.474c7.442 0 13.474-6.032 13.474-13.474S23.442 2.526 16 2.526 2.526 8.558 2.526 16 8.558 29.474 16 29.474Z" fill="#7FAA26"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M18.22 10.973h-4.547v11.6h4.569c3.8 0 6.133-2.82 6.133-5.8 0-1.365-.469-2.815-1.478-3.925-1.013-1.115-2.557-1.875-4.676-1.875Zm-.177 9.732h-2.347v-7.864h2.264c1.521 0 2.603.46 3.304 1.167.703.709 1.046 1.688 1.046 2.765 0 .654-.2 1.641-.83 2.46-.621.808-1.677 1.473-3.437 1.473Zm-.083-8.073c3.13 0 4.558 1.898 4.558 4.141 0-2.243-1.429-4.141-4.558-4.141h-2.472 2.472Zm6.205 4.017.001.124c0 2.869-2.242 5.591-5.924 5.591h-4.36V11.182v11.182h4.36c3.682 0 5.924-2.722 5.924-5.591l-.001-.124ZM9.5 11.005v11.588h2.024V11.005H9.5Zm1.815.208v11.172-11.172H9.71h1.606ZM10.512 10.15c.7 0 1.262-.575 1.262-1.263 0-.687-.561-1.262-1.262-1.262-.7 0-1.262.563-1.262 1.262 0 .688.561 1.262 1.262 1.262Zm.614-.408a1.044 1.044 0 0 0 0 0Z" fill="#7FAA26"/>
+</svg>
+
+																				https://orcid.org/0000-0002-7359-890X (no autenticado)
+									</a>
+								</div>
+																				</div>
+											<div class="article-details__author hidden" id="author-7">
+																								<div class="article-details__author-affiliation">
+										Pontificia Universidad Católica de Chile
+																					<a class="rorImage" href="https://ror.org/04teye511"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 23.4225 16.696501"
+   xml:space="preserve"
+   sodipodi:docname="rorId.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="23.422501"
+   height="16.696501"><metadata
+   id="metadata93"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs91" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1880"
+   inkscape:window-height="1016"
+   id="namedview89"
+   showgrid="true"
+   showguides="false"
+   inkscape:zoom="1"
+   inkscape:cx="-177.76975"
+   inkscape:cy="13.962506"
+   inkscape:window-x="40"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<switch
+   id="switch86"
+   transform="matrix(0.15,0,0,0.15,-0.7305,-0.624)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g84">
+		<polygon
+   class="strorId0"
+   points="68.65,4.16 56.52,22.74 44.38,4.16 "
+   id="polygon72"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="119.41,4.16 107.28,22.74 95.14,4.16 "
+   id="polygon74"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="44.38,115.47 56.52,96.88 68.65,115.47 "
+   id="polygon76"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="95.14,115.47 107.28,96.88 119.41,115.47 "
+   id="polygon78"
+   style="fill:#53baa1" />
+		<g
+   id="g82">
+			<path
+   class="st1"
+   d="m 145.53,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 2.24,-3.01 3.35,-6.67 3.35,-10.96 0,-3.56 -0.62,-6.52 -1.85,-8.9 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 h -23.56 v 18.83 c -0.19,-0.55 -0.39,-1.09 -0.61,-1.63 -1.63,-3.95 -3.91,-7.32 -6.84,-10.1 -2.93,-2.78 -6.39,-4.92 -10.41,-6.41 -4.01,-1.49 -8.4,-2.24 -13.16,-2.24 -4.76,0 -9.14,0.75 -13.16,2.24 -4.01,1.49 -7.48,3.63 -10.41,6.41 -2.62,2.49 -4.72,5.46 -6.3,8.9 -0.23,-2.47 -0.81,-4.61 -1.74,-6.41 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 H 4.87 V 89.42 H 18.28 V 65.08 H 24.9 L 37.63,89.42 H 53.71 L 38.24,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 0.1,-0.14 0.19,-0.29 0.29,-0.43 -0.02,0.47 -0.03,0.94 -0.03,1.42 0,4.87 0.82,9.29 2.45,13.24 1.63,3.95 3.91,7.32 6.84,10.1 2.92,2.78 6.39,4.92 10.41,6.41 4.01,1.49 8.4,2.24 13.16,2.24 4.76,0 9.14,-0.75 13.16,-2.24 4.01,-1.49 7.48,-3.63 10.41,-6.41 2.92,-2.78 5.2,-6.15 6.84,-10.1 0.22,-0.53 0.42,-1.08 0.61,-1.63 v 18.83 h 13.41 V 65.08 h 6.62 l 12.73,24.34 h 16.08 z M 36.39,50.81 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 H 18.29 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z m 62.35,16.04 c -0.89,2.38 -2.16,4.44 -3.83,6.19 -1.66,1.75 -3.65,3.11 -5.98,4.09 -2.32,0.98 -4.92,1.46 -7.78,1.46 -2.87,0 -5.46,-0.49 -7.78,-1.46 -2.32,-0.97 -4.31,-2.34 -5.98,-4.09 -1.66,-1.75 -2.94,-3.81 -3.83,-6.19 -0.89,-2.38 -1.33,-5 -1.33,-7.87 0,-2.81 0.44,-5.42 1.33,-7.83 0.89,-2.41 2.16,-4.48 3.83,-6.23 1.66,-1.75 3.65,-3.11 5.98,-4.09 2.32,-0.97 4.91,-1.46 7.78,-1.46 2.87,0 5.46,0.49 7.78,1.46 2.32,0.97 4.31,2.34 5.98,4.09 1.66,1.75 2.94,3.83 3.83,6.23 0.89,2.41 1.33,5.02 1.33,7.83 0,2.87 -0.44,5.49 -1.33,7.87 z m 44.94,-16.04 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 h -7.91 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z"
+   id="path80"
+   inkscape:connector-curvature="0"
+   style="fill:#202826" />
+		</g>
+	</g>
+</switch>
+</svg>
+</a>
+																			</div>
+																														<div class="article-details__author-orcid">
+									<a href="https://orcid.org/0000-0002-0012-4543" target="_blank">
+																					<svg class="orcid_icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.474 16c0 7.442-6.032 13.474-13.474 13.474S2.526 23.442 2.526 16 8.558 2.526 16 2.526 29.474 8.558 29.474 16Z" fill="#fff"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16ZM16 29.474c7.442 0 13.474-6.032 13.474-13.474S23.442 2.526 16 2.526 2.526 8.558 2.526 16 8.558 29.474 16 29.474Z" fill="#7FAA26"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M18.22 10.973h-4.547v11.6h4.569c3.8 0 6.133-2.82 6.133-5.8 0-1.365-.469-2.815-1.478-3.925-1.013-1.115-2.557-1.875-4.676-1.875Zm-.177 9.732h-2.347v-7.864h2.264c1.521 0 2.603.46 3.304 1.167.703.709 1.046 1.688 1.046 2.765 0 .654-.2 1.641-.83 2.46-.621.808-1.677 1.473-3.437 1.473Zm-.083-8.073c3.13 0 4.558 1.898 4.558 4.141 0-2.243-1.429-4.141-4.558-4.141h-2.472 2.472Zm6.205 4.017.001.124c0 2.869-2.242 5.591-5.924 5.591h-4.36V11.182v11.182h4.36c3.682 0 5.924-2.722 5.924-5.591l-.001-.124ZM9.5 11.005v11.588h2.024V11.005H9.5Zm1.815.208v11.172-11.172H9.71h1.606ZM10.512 10.15c.7 0 1.262-.575 1.262-1.263 0-.687-.561-1.262-1.262-1.262-.7 0-1.262.563-1.262 1.262 0 .688.561 1.262 1.262 1.262Zm.614-.408a1.044 1.044 0 0 0 0 0Z" fill="#7FAA26"/>
+</svg>
+
+																				https://orcid.org/0000-0002-0012-4543 (no autenticado)
+									</a>
+								</div>
+																				</div>
+											<div class="article-details__author hidden" id="author-8">
+																								<div class="article-details__author-affiliation">
+										Universidad de Chile
+																					<a class="rorImage" href="https://ror.org/047gc3g35"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 23.4225 16.696501"
+   xml:space="preserve"
+   sodipodi:docname="rorId.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="23.422501"
+   height="16.696501"><metadata
+   id="metadata93"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs91" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1880"
+   inkscape:window-height="1016"
+   id="namedview89"
+   showgrid="true"
+   showguides="false"
+   inkscape:zoom="1"
+   inkscape:cx="-177.76975"
+   inkscape:cy="13.962506"
+   inkscape:window-x="40"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<switch
+   id="switch86"
+   transform="matrix(0.15,0,0,0.15,-0.7305,-0.624)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g84">
+		<polygon
+   class="strorId0"
+   points="68.65,4.16 56.52,22.74 44.38,4.16 "
+   id="polygon72"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="119.41,4.16 107.28,22.74 95.14,4.16 "
+   id="polygon74"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="44.38,115.47 56.52,96.88 68.65,115.47 "
+   id="polygon76"
+   style="fill:#53baa1" />
+		<polygon
+   class="strorId0"
+   points="95.14,115.47 107.28,96.88 119.41,115.47 "
+   id="polygon78"
+   style="fill:#53baa1" />
+		<g
+   id="g82">
+			<path
+   class="st1"
+   d="m 145.53,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 2.24,-3.01 3.35,-6.67 3.35,-10.96 0,-3.56 -0.62,-6.52 -1.85,-8.9 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 h -23.56 v 18.83 c -0.19,-0.55 -0.39,-1.09 -0.61,-1.63 -1.63,-3.95 -3.91,-7.32 -6.84,-10.1 -2.93,-2.78 -6.39,-4.92 -10.41,-6.41 -4.01,-1.49 -8.4,-2.24 -13.16,-2.24 -4.76,0 -9.14,0.75 -13.16,2.24 -4.01,1.49 -7.48,3.63 -10.41,6.41 -2.62,2.49 -4.72,5.46 -6.3,8.9 -0.23,-2.47 -0.81,-4.61 -1.74,-6.41 -1.23,-2.38 -2.9,-4.27 -4.99,-5.68 -2.09,-1.4 -4.53,-2.41 -7.31,-3.01 -2.78,-0.6 -5.72,-0.9 -8.81,-0.9 H 4.87 V 89.42 H 18.28 V 65.08 H 24.9 L 37.63,89.42 H 53.71 L 38.24,63.71 c 4.3,-0.8 7.57,-2.71 9.8,-5.72 0.1,-0.14 0.19,-0.29 0.29,-0.43 -0.02,0.47 -0.03,0.94 -0.03,1.42 0,4.87 0.82,9.29 2.45,13.24 1.63,3.95 3.91,7.32 6.84,10.1 2.92,2.78 6.39,4.92 10.41,6.41 4.01,1.49 8.4,2.24 13.16,2.24 4.76,0 9.14,-0.75 13.16,-2.24 4.01,-1.49 7.48,-3.63 10.41,-6.41 2.92,-2.78 5.2,-6.15 6.84,-10.1 0.22,-0.53 0.42,-1.08 0.61,-1.63 v 18.83 h 13.41 V 65.08 h 6.62 l 12.73,24.34 h 16.08 z M 36.39,50.81 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 H 18.29 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z m 62.35,16.04 c -0.89,2.38 -2.16,4.44 -3.83,6.19 -1.66,1.75 -3.65,3.11 -5.98,4.09 -2.32,0.98 -4.92,1.46 -7.78,1.46 -2.87,0 -5.46,-0.49 -7.78,-1.46 -2.32,-0.97 -4.31,-2.34 -5.98,-4.09 -1.66,-1.75 -2.94,-3.81 -3.83,-6.19 -0.89,-2.38 -1.33,-5 -1.33,-7.87 0,-2.81 0.44,-5.42 1.33,-7.83 0.89,-2.41 2.16,-4.48 3.83,-6.23 1.66,-1.75 3.65,-3.11 5.98,-4.09 2.32,-0.97 4.91,-1.46 7.78,-1.46 2.87,0 5.46,0.49 7.78,1.46 2.32,0.97 4.31,2.34 5.98,4.09 1.66,1.75 2.94,3.83 3.83,6.23 0.89,2.41 1.33,5.02 1.33,7.83 0,2.87 -0.44,5.49 -1.33,7.87 z m 44.94,-16.04 c -0.72,0.92 -1.62,1.59 -2.71,2.02 -1.09,0.43 -2.31,0.69 -3.65,0.77 -1.35,0.09 -2.62,0.13 -3.83,0.13 h -7.91 V 39.89 h 8.77 c 1.2,0 2.44,0.09 3.7,0.26 1.26,0.17 2.38,0.5 3.35,0.99 0.97,0.49 1.78,1.19 2.41,2.11 0.63,0.92 0.95,2.15 0.95,3.7 0,1.65 -0.36,2.94 -1.08,3.86 z"
+   id="path80"
+   inkscape:connector-curvature="0"
+   style="fill:#202826" />
+		</g>
+	</g>
+</switch>
+</svg>
+</a>
+																			</div>
+																														<div class="article-details__author-orcid">
+									<a href="https://orcid.org/0000-0003-1120-2911" target="_blank">
+																					<svg class="orcid_icon" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M29.474 16c0 7.442-6.032 13.474-13.474 13.474S2.526 23.442 2.526 16 8.558 2.526 16 2.526 29.474 8.558 29.474 16Z" fill="#fff"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16ZM16 29.474c7.442 0 13.474-6.032 13.474-13.474S23.442 2.526 16 2.526 2.526 8.558 2.526 16 8.558 29.474 16 29.474Z" fill="#7FAA26"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M18.22 10.973h-4.547v11.6h4.569c3.8 0 6.133-2.82 6.133-5.8 0-1.365-.469-2.815-1.478-3.925-1.013-1.115-2.557-1.875-4.676-1.875Zm-.177 9.732h-2.347v-7.864h2.264c1.521 0 2.603.46 3.304 1.167.703.709 1.046 1.688 1.046 2.765 0 .654-.2 1.641-.83 2.46-.621.808-1.677 1.473-3.437 1.473Zm-.083-8.073c3.13 0 4.558 1.898 4.558 4.141 0-2.243-1.429-4.141-4.558-4.141h-2.472 2.472Zm6.205 4.017.001.124c0 2.869-2.242 5.591-5.924 5.591h-4.36V11.182v11.182h4.36c3.682 0 5.924-2.722 5.924-5.591l-.001-.124ZM9.5 11.005v11.588h2.024V11.005H9.5Zm1.815.208v11.172-11.172H9.71h1.606ZM10.512 10.15c.7 0 1.262-.575 1.262-1.263 0-.687-.561-1.262-1.262-1.262-.7 0-1.262.563-1.262 1.262 0 .688.561 1.262 1.262 1.262Zm.614-.408a1.044 1.044 0 0 0 0 0Z" fill="#7FAA26"/>
+</svg>
+
+																				https://orcid.org/0000-0003-1120-2911 (no autenticado)
+									</a>
+								</div>
+																				</div>
+									</div>
+			</div>
+			</header>
+
+				<div class="article-page__galleys">
+							<ul class="list-galleys primary-galleys">
+											<li>
+							
+	
+							
+
+<a class="article__btn pdf" href="https://relime.org/index.php/relime/es/article/view/210/178">
+
+		
+	PDF
+
+	</a>
+						</li>
+									</ul>
+								</div>
+	
+	<div class="article-page__meta">
+
+		<dl>
+																	<dt>
+										DOI: 
+				</dt>
+				<dd>
+					<a href="https://doi.org/10.12802/relime.13.1712">
+						https://doi.org/10.12802/relime.13.1712
+					</a>
+				</dd>
+			
+						
+
+							<dt>
+					Publicado
+				</dt>
+				<dd>
+																13 julio 2023
+														</dd>
+							
+		</dl>
+	</div><!-- .article-page__meta-->
+
+				<div class="article-page__abstract">
+			<h3 class="label">Resumen</h3>
+			<p>Basado en nuestro trabajo previo sobre estrategias cognitivas para el cálculo mental, presentamos el diseño de un sistema computacional adaptable al contexto, denominado ECOCAM, que apunta a promover estrategias de cálculo mental en alumnos de educación básica. Realizamos un primer testeo de nuestra propuesta a través de la implementación concreta de ECOCAM para promover una estrategia de sumas, a saber la de “trasvasije”, mediante un experimento piloto y estudio de casos, con niñas y niños en varios niveles de educación básica. Discutimos los resultados y las implicaciones para un desarrollo futuro e implementación de ECOCAM.</p>
+<p> </p>
+		</div>
+	
+				<div class="article-page__references">
+			<h3 class="label">
+				Referencias
+			</h3>
+							<ol class="references">
+											<li>Abowd, G. (1999). Classroom 2000: An experiment with the instrumentation of a living educational environment. IBM Systems Journal, 38(4), 508-530. </li>
+											<li>Allan, C., Avgustinov, P., Christensen, A. S., Hendren, L., Kuzins, S., Lhoták, O., Moor, O, Sereni, G., Sittampalam G., &amp; Tibble, J. (2005). Adding trace matching with free variables to AspectJ. ACM SIGPLAN Notices, 40(10), 345-364. </li>
+											<li>Anselmo, B,. Evesque-Sagnard, S., Fenoy, K., Planchette, P., &amp; Zuchetta, H. (2008). Calcul mental au collège: Nostalgie ou innovation? Lyon, France: IREM de Lyon. </li>
+											<li>Askew, M. (2004). El CM, piedra angular del aprendizaje matemático inicial (entrevista). Revista de Educación, Ministerio de Educación de Chile, 310-311, 23-25. </li>
+											<li>Askew, M., Ebbutt, S., &amp; Mosley, F. (2006). Enseñanza de Estrategias de CM. 3° y 4° de Enseñanza Básica. Santiago, Chile: Galileo Libros. </li>
+											<li>Baroody, A. J. (1987). The development of counting strategies for single-digit addition. Journal for Research in Mathematics Education, 18(2), 141-157. </li>
+											<li>Beishuizen, M. (1993). Mental Strategies and Materials or Models for Addition and Subtraction up to 100 in Dutch Second Grades. Journal for Research in Mathematics Education, 24(4), 294-323. </li>
+											<li>Braten, I. (1998). Cognitive strategies in mathematics, Part I: on children’s strategies for solving simple addition problems. Scandinavian Journal of Educational Research, 42(1), 5-24. </li>
+											<li>Brissiaud, R. (2003). Comment les enfants apprennent à calculer. Paris, France: Retz. </li>
+											<li>Bruner, J. (1996). The Culture of Education. Cambridge, EEUU: Harvard University Press. </li>
+											<li>Butlen, D. &amp; Pezard, M. (1992). Calcul mental et résolution de problèmes multiplicatifs. Recherche en Didactique des Mathématiques, 12(2/3), 319-368. </li>
+											<li>Butlen, D. (2007). Le calcul mental entre sens et technique: recherches sur l’enseignement des mathématiques aux élèves en difficulté, du calcul mental à la résolution des problèmes numériques. Besançon, France: Presses de l’Université du Franche-Comté. </li>
+											<li>Carpenter, T. P. &amp; Moser, J. M. (1982). The development of addition and subtraction problem-solving skills. In T. P. Carpenter, J. M. Moser &amp; T. A. Romberg (Eds.), Addition and subtraction: A cognitive perspective (pp. 9-24). Hillsdale, EEUU: Lawrence Erlbaum Associates. </li>
+											<li>Christensen, C. A. &amp; Cooper, T. J. (1991). Children’s solution strategies to single-digit addition problems: Some Australian data. Educational Research and Perspectives, 18(2), 62-70. </li>
+											<li>Cook, D. (2006). Health Monitoring and Assistance to Support Aging in Place. Journal of Universal Computer Science, 12(1), 15-29. doi: 10.3217/jucs-012-01-0015 </li>
+											<li>Duval, R. (1995). Sémiosis et pensée humaine. Berna, Suiza: Peter Lang AG. </li>
+											<li>Ebbutt, S., Mosley, F., &amp; Skinner, C. (2005). Enseñanza de Estrategias de CM 1º y 2º Enseñanza Básica, Santiago, Chile: Galileo Libros. </li>
+											<li>Ecocam (2010). <a href="http://www.pleger.cl/research/ecocam2">http://www.pleger.cl/research/ecocam2</a>. Recuperado el 20 de Septiembre del 2010, de <a href="http://pleger.cl/research/ecocam2">http://pleger.cl/research/ecocam2</a> </li>
+											<li>English, L. (Ed.) (1997). Mathematical reasoning: Analogies, metaphors, and images. London, UK: Lawrence Erlbaum. </li>
+											<li>Fernández, A. (2005). Avatares y estereotipos sobre la enseñanza de los algoritmos en matemáticas. Revista de Iberoamericana de Educación Matemática, 4, 31-46. </li>
+											<li>Gallese, V. &amp; Lakoff, G. (2005). The Brain’s concepts: the role of the Sensory-motor system in conceptual knowledge. Cognitive Neuropsychology, 22 (3), 455-479. doi: 10.1080/ 02643290442000310. </li>
+											<li>Gálvez, G. (2009). CM: pensado, reflexionado, simplificado. Santiago, Chile: Fundación Arauco. </li>
+											<li>Gálvez, G., Cubillos, L., Cosmelli, D., Léger, P., Mena, A., Tanter, É., Flores, X., Luci, G., Montoya, S., &amp; Soto Andrade, J. (2011). Estrategias cognitivas para el Cálculo Mental. Revista Latinoamericana de Investigación en Matemática Educativa, 14(1), 9-40. </li>
+											<li>Godino, J. D. (1993). Paradigmas, problemas y metodologías en didáctica de la matemática. Quadrante, 2(1), 9-22. </li>
+											<li>Heirdsfield, A. (2000). Mental computation: Is it more than mental architecture? Annual Meeting of the Australian Association for Research in Education. Recuperado el 15 de Enero de 2010, de <a href="http://www.aare.edu.au/00pap/hei00259.htm">http://www.aare.edu.au/00pap/hei00259.htm</a> </li>
+											<li>Hirschfeld, R., Constanza, P., &amp; Nierstrasz, O. (2008). Context-Oriented Programming. Journal of Object Technology, 7(3), 125-151. </li>
+											<li>Houlihan, D. M. &amp; Ginsburg, H. P. (1981). The addition methods of first and second-grade children. Journal for Research in Mathematics Education, 12(2), 95-106. </li>
+											<li>Isoda, M., Arcavi, A. &amp; Mena, A. (Eds) (2008). El Estudio de Clases japonés en Matemáticas (2da ed.). Valparaíso, Chile: Ediciones Universitarias de Valparaíso. </li>
+											<li>Johnson, M. &amp; Lakoff, G. (2003). Metaphors we live by. New York, EEUU: The University of Chicago Press. </li>
+											<li>Kamii, C., Lewis, B. A., &amp; Livingston, S. J. (1993). Primary arithmetic: Children inventing their own procedures. Arithmetic Teacher, 41(4), 200-203. </li>
+											<li>Kamii, C. &amp; Dominick, A. (1998). The harmful effects of algorithms in grades 1-4. In L.J. Morrow &amp; M. J. Kenney (Eds.), The teaching and learning of algorithms in school mathematics, 1998 yearbook (pp. 130-140). Reston, EEUU: NCTM. </li>
+											<li>Klein, T. &amp; Beishuizen, M. (1994). Assessment of flexibility in mental arithmetic. In J.E.H. Van Luit (Ed.), Research on learning and instruction of mathematics in kindergarten and primary schools (pp. 125-152). Doetinchem, The Netherlands: Graviatt Publishing Company. </li>
+											<li>Knops, A., Thirion, B., Hubbard, E., Michel, V., &amp; Dehaene, S. (2009). Recruitment of an area involved in eye movements during mental arithmetic. Science 1, 324 (5934), 1583-1585. doi: 10.1126/science.1171599 </li>
+											<li>Lakoff, G. &amp; Núñez, R. (2000). Where Mathematics comes from. New York, EEUU: Basic Books. </li>
+											<li>Leger, P. &amp; Tanter, É. (2010). An open trace-based mechanism. In J. Aldrich &amp; R. Massa (Eds.), Proceedings of SBLP 2010: 14 th Brazilian Symposium on Programming Languages. (pp. 123-138). Salvador de Bahia, Brasil: Brazilian Conference on Software: Theory and Practice. </li>
+											<li>Lethielleux, C. (2005), Le calcul mental au cycle des apprentissages fondamentaux (Vol. 1). Paris, France: Bordas/Séjer </li>
+											<li>Masciotra, D., Roth, W. M., &amp; Morel, D. (2007). Enaction: toward a Zen mind in learning and teaching. Twente, The Netherlands: Sense Publishers. </li>
+											<li>Ortega, T. y Ortiz, M. (2002). Diseño de una intervención para la enseñanza-aprendizaje del CM en el aula. Revista Latinoamericana de Investigación en Matemática Educativa, 5(3), 271-291. </li>
+											<li>Parra, C. (1993). CM en la escuela primaria. En C. Parra e I. Sáiz (Eds.), Didáctica de matemáticas. Aportes y reflexiones (pp. 219-272). Buenos Aires, Argentina: Paidós. </li>
+											<li>Pochon, L-O. (1997). Regard sur le calcul mental. Math Ecole, 36(179), 19-27. </li>
+											<li>Postlewait, K. B., Adams, M. R., &amp; Shih, J. C. (2003). Promoting meaningful mastery of addition and subtraction. Teaching Children Mathematics, 9(6), 354-357. </li>
+											<li>Presmeg, N. C.(1997). Reasoning with metaphors and metonymies in mathematics learning. In L. English (Ed.), Mathematical reasoning: Analogies, metaphors, and images, (pp. 267-279). London,UK: Lawrence Erlbaum Associates. </li>
+											<li>Radford, L. &amp; André, M. (2009). Cerebro, cognición y matemáticas. Revista Latinoamericana de Investigación en Matemática Educativa, 12(2), 215-250. </li>
+											<li>Reys, R. E., Reys, B. J., Nohda, N., &amp; Emori, H. (1995). Mental computation performance and strategy use of Japanese students in grades 2, 4, 6, and 8. Journal for Research in Mathematics Education, 26(4), 304-326. </li>
+											<li>Riveros, M., Gálvez, G., Navarro, S., &amp; Zanocco, P. (1996). Tilín-Tilón. Actividades para el desarrollo de la capacidad de calcular. Programa de las 900 Escuelas. Santiago, Chile: MINEDUC. </li>
+											<li>Sfard, A. (1994). Reification as the birth of metaphor. For the Learning of Mathematics, 14(1),44-55. </li>
+											<li>Sfard, A. (1997). Commentary: On metaphorical roots of conceptual growth. In L. English (Ed.), Mathematical reasoning: Analogies, metaphors, and images (pp. 339-371). London, UK: Lawrence Erlbaum Associates. </li>
+											<li>Shrager, J. &amp; Siegler, R. S. (1998), SCADS: A model of children’s strategy choices and strategy discoveries. Psychological Science, 9(5), 405-410. doi: 10.1111/1467-9280.00076 </li>
+											<li>Siegler, R. S. &amp; Campbell, J. (1989). Individual differences in children’s strategy choices. In P. L. Ackerman, R. J. Sternberg, &amp; R. Glaser (Eds.), Learning and individual differences: Advances in theory and research (pp. 219-254). New York, EEUU: Freeman. </li>
+											<li>Siegler, R. S. &amp; Jenkins, E. (1989). How children discover new strategies. Hillsdale, EEUU: Lawrence Erlbaum Associates. </li>
+											<li>Siegler, R. S. &amp; Shrager, J. (1984). Strategy choices in addition and subtraction: How do children know what to do? In C. Sophian (Ed.), The origins of cognitive skills (pp. 229-293). Hillsdale, EEUU: Lawrence Erlbaum Associates. </li>
+											<li>Soto-Andrade, J. (2006). Un monde dans un grain de sable: Métaphores et analogies dans l’apprentissage des mathématiques. Annales de Didactique et de Sciences Cognitives, 11, 123-147. </li>
+											<li>Soto-Andrade, J. (2007a). Metaphors and cognitive styles in the teaching-learning of mathematics. In D. Pitta-Pantazi, &amp; J. Philippou (Eds.), Proceedings Congress of European Research in Mathematics Education 5 (pp. 191-200). Larnaca, Cyprus. </li>
+											<li>Soto-Andrade, J. (2007a). Metaphors and cognitive styles in the teaching-learning of mathematics. In D. Pitta-Pantazi, &amp; J. Philippou (Eds.), Proceedings Congress of European Research in Mathematics Education 5 (pp. 191-200). Recuperado de <a href="http://ermeweb.free.fr/CERME5b/">http://ermeweb.free.fr/CERME5b/</a> </li>
+											<li>Soto-Andrade, J. (2007b), La cognición hecha cuerpo florece en metáforas…. En A. Ibáñez &amp; D. Cosmelli, (Eds.), Nuevos Enfoques de la Cognición : Redescubriendo la dinámica de la acción, la intención y la intersubjetividad (pp. 71-90). Santiago, Chile: Universidad Diego Portales. </li>
+											<li>Soto-Andrade, J. (2008, July). Mathematics as the art of seeing the invisible…. Paper presented at 11th International Congress in Mathematics Education, Monterrey, México. </li>
+											<li>Stewart, J. R., Gapenne, O., &amp; Di Paolo, E. A. (2010). Enaction: Towards a New Paradigm for Cognitive Science. Cambridge, EEUU: MIT Press. </li>
+											<li>Sun, H. (2008). Chinese young children’s strategies on basic addition facts. In M. Goos, R. Brown, K. Makar (Eds.), Proceedings of the 31th annual conference of the Mathematics Education Research Group of Australasia (pp. 499-505). Brisbane, Australia: MERGA </li>
+											<li>Taton, R. (1953). Le calcul mental, Coll. Que sais-je, No 605. Paris, France: P.U.F. </li>
+											<li>Varela, F. J., Thomson, E., &amp; Rosch, E. (1991). The Embodied Mind: Cognitive Science and Human Experience. Cambridge, EEUU: MIT Press. </li>
+											<li>Williamson, V. (2007). Mental Maths – Passive to Active. Mathematics Teaching, 201, 12-15. </li>
+											<li>Yeap, B. H. (2005). Helping every student to develop the ability in mathematical problem solving: The Singapore experience. In S. Chaiyasang, P. Wongyai &amp; R. Janjaruporn, (Eds.). The Proceedings of Symposium on Mathematics Education: Mathematical Problem Solving (pp. 3-12). Bangkok, Thailand: Srinakharinwirot University. </li>
+									</ol>
+					</div>
+	
+		
+
+				
+		<section class="item downloads_chart">
+			<h2 class="label">
+				Descargas
+			</h2>
+			<div class="value">
+				<canvas class="usageStatsGraph" data-object-type="Submission" data-object-id="210"></canvas>
+				<div class="usageStatsUnavailable" data-object-type="Submission" data-object-id="210">
+					Los datos de descarga todavía no están disponibles.
+				</div>
+			</div>
+		</section>
+	</section>
+
+
+<aside class="col-md-4 offset-lg-1 col-lg-3 article-sidebar">
+
+				<h2 class="visually-hidden">Imagen de portada</h2>
+		<figure>
+							<img
+					class="img-fluid"
+					src="https://relime.org/public/journals/1/submission_210_210_coverImage_es_ES.jpg"
+					alt=""
+				>
+					</figure>
+	
+					
+				<h2 class="article-side__title">Palabras clave</h2>
+		<ul>
+							<li>Cálculo mental</li>
+							<li>estrategias cognitivas</li>
+							<li>sistema computacional adaptable al contexto</li>
+							<li>metáforas</li>
+							<li>tiempo de respuesta</li>
+					</ul>
+	
+		
+			
+						
+			<div class="copyright-info">
+																		<p>Derechos de autor 2014 Revista Latinoamericana de Investigación en Matemática Educativa</p>
+										<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" src="//i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><p>Esta obra está bajo una licencia internacional <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Atribución-NoComercial 4.0</a>.</p>
+							
+								</div>
+			<h2>
+        Cómo citar
+	</h2>
+	<div class="citation_format_value">
+		<div id="citationOutput" role="region" aria-live="polite">
+            <div class="csl-bib-body">
+  <div class="csl-entry">Leger, P., Gálvez, G., Inostroza, M., Cubillos, L., Luci, G., Tanter, É., Cosmelli, D., &#38; Soto - Andrade, J. (2023). ECOCAM, un sistema computacional adaptable al contexto para promover estrategias de cálculo mental: Características de su diseño y resultados preliminares. <i>Revista Latinoamericana de Investigación en Matemática Educativa</i>, <i>17</i>(1), 33-58. <a href="https://doi.org/10.12802/relime.13.1712">https://doi.org/10.12802/relime.13.1712</a></div>
+</div>
+		</div>
+		<div class="citation_formats dropdown">
+			<a class="btn btn-secondary" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true"
+			   aria-expanded="false">
+                Más formatos de cita
+			</a>
+			<div class="dropdown-menu" aria-labelledby="dropdownMenuButton" id="dropdown-cit">
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        ABNT
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/acm-sig-proceedings?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/acm-sig-proceedings?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        ACM
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/acs-nano?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/acs-nano?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        ACS
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/ama?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/ama?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        AMA
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/apa?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/apa?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        APA
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/chicago-author-date?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/chicago-author-date?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        Chicago
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/harvard-cite-them-right?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/harvard-cite-them-right?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        Harvard
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/ieee?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/ieee?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        IEEE
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/modern-language-association?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/modern-language-association?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        MLA
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        Turabian
+					</a>
+                					<a
+							class="dropdown-cite-link dropdown-item"
+							aria-controls="citationOutput"
+							href="https://relime.org/index.php/relime/es/citationstylelanguage/get/vancouver?submissionId=210&amp;publicationId=210&amp;issueId=30"
+							data-load-citation
+							data-json-href="https://relime.org/index.php/relime/es/citationstylelanguage/get/vancouver?submissionId=210&amp;publicationId=210&amp;issueId=30&amp;return=json"
+					>
+                        Vancouver
+					</a>
+                                					<div class="dropdown-divider"></div>
+					<h3 class="download-cite">
+                        Descargar cita
+					</h3>
+                    						<a class="dropdown-cite-link dropdown-item"
+						   href="https://relime.org/index.php/relime/es/citationstylelanguage/download/ris?submissionId=210&amp;publicationId=210&amp;issueId=30">
+                            Endnote/Zotero/Mendeley (RIS)
+						</a>
+                    						<a class="dropdown-cite-link dropdown-item"
+						   href="https://relime.org/index.php/relime/es/citationstylelanguage/download/bibtex?submissionId=210&amp;publicationId=210&amp;issueId=30">
+                            BibTeX
+						</a>
+                                    			</div>
+		</div>
+	</div>
+
+
+</aside>
+
+			<section id="articlesBySimilarityList">
+		<h2 class="label" id="articlesBySimilarity">
+			Artículos similares
+		</h2>
+		<ul>
+											
+				<li>
+											Grecia Gálvez ,
+											Diego Cosmelli ,
+											Lino Cubillos ,
+											Paul Leger,
+											Arturo Mena,
+											Éric Tanter,
+											Ximena Flores,
+											Gina Luci,
+											Soledad Montoya,
+											Jorge Soto-Andrade,
+										<a href="https://relime.org/index.php/relime/article/view/262">
+						Estrategias cognitivas para el cálculo mental
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/39">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 14 Núm. 1 (2011): Marzo
+					</a>
+									</li>
+											
+				<li>
+											Greiton Toledo de Azevedo,
+										<a href="https://relime.org/index.php/relime/article/view/691">
+						Inteligência Artificial e aprendizagem matemática no ensino médio: evidências e impactos
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/85">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 28 (2025): Publicación continua
+					</a>
+									</li>
+											
+				<li>
+											Alfonso F. Díaz-Cardenas,
+											Alfonso Díaz-Furlong,
+											Hector Adrian Díaz-Furlong,
+											M. Rayo Sankey-García ,
+											Gemma Zago-Portillo,
+										<a href="https://relime.org/index.php/relime/article/view/37">
+						Multiplicación y división de fracciones: procedimientos de desarrollo y evaluación de la cognición numérica
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/7">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 22 Núm. 3 (2019): Noviembre
+					</a>
+									</li>
+											
+				<li>
+											Antonio Saorin Villa,
+											Germán Torregrosa-Gironés,
+											Humberto Quesada Vilella,
+										<a href="https://relime.org/index.php/relime/article/view/31">
+						Razonamiento configural y organización discursiva en procesos de prueba en contexto geométrico
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/6">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 22 Núm. 2 (2019): Julio
+					</a>
+									</li>
+											
+				<li>
+											Francisco Cordero,
+											Tamara Del Valle,
+											Astrid Morales,
+										<a href="https://relime.org/index.php/relime/article/view/30">
+						Usos de la optimización de ingenieros en formación: el rol de la ingeniería mecatrónica y de la obra de Lagrange  	
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/6">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 22 Núm. 2 (2019): Julio
+					</a>
+									</li>
+											
+				<li>
+											Carla Cristina Pompeu,
+											Inés M. Gómez-Chacón,
+										<a href="https://relime.org/index.php/relime/article/view/35">
+						Aprendizaje matemático y estrategias de identidad. Un caso de educación de personas adultas en Brasil
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/7">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 22 Núm. 3 (2019): Noviembre
+					</a>
+									</li>
+											
+				<li>
+											Alan  Gustavo Ferreira,
+											Paula Moreira Baltar Bellemain,
+											Cristiane de Arimatéa Rocha,
+										<a href="https://relime.org/index.php/relime/article/view/715">
+						O ensino da Combinatória e sua razão de ser: trajetórias de uma formação de professores de Matemática
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/85">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 28 (2025): Publicación continua
+					</a>
+									</li>
+											
+				<li>
+											Luis Tiago Osterberg,
+											Isabel Cristina Machado de Lara,
+										<a href="https://relime.org/index.php/relime/article/view/370">
+						Etnomatemática como método de pesquisa e de ensino e o pensamento decolonial: uma possibilidade de proposta de ensino para o Ensino Superior
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/85">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 28 (2025): Publicación continua
+					</a>
+									</li>
+											
+				<li>
+											Claudio Gaete-Peralta,
+											Jaime Huincahue,
+										<a href="https://relime.org/index.php/relime/article/view/670">
+						Acumulación de grados-hora y categoría de modelación. Una resignificación de la integral definida con profesores de matemáticas
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/87">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 29 (2026): Publicación continua
+					</a>
+									</li>
+											
+				<li>
+											Wenceslao Quispe Yapo,
+											Elio Ronald Ruelas Acero,
+											Fredy Gallegos Flores,
+										<a href="https://relime.org/index.php/relime/article/view/445">
+						Análisis praxeológico de los números reales en libros de texto peruanos de secundaria, 1961–1999
+					</a>
+					,
+					<a href="https://relime.org/index.php/relime/issue/view/87">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 29 (2026): Publicación continua
+					</a>
+									</li>
+					</ul>
+		<p id="articlesBySimilarityPages">
+				<div class="cmp_pagination" aria-label="Ver las páginas adicionales">
+				<span class="current">
+			1-10 de 416
+		</span>
+					<a class="next" href="https://relime.org/index.php/relime/article/view/210?articlesBySimilarityPage=2">Siguiente</a>
+			</div>
+		</p>
+		<p id="articlesBySimilaritySearch">
+						También puede <a href="https://relime.org/index.php/relime/es/search/search?query=C%C3%A1lculo%20mental%20estrat%C3%A9gias%20cognitivas%20sistema%20computacional%20adapt%C3%A1vel%20ao%20contexto%20met%C3%A1foras%20tempo%20de%20resposta%20Calcul%20mental%20strat%C3%A9gies%20cognitives%20syst%C3%A8me%20informatique%20sensible%20m%C3%A9taphores%20temps%20de%20r%C3%A9ponse%20Mental%20calculation%20cognitive%20strategies%20a%20context%20sensitive%20computational%20system%20metaphors%20response%20time%20C%C3%A1lculo%20mental%20estrategias%20cognitivas%20sistema%20computacional%20adaptable%20al%20contexto%20met%C3%A1foras%20tiempo%20de%20respuesta">Iniciar una búsqueda de similitud avanzada</a> para este artículo.
+		</p>
+	</section>
+	<section id="articlesBySameAuthorList">
+		<h2>Artículos más leídos del mismo autor/a</h2>
+		<ul>
+																											<li>
+											Grecia Gálvez ,
+											Diego Cosmelli ,
+											Lino Cubillos ,
+											Paul Leger,
+											Arturo Mena,
+											Éric Tanter,
+											Ximena Flores,
+											Gina Luci,
+											Soledad Montoya,
+											Jorge Soto-Andrade,
+										<a href="https://relime.org/index.php/relime/article/view/262">
+						Estrategias cognitivas para el cálculo mental
+					</a>,
+					<a href="https://relime.org/index.php/relime/issue/view/39">
+						Revista Latinoamericana de Investigación en Matemática Educativa: Vol. 14 Núm. 1 (2011): Marzo
+					</a>
+				</li>
+					</ul>
+		<div id="articlesBySameAuthorPages">
+			
+		</div>
+	</section>
+
+	</div>
+</main><!-- .page -->
+
+<footer class="main-footer" id="immersion_content_footer">
+	<div class="container">
+					<div class="sidebar_wrapper row" role="complementary">
+				<div class="pkp_block block_web_feed col-md-3">
+	<h2>Número actual</h2>
+	<div class="content">
+		<ul>
+			<li>
+				<a href="https://relime.org/index.php/relime/es/gateway/plugin/WebFeedGatewayPlugin/atom">
+					<img src="https://relime.org/lib/pkp/templates/images/atom.svg" alt="Logo Atom">
+				</a>
+			</li>
+			<li>
+				<a href="https://relime.org/index.php/relime/es/gateway/plugin/WebFeedGatewayPlugin/rss2">
+					<img src="https://relime.org/lib/pkp/templates/images/rss20_logo.svg" alt="Logo RSS2">
+				</a>
+			</li>
+			<li>
+				<a href="https://relime.org/index.php/relime/es/gateway/plugin/WebFeedGatewayPlugin/rss">
+					<img src="https://relime.org/lib/pkp/templates/images/rss10_logo.svg" alt="Logo RSS1">
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="pkp_block block_information col-md-3">
+	<h2 class="title">Información</h2>
+	<div class="content">
+		<ul>
+							<li>
+					<a href="https://relime.org/index.php/relime/es/information/readers">
+						Para lectores/as
+					</a>
+				</li>
+										<li>
+					<a href="https://relime.org/index.php/relime/es/information/authors">
+						Para autores/as
+					</a>
+				</li>
+										<li>
+					<a href="https://relime.org/index.php/relime/es/information/librarians">
+						Para bibliotecarios/as
+					</a>
+				</li>
+					</ul>
+	</div>
+</div>
+<div class="pkp_block block_custom col-md-3" id="customblock-siguenos-en">
+	<div class="content">
+		<div>
+<h2 class="title">Síguenos en:</h2>
+<a href="https://x.com/Revista_Relime" target="_blank" rel="noopener"><img src="https://relime.org/public/site/images/admin/x-579b19d41ba1a7d10d52f114b96038f7.png" alt="" width="25" height="25"></a></div>
+<div><a href="https://www.facebook.com/RevistaRelime/" target="_blank" rel="noopener"><img src="https://relime.org/public/site/images/admin/fb-919465b03bdd4e0556e17c19d02fbe9a.png" alt="" width="25" height="25"></a></div>
+<div><a href="https://www.instagram.com/revista_relime/" target="_blank" rel="noopener"><img src="https://relime.org/public/site/images/admin/instagram-fb5a6faa9b490e1eae7a06595a7adae1.png" alt="" width="25" height="25"></a></div>
+<div>&nbsp;</div>
+	</div>
+</div>
+
+			</div>
+			<hr>
+				<div class="row">
+							<div class="col-md-8">
+					<p align="justify">Publicación editada por el Colegio Mexicano de Matemática Educativa A.C., en representación legal del <a href="http://www.clame.org.mx/">Comité Latinoamericano de Matemática Educativa</a> A. C. en México. Reserva de Derechos al Uso Exclusivo No. 04-2026-050810384800-102, para el ISSN 1665-2436, en formato impreso, y Reserva de Derechos al Uso Exclusivo No. 04-2026-060911292800-203, para el ISSN 2007-6819, en formato electrónico, otorgadas por el Instituto Nacional del Derecho de Autor. Directora Editorial responsable: Gisela Montiel Espinosa | direccion@relime.org, Departamento de Matemática Educativa, Oficina 101, del Cinvestav-IPN en Av. Instituto Politécnico Nacional 2508, Col. San Pedro Zacatenco, Del. Gustavo A. Madero, C.P. 07360.</p>
+<p align="justify"> </p>
+<p align="justify">Impresa por Editorial Progreso, S.A. de C.V., Sabino No. 275, Col. Sta. María la Ribera, C.P. 06400, Delegación Cuauhtémoc, México, CDMX. Las opiniones expresadas por los autores no necesariamente reflejan la postura del editor de la publicación.</p>
+<p align="justify"> </p>
+<p align="justify">Todos los artículos publicados en Relime están bajo la <a href="https://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons </a><a href="https://creativecommons.org/licenses/by-nc/4.0/">Reconocimiento-NoComercial (CC BY-NC 4.0)</a></p>
+<p align="center"><img src="https://relime.org/public/site/images/admin/mceclip0.png" width="110" height="39" /></p>
+				</div>
+						<div class="col-2 col-sm-1 offset-10 offset-sm-11" role="complementary">
+				<a href="https://relime.org/index.php/relime/es/about/aboutThisPublishingSystem">
+					<img class="img-fluid" alt="Más información acerca del sistema de publicación, de la plataforma y del flujo de trabajo de OJS/PKP." src="https://relime.org/templates/images/ojs_brand.png">
+				</a>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	<div id="loginModal" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-body">
+					<button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+					<form class="form-login" method="post" action="https://relime.org/index.php/relime/es/login/signIn">
+	<input type="hidden" name="csrfToken" value="GWIOqBL5ShbipMeAjaRw3Ul3NyohjCrvPGR5gdBm" />
+	<input type="hidden" name="source" value=""/>
+
+	<fieldset>
+		<div class="form-group form-group-username">
+			<label for="usernameModal">
+				Nombre usuario/a
+				<span class="required" aria-hidden="true">*</span>
+				<span class="visually-hidden">
+					Obligatorio
+				</span>
+			</label>
+			<input type="text" class="form-control" name="username" id="usernameModal" value="" maxlength="32" required>
+		</div>
+		<div class="form-group">
+			<label for="passwordModal">
+				Contraseña
+				<span class="required" aria-hidden="true">*</span>
+				<span class="visually-hidden">
+					Obligatorio
+				</span>
+			</label>
+			<input type="password" class="form-control" name="password" id="passwordModal" value=""
+			       maxlength="32" required>
+
+			<div class="custom-control custom-checkbox">
+				<input type="checkbox" class="custom-control-input" name="remember" id="rememberModal" value="1" checked="$remember">
+				<label for="rememberModal" class="custom-control-label">
+						Mantenerme conectado
+				</label>
+			</div>
+		</div>
+
+				
+				
+		<div class="form-group">
+			<p>
+				<button class="btn btn-primary" type="submit">
+					Entrar
+				</button>
+
+														<a href="https://relime.org/index.php/relime/es/user/register?source=" class="btn btn-secondary">
+						Registrarse
+					</a>
+							</p>
+
+			<p>
+				<a href="https://relime.org/index.php/relime/es/login/lostPassword">
+					¿Has olvidado tu contraseña?
+				</a>
+			</p>
+		</div>
+	</fieldset>
+</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<script src="https://relime.org/plugins/themes/immersion/resources/dist/app.min.js?v=3.5.0.5" type="text/javascript"></script><script src="https://relime.org/plugins/generic/citationStyleLanguage/js/articleCitation.js?v=3.5.0.5" type="text/javascript"></script><script type="text/javascript">var pkpUsageStats = pkpUsageStats || {};pkpUsageStats.data = pkpUsageStats.data || {};pkpUsageStats.data.Submission = pkpUsageStats.data.Submission || {};pkpUsageStats.data.Submission[210] = {"data":{"2023":{"7":"4","8":"1","9":"2","10":0,"11":"1","12":"1"},"2024":{"1":"2","2":0,"3":0,"4":"17","5":"11","6":"7","7":"2","8":"2","9":"7","10":"6","11":"4","12":"1"},"2025":{"1":"1","2":0,"3":"5","4":"17","5":"2","6":"27","7":"3","8":"2","9":"7","10":"1096","11":"69","12":"5"},"2026":{"1":0,"2":"7","3":"10","4":"5","5":"10","6":"15","7":"8","8":"29","9":0}},"label":"Todas las descargas","color":"79,181,217","total":1386};</script><script src="https://relime.org/js/build/chart.js/chart.umd.js?v=3.5.0.5" type="text/javascript"></script><script type="text/javascript">var pkpUsageStats = pkpUsageStats || {};pkpUsageStats.locale = pkpUsageStats.locale || {};pkpUsageStats.locale.months = ["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"];pkpUsageStats.config = pkpUsageStats.config || {};pkpUsageStats.config.chartType = "bar";</script><script src="https://relime.org/lib/pkp/js/usage-stats-chart.js?v=3.5.0.5" type="text/javascript"></script>
+
+
+
+</body>
+</html>
