@@ -47,8 +47,11 @@ jobs:
           state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
 
           for j in journals:
-              if not j.get("enabled"):
-                  continue
+    if not j.get("enabled"):
+        continue
+
+    if j.get("collectionStatus") == "integrated":
+        continue
               jid = j["id"]
               complete = state.get(jid, {}).get("crossref", {}).get("complete", False)
               if not complete:
