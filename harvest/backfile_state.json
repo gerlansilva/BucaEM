@@ -20,5 +20,16 @@
       "issn": "2448-8089",
       "completedAt": "2026-09-23T15:05:44.040026+00:00"
     }
+  },
+  "redimat": {
+    "crossref": {
+      "cursor": "MTc4OTc3NjQyNjAwMCwxMC4xNzU4MyUyRnJlZGltYXQuMTk1OTg=",
+      "pages": 1,
+      "itemsSeen": 261,
+      "lastRun": "2026-09-23T16:00:25.835703+00:00",
+      "complete": true,
+      "issn": "2014-3621",
+      "completedAt": "2026-09-23T16:00:25.921120+00:00"
+    }
   }
 }

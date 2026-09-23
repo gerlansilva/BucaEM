@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T15:05:44.040134+00:00",
+  "generatedAt": "2026-09-23T16:00:25.921148+00:00",
   "definition": "complete=true only after source exhaustion; folders and seed records do not count as complete",
   "journals": {
     "bolema": {
@@ -158,9 +158,11 @@
     },
     "redimat": {
       "id": "redimat",
-      "complete": false,
-      "rawFilesPresent": 0,
-      "note": "Full backfile has not been certified complete unless complete=true after an exhaustive harvester run."
+      "method": "crossref+publisher",
+      "complete": true,
+      "pagesThisRun": 1,
+      "itemsSeen": 261,
+      "issn": "2014-3621"
     },
     "pna": {
       "id": "pna",
