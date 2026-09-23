@@ -42,30 +42,57 @@ jobs:
           import json
           from pathlib import Path
 
-          journals = json.loads(Path("dist/data/journals.json").read_text(encoding="utf-8"))
+          journals = json.loads(
+              Path("dist/data/journals.json").read_text(encoding="utf-8")
+          )
+
           state_path = Path("harvest/backfile_state.json")
-          state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
+
+          if state_path.exists():
+              state = json.loads(
+                  state_path.read_text(encoding="utf-8")
+              )
+          else:
+              state = {}
 
           for j in journals:
-    if not j.get("enabled"):
-        continue
+              if not j.get("enabled"):
+                  continue
 
-    if j.get("collectionStatus") == "integrated":
-        continue
+              # As revistas já integradas são atualizadas
+              # pelos coletores oficiais OAI/SciELO.
+              if j.get("collectionStatus") == "integrated":
+                  continue
+
+              # Este workflow é para as novas revistas
+              # internacionais e ibero-americanas.
+              if j.get("country") == "Brazil":
+                  continue
+
               jid = j["id"]
-              complete = state.get(jid, {}).get("crossref", {}).get("complete", False)
+
+              complete = (
+                  state
+                  .get(jid, {})
+                  .get("crossref", {})
+                  .get("complete", False)
+              )
+
               if not complete:
                   print(jid)
                   break
           PY
           )
+
           echo "journal=$JOURNAL" >> "$GITHUB_OUTPUT"
           echo "Next journal: $JOURNAL"
 
       - name: Harvest one resumable page with official enrichment
         if: steps.select.outputs.journal != ''
         run: |
-          python scripts/harvest_backfiles.py             --journal "${{ steps.select.outputs.journal }}"             --max-pages 1
+          python scripts/harvest_backfiles.py \
+            --journal "${{ steps.select.outputs.journal }}" \
+            --max-pages 1
 
       - name: Rebuild public index
         if: steps.select.outputs.journal != ''
@@ -80,10 +107,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add harvest dist/data
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "harvest: backfile ${{ steps.select.outputs.journal }}"
             git push
           fi
+
+      - name: No incomplete international journal found
+        if: steps.select.outputs.journal == ''
+        run: |
+          echo "No incomplete international journal was found."
