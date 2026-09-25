@@ -1,0 +1,58 @@
+name: BuscaEM — Audit and OJS harvest
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "27 */2 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: buscaem-ojs
+  cancel-in-progress: false
+jobs:
+  ojs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Audit sources
+        run: python scripts/audit_sources.py
+      - name: Select next incomplete OJS journal
+        id: select
+        shell: bash
+        run: |
+          JOURNAL=$(python - <<'PY'
+          import json
+          from pathlib import Path
+          reg=json.loads(Path("harvest/ojs_registry.json").read_text())
+          p=Path("harvest/ojs_state.json")
+          state=json.loads(p.read_text()) if p.exists() else {}
+          for jid,cfg in reg.items():
+              if cfg.get("enabled",True) and not state.get(jid,{}).get("complete",False):
+                  print(jid);break
+          PY
+          )
+          echo "journal=$JOURNAL" >> "$GITHUB_OUTPUT"
+      - name: Harvest one OAI page
+        if: steps.select.outputs.journal != ''
+        run: python scripts/ojs_harvester.py --journal "${{ steps.select.outputs.journal }}" --max-pages 1
+      - name: Publish
+        run: |
+          python scripts/publish.py
+          python scripts/validate.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add harvest dist/data
+          if ! git diff --cached --quiet; then
+            git commit -m "harvest: OJS/OAI metadata"
+            git push
+          fi
