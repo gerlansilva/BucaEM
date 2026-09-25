@@ -1,26 +1,76 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>BuscaEM — Mathematics Education Search</title>
-  <meta name="description" content="International search across specialised Mathematics Education journals, with multilingual metadata and Boolean operators.">
-  <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
-  <script src="app.js" type="module"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="BuscaEM — Mathematics Education literature search">
+  <title>BuscaEM</title>
+  <link rel="icon" href="./favicon.svg">
+  <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-<a class="skip" href="#main">Skip to content</a>
-<header class="header"><div class="header-inner">
-  <a class="brand" href="#inicio" aria-label="BuscaEM, home">Busca<span>EM</span></a>
-  <nav aria-label="Navegação principal">
-    <a href="#buscar"><svg class="icon" width="18" height="18" aria-hidden="true"><use href="icons.svg#search"/></svg>Search</a><a href="#revistas"><svg class="icon" width="18" height="18" aria-hidden="true"><use href="icons.svg#library-big"/></svg>Journals</a><a href="#dados"><svg class="icon" width="18" height="18" aria-hidden="true"><use href="icons.svg#chart-no-axes-combined"/></svg>Collection</a><a href="#sobre"><svg class="icon" width="18" height="18" aria-hidden="true"><use href="icons.svg#info"/></svg>About</a>
-  </nav>
-</div></header>
-<main id="main" tabindex="-1"><div class="loading" role="status">Loading collection…</div></main>
-<footer><span class="footer-brand">BuscaEM</span><span>International Mathematics Education journal discovery</span><a href="#sobre">Sources and transparency</a></footer>
-<dialog id="record-dialog" aria-labelledby="record-title"><button class="close" aria-label="Close record"><svg class="icon" width="20" height="20" aria-hidden="true"><use href="icons.svg#x"/></svg></button><div id="record-content"></div></dialog>
-<div class="toast" role="status" aria-live="polite" hidden></div>
-</body></html>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">B</div>
+    <div>
+      <h1>BuscaEM</h1>
+      <p>Mathematics Education literature search</p>
+    </div>
+  </div>
+  <button id="aboutBtn" class="ghost">About</button>
+</header>
+
+<main>
+  <section class="hero">
+    <h2>Search specialized Mathematics Education journals</h2>
+    <p>Boolean search with <strong>AND</strong>, <strong>OR</strong>, <strong>NOT</strong>, exact phrases and parentheses.</p>
+    <div class="searchrow">
+      <input id="q" type="search" placeholder='e.g. "teacher education" AND probability'>
+      <button id="searchBtn">Search</button>
+    </div>
+    <div id="stats" class="stats">Loading catalogue…</div>
+  </section>
+
+  <section class="layout">
+    <aside class="filters">
+      <h3>Filters</h3>
+      <label>Journal<select id="journal"><option value="">All journals</option></select></label>
+      <label>Year from<input id="yearFrom" type="number" min="1900" max="2100"></label>
+      <label>Year to<input id="yearTo" type="number" min="1900" max="2100"></label>
+      <label>Language<select id="language"><option value="">All languages</option></select></label>
+      <label>Document type<select id="type"><option value="">All types</option></select></label>
+      <label class="check"><input id="oa" type="checkbox"> Open Access only</label>
+      <button id="clearBtn" class="ghost wide">Clear filters</button>
+    </aside>
+
+    <section class="results">
+      <div class="resulthead">
+        <h3 id="resultCount">Results</h3>
+        <select id="sort">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+          <option value="title">Title A–Z</option>
+        </select>
+      </div>
+      <div id="cards"></div>
+      <button id="moreBtn" class="more" hidden>Load more</button>
+    </section>
+  </section>
+</main>
+
+<footer>
+  <p>BuscaEM is a research tool developed by <strong>Gerlan Silva da Silva</strong>, PhD candidate in Education — UFSCar.</p>
+  <p><a href="https://orcid.org/0000-0002-9996-9983" target="_blank" rel="noopener">ORCID</a> ·
+  <a href="http://lattes.cnpq.br/2364822008221312" target="_blank" rel="noopener">Lattes</a></p>
+</footer>
+
+<dialog id="about">
+  <button id="closeAbout" class="dialogclose">×</button>
+  <h2>About BuscaEM</h2>
+  <p>BuscaEM indexes specialized national and international Mathematics Education journals using auditable publisher, OAI-PMH/OJS, SciELO and Crossref metadata.</p>
+  <p>Original-language metadata is preserved. English fields are shown only when provided by the source; BuscaEM does not fabricate translations.</p>
+</dialog>
+
+<script src="./app.js"></script>
+</body>
+</html>

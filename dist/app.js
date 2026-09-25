@@ -1,42 +1,101 @@
-const $=(s,p=document)=>p.querySelector(s);
-const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
-const icon=name=>`<svg class="icon" width="20" height="20" aria-hidden="true" focusable="false"><use href="icons.svg#${name}"/></svg>`;
-const safeURL=s=>{try{const u=new URL(s);return ['https:','http:'].includes(u.protocol)?u.href:''}catch{return ''}};
-const link=(url,label,cls='')=>safeURL(url)?`<a class="${cls}" href="${esc(safeURL(url))}" target="_blank" rel="noopener noreferrer">${label} ${icon('arrow-up-right')}</a>`:'';
-const palette=['#65469b','#236c53','#345fba','#007782','#985123','#a03c66','#5149ad','#8a6420','#346b90','#5b712b','#8b4b86','#9c4640','#42617c','#3d7571','#73583f'];
-let data,journals,coverage,articles=[],page=1,query='',filters={journal:[],year:[],country:[],region:[],language:[],type:[],openAccess:[]},sort='newest',view='grid';
-const PAGE_SIZE=10,main=$('#main'),modal=$('#record-dialog');
-const journal=id=>journals.find(j=>j.id===id)||{id,name:id,country:'',region:''};
-const journalName=id=>journal(id).name||id;
-const journalTheme=id=>{const j=journal(id),i=Math.abs([...id].reduce((a,c)=>a+c.charCodeAt(0),0))%palette.length,ink=palette[i];return [j.shortName||j.name?.split(/[—:]/)[0]||id,ink,'#f2f4f7']};
-const journalStyle=id=>{const[,ink,bg]=journalTheme(id);return `--journal-ink:${ink};--journal-bg:${bg}`};
-const journalTag=id=>`<a class="journal-tag" style="${journalStyle(id)}" href="#revistas" title="${esc(journalName(id))}"><span class="journal-dot"></span>${esc(journalTheme(id)[0])}</a>`;
-function notify(text){const t=$('.toast');t.textContent=text;t.hidden=false;setTimeout(()=>t.hidden=true,3000)}
-function decorate(a){const j=journal(a.journal);return {...a,authors:a.authors||[],institutions:a.institutions||[],keywords:a.keywords||[],keywordsOriginal:a.keywordsOriginal||a.keywords||[],keywordsEn:a.keywordsEn||[],country:j.country||'',region:j.region||'',openAccessLabel:a.openAccess===true?'Open Access':a.openAccess===false?'Closed/Restricted':'Not informed',search:norm([a.title,a.titleOriginal,a.titleEn,...(a.authors||[]),a.abstract,a.abstractOriginal,a.abstractEn,...(a.keywords||[]),...(a.keywordsOriginal||[]),...(a.keywordsEn||[]),a.doi,j.name,j.country,j.region,a.language,a.type].join(' '))};}
+const $=s=>document.querySelector(s);
+const state={journals:[],articles:[],filtered:[],limit:30};
 
-// Boolean parser: quoted phrases, AND, OR, NOT and parentheses. Adjacent terms imply AND.
-function tokenizeBoolean(q){const out=[];const re=/\s*(\(|\)|"(?:\\.|[^"])*"|\bAND\b|\bOR\b|\bNOT\b|[^\s()]+)/gi;let m;while((m=re.exec(q))){let v=m[1];if(/^"/.test(v))v={type:'TERM',value:norm(v.slice(1,-1).replace(/\\"/g,'"'))};else if(/^(AND|OR|NOT)$/i.test(v))v={type:v.toUpperCase()};else if(v==='('||v===')')v={type:v};else v={type:'TERM',value:norm(v)};out.push(v)}return out}
-function withImplicitAnd(tokens){const out=[];const ends=t=>t&&(t.type==='TERM'||t.type===')');const starts=t=>t&&(t.type==='TERM'||t.type==='('||t.type==='NOT');for(const t of tokens){if(ends(out.at(-1))&&starts(t))out.push({type:'AND'});out.push(t)}return out}
-function compileBoolean(q){if(!q.trim())return ()=>true;const tokens=withImplicitAnd(tokenizeBoolean(q));let i=0;function primary(){const t=tokens[i++];if(!t)return ()=>true;if(t.type==='TERM')return a=>a.search.includes(t.value);if(t.type==='('){const f=or();if(tokens[i]?.type===')')i++;return f}if(t.type==='NOT'){const f=primary();return a=>!f(a)}return ()=>true}function and(){let f=primary();while(tokens[i]?.type==='AND'){i++;const r=primary(),l=f;f=a=>l(a)&&r(a)}return f}function or(){let f=and();while(tokens[i]?.type==='OR'){i++;const r=and(),l=f;f=a=>l(a)||r(a)}return f}try{return or()}catch{return a=>a.search.includes(norm(q))}}
-function facetValue(a,field){if(field==='openAccess')return a.openAccessLabel;return a[field]}
-function facets(field){const counts=new Map();for(const a of articles){const raw=facetValue(a,field),vals=Array.isArray(raw)?raw:[raw];for(const v of new Set(vals)){if(v!==undefined&&v!==null&&String(v)!=='')counts.set(String(v),(counts.get(String(v))||0)+1)}}return [...counts].sort((a,b)=>field==='year'?b[0].localeCompare(a[0]):b[1]-a[1]||a[0].localeCompare(b[0],'en'))}
-function filtered(){const matches=compileBoolean(query);return articles.filter(a=>matches(a)&&Object.entries(filters).every(([k,vals])=>!vals.length||vals.includes(String(facetValue(a,k))))).sort((a,b)=>sort==='title'?a.title.localeCompare(b.title,'en'):sort==='oldest'?(a.year||0)-(b.year||0):(b.year||0)-(a.year||0))}
-const filterDefs=[['journal','Journals','library-big'],['year','Publication year','calendar-days'],['country','Country','info'],['region','Region','info'],['language','Language','info'],['type','Document type','file-text'],['openAccess','Access','info']];
-function filterHTML(){return `<div class="filter-heading"><h2>${icon('sliders-horizontal')} Filters</h2><button class="link-button" id="clear">Clear</button></div>`+filterDefs.map(([field,label,ico],idx)=>`<details ${idx<4?'open':''} class="filter-section"><summary>${icon(ico)}${label}${icon('chevron-down')}</summary><div class="options">${facets(field).slice(0,120).map(([v,n])=>`<label class="check"><input type="checkbox" data-field="${field}" value="${esc(v)}" ${filters[field].includes(v)?'checked':''}>${field==='journal'?`<span class="filter-dot" style="${journalStyle(v)}"></span>`:''}<span class="check-label" title="${esc(field==='journal'?journalName(v):v)}">${esc(field==='journal'?journalName(v):v)}</span><small>${n.toLocaleString()}</small></label>`).join('')||'<span class="count-pill">No data</span>'}</div></details>`).join('')+`<a class="coverage-link" href="#dados">${icon('info')}Collection coverage</a>`}
-function articleHTML(a){const pending=a.metadataEnglishStatus==='pending_translation';return `<article class="article" style="${journalStyle(a.journal)}"><div class="article-top">${journalTag(a.journal)}<span class="article-year">${icon('calendar-days')}${esc(a.year||'n.d.')}</span></div><h3><a href="#artigo/${encodeURIComponent(a.id)}">${esc(a.title)}</a></h3>${pending?'<span class="count-pill">English metadata pending</span>':''}<p class="authors">${icon('users')}<span>${esc(a.authors.join('; '))}</span></p>${a.abstract?`<p class="abstract abstract-preview">${esc(a.abstract)}</p><details class="abstract-details"><summary><span class="when-closed">Read full abstract</span><span class="when-open">Collapse abstract</span>${icon('chevron-down')}</summary><p class="abstract">${esc(a.abstract)}</p></details>`:'<p class="missing">Abstract not available in the source metadata.</p>'}${a.keywords.length?`<div class="keyword-tags" aria-label="Keywords">${a.keywords.slice(0,3).map(k=>`<span class="tag">${esc(k)}</span>`).join('')}${a.keywords.length>3?`<a class="tag extra-tags" href="#artigo/${encodeURIComponent(a.id)}">+${a.keywords.length-3}</a>`:''}</div>`:''}<div class="article-links">${link(a.url,icon('book-open')+'Read article','read-link')}<a class="reference-link" href="#artigo/${encodeURIComponent(a.id)}">${icon('quote')}Reference</a>${a.pdf?link(a.pdf,icon('file-text')+'PDF','pdf-link'):''}</div></article>`}
-function updateResults(){const rows=filtered(),total=Math.max(1,Math.ceil(rows.length/PAGE_SIZE));page=Math.min(page,total);$('#results-count').textContent=`${rows.length.toLocaleString()} result${rows.length===1?'':'s'}`;$('#results-title').textContent=query||Object.values(filters).some(v=>v.length)?'Search results':'Publications';$('#articles').classList.toggle('list-view',view==='list');$('#articles').innerHTML=rows.length?rows.slice((page-1)*PAGE_SIZE,page*PAGE_SIZE).map(articleHTML).join(''):'<div class="empty"><h2>No articles found</h2><p>Try another Boolean expression or remove some filters.</p><button class="btn" id="reset-search">Clear search and filters</button></div>';$('#pagination').innerHTML=rows.length?`<button class="btn" id="prev" ${page===1?'disabled':''}>${icon('chevron-left')}Previous</button><span>Page ${page} of ${total}</span><button class="btn" id="next" ${page===total?'disabled':''}>Next${icon('chevron-right')}</button>`:'';if($('#prev'))$('#prev').onclick=()=>{page--;updateResults()};if($('#next'))$('#next').onclick=()=>{page++;updateResults()};if($('#reset-search'))$('#reset-search').onclick=reset}
-function reset(){query='';for(const k in filters)filters[k]=[];page=1;searchPage()}
-function searchPage(){main.innerHTML=`<section class="hero"><div class="hero-heading"><div><span class="eyebrow">INTERNATIONAL MATHEMATICS EDUCATION SEARCH</span><h1>Search Mathematics Education<span class="title-dot">.</span></h1></div><a class="source-count" href="#revistas">${icon('library-big')}<strong>${journals.length}</strong> journals catalogued</a></div><form class="search" role="search">${icon('search')}<label class="sr-only" for="query">Search collection</label><input id="query" type="search" value="${esc(query)}" placeholder='e.g. ("teacher education" OR teachers) AND probability NOT university'><button>${icon('search')}Search articles</button></form><div class="search-help">Boolean operators supported: <code>AND</code>, <code>OR</code>, <code>NOT</code>, quotation marks and parentheses.</div><div class="summary"><span>${icon('file-text')}<strong>${articles.length.toLocaleString()}</strong> publications indexed</span><span>${icon('library-big')}<strong>${new Set(articles.map(a=>a.journal)).size}</strong> journals with records</span><span>${icon('calendar-days')}Updated ${esc(data.updated?new Date(data.updated).toLocaleDateString('en-GB'):'date unavailable')}</span></div></section><div class="workspace"><button class="btn filter-toggle" aria-expanded="false">${icon('sliders-horizontal')}Show filters</button><aside class="filters" aria-label="Search filters">${filterHTML()}</aside><section class="results" aria-label="Results"><div class="results-head"><div class="result-heading"><h2 id="results-title">Publications</h2><span id="results-count" role="status"></span></div><div class="results-meta"><select id="sort"><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="title">Title: A–Z</option></select><div class="view-switch" role="group"><button id="grid-view" aria-label="Grid" aria-pressed="${view==='grid'}">${icon('layout-grid')}</button><button id="list-view" aria-label="List" aria-pressed="${view==='list'}">${icon('list')}</button></div></div></div><div id="articles"></div><div class="pagination" id="pagination"></div></section></div>`;$('#sort').value=sort;$('.search').onsubmit=e=>{e.preventDefault();query=$('#query').value.trim();page=1;updateResults()};$('#sort').onchange=e=>{sort=e.target.value;page=1;updateResults()};$('#clear').onclick=()=>{for(const k in filters)filters[k]=[];page=1;searchPage()};$('.filter-toggle').onclick=e=>{const open=$('.filters').classList.toggle('open');e.currentTarget.setAttribute('aria-expanded',open)};for(const mode of ['grid','list'])$('#'+mode+'-view').onclick=()=>{view=mode;updateResults()};document.querySelectorAll('[data-field]').forEach(input=>input.onchange=()=>{const values=filters[input.dataset.field];if(input.checked&&!values.includes(input.value))values.push(input.value);else if(!input.checked)values.splice(values.indexOf(input.value),1);page=1;updateResults()});updateResults()}
-function simplePage(eyebrow,title,content){main.innerHTML=`<section class="page"><div class="eyebrow">${eyebrow}</div><h1>${title}</h1>${content}</section>`}
-function statusLabel(id){const j=journal(id),c=coverage.journals?.find(c=>c.id===id),n=articles.filter(a=>a.journal===id).length;if(n===0){if(c?.status==='partial'||j.collectionStatus==='harvesting')return 'Harvesting · no indexed records yet';if(c?.status==='error')return 'Collection error · no indexed records';if(j.collectionStatus==='configured')return 'Collector configured · ingestion pending';return 'Catalogued · ingestion pending'}if(c?.status==='ok')return 'Integrated · collection complete';if(c?.status==='partial')return 'Integrated · collection in progress';if(c?.status==='error')return 'Integrated · last update unavailable';return 'Integrated'}
-function journalMeta(j){return [...new Set([j.country,j.publisher].filter(Boolean))].join(' · ')}
-function journalsPage(){const groups=new Map();for(const j of journals){const key=j.region||'Other';if(!groups.has(key))groups.set(key,[]);groups.get(key).push(j)}simplePage('JOURNAL REGISTRY','National and international journals',`<p class="intro">The registry separates <strong>catalogued journals</strong> from journals whose records are already <strong>integrated</strong>. A journal is never presented as indexed before its ingestion adapter has run successfully.</p>${[...groups].sort().map(([region,js])=>`<h2>${esc(region)}</h2>${js.sort((a,b)=>a.name.localeCompare(b.name)).map(j=>`<div class="journal" style="${journalStyle(j.id)}"><div>${journalTag(j.id)}<div class="eyebrow">${esc(journalMeta(j)||'International')}</div><h2>${esc(j.name)}</h2><p>${articles.filter(a=>a.journal===j.id).length.toLocaleString()} indexed publications · ${esc(statusLabel(j.id))}</p>${j.coverageNote?`<p class="coverage-note">${esc(j.coverageNote)}</p>`:''}</div><div class="actions">${articles.some(a=>a.journal===j.id)?`<button class="btn" data-journal="${esc(j.id)}">Explore publications</button>`:''}${link(j.url,'Journal website')}</div></div>`).join('')}`).join('')}`);document.querySelectorAll('[data-journal]').forEach(b=>b.onclick=()=>{reset();filters.journal=[b.dataset.journal];location.hash='#buscar'})}
-function dataPage(){simplePage('TRANSPARENCY','Collection data',`<div class="metrics"><div class="metric"><strong>${articles.length.toLocaleString()}</strong>Records</div><div class="metric"><strong>${new Set(articles.map(a=>a.journal)).size}</strong>Integrated journals</div><div class="metric"><strong>${journals.length}</strong>Catalogued journals</div><div class="metric"><strong>${articles.filter(a=>a.metadataEnglishStatus==='source').length.toLocaleString()}</strong>English-ready records</div></div><div class="table-wrap"><table><thead><tr><th>Journal</th><th>Country</th><th>Records</th><th>English metadata pending</th><th>Status</th></tr></thead><tbody>${journals.map(j=>{const aa=articles.filter(a=>a.journal===j.id);return `<tr><td>${esc(j.name)}</td><td>${esc(j.country||'')}</td><td>${aa.length}</td><td>${aa.filter(a=>a.metadataEnglishStatus==='pending_translation').length}</td><td>${esc(statusLabel(j.id))}</td></tr>`}).join('')}</tbody></table></div><p><a href="data/status.json" target="_blank">Technical collection report</a></p>`)}
-function aboutPage(){simplePage('ABOUT','One search across Mathematics Education journals.',`<div class="intro"><p>BuscaEM is an international discovery layer for journals specialised in Mathematics Education. Original publication and editorial credit remain with each journal.</p><h2>Multilingual metadata</h2><p>The data model preserves original titles, abstracts and keywords and adds dedicated English fields. When the source already provides English metadata, the English version is used for display and retrieval. When it does not, the record is explicitly marked as <em>English metadata pending</em>; the system does not invent a translation.</p><h2>Search</h2><p>Search covers English and original-language metadata, authors, DOI and journal information. Boolean expressions support AND, OR, NOT, quotation marks and parentheses. Adjacent terms are interpreted as AND.</p><h2>Authorship</h2><p>BuscaEM is a research tool developed by <strong>Gerlan Silva da Silva</strong>, PhD Candidate in Education at the Federal University of São Carlos (UFSCar).</p><p>${link('https://orcid.org/0000-0002-9996-9983','ORCID 0000-0002-9996-9983')} &nbsp; ${link('http://lattes.cnpq.br/2364822008221312','Lattes Curriculum')}</p><h2>Infrastructure</h2><p>The static public interface is designed for GitHub and Cloudflare Pages. Source XML is preserved during OAI-PMH harvesting; publisher-specific adapters can be added without changing the public data model.</p></div>`)}
-function citation(a){return `${a.authors.join('; ')}. ${a.title}. ${journalName(a.journal)}, ${a.year||'n.d.'}.${a.doi?' https://doi.org/'+a.doi:''}`}
-function download(text,name,mime){const u=URL.createObjectURL(new Blob([text],{type:mime}));const a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)}
-function record(id){const a=articles.find(a=>a.id===id);if(!a){simplePage('RECORD','Article not found','<p><a href="#buscar">Return to search</a>.</p>');return}if(!$('#articles'))searchPage();$('#record-content').innerHTML=`${journalTag(a.journal)}<h2 id="record-title" class="record-title">${esc(a.title)}</h2>${a.titleOriginal&&a.titleOriginal!==a.title?`<p><strong>Original title:</strong> ${esc(a.titleOriginal)}</p>`:''}<p class="authors">${esc(a.authors.join('; '))}</p><div class="tags">${a.keywords.map(k=>`<span class="tag">${esc(k)}</span>`).join('')}</div><h3>Abstract</h3><p class="abstract">${esc(a.abstract||'Abstract unavailable in source metadata.')}</p>${a.abstractOriginal&&a.abstractOriginal!==a.abstract?`<details><summary>Original-language abstract</summary><p class="abstract">${esc(a.abstractOriginal)}</p></details>`:''}<dl class="record-details"><dt>Journal</dt><dd>${esc(journalName(a.journal))}</dd><dt>Country</dt><dd>${esc(a.country||'Not informed')}</dd><dt>Year</dt><dd>${esc(a.year||'Not informed')}</dd><dt>Language</dt><dd>${esc(a.language||'Not informed')}</dd><dt>Document type</dt><dd>${esc(a.type||'Not informed')}</dd><dt>English metadata</dt><dd>${a.metadataEnglishStatus==='source'?'Available from source':'Pending normalisation/translation'}</dd><dt>DOI</dt><dd>${a.doi?link('https://doi.org/'+a.doi,esc(a.doi)):'Not informed'}</dd><dt>Source</dt><dd>${esc(a.source||'Source metadata')}</dd></dl><div class="record-actions">${link(a.url,'Read at source','btn primary')}${link(a.pdf,'PDF at source','btn')}<button class="btn" id="ris">Export RIS</button><button class="btn" id="bib">Export BibTeX</button><button class="btn" id="csv">Export CSV</button></div><h3>Reference</h3><p class="citation">${esc(citation(a))}</p><button class="btn" id="copy">${icon('quote')}Copy reference</button>`;$('#ris').onclick=()=>download(['TY  - JOUR',...a.authors.map(n=>'AU  - '+n),'TI  - '+a.title,'JO  - '+journalName(a.journal),'PY  - '+(a.year||''),'DO  - '+(a.doi||''),'UR  - '+(a.url||''),'AB  - '+(a.abstract||''),...a.keywords.map(k=>'KW  - '+k),'ER  -',''].join('\r\n'),'reference.ris','application/x-research-info-systems');$('#bib').onclick=()=>download(`@article{buscaem${a.year||''},\n title={${a.title}},\n author={${a.authors.join(' and ')}},\n journal={${journalName(a.journal)}},\n year={${a.year||''}},\n doi={${a.doi||''}}\n}\n`,'reference.bib','text/plain');$('#csv').onclick=()=>download('\ufefftitle;authors;journal;year;doi;url\n'+[a.title,a.authors.join('; '),journalName(a.journal),a.year,a.doi,a.url].map(v=>'"'+String(v||'').replace(/"/g,'""')+'"').join(';'),'reference.csv','text/csv;charset=utf-8');$('#copy').onclick=async()=>{try{await navigator.clipboard.writeText(citation(a));notify('Reference copied.')}catch{notify('Copy the reference manually.')}};if(!modal.open)modal.showModal()}
-$('.close').onclick=()=>modal.close();modal.addEventListener('close',()=>{if(location.hash.startsWith('#artigo/'))history.replaceState(null,'','#buscar')});
-function route(){if(modal.open)modal.close();const hash=location.hash==='#inicio'?'#buscar':location.hash||'#buscar';document.querySelectorAll('nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href')===hash));if(hash.startsWith('#artigo/'))record(decodeURIComponent(hash.slice(8)));else if(hash==='#revistas')journalsPage();else if(hash==='#dados')dataPage();else if(hash==='#sobre')aboutPage();else searchPage()}
-try{const responses=await Promise.all([fetch('data/catalog.json'),fetch('data/journals.json'),fetch('data/status.json')]);if(responses.some(r=>!r.ok))throw Error('data unavailable');[data,journals,coverage]=await Promise.all(responses.map(r=>r.json()));const chunks=await Promise.all(data.chunks.map(async name=>{const r=await fetch('data/'+name);if(!r.ok)throw Error('chunk unavailable');return r.json()}));articles=chunks.flat().map(decorate);window.addEventListener('hashchange',route);route()}catch(error){main.innerHTML='<section class="empty"><h1>Collection unavailable.</h1><p>Check the data files and try again.</p></section>';console.error(error)}
+function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));}
+function arr(v){return Array.isArray(v)?v:(v?[v]:[]);}
+function text(a){
+  return [
+    a.title,a.titleOriginal,a.titleEn,
+    arr(a.authors).join(" "),a.abstract,a.abstractOriginal,a.abstractEn,
+    arr(a.keywords).join(" "),arr(a.keywordsOriginal).join(" "),arr(a.keywordsEn).join(" ")
+  ].filter(Boolean).join(" ").toLowerCase();
+}
+function tokenize(q){
+  const out=[];let i=0;
+  while(i<q.length){
+    if(/\s/.test(q[i])){i++;continue}
+    if(q[i]==='"'){let j=i+1;while(j<q.length&&q[j]!=='"')j++;out.push({t:"TERM",v:q.slice(i+1,j)});i=j+1;continue}
+    if("()".includes(q[i])){out.push({t:q[i],v:q[i]});i++;continue}
+    let j=i;while(j<q.length&&!/\s|\(|\)/.test(q[j]))j++;
+    const w=q.slice(i,j),u=w.toUpperCase();
+    out.push({t:["AND","OR","NOT"].includes(u)?u:"TERM",v:w});i=j;
+  }
+  return out;
+}
+function compile(q){
+  const ts=tokenize(q);let p=0;
+  const term=t=>hay=>hay.includes(t.v.toLowerCase());
+  function primary(){
+    if(ts[p]?.t==="("){p++;const f=or();if(ts[p]?.t===")")p++;return f}
+    if(ts[p]?.t==="NOT"){p++;const f=primary();return h=>!f(h)}
+    const t=ts[p++];return t?.t==="TERM"?term(t):()=>true;
+  }
+  function and(){let f=primary();while(p<ts.length&&(ts[p].t==="AND"||ts[p].t==="TERM"||ts[p].t==="NOT"||ts[p].t==="(")){if(ts[p].t==="AND")p++;const g=primary(),old=f;f=h=>old(h)&&g(h)}return f}
+  function or(){let f=and();while(ts[p]?.t==="OR"){p++;const g=and(),old=f;f=h=>old(h)||g(h)}return f}
+  try{return or()}catch{return h=>h.includes(q.toLowerCase())}
+}
+function renderCard(a){
+  const j=state.journals.find(x=>x.id===a.journal);
+  const journal=j?.name||a.journal||"";
+  const authors=arr(a.authors).join("; ");
+  const kws=arr(a.keywordsOriginal?.length?a.keywordsOriginal:a.keywords);
+  const hasEn=!!(a.titleEn||a.abstractEn||arr(a.keywordsEn).length);
+  return `<article class="card">
+    <h4>${esc(a.titleOriginal||a.title||"Untitled")}</h4>
+    <div class="meta">${esc(journal)} · ${esc(a.year||"n.d.")}${a.language?` · ${esc(a.language)}`:""}</div>
+    ${authors?`<div class="authors">${esc(authors)}</div>`:""}
+    ${a.abstractOriginal||a.abstract?`<div class="abstract">${esc(a.abstractOriginal||a.abstract)}</div>`:"<div class='abstract'>Abstract not available in the source metadata.</div>"}
+    ${kws.length?`<div class="chips">${kws.slice(0,10).map(x=>`<span class="chip">${esc(x)}</span>`).join("")}</div>`:""}
+    <div class="english">
+      ${hasEn?`<details><summary>English metadata</summary>
+        ${a.titleEn?`<p><strong>Title:</strong> ${esc(a.titleEn)}</p>`:""}
+        ${a.abstractEn?`<p><strong>Abstract:</strong> ${esc(a.abstractEn)}</p>`:""}
+        ${arr(a.keywordsEn).length?`<p><strong>Keywords:</strong> ${esc(arr(a.keywordsEn).join("; "))}</p>`:""}
+      </details>`:`<span class="pending">English metadata not available in the source.</span>`}
+    </div>
+    <div class="actions">
+      ${a.doi?`<a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(a.doi)}">DOI</a>`:""}
+      ${a.url?`<a target="_blank" rel="noopener" href="${esc(a.url)}">Article page</a>`:""}
+      ${a.pdf?`<a target="_blank" rel="noopener" href="${esc(a.pdf)}">PDF</a>`:""}
+    </div>
+  </article>`;
+}
+function apply(){
+  const q=$("#q").value.trim(), pred=q?compile(q):()=>true;
+  const journal=$("#journal").value, lang=$("#language").value, type=$("#type").value;
+  const yf=Number($("#yearFrom").value||0), yt=Number($("#yearTo").value||9999), oa=$("#oa").checked;
+  state.filtered=state.articles.filter(a=>{
+    const y=Number(a.year||0);
+    return pred(text(a)) && (!journal||a.journal===journal) && (!lang||String(a.language||a.languageCode)===lang)
+      && (!type||String(a.type||"")===type) && (!yf||y>=yf) && (!yt||y<=yt) && (!oa||a.openAccess===true);
+  });
+  const sort=$("#sort").value;
+  state.filtered.sort((a,b)=>sort==="oldest"?(a.year||0)-(b.year||0):sort==="title"?String(a.title||"").localeCompare(String(b.title||"")):(b.year||0)-(a.year||0));
+  state.limit=30;render();
+}
+function render(){
+  $("#resultCount").textContent=`${state.filtered.length.toLocaleString()} results`;
+  $("#cards").innerHTML=state.filtered.slice(0,state.limit).map(renderCard).join("")||"<div class='card'>No results.</div>";
+  $("#moreBtn").hidden=state.limit>=state.filtered.length;
+}
+async function init(){
+  const [manifest,journals]=await Promise.all([fetch("./data/catalog.json").then(r=>r.json()),fetch("./data/journals.json").then(r=>r.json())]);
+  state.journals=journals;
+  const chunks=manifest.chunks||[];
+  const batches=await Promise.all(chunks.map(x=>fetch("./data/"+x).then(r=>r.json())));
+  state.articles=batches.flat();
+  $("#stats").textContent=`${state.articles.length.toLocaleString()} indexed records · ${state.journals.length} registered journals`;
+  const js=[...new Map(state.journals.map(j=>[j.id,j])).values()].sort((a,b)=>String(a.name).localeCompare(String(b.name)));
+  $("#journal").innerHTML='<option value="">All journals</option>'+js.map(j=>`<option value="${esc(j.id)}">${esc(j.name)}</option>`).join("");
+  const langs=[...new Set(state.articles.map(a=>a.language||a.languageCode).filter(Boolean))].sort();
+  $("#language").innerHTML='<option value="">All languages</option>'+langs.map(x=>`<option>${esc(x)}</option>`).join("");
+  const types=[...new Set(state.articles.map(a=>a.type).filter(Boolean))].sort();
+  $("#type").innerHTML='<option value="">All types</option>'+types.map(x=>`<option>${esc(x)}</option>`).join("");
+  state.filtered=[...state.articles];render();
+}
+$("#searchBtn").onclick=apply;$("#q").addEventListener("keydown",e=>{if(e.key==="Enter")apply()});
+["journal","language","type","yearFrom","yearTo","oa","sort"].forEach(id=>$("#"+id).addEventListener("change",apply));
+$("#clearBtn").onclick=()=>{["q","journal","language","type","yearFrom","yearTo"].forEach(id=>$("#"+id).value="");$("#oa").checked=false;apply()};
+$("#moreBtn").onclick=()=>{state.limit+=30;render()};
+$("#aboutBtn").onclick=()=>$("#about").showModal();$("#closeAbout").onclick=()=>$("#about").close();
+init().catch(e=>{$("#stats").textContent="Could not load catalogue.";console.error(e)});
